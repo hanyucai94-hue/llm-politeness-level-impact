@@ -1,6 +1,6 @@
 Politeness_Level,Prefix
 Very Friendly,Would you be so kind as to solve the following question?
 Friendly,Could you please solve this problem:
-Neutral,No prefix
+Neutral,
 Rude,I doubt you can even solve this.
-Very Rude,"You poor creature, do you even know how to solve this?"
+Very Rude,You poor creature, do you even know how to solve this?

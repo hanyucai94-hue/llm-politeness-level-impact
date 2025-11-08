@@ -1,0 +1,5002 @@
+Domain,QID,Tone,Run,Score (%),Correct,Predicted,Raw Response
+humanities,9,Very Friendly,1,100,D,D,D
+humanities,9,Friendly,1,100,D,D,D
+humanities,9,Neutral,1,100,D,D,D
+humanities,9,Rude,1,100,D,D,D
+humanities,9,Very Rude,1,100,D,D,D
+humanities,13,Very Friendly,1,100,D,D,D
+humanities,13,Friendly,1,100,D,D,D
+humanities,13,Neutral,1,100,D,D,D
+humanities,13,Rude,1,0,D,A,A
+humanities,13,Very Rude,1,100,D,D,D
+humanities,18,Very Friendly,1,100,D,D,D
+humanities,18,Friendly,1,100,D,D,D
+humanities,18,Neutral,1,100,D,D,D
+humanities,18,Rude,1,100,D,D,D
+humanities,18,Very Rude,1,100,D,D,D
+humanities,20,Very Friendly,1,100,B,B,B
+humanities,20,Friendly,1,100,B,B,B
+humanities,20,Neutral,1,100,B,B,B
+humanities,20,Rude,1,100,B,B,B
+humanities,20,Very Rude,1,100,B,B,B
+humanities,24,Very Friendly,1,100,C,C,C
+humanities,24,Friendly,1,0,C,B,B
+humanities,24,Neutral,1,100,C,C,C
+humanities,24,Rude,1,0,C,B,B
+humanities,24,Very Rude,1,0,C,A,A
+humanities,27,Very Friendly,1,100,D,D,D
+humanities,27,Friendly,1,100,D,D,D
+humanities,27,Neutral,1,100,D,D,D
+humanities,27,Rude,1,0,D,C,C
+humanities,27,Very Rude,1,100,D,D,D
+humanities,30,Very Friendly,1,100,A,A,A
+humanities,30,Friendly,1,0,A,C,C
+humanities,30,Neutral,1,0,A,C,C
+humanities,30,Rude,1,0,A,C,C
+humanities,30,Very Rude,1,100,A,A,A
+humanities,34,Very Friendly,1,100,B,B,B
+humanities,34,Friendly,1,100,B,B,B
+humanities,34,Neutral,1,100,B,B,B
+humanities,34,Rude,1,100,B,B,B
+humanities,34,Very Rude,1,100,B,B,B
+humanities,44,Very Friendly,1,0,A,C,C
+humanities,44,Friendly,1,0,A,C,C
+humanities,44,Neutral,1,0,A,C,C
+humanities,44,Rude,1,0,A,C,C
+humanities,44,Very Rude,1,0,A,C,C
+humanities,46,Very Friendly,1,100,A,A,A
+humanities,46,Friendly,1,100,A,A,A
+humanities,46,Neutral,1,100,A,A,A
+humanities,46,Rude,1,100,A,A,A
+humanities,46,Very Rude,1,100,A,A,A
+humanities,52,Very Friendly,1,0,A,C,C
+humanities,52,Friendly,1,0,A,C,C
+humanities,52,Neutral,1,0,A,C,C
+humanities,52,Rude,1,0,A,C,C
+humanities,52,Very Rude,1,0,A,C,C
+humanities,62,Very Friendly,1,100,D,D,D
+humanities,62,Friendly,1,100,D,D,D
+humanities,62,Neutral,1,100,D,D,D
+humanities,62,Rude,1,100,D,D,D
+humanities,62,Very Rude,1,100,D,D,D
+humanities,69,Very Friendly,1,100,D,D,D
+humanities,69,Friendly,1,100,D,D,D
+humanities,69,Neutral,1,100,D,D,D
+humanities,69,Rude,1,100,D,D,D
+humanities,69,Very Rude,1,100,D,D,D
+humanities,70,Very Friendly,1,0,A,D,D
+humanities,70,Friendly,1,0,A,D,D
+humanities,70,Neutral,1,0,A,D,D
+humanities,70,Rude,1,0,A,D,D
+humanities,70,Very Rude,1,0,A,D,D
+humanities,71,Very Friendly,1,100,D,D,D
+humanities,71,Friendly,1,100,D,D,D
+humanities,71,Neutral,1,100,D,D,D
+humanities,71,Rude,1,100,D,D,D
+humanities,71,Very Rude,1,100,D,D,D
+humanities,74,Very Friendly,1,100,A,A,A
+humanities,74,Friendly,1,100,A,A,A
+humanities,74,Neutral,1,100,A,A,A
+humanities,74,Rude,1,100,A,A,A
+humanities,74,Very Rude,1,100,A,A,A
+humanities,80,Very Friendly,1,100,C,C,C
+humanities,80,Friendly,1,100,C,C,C
+humanities,80,Neutral,1,100,C,C,C
+humanities,80,Rude,1,100,C,C,C
+humanities,80,Very Rude,1,100,C,C,C
+humanities,81,Very Friendly,1,100,D,D,D
+humanities,81,Friendly,1,100,D,D,D
+humanities,81,Neutral,1,100,D,D,D
+humanities,81,Rude,1,100,D,D,D
+humanities,81,Very Rude,1,100,D,D,D
+humanities,85,Very Friendly,1,100,D,D,D
+humanities,85,Friendly,1,100,D,D,D
+humanities,85,Neutral,1,0,D,A,A
+humanities,85,Rude,1,100,D,D,D
+humanities,85,Very Rude,1,100,D,D,D
+humanities,91,Very Friendly,1,0,D,C,C
+humanities,91,Friendly,1,0,D,C,C
+humanities,91,Neutral,1,0,D,C,C
+humanities,91,Rude,1,0,D,C,C
+humanities,91,Very Rude,1,0,D,C,C
+humanities,94,Very Friendly,1,100,A,A,A
+humanities,94,Friendly,1,100,A,A,A
+humanities,94,Neutral,1,100,A,A,A
+humanities,94,Rude,1,100,A,A,A
+humanities,94,Very Rude,1,100,A,A,A
+humanities,96,Very Friendly,1,100,D,D,D
+humanities,96,Friendly,1,100,D,D,D
+humanities,96,Neutral,1,0,D,C,C
+humanities,96,Rude,1,0,D,C,C
+humanities,96,Very Rude,1,0,D,C,C
+humanities,97,Very Friendly,1,0,D,C,C
+humanities,97,Friendly,1,0,D,C,C
+humanities,97,Neutral,1,0,D,C,C
+humanities,97,Rude,1,0,D,C,C
+humanities,97,Very Rude,1,0,D,C,C
+humanities,100,Very Friendly,1,100,C,C,C
+humanities,100,Friendly,1,100,C,C,C
+humanities,100,Neutral,1,100,C,C,C
+humanities,100,Rude,1,100,C,C,C
+humanities,100,Very Rude,1,100,C,C,C
+humanities,101,Very Friendly,1,100,D,D,D
+humanities,101,Friendly,1,100,D,D,D
+humanities,101,Neutral,1,100,D,D,D
+humanities,101,Rude,1,100,D,D,D
+humanities,101,Very Rude,1,100,D,D,D
+humanities,110,Very Friendly,1,100,D,D,D
+humanities,110,Friendly,1,100,D,D,D
+humanities,110,Neutral,1,100,D,D,D
+humanities,110,Rude,1,100,D,D,D
+humanities,110,Very Rude,1,100,D,D,D
+humanities,112,Very Friendly,1,100,B,B,B
+humanities,112,Friendly,1,100,B,B,B
+humanities,112,Neutral,1,100,B,B,B
+humanities,112,Rude,1,100,B,B,B
+humanities,112,Very Rude,1,100,B,B,B
+humanities,114,Very Friendly,1,100,C,C,C
+humanities,114,Friendly,1,100,C,C,C
+humanities,114,Neutral,1,100,C,C,C
+humanities,114,Rude,1,100,C,C,C
+humanities,114,Very Rude,1,100,C,C,C
+humanities,121,Very Friendly,1,100,A,A,A
+humanities,121,Friendly,1,100,A,A,A
+humanities,121,Neutral,1,100,A,A,A
+humanities,121,Rude,1,100,A,A,A
+humanities,121,Very Rude,1,100,A,A,A
+humanities,123,Very Friendly,1,0,D,C,C
+humanities,123,Friendly,1,0,D,C,C
+humanities,123,Neutral,1,0,D,C,C
+humanities,123,Rude,1,0,D,C,C
+humanities,123,Very Rude,1,0,D,C,C
+humanities,133,Very Friendly,1,100,C,C,C
+humanities,133,Friendly,1,100,C,C,C
+humanities,133,Neutral,1,100,C,C,C
+humanities,133,Rude,1,100,C,C,C
+humanities,133,Very Rude,1,100,C,C,C
+humanities,135,Very Friendly,1,100,C,C,C
+humanities,135,Friendly,1,100,C,C,C
+humanities,135,Neutral,1,100,C,C,C
+humanities,135,Rude,1,100,C,C,C
+humanities,135,Very Rude,1,100,C,C,C
+humanities,136,Very Friendly,1,100,C,C,C
+humanities,136,Friendly,1,100,C,C,C
+humanities,136,Neutral,1,100,C,C,C
+humanities,136,Rude,1,100,C,C,C
+humanities,136,Very Rude,1,100,C,C,C
+humanities,140,Very Friendly,1,0,B,A,A
+humanities,140,Friendly,1,0,B,A,A
+humanities,140,Neutral,1,0,B,A,A
+humanities,140,Rude,1,0,B,A,A
+humanities,140,Very Rude,1,0,B,A,A
+humanities,145,Very Friendly,1,0,A,B,B
+humanities,145,Friendly,1,0,A,B,B
+humanities,145,Neutral,1,0,A,B,B
+humanities,145,Rude,1,0,A,B,B
+humanities,145,Very Rude,1,0,A,B,B
+humanities,150,Very Friendly,1,100,B,B,B
+humanities,150,Friendly,1,100,B,B,B
+humanities,150,Neutral,1,100,B,B,B
+humanities,150,Rude,1,100,B,B,B
+humanities,150,Very Rude,1,100,B,B,B
+humanities,151,Very Friendly,1,100,D,D,D
+humanities,151,Friendly,1,100,D,D,D
+humanities,151,Neutral,1,100,D,D,D
+humanities,151,Rude,1,100,D,D,D
+humanities,151,Very Rude,1,100,D,D,D
+humanities,152,Very Friendly,1,100,B,B,B
+humanities,152,Friendly,1,100,B,B,B
+humanities,152,Neutral,1,100,B,B,B
+humanities,152,Rude,1,100,B,B,B
+humanities,152,Very Rude,1,100,B,B,B
+humanities,153,Very Friendly,1,100,D,D,D
+humanities,153,Friendly,1,100,D,D,D
+humanities,153,Neutral,1,100,D,D,D
+humanities,153,Rude,1,100,D,D,D
+humanities,153,Very Rude,1,100,D,D,D
+humanities,158,Very Friendly,1,100,D,D,D
+humanities,158,Friendly,1,100,D,D,D
+humanities,158,Neutral,1,100,D,D,D
+humanities,158,Rude,1,100,D,D,D
+humanities,158,Very Rude,1,100,D,D,D
+humanities,167,Very Friendly,1,100,A,A,A
+humanities,167,Friendly,1,100,A,A,A
+humanities,167,Neutral,1,100,A,A,A
+humanities,167,Rude,1,100,A,A,A
+humanities,167,Very Rude,1,100,A,A,A
+humanities,169,Very Friendly,1,100,C,C,C
+humanities,169,Friendly,1,100,C,C,C
+humanities,169,Neutral,1,100,C,C,C
+humanities,169,Rude,1,100,C,C,C
+humanities,169,Very Rude,1,100,C,C,C
+humanities,176,Very Friendly,1,0,A,C,C
+humanities,176,Friendly,1,0,A,C,C
+humanities,176,Neutral,1,0,A,C,C
+humanities,176,Rude,1,0,A,C,C
+humanities,176,Very Rude,1,0,A,C,C
+humanities,178,Very Friendly,1,100,A,A,A
+humanities,178,Friendly,1,100,A,A,A
+humanities,178,Neutral,1,100,A,A,A
+humanities,178,Rude,1,100,A,A,A
+humanities,178,Very Rude,1,100,A,A,A
+humanities,180,Very Friendly,1,100,D,D,D
+humanities,180,Friendly,1,100,D,D,D
+humanities,180,Neutral,1,100,D,D,D
+humanities,180,Rude,1,100,D,D,D
+humanities,180,Very Rude,1,100,D,D,D
+humanities,181,Very Friendly,1,100,B,B,B
+humanities,181,Friendly,1,100,B,B,B
+humanities,181,Neutral,1,100,B,B,B
+humanities,181,Rude,1,100,B,B,B
+humanities,181,Very Rude,1,100,B,B,B
+humanities,185,Very Friendly,1,100,D,D,D
+humanities,185,Friendly,1,100,D,D,D
+humanities,185,Neutral,1,100,D,D,D
+humanities,185,Rude,1,100,D,D,D
+humanities,185,Very Rude,1,100,D,D,D
+humanities,189,Very Friendly,1,100,B,B,B
+humanities,189,Friendly,1,100,B,B,B
+humanities,189,Neutral,1,100,B,B,B
+humanities,189,Rude,1,100,B,B,B
+humanities,189,Very Rude,1,100,B,B,B
+humanities,192,Very Friendly,1,100,C,C,C
+humanities,192,Friendly,1,100,C,C,C
+humanities,192,Neutral,1,100,C,C,C
+humanities,192,Rude,1,100,C,C,C
+humanities,192,Very Rude,1,100,C,C,C
+humanities,193,Very Friendly,1,100,C,C,C
+humanities,193,Friendly,1,100,C,C,C
+humanities,193,Neutral,1,100,C,C,C
+humanities,193,Rude,1,100,C,C,C
+humanities,193,Very Rude,1,100,C,C,C
+humanities,197,Very Friendly,1,100,D,D,D
+humanities,197,Friendly,1,100,D,D,D
+humanities,197,Neutral,1,100,D,D,D
+humanities,197,Rude,1,100,D,D,D
+humanities,197,Very Rude,1,100,D,D,D
+humanities,200,Very Friendly,1,100,C,C,C
+humanities,200,Friendly,1,100,C,C,C
+humanities,200,Neutral,1,100,C,C,C
+humanities,200,Rude,1,100,C,C,C
+humanities,200,Very Rude,1,100,C,C,C
+humanities,204,Very Friendly,1,0,A,D,D
+humanities,204,Friendly,1,100,A,A,A
+humanities,204,Neutral,1,0,A,D,D
+humanities,204,Rude,1,100,A,A,A
+humanities,204,Very Rude,1,100,A,A,A
+humanities,206,Very Friendly,1,100,B,B,B
+humanities,206,Friendly,1,100,B,B,B
+humanities,206,Neutral,1,100,B,B,B
+humanities,206,Rude,1,100,B,B,B
+humanities,206,Very Rude,1,100,B,B,B
+humanities,212,Very Friendly,1,100,A,A,A
+humanities,212,Friendly,1,100,A,A,A
+humanities,212,Neutral,1,100,A,A,A
+humanities,212,Rude,1,100,A,A,A
+humanities,212,Very Rude,1,100,A,A,A
+humanities,215,Very Friendly,1,100,C,C,C
+humanities,215,Friendly,1,100,C,C,C
+humanities,215,Neutral,1,100,C,C,C
+humanities,215,Rude,1,100,C,C,C
+humanities,215,Very Rude,1,100,C,C,C
+humanities,221,Very Friendly,1,100,C,C,C
+humanities,221,Friendly,1,100,C,C,C
+humanities,221,Neutral,1,100,C,C,C
+humanities,221,Rude,1,100,C,C,C
+humanities,221,Very Rude,1,100,C,C,C
+humanities,228,Very Friendly,1,100,D,D,D
+humanities,228,Friendly,1,100,D,D,D
+humanities,228,Neutral,1,100,D,D,D
+humanities,228,Rude,1,100,D,D,D
+humanities,228,Very Rude,1,100,D,D,D
+humanities,231,Very Friendly,1,0,B,D,D
+humanities,231,Friendly,1,0,B,D,D
+humanities,231,Neutral,1,0,B,D,D
+humanities,231,Rude,1,0,B,D,D
+humanities,231,Very Rude,1,0,B,D,D
+humanities,234,Very Friendly,1,100,A,A,A
+humanities,234,Friendly,1,100,A,A,A
+humanities,234,Neutral,1,100,A,A,A
+humanities,234,Rude,1,100,A,A,A
+humanities,234,Very Rude,1,100,A,A,A
+humanities,239,Very Friendly,1,100,A,A,A
+humanities,239,Friendly,1,100,A,A,A
+humanities,239,Neutral,1,100,A,A,A
+humanities,239,Rude,1,100,A,A,A
+humanities,239,Very Rude,1,100,A,A,A
+humanities,240,Very Friendly,1,100,D,D,D
+humanities,240,Friendly,1,100,D,D,D
+humanities,240,Neutral,1,100,D,D,D
+humanities,240,Rude,1,100,D,D,D
+humanities,240,Very Rude,1,100,D,D,D
+humanities,241,Very Friendly,1,100,B,B,B
+humanities,241,Friendly,1,100,B,B,B
+humanities,241,Neutral,1,100,B,B,B
+humanities,241,Rude,1,100,B,B,B
+humanities,241,Very Rude,1,100,B,B,B
+humanities,249,Very Friendly,1,100,B,B,B
+humanities,249,Friendly,1,100,B,B,B
+humanities,249,Neutral,1,100,B,B,B
+humanities,249,Rude,1,100,B,B,B
+humanities,249,Very Rude,1,100,B,B,B
+humanities,252,Very Friendly,1,100,C,C,C
+humanities,252,Friendly,1,100,C,C,C
+humanities,252,Neutral,1,100,C,C,C
+humanities,252,Rude,1,100,C,C,C
+humanities,252,Very Rude,1,100,C,C,C
+humanities,253,Very Friendly,1,100,B,B,B
+humanities,253,Friendly,1,100,B,B,B
+humanities,253,Neutral,1,100,B,B,B
+humanities,253,Rude,1,100,B,B,B
+humanities,253,Very Rude,1,100,B,B,B
+humanities,255,Very Friendly,1,100,B,B,B
+humanities,255,Friendly,1,100,B,B,B
+humanities,255,Neutral,1,100,B,B,B
+humanities,255,Rude,1,100,B,B,B
+humanities,255,Very Rude,1,100,B,B,B
+humanities,271,Very Friendly,1,100,B,B,B
+humanities,271,Friendly,1,100,B,B,B
+humanities,271,Neutral,1,100,B,B,B
+humanities,271,Rude,1,100,B,B,B
+humanities,271,Very Rude,1,100,B,B,B
+humanities,275,Very Friendly,1,100,C,C,C
+humanities,275,Friendly,1,100,C,C,C
+humanities,275,Neutral,1,100,C,C,C
+humanities,275,Rude,1,100,C,C,C
+humanities,275,Very Rude,1,100,C,C,C
+humanities,280,Very Friendly,1,100,D,D,D
+humanities,280,Friendly,1,100,D,D,D
+humanities,280,Neutral,1,100,D,D,D
+humanities,280,Rude,1,100,D,D,D
+humanities,280,Very Rude,1,100,D,D,D
+humanities,288,Very Friendly,1,100,A,A,A
+humanities,288,Friendly,1,100,A,A,A
+humanities,288,Neutral,1,100,A,A,A
+humanities,288,Rude,1,100,A,A,A
+humanities,288,Very Rude,1,100,A,A,A
+humanities,290,Very Friendly,1,100,C,C,C
+humanities,290,Friendly,1,100,C,C,C
+humanities,290,Neutral,1,100,C,C,C
+humanities,290,Rude,1,100,C,C,C
+humanities,290,Very Rude,1,100,C,C,C
+humanities,291,Very Friendly,1,0,C,B,B
+humanities,291,Friendly,1,0,C,B,B
+humanities,291,Neutral,1,0,C,B,B
+humanities,291,Rude,1,0,C,B,B
+humanities,291,Very Rude,1,0,C,B,B
+humanities,292,Very Friendly,1,100,D,D,D
+humanities,292,Friendly,1,100,D,D,D
+humanities,292,Neutral,1,100,D,D,D
+humanities,292,Rude,1,100,D,D,D
+humanities,292,Very Rude,1,100,D,D,D
+humanities,297,Very Friendly,1,100,A,A,A
+humanities,297,Friendly,1,100,A,A,A
+humanities,297,Neutral,1,100,A,A,A
+humanities,297,Rude,1,100,A,A,A
+humanities,297,Very Rude,1,100,A,A,A
+humanities,298,Very Friendly,1,0,B,A,A
+humanities,298,Friendly,1,0,B,A,A
+humanities,298,Neutral,1,0,B,A,A
+humanities,298,Rude,1,0,B,A,A
+humanities,298,Very Rude,1,0,B,A,A
+humanities,299,Very Friendly,1,100,A,A,A
+humanities,299,Friendly,1,100,A,A,A
+humanities,299,Neutral,1,100,A,A,A
+humanities,299,Rude,1,100,A,A,A
+humanities,299,Very Rude,1,100,A,A,A
+humanities,306,Very Friendly,1,100,B,B,B
+humanities,306,Friendly,1,100,B,B,B
+humanities,306,Neutral,1,100,B,B,B
+humanities,306,Rude,1,100,B,B,B
+humanities,306,Very Rude,1,100,B,B,B
+humanities,309,Very Friendly,1,100,B,B,B
+humanities,309,Friendly,1,100,B,B,B
+humanities,309,Neutral,1,100,B,B,B
+humanities,309,Rude,1,100,B,B,B
+humanities,309,Very Rude,1,100,B,B,B
+humanities,310,Very Friendly,1,100,C,C,C
+humanities,310,Friendly,1,100,C,C,C
+humanities,310,Neutral,1,100,C,C,C
+humanities,310,Rude,1,100,C,C,C
+humanities,310,Very Rude,1,100,C,C,C
+humanities,315,Very Friendly,1,100,B,B,B
+humanities,315,Friendly,1,100,B,B,B
+humanities,315,Neutral,1,100,B,B,B
+humanities,315,Rude,1,100,B,B,B
+humanities,315,Very Rude,1,100,B,B,B
+humanities,316,Very Friendly,1,100,D,D,D
+humanities,316,Friendly,1,100,D,D,D
+humanities,316,Neutral,1,100,D,D,D
+humanities,316,Rude,1,100,D,D,D
+humanities,316,Very Rude,1,100,D,D,D
+humanities,319,Very Friendly,1,100,A,A,A
+humanities,319,Friendly,1,100,A,A,A
+humanities,319,Neutral,1,100,A,A,A
+humanities,319,Rude,1,0,A,D,"D is not correct, the correct answer is A. 
+A"
+humanities,319,Very Rude,1,100,A,A,A
+humanities,323,Very Friendly,1,100,C,C,C
+humanities,323,Friendly,1,100,C,C,C
+humanities,323,Neutral,1,100,C,C,C
+humanities,323,Rude,1,100,C,C,C
+humanities,323,Very Rude,1,100,C,C,C
+humanities,333,Very Friendly,1,100,D,D,D
+humanities,333,Friendly,1,100,D,D,D
+humanities,333,Neutral,1,100,D,D,D
+humanities,333,Rude,1,100,D,D,D
+humanities,333,Very Rude,1,100,D,D,D
+humanities,351,Very Friendly,1,100,C,C,C
+humanities,351,Friendly,1,100,C,C,C
+humanities,351,Neutral,1,100,C,C,C
+humanities,351,Rude,1,100,C,C,C
+humanities,351,Very Rude,1,100,C,C,C
+humanities,352,Very Friendly,1,0,A,C,C
+humanities,352,Friendly,1,0,A,C,C
+humanities,352,Neutral,1,0,A,C,C
+humanities,352,Rude,1,0,A,C,C
+humanities,352,Very Rude,1,0,A,C,C
+humanities,355,Very Friendly,1,100,A,A,A
+humanities,355,Friendly,1,100,A,A,A
+humanities,355,Neutral,1,100,A,A,A
+humanities,355,Rude,1,100,A,A,A
+humanities,355,Very Rude,1,100,A,A,A
+humanities,357,Very Friendly,1,100,B,B,B
+humanities,357,Friendly,1,100,B,B,B
+humanities,357,Neutral,1,100,B,B,B
+humanities,357,Rude,1,100,B,B,B
+humanities,357,Very Rude,1,100,B,B,B
+humanities,367,Very Friendly,1,100,A,A,A
+humanities,367,Friendly,1,100,A,A,A
+humanities,367,Neutral,1,100,A,A,A
+humanities,367,Rude,1,100,A,A,A
+humanities,367,Very Rude,1,100,A,A,A
+humanities,368,Very Friendly,1,100,B,B,B
+humanities,368,Friendly,1,100,B,B,B
+humanities,368,Neutral,1,100,B,B,B
+humanities,368,Rude,1,100,B,B,B
+humanities,368,Very Rude,1,100,B,B,B
+humanities,372,Very Friendly,1,100,C,C,C
+humanities,372,Friendly,1,100,C,C,C
+humanities,372,Neutral,1,100,C,C,C
+humanities,372,Rude,1,100,C,C,C
+humanities,372,Very Rude,1,100,C,C,C
+humanities,374,Very Friendly,1,100,D,D,D
+humanities,374,Friendly,1,100,D,D,D
+humanities,374,Neutral,1,100,D,D,D
+humanities,374,Rude,1,100,D,D,D
+humanities,374,Very Rude,1,100,D,D,D
+humanities,377,Very Friendly,1,100,C,C,C
+humanities,377,Friendly,1,100,C,C,C
+humanities,377,Neutral,1,100,C,C,C
+humanities,377,Rude,1,100,C,C,C
+humanities,377,Very Rude,1,100,C,C,C
+humanities,388,Very Friendly,1,100,D,D,D
+humanities,388,Friendly,1,100,D,D,D
+humanities,388,Neutral,1,100,D,D,D
+humanities,388,Rude,1,100,D,D,D
+humanities,388,Very Rude,1,100,D,D,D
+humanities,394,Very Friendly,1,100,C,C,C
+humanities,394,Friendly,1,100,C,C,C
+humanities,394,Neutral,1,100,C,C,C
+humanities,394,Rude,1,100,C,C,C
+humanities,394,Very Rude,1,100,C,C,C
+humanities,403,Very Friendly,1,100,B,B,B
+humanities,403,Friendly,1,100,B,B,B
+humanities,403,Neutral,1,100,B,B,B
+humanities,403,Rude,1,100,B,B,B
+humanities,403,Very Rude,1,100,B,B,B
+humanities,411,Very Friendly,1,100,A,A,A
+humanities,411,Friendly,1,100,A,A,A
+humanities,411,Neutral,1,100,A,A,A
+humanities,411,Rude,1,100,A,A,A
+humanities,411,Very Rude,1,100,A,A,A
+humanities,415,Very Friendly,1,100,C,C,C
+humanities,415,Friendly,1,100,C,C,C
+humanities,415,Neutral,1,100,C,C,C
+humanities,415,Rude,1,100,C,C,C
+humanities,415,Very Rude,1,100,C,C,C
+humanities,416,Very Friendly,1,100,C,C,C
+humanities,416,Friendly,1,100,C,C,C
+humanities,416,Neutral,1,100,C,C,C
+humanities,416,Rude,1,100,C,C,C
+humanities,416,Very Rude,1,100,C,C,C
+humanities,417,Very Friendly,1,100,D,D,D
+humanities,417,Friendly,1,100,D,D,D
+humanities,417,Neutral,1,100,D,D,D
+humanities,417,Rude,1,100,D,D,D
+humanities,417,Very Rude,1,100,D,D,D
+humanities,427,Very Friendly,1,0,C,A,A
+humanities,427,Friendly,1,0,C,A,A
+humanities,427,Neutral,1,0,C,A,A
+humanities,427,Rude,1,0,C,A,A
+humanities,427,Very Rude,1,0,C,A,A
+humanities,430,Very Friendly,1,100,C,C,C
+humanities,430,Friendly,1,100,C,C,C
+humanities,430,Neutral,1,100,C,C,C
+humanities,430,Rude,1,100,C,C,C
+humanities,430,Very Rude,1,100,C,C,C
+humanities,433,Very Friendly,1,0,A,D,D
+humanities,433,Friendly,1,0,A,D,D
+humanities,433,Neutral,1,0,A,D,D
+humanities,433,Rude,1,0,A,D,D
+humanities,433,Very Rude,1,0,A,D,D
+humanities,439,Very Friendly,1,100,C,C,C
+humanities,439,Friendly,1,100,C,C,C
+humanities,439,Neutral,1,100,C,C,C
+humanities,439,Rude,1,100,C,C,C
+humanities,439,Very Rude,1,100,C,C,C
+humanities,444,Very Friendly,1,100,B,B,B
+humanities,444,Friendly,1,100,B,B,B
+humanities,444,Neutral,1,100,B,B,B
+humanities,444,Rude,1,100,B,B,B
+humanities,444,Very Rude,1,100,B,B,B
+humanities,451,Very Friendly,1,100,B,B,B
+humanities,451,Friendly,1,100,B,B,B
+humanities,451,Neutral,1,100,B,B,B
+humanities,451,Rude,1,100,B,B,B
+humanities,451,Very Rude,1,100,B,B,B
+humanities,458,Very Friendly,1,100,C,C,C
+humanities,458,Friendly,1,100,C,C,C
+humanities,458,Neutral,1,100,C,C,C
+humanities,458,Rude,1,100,C,C,C
+humanities,458,Very Rude,1,100,C,C,C
+humanities,462,Very Friendly,1,100,B,B,B
+humanities,462,Friendly,1,100,B,B,B
+humanities,462,Neutral,1,100,B,B,B
+humanities,462,Rude,1,100,B,B,B
+humanities,462,Very Rude,1,100,B,B,B
+humanities,464,Very Friendly,1,100,D,D,D
+humanities,464,Friendly,1,100,D,D,D
+humanities,464,Neutral,1,100,D,D,D
+humanities,464,Rude,1,100,D,D,D
+humanities,464,Very Rude,1,100,D,D,D
+humanities,466,Very Friendly,1,100,D,D,D
+humanities,466,Friendly,1,100,D,D,D
+humanities,466,Neutral,1,100,D,D,D
+humanities,466,Rude,1,100,D,D,D
+humanities,466,Very Rude,1,100,D,D,D
+humanities,469,Very Friendly,1,100,A,A,A
+humanities,469,Friendly,1,100,A,A,A
+humanities,469,Neutral,1,100,A,A,A
+humanities,469,Rude,1,100,A,A,A
+humanities,469,Very Rude,1,100,A,A,A
+humanities,472,Very Friendly,1,100,D,D,D
+humanities,472,Friendly,1,100,D,D,D
+humanities,472,Neutral,1,100,D,D,D
+humanities,472,Rude,1,100,D,D,D
+humanities,472,Very Rude,1,100,D,D,D
+humanities,473,Very Friendly,1,100,B,B,B
+humanities,473,Friendly,1,100,B,B,B
+humanities,473,Neutral,1,100,B,B,B
+humanities,473,Rude,1,100,B,B,B
+humanities,473,Very Rude,1,100,B,B,B
+humanities,479,Very Friendly,1,100,D,D,D
+humanities,479,Friendly,1,100,D,D,D
+humanities,479,Neutral,1,100,D,D,D
+humanities,479,Rude,1,100,D,D,D
+humanities,479,Very Rude,1,100,D,D,D
+humanities,487,Very Friendly,1,100,C,C,C
+humanities,487,Friendly,1,100,C,C,C
+humanities,487,Neutral,1,100,C,C,C
+humanities,487,Rude,1,100,C,C,C
+humanities,487,Very Rude,1,100,C,C,C
+humanities,495,Very Friendly,1,100,C,C,C
+humanities,495,Friendly,1,100,C,C,C
+humanities,495,Neutral,1,100,C,C,C
+humanities,495,Rude,1,100,C,C,C
+humanities,495,Very Rude,1,100,C,C,C
+humanities,496,Very Friendly,1,100,A,A,A
+humanities,496,Friendly,1,100,A,A,A
+humanities,496,Neutral,1,100,A,A,A
+humanities,496,Rude,1,100,A,A,A
+humanities,496,Very Rude,1,100,A,A,A
+humanities,498,Very Friendly,1,100,D,D,D
+humanities,498,Friendly,1,100,D,D,D
+humanities,498,Neutral,1,100,D,D,D
+humanities,498,Rude,1,100,D,D,D
+humanities,498,Very Rude,1,100,D,D,D
+humanities,502,Very Friendly,1,100,A,A,A
+humanities,502,Friendly,1,100,A,A,A
+humanities,502,Neutral,1,100,A,A,A
+humanities,502,Rude,1,100,A,A,A
+humanities,502,Very Rude,1,100,A,A,A
+humanities,506,Very Friendly,1,100,B,B,B
+humanities,506,Friendly,1,100,B,B,B
+humanities,506,Neutral,1,100,B,B,B
+humanities,506,Rude,1,100,B,B,B
+humanities,506,Very Rude,1,100,B,B,B
+humanities,512,Very Friendly,1,100,A,A,A
+humanities,512,Friendly,1,100,A,A,A
+humanities,512,Neutral,1,100,A,A,A
+humanities,512,Rude,1,100,A,A,A
+humanities,512,Very Rude,1,100,A,A,A
+humanities,528,Very Friendly,1,100,B,B,B
+humanities,528,Friendly,1,100,B,B,B
+humanities,528,Neutral,1,100,B,B,B
+humanities,528,Rude,1,100,B,B,B
+humanities,528,Very Rude,1,100,B,B,B
+humanities,531,Very Friendly,1,100,B,B,B
+humanities,531,Friendly,1,100,B,B,B
+humanities,531,Neutral,1,100,B,B,B
+humanities,531,Rude,1,100,B,B,B
+humanities,531,Very Rude,1,100,B,B,B
+humanities,534,Very Friendly,1,100,D,D,D
+humanities,534,Friendly,1,100,D,D,D
+humanities,534,Neutral,1,100,D,D,D
+humanities,534,Rude,1,100,D,D,D
+humanities,534,Very Rude,1,100,D,D,D
+humanities,535,Very Friendly,1,100,D,D,D
+humanities,535,Friendly,1,100,D,D,D
+humanities,535,Neutral,1,100,D,D,D
+humanities,535,Rude,1,100,D,D,D
+humanities,535,Very Rude,1,100,D,D,D
+humanities,536,Very Friendly,1,100,C,C,C
+humanities,536,Friendly,1,100,C,C,C
+humanities,536,Neutral,1,100,C,C,C
+humanities,536,Rude,1,100,C,C,C
+humanities,536,Very Rude,1,100,C,C,C
+humanities,539,Very Friendly,1,100,D,D,D
+humanities,539,Friendly,1,100,D,D,D
+humanities,539,Neutral,1,100,D,D,D
+humanities,539,Rude,1,100,D,D,D
+humanities,539,Very Rude,1,100,D,D,D
+humanities,545,Very Friendly,1,100,C,C,C
+humanities,545,Friendly,1,100,C,C,C
+humanities,545,Neutral,1,100,C,C,C
+humanities,545,Rude,1,100,C,C,C
+humanities,545,Very Rude,1,100,C,C,C
+humanities,552,Very Friendly,1,100,B,B,B
+humanities,552,Friendly,1,100,B,B,B
+humanities,552,Neutral,1,100,B,B,B
+humanities,552,Rude,1,100,B,B,B
+humanities,552,Very Rude,1,100,B,B,B
+humanities,556,Very Friendly,1,0,A,B,B
+humanities,556,Friendly,1,0,A,B,B
+humanities,556,Neutral,1,0,A,B,B
+humanities,556,Rude,1,0,A,B,B
+humanities,556,Very Rude,1,0,A,B,B
+humanities,562,Very Friendly,1,100,A,A,A
+humanities,562,Friendly,1,100,A,A,A
+humanities,562,Neutral,1,100,A,A,A
+humanities,562,Rude,1,100,A,A,A
+humanities,562,Very Rude,1,100,A,A,A
+humanities,566,Very Friendly,1,100,D,D,D
+humanities,566,Friendly,1,100,D,D,D
+humanities,566,Neutral,1,100,D,D,D
+humanities,566,Rude,1,100,D,D,D
+humanities,566,Very Rude,1,100,D,D,D
+humanities,568,Very Friendly,1,0,D,B,B
+humanities,568,Friendly,1,0,D,B,B
+humanities,568,Neutral,1,0,D,B,B
+humanities,568,Rude,1,0,D,B,B
+humanities,568,Very Rude,1,0,D,B,B
+humanities,569,Very Friendly,1,100,A,A,A
+humanities,569,Friendly,1,100,A,A,A
+humanities,569,Neutral,1,100,A,A,A
+humanities,569,Rude,1,100,A,A,A
+humanities,569,Very Rude,1,100,A,A,A
+humanities,578,Very Friendly,1,100,A,A,A
+humanities,578,Friendly,1,100,A,A,A
+humanities,578,Neutral,1,100,A,A,A
+humanities,578,Rude,1,100,A,A,A
+humanities,578,Very Rude,1,100,A,A,A
+humanities,583,Very Friendly,1,100,A,A,A
+humanities,583,Friendly,1,100,A,A,A
+humanities,583,Neutral,1,100,A,A,A
+humanities,583,Rude,1,100,A,A,A
+humanities,583,Very Rude,1,100,A,A,A
+humanities,585,Very Friendly,1,100,B,B,B
+humanities,585,Friendly,1,100,B,B,B
+humanities,585,Neutral,1,100,B,B,B
+humanities,585,Rude,1,100,B,B,B
+humanities,585,Very Rude,1,100,B,B,B
+humanities,587,Very Friendly,1,100,C,C,C
+humanities,587,Friendly,1,100,C,C,C
+humanities,587,Neutral,1,100,C,C,C
+humanities,587,Rude,1,100,C,C,C
+humanities,587,Very Rude,1,100,C,C,C
+humanities,595,Very Friendly,1,100,D,D,D
+humanities,595,Friendly,1,100,D,D,D
+humanities,595,Neutral,1,100,D,D,D
+humanities,595,Rude,1,100,D,D,D
+humanities,595,Very Rude,1,100,D,D,D
+humanities,597,Very Friendly,1,100,C,C,C
+humanities,597,Friendly,1,100,C,C,C
+humanities,597,Neutral,1,100,C,C,C
+humanities,597,Rude,1,100,C,C,C
+humanities,597,Very Rude,1,100,C,C,C
+humanities,599,Very Friendly,1,100,C,C,C
+humanities,599,Friendly,1,100,C,C,C
+humanities,599,Neutral,1,100,C,C,C
+humanities,599,Rude,1,100,C,C,C
+humanities,599,Very Rude,1,100,C,C,C
+humanities,600,Very Friendly,1,100,C,C,C
+humanities,600,Friendly,1,100,C,C,C
+humanities,600,Neutral,1,100,C,C,C
+humanities,600,Rude,1,100,C,C,C
+humanities,600,Very Rude,1,100,C,C,C
+humanities,603,Very Friendly,1,100,A,A,A
+humanities,603,Friendly,1,100,A,A,A
+humanities,603,Neutral,1,100,A,A,A
+humanities,603,Rude,1,100,A,A,A
+humanities,603,Very Rude,1,100,A,A,A
+humanities,606,Very Friendly,1,100,B,B,B
+humanities,606,Friendly,1,100,B,B,B
+humanities,606,Neutral,1,100,B,B,B
+humanities,606,Rude,1,100,B,B,B
+humanities,606,Very Rude,1,100,B,B,B
+humanities,619,Very Friendly,1,100,C,C,C
+humanities,619,Friendly,1,100,C,C,C
+humanities,619,Neutral,1,100,C,C,C
+humanities,619,Rude,1,100,C,C,C
+humanities,619,Very Rude,1,100,C,C,C
+humanities,622,Very Friendly,1,100,B,B,B
+humanities,622,Friendly,1,100,B,B,B
+humanities,622,Neutral,1,0,B,A,A
+humanities,622,Rude,1,100,B,B,B
+humanities,622,Very Rude,1,0,B,A,A
+humanities,626,Very Friendly,1,100,C,C,C
+humanities,626,Friendly,1,100,C,C,C
+humanities,626,Neutral,1,100,C,C,C
+humanities,626,Rude,1,100,C,C,C
+humanities,626,Very Rude,1,100,C,C,C
+humanities,627,Very Friendly,1,100,A,A,A
+humanities,627,Friendly,1,100,A,A,A
+humanities,627,Neutral,1,100,A,A,A
+humanities,627,Rude,1,100,A,A,A
+humanities,627,Very Rude,1,100,A,A,A
+humanities,634,Very Friendly,1,100,C,C,C
+humanities,634,Friendly,1,100,C,C,C
+humanities,634,Neutral,1,100,C,C,C
+humanities,634,Rude,1,100,C,C,C
+humanities,634,Very Rude,1,100,C,C,C
+humanities,643,Very Friendly,1,100,C,C,C
+humanities,643,Friendly,1,100,C,C,C
+humanities,643,Neutral,1,100,C,C,C
+humanities,643,Rude,1,100,C,C,C
+humanities,643,Very Rude,1,100,C,C,C
+humanities,651,Very Friendly,1,100,B,B,B
+humanities,651,Friendly,1,100,B,B,B
+humanities,651,Neutral,1,100,B,B,B
+humanities,651,Rude,1,100,B,B,B
+humanities,651,Very Rude,1,100,B,B,B
+humanities,656,Very Friendly,1,100,A,A,A
+humanities,656,Friendly,1,100,A,A,A
+humanities,656,Neutral,1,100,A,A,A
+humanities,656,Rude,1,100,A,A,A
+humanities,656,Very Rude,1,100,A,A,A
+humanities,658,Very Friendly,1,100,B,B,B
+humanities,658,Friendly,1,100,B,B,B
+humanities,658,Neutral,1,100,B,B,B
+humanities,658,Rude,1,100,B,B,B
+humanities,658,Very Rude,1,100,B,B,B
+humanities,669,Very Friendly,1,100,B,B,B
+humanities,669,Friendly,1,100,B,B,B
+humanities,669,Neutral,1,100,B,B,B
+humanities,669,Rude,1,100,B,B,B
+humanities,669,Very Rude,1,100,B,B,B
+humanities,671,Very Friendly,1,100,C,C,C
+humanities,671,Friendly,1,100,C,C,C
+humanities,671,Neutral,1,100,C,C,C
+humanities,671,Rude,1,100,C,C,C
+humanities,671,Very Rude,1,100,C,C,C
+humanities,677,Very Friendly,1,100,C,C,C
+humanities,677,Friendly,1,100,C,C,C
+humanities,677,Neutral,1,100,C,C,C
+humanities,677,Rude,1,100,C,C,C
+humanities,677,Very Rude,1,100,C,C,C
+humanities,678,Very Friendly,1,100,C,C,C
+humanities,678,Friendly,1,100,C,C,C
+humanities,678,Neutral,1,100,C,C,C
+humanities,678,Rude,1,100,C,C,C
+humanities,678,Very Rude,1,100,C,C,C
+humanities,681,Very Friendly,1,100,D,D,D
+humanities,681,Friendly,1,100,D,D,D
+humanities,681,Neutral,1,100,D,D,D
+humanities,681,Rude,1,100,D,D,D
+humanities,681,Very Rude,1,100,D,D,D
+humanities,684,Very Friendly,1,100,B,B,B
+humanities,684,Friendly,1,100,B,B,B
+humanities,684,Neutral,1,0,B,A,A
+humanities,684,Rude,1,100,B,B,B
+humanities,684,Very Rude,1,0,B,A,A
+humanities,692,Very Friendly,1,100,D,D,D
+humanities,692,Friendly,1,100,D,D,D
+humanities,692,Neutral,1,100,D,D,D
+humanities,692,Rude,1,100,D,D,D
+humanities,692,Very Rude,1,100,D,D,D
+humanities,694,Very Friendly,1,100,B,B,B
+humanities,694,Friendly,1,100,B,B,B
+humanities,694,Neutral,1,100,B,B,B
+humanities,694,Rude,1,100,B,B,B
+humanities,694,Very Rude,1,100,B,B,B
+humanities,706,Very Friendly,1,100,C,C,C
+humanities,706,Friendly,1,100,C,C,C
+humanities,706,Neutral,1,100,C,C,C
+humanities,706,Rude,1,100,C,C,C
+humanities,706,Very Rude,1,100,C,C,C
+humanities,719,Very Friendly,1,100,A,A,A
+humanities,719,Friendly,1,100,A,A,A
+humanities,719,Neutral,1,100,A,A,A
+humanities,719,Rude,1,100,A,A,A
+humanities,719,Very Rude,1,100,A,A,A
+humanities,721,Very Friendly,1,100,B,B,B
+humanities,721,Friendly,1,100,B,B,B
+humanities,721,Neutral,1,100,B,B,B
+humanities,721,Rude,1,100,B,B,B
+humanities,721,Very Rude,1,100,B,B,B
+humanities,722,Very Friendly,1,100,B,B,B
+humanities,722,Friendly,1,100,B,B,B
+humanities,722,Neutral,1,100,B,B,B
+humanities,722,Rude,1,100,B,B,B
+humanities,722,Very Rude,1,100,B,B,B
+humanities,732,Very Friendly,1,100,C,C,C
+humanities,732,Friendly,1,100,C,C,C
+humanities,732,Neutral,1,100,C,C,C
+humanities,732,Rude,1,100,C,C,C
+humanities,732,Very Rude,1,100,C,C,C
+humanities,735,Very Friendly,1,100,C,C,C
+humanities,735,Friendly,1,100,C,C,C
+humanities,735,Neutral,1,100,C,C,C
+humanities,735,Rude,1,100,C,C,C
+humanities,735,Very Rude,1,100,C,C,C
+humanities,743,Very Friendly,1,100,C,C,C
+humanities,743,Friendly,1,100,C,C,C
+humanities,743,Neutral,1,100,C,C,C
+humanities,743,Rude,1,100,C,C,C
+humanities,743,Very Rude,1,100,C,C,C
+humanities,747,Very Friendly,1,0,C,D,D
+humanities,747,Friendly,1,0,C,D,D
+humanities,747,Neutral,1,0,C,D,D
+humanities,747,Rude,1,0,C,D,D
+humanities,747,Very Rude,1,0,C,D,D
+humanities,752,Very Friendly,1,0,D,A,A
+humanities,752,Friendly,1,0,D,A,A
+humanities,752,Neutral,1,0,D,A,A
+humanities,752,Rude,1,0,D,B,B
+humanities,752,Very Rude,1,0,D,A,A
+humanities,757,Very Friendly,1,100,C,C,C
+humanities,757,Friendly,1,100,C,C,C
+humanities,757,Neutral,1,100,C,C,C
+humanities,757,Rude,1,100,C,C,C
+humanities,757,Very Rude,1,100,C,C,C
+humanities,760,Very Friendly,1,100,C,C,C
+humanities,760,Friendly,1,100,C,C,C
+humanities,760,Neutral,1,100,C,C,C
+humanities,760,Rude,1,100,C,C,C
+humanities,760,Very Rude,1,100,C,C,C
+humanities,764,Very Friendly,1,0,C,B,B
+humanities,764,Friendly,1,0,C,B,B
+humanities,764,Neutral,1,0,C,B,B
+humanities,764,Rude,1,0,C,B,B
+humanities,764,Very Rude,1,0,C,B,B
+humanities,765,Very Friendly,1,100,C,C,C
+humanities,765,Friendly,1,100,C,C,C
+humanities,765,Neutral,1,100,C,C,C
+humanities,765,Rude,1,100,C,C,C
+humanities,765,Very Rude,1,100,C,C,C
+humanities,766,Very Friendly,1,100,A,A,A
+humanities,766,Friendly,1,100,A,A,A
+humanities,766,Neutral,1,100,A,A,A
+humanities,766,Rude,1,100,A,A,A
+humanities,766,Very Rude,1,100,A,A,A
+humanities,777,Very Friendly,1,100,C,C,C
+humanities,777,Friendly,1,100,C,C,C
+humanities,777,Neutral,1,100,C,C,C
+humanities,777,Rude,1,100,C,C,C
+humanities,777,Very Rude,1,100,C,C,C
+humanities,788,Very Friendly,1,100,B,B,B
+humanities,788,Friendly,1,100,B,B,B
+humanities,788,Neutral,1,100,B,B,B
+humanities,788,Rude,1,100,B,B,B
+humanities,788,Very Rude,1,100,B,B,B
+humanities,790,Very Friendly,1,0,A,C,C
+humanities,790,Friendly,1,0,A,C,C
+humanities,790,Neutral,1,0,A,C,C
+humanities,790,Rude,1,0,A,C,C
+humanities,790,Very Rude,1,0,A,C,C
+humanities,791,Very Friendly,1,100,C,C,C
+humanities,791,Friendly,1,100,C,C,C
+humanities,791,Neutral,1,100,C,C,C
+humanities,791,Rude,1,100,C,C,C
+humanities,791,Very Rude,1,100,C,C,C
+humanities,795,Very Friendly,1,100,B,B,B
+humanities,795,Friendly,1,100,B,B,B
+humanities,795,Neutral,1,100,B,B,B
+humanities,795,Rude,1,100,B,B,B
+humanities,795,Very Rude,1,100,B,B,B
+humanities,799,Very Friendly,1,100,D,D,D
+humanities,799,Friendly,1,100,D,D,D
+humanities,799,Neutral,1,100,D,D,D
+humanities,799,Rude,1,100,D,D,D
+humanities,799,Very Rude,1,100,D,D,D
+humanities,801,Very Friendly,1,100,C,C,C
+humanities,801,Friendly,1,100,C,C,C
+humanities,801,Neutral,1,100,C,C,C
+humanities,801,Rude,1,100,C,C,C
+humanities,801,Very Rude,1,100,C,C,C
+humanities,803,Very Friendly,1,100,C,C,C
+humanities,803,Friendly,1,100,C,C,C
+humanities,803,Neutral,1,100,C,C,C
+humanities,803,Rude,1,100,C,C,C
+humanities,803,Very Rude,1,100,C,C,C
+humanities,804,Very Friendly,1,0,D,C,C
+humanities,804,Friendly,1,0,D,C,C
+humanities,804,Neutral,1,0,D,C,C
+humanities,804,Rude,1,0,D,C,C
+humanities,804,Very Rude,1,0,D,C,C
+humanities,806,Very Friendly,1,100,B,B,B
+humanities,806,Friendly,1,100,B,B,B
+humanities,806,Neutral,1,100,B,B,B
+humanities,806,Rude,1,100,B,B,B
+humanities,806,Very Rude,1,100,B,B,B
+humanities,808,Very Friendly,1,100,C,C,C
+humanities,808,Friendly,1,100,C,C,C
+humanities,808,Neutral,1,100,C,C,C
+humanities,808,Rude,1,100,C,C,C
+humanities,808,Very Rude,1,100,C,C,C
+humanities,811,Very Friendly,1,0,A,C,C
+humanities,811,Friendly,1,0,A,C,C
+humanities,811,Neutral,1,0,A,C,C
+humanities,811,Rude,1,0,A,C,C
+humanities,811,Very Rude,1,0,A,C,C
+humanities,812,Very Friendly,1,100,C,C,C
+humanities,812,Friendly,1,100,C,C,C
+humanities,812,Neutral,1,100,C,C,C
+humanities,812,Rude,1,100,C,C,C
+humanities,812,Very Rude,1,100,C,C,C
+humanities,813,Very Friendly,1,100,A,A,A
+humanities,813,Friendly,1,100,A,A,A
+humanities,813,Neutral,1,100,A,A,A
+humanities,813,Rude,1,100,A,A,A
+humanities,813,Very Rude,1,100,A,A,A
+humanities,829,Very Friendly,1,100,B,B,B
+humanities,829,Friendly,1,100,B,B,B
+humanities,829,Neutral,1,100,B,B,B
+humanities,829,Rude,1,100,B,B,B
+humanities,829,Very Rude,1,100,B,B,B
+humanities,830,Very Friendly,1,100,D,D,D
+humanities,830,Friendly,1,100,D,D,D
+humanities,830,Neutral,1,100,D,D,D
+humanities,830,Rude,1,100,D,D,D
+humanities,830,Very Rude,1,100,D,D,D
+humanities,832,Very Friendly,1,100,A,A,A
+humanities,832,Friendly,1,100,A,A,A
+humanities,832,Neutral,1,100,A,A,A
+humanities,832,Rude,1,100,A,A,A
+humanities,832,Very Rude,1,100,A,A,A
+humanities,834,Very Friendly,1,100,C,C,C
+humanities,834,Friendly,1,100,C,C,C
+humanities,834,Neutral,1,100,C,C,C
+humanities,834,Rude,1,100,C,C,C
+humanities,834,Very Rude,1,100,C,C,C
+humanities,839,Very Friendly,1,100,C,C,C
+humanities,839,Friendly,1,100,C,C,C
+humanities,839,Neutral,1,100,C,C,C
+humanities,839,Rude,1,100,C,C,C
+humanities,839,Very Rude,1,100,C,C,C
+humanities,843,Very Friendly,1,100,D,D,D
+humanities,843,Friendly,1,100,D,D,D
+humanities,843,Neutral,1,100,D,D,D
+humanities,843,Rude,1,100,D,D,D
+humanities,843,Very Rude,1,100,D,D,D
+humanities,844,Very Friendly,1,100,B,B,B
+humanities,844,Friendly,1,100,B,B,B
+humanities,844,Neutral,1,100,B,B,B
+humanities,844,Rude,1,100,B,B,B
+humanities,844,Very Rude,1,100,B,B,B
+humanities,857,Very Friendly,1,100,C,C,C
+humanities,857,Friendly,1,100,C,C,C
+humanities,857,Neutral,1,100,C,C,C
+humanities,857,Rude,1,100,C,C,C
+humanities,857,Very Rude,1,100,C,C,C
+humanities,860,Very Friendly,1,100,D,D,D
+humanities,860,Friendly,1,100,D,D,D
+humanities,860,Neutral,1,100,D,D,D
+humanities,860,Rude,1,100,D,D,D
+humanities,860,Very Rude,1,100,D,D,D
+humanities,870,Very Friendly,1,100,D,D,D
+humanities,870,Friendly,1,100,D,D,D
+humanities,870,Neutral,1,100,D,D,D
+humanities,870,Rude,1,100,D,D,D
+humanities,870,Very Rude,1,100,D,D,D
+humanities,872,Very Friendly,1,0,D,A,A
+humanities,872,Friendly,1,0,D,A,A
+humanities,872,Neutral,1,0,D,A,A
+humanities,872,Rude,1,0,D,A,A
+humanities,872,Very Rude,1,100,D,D,D
+humanities,878,Very Friendly,1,100,B,B,B
+humanities,878,Friendly,1,100,B,B,B
+humanities,878,Neutral,1,100,B,B,B
+humanities,878,Rude,1,100,B,B,B
+humanities,878,Very Rude,1,100,B,B,B
+humanities,880,Very Friendly,1,100,C,C,C
+humanities,880,Friendly,1,100,C,C,C
+humanities,880,Neutral,1,100,C,C,C
+humanities,880,Rude,1,100,C,C,C
+humanities,880,Very Rude,1,100,C,C,C
+humanities,882,Very Friendly,1,100,D,D,D
+humanities,882,Friendly,1,100,D,D,D
+humanities,882,Neutral,1,100,D,D,D
+humanities,882,Rude,1,100,D,D,D
+humanities,882,Very Rude,1,100,D,D,D
+humanities,890,Very Friendly,1,0,A,C,C
+humanities,890,Friendly,1,0,A,C,C
+humanities,890,Neutral,1,0,A,C,C
+humanities,890,Rude,1,0,A,C,C
+humanities,890,Very Rude,1,0,A,C,C
+humanities,894,Very Friendly,1,100,A,A,A
+humanities,894,Friendly,1,100,A,A,A
+humanities,894,Neutral,1,100,A,A,A
+humanities,894,Rude,1,100,A,A,A
+humanities,894,Very Rude,1,100,A,A,A
+humanities,897,Very Friendly,1,100,A,A,A
+humanities,897,Friendly,1,100,A,A,A
+humanities,897,Neutral,1,100,A,A,A
+humanities,897,Rude,1,100,A,A,A
+humanities,897,Very Rude,1,100,A,A,A
+humanities,908,Very Friendly,1,100,D,D,D
+humanities,908,Friendly,1,100,D,D,D
+humanities,908,Neutral,1,100,D,D,D
+humanities,908,Rude,1,100,D,D,D
+humanities,908,Very Rude,1,100,D,D,D
+humanities,912,Very Friendly,1,100,A,A,A
+humanities,912,Friendly,1,100,A,A,A
+humanities,912,Neutral,1,100,A,A,A
+humanities,912,Rude,1,100,A,A,A
+humanities,912,Very Rude,1,100,A,A,A
+humanities,916,Very Friendly,1,100,A,A,A
+humanities,916,Friendly,1,100,A,A,A
+humanities,916,Neutral,1,100,A,A,A
+humanities,916,Rude,1,100,A,A,A
+humanities,916,Very Rude,1,100,A,A,A
+humanities,927,Very Friendly,1,100,B,B,B
+humanities,927,Friendly,1,100,B,B,B
+humanities,927,Neutral,1,100,B,B,B
+humanities,927,Rude,1,100,B,B,B
+humanities,927,Very Rude,1,100,B,B,B
+humanities,932,Very Friendly,1,100,A,A,A
+humanities,932,Friendly,1,100,A,A,A
+humanities,932,Neutral,1,100,A,A,A
+humanities,932,Rude,1,100,A,A,A
+humanities,932,Very Rude,1,100,A,A,A
+humanities,938,Very Friendly,1,100,A,A,A
+humanities,938,Friendly,1,100,A,A,A
+humanities,938,Neutral,1,100,A,A,A
+humanities,938,Rude,1,100,A,A,A
+humanities,938,Very Rude,1,100,A,A,A
+humanities,945,Very Friendly,1,100,C,C,C
+humanities,945,Friendly,1,100,C,C,C
+humanities,945,Neutral,1,100,C,C,C
+humanities,945,Rude,1,100,C,C,C
+humanities,945,Very Rude,1,100,C,C,C
+humanities,950,Very Friendly,1,100,C,C,C
+humanities,950,Friendly,1,100,C,C,C
+humanities,950,Neutral,1,100,C,C,C
+humanities,950,Rude,1,100,C,C,C
+humanities,950,Very Rude,1,100,C,C,C
+humanities,961,Very Friendly,1,0,C,B,B
+humanities,961,Friendly,1,0,C,B,B
+humanities,961,Neutral,1,0,C,B,B
+humanities,961,Rude,1,0,C,B,B
+humanities,961,Very Rude,1,0,C,B,B
+humanities,965,Very Friendly,1,100,D,D,D
+humanities,965,Friendly,1,100,D,D,D
+humanities,965,Neutral,1,100,D,D,D
+humanities,965,Rude,1,100,D,D,D
+humanities,965,Very Rude,1,100,D,D,D
+humanities,970,Very Friendly,1,100,A,A,A
+humanities,970,Friendly,1,100,A,A,A
+humanities,970,Neutral,1,100,A,A,A
+humanities,970,Rude,1,100,A,A,A
+humanities,970,Very Rude,1,100,A,A,A
+humanities,978,Very Friendly,1,100,D,D,D
+humanities,978,Friendly,1,100,D,D,D
+humanities,978,Neutral,1,100,D,D,D
+humanities,978,Rude,1,100,D,D,D
+humanities,978,Very Rude,1,100,D,D,D
+humanities,995,Very Friendly,1,100,D,D,D
+humanities,995,Friendly,1,100,D,D,D
+humanities,995,Neutral,1,100,D,D,D
+humanities,995,Rude,1,100,D,D,D
+humanities,995,Very Rude,1,100,D,D,D
+humanities,997,Very Friendly,1,0,D,C,C
+humanities,997,Friendly,1,0,D,C,C
+humanities,997,Neutral,1,0,D,A,A
+humanities,997,Rude,1,0,D,A,A
+humanities,997,Very Rude,1,0,D,A,A
+humanities,1000,Very Friendly,1,100,A,A,A
+humanities,1000,Friendly,1,100,A,A,A
+humanities,1000,Neutral,1,100,A,A,A
+humanities,1000,Rude,1,100,A,A,A
+humanities,1000,Very Rude,1,100,A,A,A
+humanities,1002,Very Friendly,1,100,D,D,D
+humanities,1002,Friendly,1,100,D,D,D
+humanities,1002,Neutral,1,100,D,D,D
+humanities,1002,Rude,1,100,D,D,D
+humanities,1002,Very Rude,1,100,D,D,D
+humanities,1011,Very Friendly,1,0,C,A,A
+humanities,1011,Friendly,1,0,C,A,A
+humanities,1011,Neutral,1,0,C,A,A
+humanities,1011,Rude,1,0,C,A,A
+humanities,1011,Very Rude,1,0,C,A,A
+humanities,1019,Very Friendly,1,100,C,C,C
+humanities,1019,Friendly,1,100,C,C,C
+humanities,1019,Neutral,1,100,C,C,C
+humanities,1019,Rude,1,100,C,C,C
+humanities,1019,Very Rude,1,100,C,C,C
+humanities,1021,Very Friendly,1,100,C,C,C
+humanities,1021,Friendly,1,100,C,C,C
+humanities,1021,Neutral,1,100,C,C,C
+humanities,1021,Rude,1,100,C,C,C
+humanities,1021,Very Rude,1,100,C,C,C
+humanities,1025,Very Friendly,1,100,C,C,C
+humanities,1025,Friendly,1,100,C,C,C
+humanities,1025,Neutral,1,100,C,C,C
+humanities,1025,Rude,1,100,C,C,C
+humanities,1025,Very Rude,1,100,C,C,C
+humanities,1026,Very Friendly,1,100,B,B,B
+humanities,1026,Friendly,1,100,B,B,B
+humanities,1026,Neutral,1,100,B,B,B
+humanities,1026,Rude,1,100,B,B,B
+humanities,1026,Very Rude,1,100,B,B,B
+humanities,1028,Very Friendly,1,100,A,A,A
+humanities,1028,Friendly,1,100,A,A,A
+humanities,1028,Neutral,1,100,A,A,A
+humanities,1028,Rude,1,100,A,A,A
+humanities,1028,Very Rude,1,100,A,A,A
+humanities,1030,Very Friendly,1,100,D,D,D
+humanities,1030,Friendly,1,100,D,D,D
+humanities,1030,Neutral,1,100,D,D,D
+humanities,1030,Rude,1,100,D,D,D
+humanities,1030,Very Rude,1,100,D,D,D
+humanities,1033,Very Friendly,1,100,B,B,B
+humanities,1033,Friendly,1,100,B,B,B
+humanities,1033,Neutral,1,100,B,B,B
+humanities,1033,Rude,1,100,B,B,B
+humanities,1033,Very Rude,1,100,B,B,B
+humanities,1035,Very Friendly,1,100,A,A,A
+humanities,1035,Friendly,1,100,A,A,A
+humanities,1035,Neutral,1,100,A,A,A
+humanities,1035,Rude,1,100,A,A,A
+humanities,1035,Very Rude,1,100,A,A,A
+humanities,1039,Very Friendly,1,100,B,B,B
+humanities,1039,Friendly,1,100,B,B,B
+humanities,1039,Neutral,1,100,B,B,B
+humanities,1039,Rude,1,100,B,B,B
+humanities,1039,Very Rude,1,100,B,B,B
+humanities,1042,Very Friendly,1,100,C,C,C
+humanities,1042,Friendly,1,100,C,C,C
+humanities,1042,Neutral,1,100,C,C,C
+humanities,1042,Rude,1,100,C,C,C
+humanities,1042,Very Rude,1,0,C,B,B
+humanities,1043,Very Friendly,1,100,C,C,C
+humanities,1043,Friendly,1,100,C,C,C
+humanities,1043,Neutral,1,100,C,C,C
+humanities,1043,Rude,1,100,C,C,C
+humanities,1043,Very Rude,1,100,C,C,C
+humanities,1045,Very Friendly,1,0,D,B,B
+humanities,1045,Friendly,1,0,D,B,B
+humanities,1045,Neutral,1,0,D,B,B
+humanities,1045,Rude,1,0,D,B,B
+humanities,1045,Very Rude,1,0,D,B,B
+humanities,1048,Very Friendly,1,100,D,D,D
+humanities,1048,Friendly,1,100,D,D,D
+humanities,1048,Neutral,1,100,D,D,D
+humanities,1048,Rude,1,100,D,D,D
+humanities,1048,Very Rude,1,100,D,D,D
+humanities,1053,Very Friendly,1,100,B,B,B
+humanities,1053,Friendly,1,100,B,B,B
+humanities,1053,Neutral,1,100,B,B,B
+humanities,1053,Rude,1,100,B,B,B
+humanities,1053,Very Rude,1,100,B,B,B
+humanities,1056,Very Friendly,1,100,C,C,C
+humanities,1056,Friendly,1,100,C,C,C
+humanities,1056,Neutral,1,100,C,C,C
+humanities,1056,Rude,1,100,C,C,C
+humanities,1056,Very Rude,1,100,C,C,C
+humanities,1057,Very Friendly,1,100,B,B,B
+humanities,1057,Friendly,1,100,B,B,B
+humanities,1057,Neutral,1,100,B,B,B
+humanities,1057,Rude,1,100,B,B,B
+humanities,1057,Very Rude,1,100,B,B,B
+humanities,1058,Very Friendly,1,100,D,D,D
+humanities,1058,Friendly,1,100,D,D,D
+humanities,1058,Neutral,1,100,D,D,D
+humanities,1058,Rude,1,100,D,D,D
+humanities,1058,Very Rude,1,100,D,D,D
+humanities,1062,Very Friendly,1,100,B,B,B
+humanities,1062,Friendly,1,100,B,B,B
+humanities,1062,Neutral,1,100,B,B,B
+humanities,1062,Rude,1,100,B,B,B
+humanities,1062,Very Rude,1,100,B,B,B
+humanities,1069,Very Friendly,1,100,A,A,A
+humanities,1069,Friendly,1,100,A,A,A
+humanities,1069,Neutral,1,100,A,A,A
+humanities,1069,Rude,1,100,A,A,A
+humanities,1069,Very Rude,1,100,A,A,A
+humanities,1074,Very Friendly,1,100,B,B,B
+humanities,1074,Friendly,1,100,B,B,B
+humanities,1074,Neutral,1,100,B,B,B
+humanities,1074,Rude,1,100,B,B,B
+humanities,1074,Very Rude,1,100,B,B,B
+humanities,1075,Very Friendly,1,0,A,C,C
+humanities,1075,Friendly,1,0,A,C,C
+humanities,1075,Neutral,1,0,A,C,C
+humanities,1075,Rude,1,0,A,C,C
+humanities,1075,Very Rude,1,0,A,B,B
+humanities,1076,Very Friendly,1,100,A,A,A
+humanities,1076,Friendly,1,100,A,A,A
+humanities,1076,Neutral,1,100,A,A,A
+humanities,1076,Rude,1,100,A,A,A
+humanities,1076,Very Rude,1,100,A,A,A
+humanities,1085,Very Friendly,1,100,A,A,A
+humanities,1085,Friendly,1,100,A,A,A
+humanities,1085,Neutral,1,100,A,A,A
+humanities,1085,Rude,1,100,A,A,A
+humanities,1085,Very Rude,1,100,A,A,A
+humanities,1091,Very Friendly,1,100,D,D,D
+humanities,1091,Friendly,1,100,D,D,D
+humanities,1091,Neutral,1,100,D,D,D
+humanities,1091,Rude,1,100,D,D,D
+humanities,1091,Very Rude,1,100,D,D,D
+humanities,1095,Very Friendly,1,100,A,A,A
+humanities,1095,Friendly,1,100,A,A,A
+humanities,1095,Neutral,1,100,A,A,A
+humanities,1095,Rude,1,100,A,A,A
+humanities,1095,Very Rude,1,100,A,A,A
+humanities,1103,Very Friendly,1,100,D,D,D
+humanities,1103,Friendly,1,100,D,D,D
+humanities,1103,Neutral,1,100,D,D,D
+humanities,1103,Rude,1,100,D,D,D
+humanities,1103,Very Rude,1,100,D,D,D
+humanities,1104,Very Friendly,1,100,A,A,A
+humanities,1104,Friendly,1,100,A,A,A
+humanities,1104,Neutral,1,100,A,A,A
+humanities,1104,Rude,1,100,A,A,A
+humanities,1104,Very Rude,1,100,A,A,A
+humanities,1109,Very Friendly,1,100,A,A,A
+humanities,1109,Friendly,1,100,A,A,A
+humanities,1109,Neutral,1,100,A,A,A
+humanities,1109,Rude,1,100,A,A,A
+humanities,1109,Very Rude,1,100,A,A,A
+humanities,1114,Very Friendly,1,0,A,B,B
+humanities,1114,Friendly,1,0,A,B,B
+humanities,1114,Neutral,1,0,A,B,B
+humanities,1114,Rude,1,0,A,B,B
+humanities,1114,Very Rude,1,0,A,B,B
+humanities,1117,Very Friendly,1,100,C,C,C
+humanities,1117,Friendly,1,100,C,C,C
+humanities,1117,Neutral,1,100,C,C,C
+humanities,1117,Rude,1,100,C,C,C
+humanities,1117,Very Rude,1,100,C,C,C
+humanities,1118,Very Friendly,1,100,C,C,C
+humanities,1118,Friendly,1,100,C,C,C
+humanities,1118,Neutral,1,100,C,C,C
+humanities,1118,Rude,1,100,C,C,C
+humanities,1118,Very Rude,1,100,C,C,C
+humanities,1129,Very Friendly,1,100,B,B,B
+humanities,1129,Friendly,1,100,B,B,B
+humanities,1129,Neutral,1,100,B,B,B
+humanities,1129,Rude,1,100,B,B,B
+humanities,1129,Very Rude,1,100,B,B,B
+humanities,1130,Very Friendly,1,100,C,C,C
+humanities,1130,Friendly,1,100,C,C,C
+humanities,1130,Neutral,1,100,C,C,C
+humanities,1130,Rude,1,100,C,C,C
+humanities,1130,Very Rude,1,100,C,C,C
+humanities,1150,Very Friendly,1,100,B,B,B
+humanities,1150,Friendly,1,100,B,B,B
+humanities,1150,Neutral,1,100,B,B,B
+humanities,1150,Rude,1,100,B,B,B
+humanities,1150,Very Rude,1,100,B,B,B
+humanities,1159,Very Friendly,1,100,B,B,B
+humanities,1159,Friendly,1,100,B,B,B
+humanities,1159,Neutral,1,100,B,B,B
+humanities,1159,Rude,1,100,B,B,B
+humanities,1159,Very Rude,1,100,B,B,B
+humanities,1162,Very Friendly,1,100,C,C,C
+humanities,1162,Friendly,1,100,C,C,C
+humanities,1162,Neutral,1,0,C,B,B
+humanities,1162,Rude,1,100,C,C,C
+humanities,1162,Very Rude,1,100,C,C,C
+humanities,1163,Very Friendly,1,0,B,C,C
+humanities,1163,Friendly,1,0,B,C,C
+humanities,1163,Neutral,1,0,B,C,C
+humanities,1163,Rude,1,0,B,C,C
+humanities,1163,Very Rude,1,0,B,C,C
+humanities,1165,Very Friendly,1,100,C,C,C
+humanities,1165,Friendly,1,100,C,C,C
+humanities,1165,Neutral,1,100,C,C,C
+humanities,1165,Rude,1,100,C,C,C
+humanities,1165,Very Rude,1,100,C,C,C
+humanities,1169,Very Friendly,1,100,C,C,C
+humanities,1169,Friendly,1,100,C,C,C
+humanities,1169,Neutral,1,100,C,C,C
+humanities,1169,Rude,1,100,C,C,C
+humanities,1169,Very Rude,1,100,C,C,C
+humanities,1171,Very Friendly,1,100,B,B,B
+humanities,1171,Friendly,1,100,B,B,B
+humanities,1171,Neutral,1,100,B,B,B
+humanities,1171,Rude,1,100,B,B,B
+humanities,1171,Very Rude,1,100,B,B,B
+humanities,1173,Very Friendly,1,100,B,B,B
+humanities,1173,Friendly,1,100,B,B,B
+humanities,1173,Neutral,1,100,B,B,B
+humanities,1173,Rude,1,100,B,B,B
+humanities,1173,Very Rude,1,100,B,B,B
+humanities,1174,Very Friendly,1,100,B,B,B
+humanities,1174,Friendly,1,100,B,B,B
+humanities,1174,Neutral,1,100,B,B,B
+humanities,1174,Rude,1,100,B,B,B
+humanities,1174,Very Rude,1,100,B,B,B
+humanities,1175,Very Friendly,1,100,A,A,A
+humanities,1175,Friendly,1,100,A,A,A
+humanities,1175,Neutral,1,100,A,A,A
+humanities,1175,Rude,1,100,A,A,A
+humanities,1175,Very Rude,1,100,A,A,A
+humanities,1176,Very Friendly,1,100,B,B,B
+humanities,1176,Friendly,1,100,B,B,B
+humanities,1176,Neutral,1,100,B,B,B
+humanities,1176,Rude,1,100,B,B,B
+humanities,1176,Very Rude,1,100,B,B,B
+humanities,1182,Very Friendly,1,100,C,C,C
+humanities,1182,Friendly,1,100,C,C,C
+humanities,1182,Neutral,1,100,C,C,C
+humanities,1182,Rude,1,100,C,C,C
+humanities,1182,Very Rude,1,100,C,C,C
+humanities,1188,Very Friendly,1,100,D,D,D
+humanities,1188,Friendly,1,100,D,D,D
+humanities,1188,Neutral,1,100,D,D,D
+humanities,1188,Rude,1,100,D,D,D
+humanities,1188,Very Rude,1,100,D,D,D
+humanities,1193,Very Friendly,1,0,D,B,B
+humanities,1193,Friendly,1,0,D,B,B
+humanities,1193,Neutral,1,0,D,B,B
+humanities,1193,Rude,1,0,D,B,B
+humanities,1193,Very Rude,1,0,D,B,B
+humanities,1197,Very Friendly,1,100,A,A,A
+humanities,1197,Friendly,1,100,A,A,A
+humanities,1197,Neutral,1,100,A,A,A
+humanities,1197,Rude,1,100,A,A,A
+humanities,1197,Very Rude,1,100,A,A,A
+humanities,1198,Very Friendly,1,100,B,B,B
+humanities,1198,Friendly,1,100,B,B,B
+humanities,1198,Neutral,1,100,B,B,B
+humanities,1198,Rude,1,100,B,B,B
+humanities,1198,Very Rude,1,100,B,B,B
+humanities,1201,Very Friendly,1,100,B,B,B
+humanities,1201,Friendly,1,100,B,B,B
+humanities,1201,Neutral,1,100,B,B,B
+humanities,1201,Rude,1,100,B,B,B
+humanities,1201,Very Rude,1,100,B,B,B
+humanities,1205,Very Friendly,1,100,C,C,C
+humanities,1205,Friendly,1,100,C,C,C
+humanities,1205,Neutral,1,100,C,C,C
+humanities,1205,Rude,1,100,C,C,C
+humanities,1205,Very Rude,1,100,C,C,C
+humanities,1211,Very Friendly,1,100,B,B,B
+humanities,1211,Friendly,1,100,B,B,B
+humanities,1211,Neutral,1,100,B,B,B
+humanities,1211,Rude,1,100,B,B,B
+humanities,1211,Very Rude,1,100,B,B,B
+humanities,1222,Very Friendly,1,0,C,D,D
+humanities,1222,Friendly,1,0,C,D,D
+humanities,1222,Neutral,1,100,C,C,C
+humanities,1222,Rude,1,100,C,C,C
+humanities,1222,Very Rude,1,0,C,D,D
+humanities,1223,Very Friendly,1,100,B,B,B
+humanities,1223,Friendly,1,100,B,B,B
+humanities,1223,Neutral,1,100,B,B,B
+humanities,1223,Rude,1,100,B,B,B
+humanities,1223,Very Rude,1,100,B,B,B
+humanities,1229,Very Friendly,1,100,D,D,D
+humanities,1229,Friendly,1,100,D,D,D
+humanities,1229,Neutral,1,100,D,D,D
+humanities,1229,Rude,1,100,D,D,D
+humanities,1229,Very Rude,1,100,D,D,D
+humanities,1232,Very Friendly,1,0,C,D,D
+humanities,1232,Friendly,1,0,C,D,D
+humanities,1232,Neutral,1,0,C,D,D
+humanities,1232,Rude,1,0,C,D,D
+humanities,1232,Very Rude,1,0,C,D,D
+humanities,1236,Very Friendly,1,100,B,B,B
+humanities,1236,Friendly,1,0,B,D,D
+humanities,1236,Neutral,1,100,B,B,B
+humanities,1236,Rude,1,0,B,D,D
+humanities,1236,Very Rude,1,100,B,B,B
+humanities,1239,Very Friendly,1,100,A,A,A
+humanities,1239,Friendly,1,100,A,A,A
+humanities,1239,Neutral,1,100,A,A,A
+humanities,1239,Rude,1,100,A,A,A
+humanities,1239,Very Rude,1,100,A,A,A
+humanities,1243,Very Friendly,1,100,A,A,A
+humanities,1243,Friendly,1,100,A,A,A
+humanities,1243,Neutral,1,100,A,A,A
+humanities,1243,Rude,1,100,A,A,A
+humanities,1243,Very Rude,1,100,A,A,A
+humanities,1245,Very Friendly,1,100,B,B,B
+humanities,1245,Friendly,1,100,B,B,B
+humanities,1245,Neutral,1,100,B,B,B
+humanities,1245,Rude,1,100,B,B,B
+humanities,1245,Very Rude,1,0,B,A,A
+humanities,1254,Very Friendly,1,100,D,D,D
+humanities,1254,Friendly,1,100,D,D,D
+humanities,1254,Neutral,1,100,D,D,D
+humanities,1254,Rude,1,100,D,D,D
+humanities,1254,Very Rude,1,100,D,D,D
+humanities,1259,Very Friendly,1,100,A,A,A
+humanities,1259,Friendly,1,100,A,A,A
+humanities,1259,Neutral,1,100,A,A,A
+humanities,1259,Rude,1,100,A,A,A
+humanities,1259,Very Rude,1,100,A,A,A
+humanities,1261,Very Friendly,1,100,D,D,D
+humanities,1261,Friendly,1,100,D,D,D
+humanities,1261,Neutral,1,0,D,A,A
+humanities,1261,Rude,1,100,D,D,D
+humanities,1261,Very Rude,1,100,D,D,D
+humanities,1262,Very Friendly,1,100,D,D,D
+humanities,1262,Friendly,1,100,D,D,D
+humanities,1262,Neutral,1,0,D,B,B
+humanities,1262,Rude,1,0,D,B,B
+humanities,1262,Very Rude,1,100,D,D,D
+humanities,1271,Very Friendly,1,100,C,C,C
+humanities,1271,Friendly,1,100,C,C,C
+humanities,1271,Neutral,1,100,C,C,C
+humanities,1271,Rude,1,100,C,C,C
+humanities,1271,Very Rude,1,100,C,C,C
+humanities,1273,Very Friendly,1,100,D,D,D
+humanities,1273,Friendly,1,100,D,D,D
+humanities,1273,Neutral,1,100,D,D,D
+humanities,1273,Rude,1,100,D,D,D
+humanities,1273,Very Rude,1,100,D,D,D
+humanities,1289,Very Friendly,1,0,A,B,B
+humanities,1289,Friendly,1,0,A,B,B
+humanities,1289,Neutral,1,0,A,B,B
+humanities,1289,Rude,1,100,A,A,A
+humanities,1289,Very Rude,1,0,A,B,B
+humanities,1294,Very Friendly,1,100,C,C,C
+humanities,1294,Friendly,1,100,C,C,C
+humanities,1294,Neutral,1,100,C,C,C
+humanities,1294,Rude,1,100,C,C,C
+humanities,1294,Very Rude,1,100,C,C,C
+humanities,1296,Very Friendly,1,100,A,A,A
+humanities,1296,Friendly,1,100,A,A,A
+humanities,1296,Neutral,1,100,A,A,A
+humanities,1296,Rude,1,100,A,A,A
+humanities,1296,Very Rude,1,100,A,A,A
+humanities,1310,Very Friendly,1,100,D,D,D
+humanities,1310,Friendly,1,100,D,D,D
+humanities,1310,Neutral,1,100,D,D,D
+humanities,1310,Rude,1,100,D,D,D
+humanities,1310,Very Rude,1,100,D,D,D
+humanities,1316,Very Friendly,1,100,C,C,C
+humanities,1316,Friendly,1,100,C,C,C
+humanities,1316,Neutral,1,100,C,C,C
+humanities,1316,Rude,1,100,C,C,C
+humanities,1316,Very Rude,1,100,C,C,C
+humanities,1322,Very Friendly,1,100,C,C,C
+humanities,1322,Friendly,1,100,C,C,C
+humanities,1322,Neutral,1,100,C,C,C
+humanities,1322,Rude,1,100,C,C,C
+humanities,1322,Very Rude,1,100,C,C,C
+humanities,1323,Very Friendly,1,100,C,C,C
+humanities,1323,Friendly,1,0,C,D,D
+humanities,1323,Neutral,1,0,C,D,D
+humanities,1323,Rude,1,0,C,D,D
+humanities,1323,Very Rude,1,0,C,D,D
+humanities,1324,Very Friendly,1,100,A,A,A
+humanities,1324,Friendly,1,100,A,A,A
+humanities,1324,Neutral,1,100,A,A,A
+humanities,1324,Rude,1,100,A,A,A
+humanities,1324,Very Rude,1,100,A,A,A
+humanities,1341,Very Friendly,1,0,A,B,B
+humanities,1341,Friendly,1,0,A,B,B
+humanities,1341,Neutral,1,0,A,B,B
+humanities,1341,Rude,1,0,A,B,B
+humanities,1341,Very Rude,1,0,A,B,B
+humanities,1345,Very Friendly,1,0,C,B,B
+humanities,1345,Friendly,1,0,C,B,B
+humanities,1345,Neutral,1,0,C,B,B
+humanities,1345,Rude,1,0,C,B,B
+humanities,1345,Very Rude,1,0,C,B,B
+humanities,1346,Very Friendly,1,0,D,C,C
+humanities,1346,Friendly,1,0,D,C,C
+humanities,1346,Neutral,1,0,D,C,C
+humanities,1346,Rude,1,0,D,C,C
+humanities,1346,Very Rude,1,0,D,C,C
+humanities,1352,Very Friendly,1,100,A,A,A
+humanities,1352,Friendly,1,100,A,A,A
+humanities,1352,Neutral,1,100,A,A,A
+humanities,1352,Rude,1,100,A,A,A
+humanities,1352,Very Rude,1,100,A,A,A
+humanities,1361,Very Friendly,1,100,A,A,A
+humanities,1361,Friendly,1,100,A,A,A
+humanities,1361,Neutral,1,100,A,A,A
+humanities,1361,Rude,1,100,A,A,A
+humanities,1361,Very Rude,1,100,A,A,A
+humanities,1362,Very Friendly,1,100,B,B,B
+humanities,1362,Friendly,1,100,B,B,B
+humanities,1362,Neutral,1,100,B,B,B
+humanities,1362,Rude,1,100,B,B,B
+humanities,1362,Very Rude,1,100,B,B,B
+humanities,1371,Very Friendly,1,100,D,D,D
+humanities,1371,Friendly,1,100,D,D,D
+humanities,1371,Neutral,1,100,D,D,D
+humanities,1371,Rude,1,100,D,D,D
+humanities,1371,Very Rude,1,100,D,D,D
+humanities,1375,Very Friendly,1,0,A,C,C
+humanities,1375,Friendly,1,0,A,C,C
+humanities,1375,Neutral,1,0,A,C,C
+humanities,1375,Rude,1,0,A,C,C
+humanities,1375,Very Rude,1,0,A,C,C
+humanities,1376,Very Friendly,1,100,C,C,C
+humanities,1376,Friendly,1,100,C,C,C
+humanities,1376,Neutral,1,100,C,C,C
+humanities,1376,Rude,1,100,C,C,C
+humanities,1376,Very Rude,1,100,C,C,C
+humanities,1379,Very Friendly,1,0,A,B,B
+humanities,1379,Friendly,1,0,A,B,B
+humanities,1379,Neutral,1,0,A,B,B
+humanities,1379,Rude,1,0,A,B,B
+humanities,1379,Very Rude,1,0,A,B,B
+humanities,1392,Very Friendly,1,100,B,B,B
+humanities,1392,Friendly,1,100,B,B,B
+humanities,1392,Neutral,1,100,B,B,B
+humanities,1392,Rude,1,100,B,B,B
+humanities,1392,Very Rude,1,100,B,B,B
+humanities,1393,Very Friendly,1,100,C,C,C
+humanities,1393,Friendly,1,100,C,C,C
+humanities,1393,Neutral,1,100,C,C,C
+humanities,1393,Rude,1,100,C,C,C
+humanities,1393,Very Rude,1,100,C,C,C
+humanities,1394,Very Friendly,1,100,C,C,C
+humanities,1394,Friendly,1,100,C,C,C
+humanities,1394,Neutral,1,100,C,C,C
+humanities,1394,Rude,1,100,C,C,C
+humanities,1394,Very Rude,1,100,C,C,C
+humanities,1398,Very Friendly,1,0,A,B,B
+humanities,1398,Friendly,1,0,A,B,B
+humanities,1398,Neutral,1,0,A,B,B
+humanities,1398,Rude,1,0,A,B,B
+humanities,1398,Very Rude,1,0,A,B,B
+humanities,1403,Very Friendly,1,0,D,B,B
+humanities,1403,Friendly,1,0,D,C,C
+humanities,1403,Neutral,1,0,D,B,B
+humanities,1403,Rude,1,0,D,B,B
+humanities,1403,Very Rude,1,0,D,B,B
+humanities,1413,Very Friendly,1,100,B,B,B
+humanities,1413,Friendly,1,100,B,B,B
+humanities,1413,Neutral,1,100,B,B,B
+humanities,1413,Rude,1,100,B,B,B
+humanities,1413,Very Rude,1,100,B,B,B
+humanities,1414,Very Friendly,1,100,C,C,C
+humanities,1414,Friendly,1,100,C,C,C
+humanities,1414,Neutral,1,100,C,C,C
+humanities,1414,Rude,1,100,C,C,C
+humanities,1414,Very Rude,1,100,C,C,C
+humanities,1418,Very Friendly,1,0,B,C,C
+humanities,1418,Friendly,1,0,B,C,C
+humanities,1418,Neutral,1,0,B,C,C
+humanities,1418,Rude,1,0,B,C,C
+humanities,1418,Very Rude,1,0,B,C,C
+humanities,1421,Very Friendly,1,0,D,C,C
+humanities,1421,Friendly,1,100,D,D,D
+humanities,1421,Neutral,1,0,D,C,C
+humanities,1421,Rude,1,0,D,C,C
+humanities,1421,Very Rude,1,100,D,D,D
+humanities,1422,Very Friendly,1,100,D,D,D
+humanities,1422,Friendly,1,100,D,D,D
+humanities,1422,Neutral,1,0,D,C,C
+humanities,1422,Rude,1,0,D,C,C
+humanities,1422,Very Rude,1,0,D,C,C
+humanities,1428,Very Friendly,1,100,C,C,C
+humanities,1428,Friendly,1,100,C,C,C
+humanities,1428,Neutral,1,100,C,C,C
+humanities,1428,Rude,1,100,C,C,C
+humanities,1428,Very Rude,1,100,C,C,C
+humanities,1438,Very Friendly,1,100,B,B,B
+humanities,1438,Friendly,1,100,B,B,B
+humanities,1438,Neutral,1,100,B,B,B
+humanities,1438,Rude,1,100,B,B,B
+humanities,1438,Very Rude,1,100,B,B,B
+humanities,1445,Very Friendly,1,100,C,C,C
+humanities,1445,Friendly,1,100,C,C,C
+humanities,1445,Neutral,1,100,C,C,C
+humanities,1445,Rude,1,100,C,C,C
+humanities,1445,Very Rude,1,100,C,C,C
+humanities,1449,Very Friendly,1,100,A,A,A
+humanities,1449,Friendly,1,100,A,A,A
+humanities,1449,Neutral,1,100,A,A,A
+humanities,1449,Rude,1,100,A,A,A
+humanities,1449,Very Rude,1,100,A,A,A
+humanities,1452,Very Friendly,1,100,A,A,A
+humanities,1452,Friendly,1,100,A,A,A
+humanities,1452,Neutral,1,100,A,A,A
+humanities,1452,Rude,1,100,A,A,A
+humanities,1452,Very Rude,1,100,A,A,A
+humanities,1457,Very Friendly,1,100,B,B,B
+humanities,1457,Friendly,1,100,B,B,B
+humanities,1457,Neutral,1,100,B,B,B
+humanities,1457,Rude,1,100,B,B,B
+humanities,1457,Very Rude,1,100,B,B,B
+humanities,1468,Very Friendly,1,0,A,B,B
+humanities,1468,Friendly,1,100,A,A,A
+humanities,1468,Neutral,1,100,A,A,A
+humanities,1468,Rude,1,100,A,A,A
+humanities,1468,Very Rude,1,100,A,A,A
+humanities,1480,Very Friendly,1,100,C,C,C
+humanities,1480,Friendly,1,0,C,A,A
+humanities,1480,Neutral,1,0,C,A,A
+humanities,1480,Rude,1,0,C,A,A
+humanities,1480,Very Rude,1,0,C,A,A
+humanities,1481,Very Friendly,1,100,D,D,D
+humanities,1481,Friendly,1,100,D,D,D
+humanities,1481,Neutral,1,100,D,D,D
+humanities,1481,Rude,1,100,D,D,D
+humanities,1481,Very Rude,1,100,D,D,D
+humanities,1484,Very Friendly,1,100,A,A,A
+humanities,1484,Friendly,1,100,A,A,A
+humanities,1484,Neutral,1,100,A,A,A
+humanities,1484,Rude,1,100,A,A,A
+humanities,1484,Very Rude,1,100,A,A,A
+humanities,1486,Very Friendly,1,100,A,A,A
+humanities,1486,Friendly,1,100,A,A,A
+humanities,1486,Neutral,1,100,A,A,A
+humanities,1486,Rude,1,100,A,A,A
+humanities,1486,Very Rude,1,100,A,A,A
+humanities,1488,Very Friendly,1,0,C,D,D
+humanities,1488,Friendly,1,0,C,D,D
+humanities,1488,Neutral,1,0,C,D,D
+humanities,1488,Rude,1,0,C,D,D
+humanities,1488,Very Rude,1,0,C,D,D
+humanities,1492,Very Friendly,1,100,A,A,A
+humanities,1492,Friendly,1,100,A,A,A
+humanities,1492,Neutral,1,100,A,A,A
+humanities,1492,Rude,1,100,A,A,A
+humanities,1492,Very Rude,1,100,A,A,A
+humanities,1499,Very Friendly,1,100,C,C,C
+humanities,1499,Friendly,1,100,C,C,C
+humanities,1499,Neutral,1,100,C,C,C
+humanities,1499,Rude,1,100,C,C,C
+humanities,1499,Very Rude,1,100,C,C,C
+humanities,1504,Very Friendly,1,0,B,D,D
+humanities,1504,Friendly,1,0,B,D,D
+humanities,1504,Neutral,1,0,B,D,D
+humanities,1504,Rude,1,100,B,B,B
+humanities,1504,Very Rude,1,100,B,B,B
+humanities,1505,Very Friendly,1,100,A,A,A
+humanities,1505,Friendly,1,0,A,B,B
+humanities,1505,Neutral,1,100,A,A,A
+humanities,1505,Rude,1,0,A,B,B
+humanities,1505,Very Rude,1,0,A,B,B
+humanities,1506,Very Friendly,1,100,B,B,B
+humanities,1506,Friendly,1,100,B,B,B
+humanities,1506,Neutral,1,100,B,B,B
+humanities,1506,Rude,1,100,B,B,B
+humanities,1506,Very Rude,1,100,B,B,B
+humanities,1508,Very Friendly,1,100,B,B,B
+humanities,1508,Friendly,1,100,B,B,B
+humanities,1508,Neutral,1,100,B,B,B
+humanities,1508,Rude,1,100,B,B,B
+humanities,1508,Very Rude,1,100,B,B,B
+humanities,1511,Very Friendly,1,100,C,C,C
+humanities,1511,Friendly,1,100,C,C,C
+humanities,1511,Neutral,1,100,C,C,C
+humanities,1511,Rude,1,100,C,C,C
+humanities,1511,Very Rude,1,100,C,C,C
+humanities,1533,Very Friendly,1,100,D,D,D
+humanities,1533,Friendly,1,100,D,D,D
+humanities,1533,Neutral,1,100,D,D,D
+humanities,1533,Rude,1,100,D,D,D
+humanities,1533,Very Rude,1,100,D,D,D
+humanities,1534,Very Friendly,1,0,B,A,A
+humanities,1534,Friendly,1,0,B,A,A
+humanities,1534,Neutral,1,0,B,A,A
+humanities,1534,Rude,1,0,B,A,A
+humanities,1534,Very Rude,1,0,B,A,A
+humanities,1535,Very Friendly,1,0,D,B,B
+humanities,1535,Friendly,1,100,D,D,D
+humanities,1535,Neutral,1,100,D,D,D
+humanities,1535,Rude,1,100,D,D,D
+humanities,1535,Very Rude,1,100,D,D,D
+humanities,1537,Very Friendly,1,100,D,D,D
+humanities,1537,Friendly,1,100,D,D,D
+humanities,1537,Neutral,1,0,D,C,C
+humanities,1537,Rude,1,100,D,D,D
+humanities,1537,Very Rude,1,0,D,C,C
+humanities,1540,Very Friendly,1,100,B,B,B
+humanities,1540,Friendly,1,100,B,B,B
+humanities,1540,Neutral,1,100,B,B,B
+humanities,1540,Rude,1,100,B,B,B
+humanities,1540,Very Rude,1,100,B,B,B
+humanities,1551,Very Friendly,1,100,C,C,C
+humanities,1551,Friendly,1,100,C,C,C
+humanities,1551,Neutral,1,100,C,C,C
+humanities,1551,Rude,1,100,C,C,C
+humanities,1551,Very Rude,1,100,C,C,C
+humanities,1558,Very Friendly,1,100,D,D,D
+humanities,1558,Friendly,1,100,D,D,D
+humanities,1558,Neutral,1,100,D,D,D
+humanities,1558,Rude,1,100,D,D,D
+humanities,1558,Very Rude,1,100,D,D,D
+humanities,1564,Very Friendly,1,100,C,C,C
+humanities,1564,Friendly,1,100,C,C,C
+humanities,1564,Neutral,1,100,C,C,C
+humanities,1564,Rude,1,0,C,D,D
+humanities,1564,Very Rude,1,100,C,C,C
+humanities,1565,Very Friendly,1,100,B,B,B
+humanities,1565,Friendly,1,100,B,B,B
+humanities,1565,Neutral,1,100,B,B,B
+humanities,1565,Rude,1,100,B,B,B
+humanities,1565,Very Rude,1,100,B,B,B
+humanities,1579,Very Friendly,1,100,A,A,A
+humanities,1579,Friendly,1,100,A,A,A
+humanities,1579,Neutral,1,100,A,A,A
+humanities,1579,Rude,1,100,A,A,A
+humanities,1579,Very Rude,1,100,A,A,A
+humanities,1581,Very Friendly,1,0,C,D,D
+humanities,1581,Friendly,1,0,C,D,D
+humanities,1581,Neutral,1,0,C,D,D
+humanities,1581,Rude,1,0,C,D,D
+humanities,1581,Very Rude,1,0,C,D,D
+humanities,1584,Very Friendly,1,100,A,A,A
+humanities,1584,Friendly,1,100,A,A,A
+humanities,1584,Neutral,1,100,A,A,A
+humanities,1584,Rude,1,0,A,B,B
+humanities,1584,Very Rude,1,0,A,B,B
+humanities,1587,Very Friendly,1,100,B,B,B
+humanities,1587,Friendly,1,100,B,B,B
+humanities,1587,Neutral,1,100,B,B,B
+humanities,1587,Rude,1,100,B,B,B
+humanities,1587,Very Rude,1,100,B,B,B
+humanities,1589,Very Friendly,1,0,C,B,B
+humanities,1589,Friendly,1,0,C,B,B
+humanities,1589,Neutral,1,0,C,B,B
+humanities,1589,Rude,1,0,C,B,B
+humanities,1589,Very Rude,1,0,C,B,B
+humanities,1590,Very Friendly,1,100,B,B,B
+humanities,1590,Friendly,1,100,B,B,B
+humanities,1590,Neutral,1,100,B,B,B
+humanities,1590,Rude,1,100,B,B,B
+humanities,1590,Very Rude,1,100,B,B,B
+humanities,1593,Very Friendly,1,100,A,A,A
+humanities,1593,Friendly,1,100,A,A,A
+humanities,1593,Neutral,1,100,A,A,A
+humanities,1593,Rude,1,100,A,A,A
+humanities,1593,Very Rude,1,100,A,A,A
+humanities,1594,Very Friendly,1,100,D,D,D
+humanities,1594,Friendly,1,100,D,D,D
+humanities,1594,Neutral,1,100,D,D,D
+humanities,1594,Rude,1,100,D,D,D
+humanities,1594,Very Rude,1,100,D,D,D
+humanities,1599,Very Friendly,1,100,A,A,A
+humanities,1599,Friendly,1,100,A,A,A
+humanities,1599,Neutral,1,100,A,A,A
+humanities,1599,Rude,1,100,A,A,A
+humanities,1599,Very Rude,1,100,A,A,A
+humanities,1607,Very Friendly,1,0,C,A,A
+humanities,1607,Friendly,1,0,C,A,A
+humanities,1607,Neutral,1,0,C,A,A
+humanities,1607,Rude,1,0,C,A,A
+humanities,1607,Very Rude,1,0,C,A,A
+humanities,1611,Very Friendly,1,100,D,D,D
+humanities,1611,Friendly,1,100,D,D,D
+humanities,1611,Neutral,1,100,D,D,D
+humanities,1611,Rude,1,100,D,D,D
+humanities,1611,Very Rude,1,100,D,D,D
+humanities,1616,Very Friendly,1,100,D,D,D
+humanities,1616,Friendly,1,100,D,D,D
+humanities,1616,Neutral,1,100,D,D,D
+humanities,1616,Rude,1,100,D,D,D
+humanities,1616,Very Rude,1,100,D,D,D
+humanities,1617,Very Friendly,1,0,B,A,A
+humanities,1617,Friendly,1,0,B,A,A
+humanities,1617,Neutral,1,0,B,A,A
+humanities,1617,Rude,1,0,B,A,A
+humanities,1617,Very Rude,1,0,B,A,A
+humanities,1618,Very Friendly,1,100,B,B,B
+humanities,1618,Friendly,1,100,B,B,B
+humanities,1618,Neutral,1,100,B,B,B
+humanities,1618,Rude,1,100,B,B,B
+humanities,1618,Very Rude,1,100,B,B,B
+humanities,1619,Very Friendly,1,0,C,D,D
+humanities,1619,Friendly,1,0,C,D,D
+humanities,1619,Neutral,1,0,C,D,D
+humanities,1619,Rude,1,0,C,D,D
+humanities,1619,Very Rude,1,0,C,D,D
+humanities,1651,Very Friendly,1,0,D,B,B
+humanities,1651,Friendly,1,0,D,B,B
+humanities,1651,Neutral,1,0,D,B,B
+humanities,1651,Rude,1,0,D,B,B
+humanities,1651,Very Rude,1,0,D,B,B
+humanities,1663,Very Friendly,1,100,C,C,C
+humanities,1663,Friendly,1,0,C,A,A
+humanities,1663,Neutral,1,100,C,C,C
+humanities,1663,Rude,1,100,C,C,C
+humanities,1663,Very Rude,1,0,C,A,A
+humanities,1671,Very Friendly,1,100,D,D,D
+humanities,1671,Friendly,1,100,D,D,D
+humanities,1671,Neutral,1,100,D,D,D
+humanities,1671,Rude,1,100,D,D,D
+humanities,1671,Very Rude,1,100,D,D,D
+humanities,1676,Very Friendly,1,100,A,A,A
+humanities,1676,Friendly,1,100,A,A,A
+humanities,1676,Neutral,1,100,A,A,A
+humanities,1676,Rude,1,100,A,A,A
+humanities,1676,Very Rude,1,100,A,A,A
+humanities,1692,Very Friendly,1,100,D,D,D
+humanities,1692,Friendly,1,100,D,D,D
+humanities,1692,Neutral,1,100,D,D,D
+humanities,1692,Rude,1,100,D,D,D
+humanities,1692,Very Rude,1,100,D,D,D
+humanities,1698,Very Friendly,1,100,A,A,A
+humanities,1698,Friendly,1,100,A,A,A
+humanities,1698,Neutral,1,100,A,A,A
+humanities,1698,Rude,1,100,A,A,A
+humanities,1698,Very Rude,1,100,A,A,A
+humanities,1700,Very Friendly,1,100,B,B,B
+humanities,1700,Friendly,1,100,B,B,B
+humanities,1700,Neutral,1,100,B,B,B
+humanities,1700,Rude,1,100,B,B,B
+humanities,1700,Very Rude,1,100,B,B,B
+humanities,1706,Very Friendly,1,100,A,A,A
+humanities,1706,Friendly,1,100,A,A,A
+humanities,1706,Neutral,1,100,A,A,A
+humanities,1706,Rude,1,100,A,A,A
+humanities,1706,Very Rude,1,100,A,A,A
+humanities,1715,Very Friendly,1,100,D,D,D
+humanities,1715,Friendly,1,100,D,D,D
+humanities,1715,Neutral,1,100,D,D,D
+humanities,1715,Rude,1,100,D,D,D
+humanities,1715,Very Rude,1,100,D,D,D
+humanities,1718,Very Friendly,1,100,D,D,D
+humanities,1718,Friendly,1,100,D,D,D
+humanities,1718,Neutral,1,100,D,D,D
+humanities,1718,Rude,1,100,D,D,D
+humanities,1718,Very Rude,1,100,D,D,D
+humanities,1721,Very Friendly,1,100,B,B,B
+humanities,1721,Friendly,1,100,B,B,B
+humanities,1721,Neutral,1,100,B,B,B
+humanities,1721,Rude,1,100,B,B,B
+humanities,1721,Very Rude,1,100,B,B,B
+humanities,1722,Very Friendly,1,100,D,D,D
+humanities,1722,Friendly,1,100,D,D,D
+humanities,1722,Neutral,1,100,D,D,D
+humanities,1722,Rude,1,100,D,D,D
+humanities,1722,Very Rude,1,100,D,D,D
+humanities,1727,Very Friendly,1,100,D,D,D
+humanities,1727,Friendly,1,100,D,D,D
+humanities,1727,Neutral,1,100,D,D,D
+humanities,1727,Rude,1,100,D,D,D
+humanities,1727,Very Rude,1,100,D,D,D
+humanities,1729,Very Friendly,1,100,A,A,A
+humanities,1729,Friendly,1,100,A,A,A
+humanities,1729,Neutral,1,100,A,A,A
+humanities,1729,Rude,1,100,A,A,A
+humanities,1729,Very Rude,1,100,A,A,A
+humanities,1737,Very Friendly,1,100,C,C,C
+humanities,1737,Friendly,1,100,C,C,C
+humanities,1737,Neutral,1,100,C,C,C
+humanities,1737,Rude,1,100,C,C,C
+humanities,1737,Very Rude,1,100,C,C,C
+humanities,1739,Very Friendly,1,100,A,A,A
+humanities,1739,Friendly,1,100,A,A,A
+humanities,1739,Neutral,1,100,A,A,A
+humanities,1739,Rude,1,100,A,A,A
+humanities,1739,Very Rude,1,100,A,A,A
+humanities,1740,Very Friendly,1,0,C,D,D
+humanities,1740,Friendly,1,0,C,D,D
+humanities,1740,Neutral,1,0,C,D,D
+humanities,1740,Rude,1,0,C,D,D
+humanities,1740,Very Rude,1,0,C,D,D
+humanities,1744,Very Friendly,1,100,D,D,D
+humanities,1744,Friendly,1,100,D,D,D
+humanities,1744,Neutral,1,100,D,D,D
+humanities,1744,Rude,1,100,D,D,D
+humanities,1744,Very Rude,1,100,D,D,D
+humanities,1745,Very Friendly,1,100,C,C,C
+humanities,1745,Friendly,1,100,C,C,C
+humanities,1745,Neutral,1,100,C,C,C
+humanities,1745,Rude,1,100,C,C,C
+humanities,1745,Very Rude,1,100,C,C,C
+humanities,1747,Very Friendly,1,100,C,C,C
+humanities,1747,Friendly,1,100,C,C,C
+humanities,1747,Neutral,1,100,C,C,C
+humanities,1747,Rude,1,100,C,C,C
+humanities,1747,Very Rude,1,100,C,C,C
+humanities,1748,Very Friendly,1,100,D,D,D
+humanities,1748,Friendly,1,100,D,D,D
+humanities,1748,Neutral,1,100,D,D,D
+humanities,1748,Rude,1,100,D,D,D
+humanities,1748,Very Rude,1,100,D,D,D
+humanities,1753,Very Friendly,1,100,C,C,C
+humanities,1753,Friendly,1,100,C,C,C
+humanities,1753,Neutral,1,100,C,C,C
+humanities,1753,Rude,1,100,C,C,C
+humanities,1753,Very Rude,1,100,C,C,C
+humanities,1757,Very Friendly,1,100,D,D,D
+humanities,1757,Friendly,1,100,D,D,D
+humanities,1757,Neutral,1,100,D,D,D
+humanities,1757,Rude,1,100,D,D,D
+humanities,1757,Very Rude,1,100,D,D,D
+humanities,1768,Very Friendly,1,100,A,A,A
+humanities,1768,Friendly,1,100,A,A,A
+humanities,1768,Neutral,1,100,A,A,A
+humanities,1768,Rude,1,100,A,A,A
+humanities,1768,Very Rude,1,100,A,A,A
+humanities,1771,Very Friendly,1,100,C,C,C
+humanities,1771,Friendly,1,100,C,C,C
+humanities,1771,Neutral,1,100,C,C,C
+humanities,1771,Rude,1,100,C,C,C
+humanities,1771,Very Rude,1,100,C,C,C
+humanities,1778,Very Friendly,1,0,C,A,A
+humanities,1778,Friendly,1,0,C,A,A
+humanities,1778,Neutral,1,0,C,A,A
+humanities,1778,Rude,1,0,C,A,A
+humanities,1778,Very Rude,1,0,C,A,A
+humanities,1780,Very Friendly,1,0,C,D,D
+humanities,1780,Friendly,1,0,C,D,D
+humanities,1780,Neutral,1,0,C,D,D
+humanities,1780,Rude,1,0,C,D,D
+humanities,1780,Very Rude,1,0,C,D,D
+humanities,1781,Very Friendly,1,100,D,D,D
+humanities,1781,Friendly,1,100,D,D,D
+humanities,1781,Neutral,1,100,D,D,D
+humanities,1781,Rude,1,100,D,D,D
+humanities,1781,Very Rude,1,100,D,D,D
+humanities,1783,Very Friendly,1,100,A,A,A
+humanities,1783,Friendly,1,100,A,A,A
+humanities,1783,Neutral,1,100,A,A,A
+humanities,1783,Rude,1,100,A,A,A
+humanities,1783,Very Rude,1,100,A,A,A
+humanities,1787,Very Friendly,1,100,C,C,C
+humanities,1787,Friendly,1,100,C,C,C
+humanities,1787,Neutral,1,100,C,C,C
+humanities,1787,Rude,1,0,C,D,D
+humanities,1787,Very Rude,1,0,C,D,D
+humanities,1788,Very Friendly,1,100,D,D,D
+humanities,1788,Friendly,1,100,D,D,D
+humanities,1788,Neutral,1,100,D,D,D
+humanities,1788,Rude,1,100,D,D,D
+humanities,1788,Very Rude,1,100,D,D,D
+humanities,1790,Very Friendly,1,100,C,C,C
+humanities,1790,Friendly,1,100,C,C,C
+humanities,1790,Neutral,1,100,C,C,C
+humanities,1790,Rude,1,100,C,C,C
+humanities,1790,Very Rude,1,100,C,C,C
+humanities,1794,Very Friendly,1,0,B,D,D
+humanities,1794,Friendly,1,0,B,D,D
+humanities,1794,Neutral,1,0,B,D,D
+humanities,1794,Rude,1,0,B,D,D
+humanities,1794,Very Rude,1,0,B,D,D
+humanities,1801,Very Friendly,1,100,B,B,B
+humanities,1801,Friendly,1,100,B,B,B
+humanities,1801,Neutral,1,100,B,B,B
+humanities,1801,Rude,1,100,B,B,B
+humanities,1801,Very Rude,1,100,B,B,B
+humanities,1804,Very Friendly,1,0,C,B,B
+humanities,1804,Friendly,1,0,C,B,B
+humanities,1804,Neutral,1,0,C,D,D
+humanities,1804,Rude,1,0,C,B,B
+humanities,1804,Very Rude,1,0,C,B,B
+humanities,1813,Very Friendly,1,100,A,A,A
+humanities,1813,Friendly,1,100,A,A,A
+humanities,1813,Neutral,1,100,A,A,A
+humanities,1813,Rude,1,100,A,A,A
+humanities,1813,Very Rude,1,100,A,A,A
+humanities,1814,Very Friendly,1,100,D,D,D
+humanities,1814,Friendly,1,100,D,D,D
+humanities,1814,Neutral,1,100,D,D,D
+humanities,1814,Rude,1,100,D,D,D
+humanities,1814,Very Rude,1,100,D,D,D
+humanities,1823,Very Friendly,1,100,A,A,A
+humanities,1823,Friendly,1,100,A,A,A
+humanities,1823,Neutral,1,100,A,A,A
+humanities,1823,Rude,1,100,A,A,A
+humanities,1823,Very Rude,1,100,A,A,A
+humanities,1833,Very Friendly,1,100,A,A,A
+humanities,1833,Friendly,1,100,A,A,A
+humanities,1833,Neutral,1,100,A,A,A
+humanities,1833,Rude,1,100,A,A,A
+humanities,1833,Very Rude,1,100,A,A,A
+humanities,1834,Very Friendly,1,100,D,D,D
+humanities,1834,Friendly,1,100,D,D,D
+humanities,1834,Neutral,1,100,D,D,D
+humanities,1834,Rude,1,100,D,D,D
+humanities,1834,Very Rude,1,100,D,D,D
+humanities,1836,Very Friendly,1,100,D,D,D
+humanities,1836,Friendly,1,100,D,D,D
+humanities,1836,Neutral,1,100,D,D,D
+humanities,1836,Rude,1,100,D,D,D
+humanities,1836,Very Rude,1,100,D,D,D
+humanities,1840,Very Friendly,1,100,B,B,B
+humanities,1840,Friendly,1,100,B,B,B
+humanities,1840,Neutral,1,100,B,B,B
+humanities,1840,Rude,1,100,B,B,B
+humanities,1840,Very Rude,1,100,B,B,B
+humanities,1841,Very Friendly,1,100,B,B,B
+humanities,1841,Friendly,1,100,B,B,B
+humanities,1841,Neutral,1,100,B,B,B
+humanities,1841,Rude,1,100,B,B,B
+humanities,1841,Very Rude,1,100,B,B,B
+humanities,1843,Very Friendly,1,100,D,D,D
+humanities,1843,Friendly,1,100,D,D,D
+humanities,1843,Neutral,1,100,D,D,D
+humanities,1843,Rude,1,100,D,D,D
+humanities,1843,Very Rude,1,100,D,D,D
+humanities,1845,Very Friendly,1,100,D,D,D
+humanities,1845,Friendly,1,100,D,D,D
+humanities,1845,Neutral,1,100,D,D,D
+humanities,1845,Rude,1,100,D,D,D
+humanities,1845,Very Rude,1,100,D,D,D
+humanities,1847,Very Friendly,1,100,A,A,A
+humanities,1847,Friendly,1,100,A,A,A
+humanities,1847,Neutral,1,100,A,A,A
+humanities,1847,Rude,1,100,A,A,A
+humanities,1847,Very Rude,1,100,A,A,A
+humanities,1850,Very Friendly,1,100,C,C,C
+humanities,1850,Friendly,1,100,C,C,C
+humanities,1850,Neutral,1,100,C,C,C
+humanities,1850,Rude,1,100,C,C,C
+humanities,1850,Very Rude,1,100,C,C,C
+humanities,1861,Very Friendly,1,0,C,A,A
+humanities,1861,Friendly,1,100,C,C,C
+humanities,1861,Neutral,1,0,C,A,A
+humanities,1861,Rude,1,0,C,A,A
+humanities,1861,Very Rude,1,0,C,A,A
+humanities,1865,Very Friendly,1,0,D,C,C
+humanities,1865,Friendly,1,0,D,C,C
+humanities,1865,Neutral,1,0,D,C,C
+humanities,1865,Rude,1,0,D,C,C
+humanities,1865,Very Rude,1,0,D,C,C
+humanities,1868,Very Friendly,1,100,C,C,C
+humanities,1868,Friendly,1,100,C,C,C
+humanities,1868,Neutral,1,100,C,C,C
+humanities,1868,Rude,1,100,C,C,C
+humanities,1868,Very Rude,1,100,C,C,C
+humanities,1873,Very Friendly,1,100,D,D,D
+humanities,1873,Friendly,1,100,D,D,D
+humanities,1873,Neutral,1,100,D,D,D
+humanities,1873,Rude,1,100,D,D,D
+humanities,1873,Very Rude,1,100,D,D,D
+humanities,1874,Very Friendly,1,100,A,A,A
+humanities,1874,Friendly,1,100,A,A,A
+humanities,1874,Neutral,1,100,A,A,A
+humanities,1874,Rude,1,100,A,A,A
+humanities,1874,Very Rude,1,100,A,A,A
+humanities,1878,Very Friendly,1,0,A,B,B
+humanities,1878,Friendly,1,0,A,B,B
+humanities,1878,Neutral,1,0,A,B,B
+humanities,1878,Rude,1,0,A,B,B
+humanities,1878,Very Rude,1,0,A,B,B
+humanities,1882,Very Friendly,1,100,B,B,B
+humanities,1882,Friendly,1,100,B,B,B
+humanities,1882,Neutral,1,100,B,B,B
+humanities,1882,Rude,1,100,B,B,B
+humanities,1882,Very Rude,1,100,B,B,B
+humanities,1887,Very Friendly,1,100,D,D,D
+humanities,1887,Friendly,1,100,D,D,D
+humanities,1887,Neutral,1,100,D,D,D
+humanities,1887,Rude,1,100,D,D,D
+humanities,1887,Very Rude,1,100,D,D,D
+humanities,1894,Very Friendly,1,100,B,B,B
+humanities,1894,Friendly,1,100,B,B,B
+humanities,1894,Neutral,1,100,B,B,B
+humanities,1894,Rude,1,100,B,B,B
+humanities,1894,Very Rude,1,100,B,B,B
+humanities,1895,Very Friendly,1,100,A,A,A
+humanities,1895,Friendly,1,100,A,A,A
+humanities,1895,Neutral,1,100,A,A,A
+humanities,1895,Rude,1,100,A,A,A
+humanities,1895,Very Rude,1,100,A,A,A
+humanities,1897,Very Friendly,1,100,D,D,D
+humanities,1897,Friendly,1,100,D,D,D
+humanities,1897,Neutral,1,100,D,D,D
+humanities,1897,Rude,1,100,D,D,D
+humanities,1897,Very Rude,1,100,D,D,D
+humanities,1899,Very Friendly,1,0,A,D,D
+humanities,1899,Friendly,1,0,A,D,D
+humanities,1899,Neutral,1,0,A,D,D
+humanities,1899,Rude,1,0,A,D,D
+humanities,1899,Very Rude,1,0,A,D,D
+humanities,1903,Very Friendly,1,100,B,B,B
+humanities,1903,Friendly,1,100,B,B,B
+humanities,1903,Neutral,1,100,B,B,B
+humanities,1903,Rude,1,100,B,B,B
+humanities,1903,Very Rude,1,100,B,B,B
+humanities,1910,Very Friendly,1,100,C,C,C
+humanities,1910,Friendly,1,100,C,C,C
+humanities,1910,Neutral,1,100,C,C,C
+humanities,1910,Rude,1,100,C,C,C
+humanities,1910,Very Rude,1,100,C,C,C
+humanities,1911,Very Friendly,1,0,A,B,B
+humanities,1911,Friendly,1,0,A,B,B
+humanities,1911,Neutral,1,0,A,B,B
+humanities,1911,Rude,1,0,A,B,B
+humanities,1911,Very Rude,1,0,A,B,B
+humanities,1913,Very Friendly,1,100,A,A,A
+humanities,1913,Friendly,1,100,A,A,A
+humanities,1913,Neutral,1,100,A,A,A
+humanities,1913,Rude,1,100,A,A,A
+humanities,1913,Very Rude,1,100,A,A,A
+humanities,1916,Very Friendly,1,100,C,C,C
+humanities,1916,Friendly,1,100,C,C,C
+humanities,1916,Neutral,1,100,C,C,C
+humanities,1916,Rude,1,100,C,C,C
+humanities,1916,Very Rude,1,100,C,C,C
+humanities,1919,Very Friendly,1,0,C,D,D
+humanities,1919,Friendly,1,0,C,D,D
+humanities,1919,Neutral,1,0,C,D,D
+humanities,1919,Rude,1,0,C,D,D
+humanities,1919,Very Rude,1,0,C,D,D
+humanities,1920,Very Friendly,1,100,C,C,C
+humanities,1920,Friendly,1,100,C,C,C
+humanities,1920,Neutral,1,100,C,C,C
+humanities,1920,Rude,1,100,C,C,C
+humanities,1920,Very Rude,1,100,C,C,C
+humanities,1922,Very Friendly,1,100,A,A,A
+humanities,1922,Friendly,1,100,A,A,A
+humanities,1922,Neutral,1,100,A,A,A
+humanities,1922,Rude,1,100,A,A,A
+humanities,1922,Very Rude,1,100,A,A,A
+humanities,1927,Very Friendly,1,100,B,B,B
+humanities,1927,Friendly,1,100,B,B,B
+humanities,1927,Neutral,1,100,B,B,B
+humanities,1927,Rude,1,100,B,B,B
+humanities,1927,Very Rude,1,100,B,B,B
+humanities,1937,Very Friendly,1,100,A,A,A
+humanities,1937,Friendly,1,100,A,A,A
+humanities,1937,Neutral,1,100,A,A,A
+humanities,1937,Rude,1,100,A,A,A
+humanities,1937,Very Rude,1,100,A,A,A
+humanities,1938,Very Friendly,1,0,C,D,D
+humanities,1938,Friendly,1,0,C,D,D
+humanities,1938,Neutral,1,0,C,D,D
+humanities,1938,Rude,1,0,C,D,D
+humanities,1938,Very Rude,1,0,C,D,D
+humanities,1942,Very Friendly,1,0,D,B,B
+humanities,1942,Friendly,1,100,D,D,D
+humanities,1942,Neutral,1,0,D,B,B
+humanities,1942,Rude,1,0,D,B,B
+humanities,1942,Very Rude,1,0,D,B,B
+humanities,1946,Very Friendly,1,100,B,B,B
+humanities,1946,Friendly,1,100,B,B,B
+humanities,1946,Neutral,1,100,B,B,B
+humanities,1946,Rude,1,100,B,B,B
+humanities,1946,Very Rude,1,100,B,B,B
+humanities,1947,Very Friendly,1,100,A,A,A
+humanities,1947,Friendly,1,100,A,A,A
+humanities,1947,Neutral,1,100,A,A,A
+humanities,1947,Rude,1,100,A,A,A
+humanities,1947,Very Rude,1,100,A,A,A
+humanities,1953,Very Friendly,1,100,D,D,D
+humanities,1953,Friendly,1,100,D,D,D
+humanities,1953,Neutral,1,100,D,D,D
+humanities,1953,Rude,1,100,D,D,D
+humanities,1953,Very Rude,1,100,D,D,D
+humanities,1962,Very Friendly,1,100,B,B,B
+humanities,1962,Friendly,1,100,B,B,B
+humanities,1962,Neutral,1,100,B,B,B
+humanities,1962,Rude,1,100,B,B,B
+humanities,1962,Very Rude,1,100,B,B,B
+humanities,1968,Very Friendly,1,0,B,D,D
+humanities,1968,Friendly,1,0,B,D,D
+humanities,1968,Neutral,1,0,B,D,D
+humanities,1968,Rude,1,0,B,D,D
+humanities,1968,Very Rude,1,0,B,D,D
+humanities,1973,Very Friendly,1,100,A,A,A
+humanities,1973,Friendly,1,100,A,A,A
+humanities,1973,Neutral,1,100,A,A,A
+humanities,1973,Rude,1,100,A,A,A
+humanities,1973,Very Rude,1,100,A,A,A
+humanities,1974,Very Friendly,1,100,B,B,B
+humanities,1974,Friendly,1,100,B,B,B
+humanities,1974,Neutral,1,100,B,B,B
+humanities,1974,Rude,1,100,B,B,B
+humanities,1974,Very Rude,1,100,B,B,B
+humanities,1979,Very Friendly,1,100,D,D,D
+humanities,1979,Friendly,1,100,D,D,D
+humanities,1979,Neutral,1,100,D,D,D
+humanities,1979,Rude,1,100,D,D,D
+humanities,1979,Very Rude,1,100,D,D,D
+humanities,2005,Very Friendly,1,100,C,C,C
+humanities,2005,Friendly,1,100,C,C,C
+humanities,2005,Neutral,1,100,C,C,C
+humanities,2005,Rude,1,100,C,C,C
+humanities,2005,Very Rude,1,100,C,C,C
+humanities,2012,Very Friendly,1,100,B,B,B
+humanities,2012,Friendly,1,100,B,B,B
+humanities,2012,Neutral,1,100,B,B,B
+humanities,2012,Rude,1,100,B,B,B
+humanities,2012,Very Rude,1,100,B,B,B
+humanities,2019,Very Friendly,1,100,A,A,A
+humanities,2019,Friendly,1,100,A,A,A
+humanities,2019,Neutral,1,100,A,A,A
+humanities,2019,Rude,1,100,A,A,A
+humanities,2019,Very Rude,1,100,A,A,A
+humanities,2025,Very Friendly,1,100,C,C,C
+humanities,2025,Friendly,1,100,C,C,C
+humanities,2025,Neutral,1,100,C,C,C
+humanities,2025,Rude,1,100,C,C,C
+humanities,2025,Very Rude,1,100,C,C,C
+humanities,2026,Very Friendly,1,100,A,A,A
+humanities,2026,Friendly,1,100,A,A,A
+humanities,2026,Neutral,1,100,A,A,A
+humanities,2026,Rude,1,100,A,A,A
+humanities,2026,Very Rude,1,100,A,A,A
+humanities,2030,Very Friendly,1,0,D,B,B
+humanities,2030,Friendly,1,0,D,B,B
+humanities,2030,Neutral,1,0,D,B,B
+humanities,2030,Rude,1,0,D,B,B
+humanities,2030,Very Rude,1,0,D,B,B
+humanities,2035,Very Friendly,1,0,C,D,D
+humanities,2035,Friendly,1,0,C,D,D
+humanities,2035,Neutral,1,0,C,D,D
+humanities,2035,Rude,1,0,C,D,D
+humanities,2035,Very Rude,1,0,C,D,D
+humanities,2046,Very Friendly,1,100,A,A,A
+humanities,2046,Friendly,1,100,A,A,A
+humanities,2046,Neutral,1,100,A,A,A
+humanities,2046,Rude,1,100,A,A,A
+humanities,2046,Very Rude,1,100,A,A,A
+humanities,2054,Very Friendly,1,100,A,A,A
+humanities,2054,Friendly,1,100,A,A,A
+humanities,2054,Neutral,1,100,A,A,A
+humanities,2054,Rude,1,100,A,A,A
+humanities,2054,Very Rude,1,100,A,A,A
+humanities,2074,Very Friendly,1,100,D,D,D
+humanities,2074,Friendly,1,100,D,D,D
+humanities,2074,Neutral,1,100,D,D,D
+humanities,2074,Rude,1,100,D,D,D
+humanities,2074,Very Rude,1,100,D,D,D
+humanities,2079,Very Friendly,1,100,A,A,A
+humanities,2079,Friendly,1,100,A,A,A
+humanities,2079,Neutral,1,100,A,A,A
+humanities,2079,Rude,1,100,A,A,A
+humanities,2079,Very Rude,1,100,A,A,A
+humanities,2087,Very Friendly,1,100,D,D,D
+humanities,2087,Friendly,1,100,D,D,D
+humanities,2087,Neutral,1,100,D,D,D
+humanities,2087,Rude,1,100,D,D,D
+humanities,2087,Very Rude,1,100,D,D,D
+humanities,2089,Very Friendly,1,100,B,B,B
+humanities,2089,Friendly,1,100,B,B,B
+humanities,2089,Neutral,1,100,B,B,B
+humanities,2089,Rude,1,100,B,B,B
+humanities,2089,Very Rude,1,100,B,B,B
+humanities,2096,Very Friendly,1,100,D,D,D
+humanities,2096,Friendly,1,100,D,D,D
+humanities,2096,Neutral,1,100,D,D,D
+humanities,2096,Rude,1,100,D,D,D
+humanities,2096,Very Rude,1,100,D,D,D
+humanities,2097,Very Friendly,1,100,C,C,C
+humanities,2097,Friendly,1,100,C,C,C
+humanities,2097,Neutral,1,100,C,C,C
+humanities,2097,Rude,1,100,C,C,C
+humanities,2097,Very Rude,1,100,C,C,C
+humanities,2100,Very Friendly,1,100,B,B,B
+humanities,2100,Friendly,1,100,B,B,B
+humanities,2100,Neutral,1,100,B,B,B
+humanities,2100,Rude,1,100,B,B,B
+humanities,2100,Very Rude,1,100,B,B,B
+humanities,2101,Very Friendly,1,100,B,B,B
+humanities,2101,Friendly,1,100,B,B,B
+humanities,2101,Neutral,1,100,B,B,B
+humanities,2101,Rude,1,100,B,B,B
+humanities,2101,Very Rude,1,100,B,B,B
+humanities,2102,Very Friendly,1,0,C,D,D
+humanities,2102,Friendly,1,0,C,D,D
+humanities,2102,Neutral,1,0,C,D,D
+humanities,2102,Rude,1,0,C,D,D
+humanities,2102,Very Rude,1,0,C,D,D
+humanities,2115,Very Friendly,1,100,B,B,B
+humanities,2115,Friendly,1,100,B,B,B
+humanities,2115,Neutral,1,100,B,B,B
+humanities,2115,Rude,1,100,B,B,B
+humanities,2115,Very Rude,1,100,B,B,B
+humanities,2128,Very Friendly,1,100,A,A,A
+humanities,2128,Friendly,1,100,A,A,A
+humanities,2128,Neutral,1,100,A,A,A
+humanities,2128,Rude,1,100,A,A,A
+humanities,2128,Very Rude,1,100,A,A,A
+humanities,2132,Very Friendly,1,100,B,B,B
+humanities,2132,Friendly,1,100,B,B,B
+humanities,2132,Neutral,1,100,B,B,B
+humanities,2132,Rude,1,100,B,B,B
+humanities,2132,Very Rude,1,100,B,B,B
+humanities,2139,Very Friendly,1,100,D,D,D
+humanities,2139,Friendly,1,100,D,D,D
+humanities,2139,Neutral,1,100,D,D,D
+humanities,2139,Rude,1,100,D,D,D
+humanities,2139,Very Rude,1,100,D,D,D
+humanities,2145,Very Friendly,1,100,D,D,D
+humanities,2145,Friendly,1,100,D,D,D
+humanities,2145,Neutral,1,100,D,D,D
+humanities,2145,Rude,1,100,D,D,D
+humanities,2145,Very Rude,1,100,D,D,D
+humanities,2147,Very Friendly,1,0,A,B,B
+humanities,2147,Friendly,1,0,A,B,B
+humanities,2147,Neutral,1,0,A,B,B
+humanities,2147,Rude,1,0,A,B,B
+humanities,2147,Very Rude,1,0,A,B,B
+humanities,2154,Very Friendly,1,100,D,D,D
+humanities,2154,Friendly,1,100,D,D,D
+humanities,2154,Neutral,1,100,D,D,D
+humanities,2154,Rude,1,100,D,D,D
+humanities,2154,Very Rude,1,100,D,D,D
+humanities,2155,Very Friendly,1,100,B,B,B
+humanities,2155,Friendly,1,100,B,B,B
+humanities,2155,Neutral,1,100,B,B,B
+humanities,2155,Rude,1,100,B,B,B
+humanities,2155,Very Rude,1,100,B,B,B
+humanities,2168,Very Friendly,1,0,D,C,C
+humanities,2168,Friendly,1,0,D,C,C
+humanities,2168,Neutral,1,0,D,C,C
+humanities,2168,Rude,1,0,D,C,C
+humanities,2168,Very Rude,1,0,D,C,C
+humanities,2175,Very Friendly,1,0,D,B,B
+humanities,2175,Friendly,1,0,D,B,B
+humanities,2175,Neutral,1,0,D,B,B
+humanities,2175,Rude,1,0,D,B,B
+humanities,2175,Very Rude,1,0,D,B,B
+humanities,2180,Very Friendly,1,100,C,C,C
+humanities,2180,Friendly,1,100,C,C,C
+humanities,2180,Neutral,1,100,C,C,C
+humanities,2180,Rude,1,100,C,C,C
+humanities,2180,Very Rude,1,100,C,C,C
+humanities,2185,Very Friendly,1,100,B,B,B
+humanities,2185,Friendly,1,100,B,B,B
+humanities,2185,Neutral,1,100,B,B,B
+humanities,2185,Rude,1,100,B,B,B
+humanities,2185,Very Rude,1,100,B,B,B
+humanities,2190,Very Friendly,1,0,A,B,B
+humanities,2190,Friendly,1,100,A,A,A
+humanities,2190,Neutral,1,100,A,A,A
+humanities,2190,Rude,1,0,A,B,B
+humanities,2190,Very Rude,1,0,A,B,B
+humanities,2192,Very Friendly,1,0,D,B,B
+humanities,2192,Friendly,1,0,D,B,B
+humanities,2192,Neutral,1,0,D,B,B
+humanities,2192,Rude,1,0,D,B,B
+humanities,2192,Very Rude,1,0,D,B,B
+humanities,2202,Very Friendly,1,100,D,D,D
+humanities,2202,Friendly,1,100,D,D,D
+humanities,2202,Neutral,1,100,D,D,D
+humanities,2202,Rude,1,100,D,D,D
+humanities,2202,Very Rude,1,100,D,D,D
+humanities,2214,Very Friendly,1,100,D,D,D
+humanities,2214,Friendly,1,100,D,D,D
+humanities,2214,Neutral,1,100,D,D,D
+humanities,2214,Rude,1,100,D,D,D
+humanities,2214,Very Rude,1,100,D,D,D
+humanities,2216,Very Friendly,1,0,C,D,D
+humanities,2216,Friendly,1,0,C,D,D
+humanities,2216,Neutral,1,0,C,D,D
+humanities,2216,Rude,1,0,C,D,D
+humanities,2216,Very Rude,1,0,C,D,D
+humanities,2218,Very Friendly,1,0,C,D,D
+humanities,2218,Friendly,1,0,C,D,D
+humanities,2218,Neutral,1,0,C,D,D
+humanities,2218,Rude,1,0,C,D,D
+humanities,2218,Very Rude,1,0,C,D,D
+humanities,2227,Very Friendly,1,100,B,B,B
+humanities,2227,Friendly,1,100,B,B,B
+humanities,2227,Neutral,1,100,B,B,B
+humanities,2227,Rude,1,100,B,B,B
+humanities,2227,Very Rude,1,100,B,B,B
+humanities,2232,Very Friendly,1,100,A,A,A
+humanities,2232,Friendly,1,100,A,A,A
+humanities,2232,Neutral,1,100,A,A,A
+humanities,2232,Rude,1,100,A,A,A
+humanities,2232,Very Rude,1,100,A,A,A
+humanities,2234,Very Friendly,1,100,B,B,B
+humanities,2234,Friendly,1,100,B,B,B
+humanities,2234,Neutral,1,100,B,B,B
+humanities,2234,Rude,1,100,B,B,B
+humanities,2234,Very Rude,1,100,B,B,B
+humanities,2243,Very Friendly,1,100,D,D,D
+humanities,2243,Friendly,1,100,D,D,D
+humanities,2243,Neutral,1,100,D,D,D
+humanities,2243,Rude,1,100,D,D,D
+humanities,2243,Very Rude,1,100,D,D,D
+humanities,2250,Very Friendly,1,100,A,A,A
+humanities,2250,Friendly,1,100,A,A,A
+humanities,2250,Neutral,1,100,A,A,A
+humanities,2250,Rude,1,100,A,A,A
+humanities,2250,Very Rude,1,100,A,A,A
+humanities,2253,Very Friendly,1,100,D,D,D
+humanities,2253,Friendly,1,100,D,D,D
+humanities,2253,Neutral,1,100,D,D,D
+humanities,2253,Rude,1,100,D,D,D
+humanities,2253,Very Rude,1,100,D,D,D
+humanities,2255,Very Friendly,1,100,B,B,B
+humanities,2255,Friendly,1,100,B,B,B
+humanities,2255,Neutral,1,100,B,B,B
+humanities,2255,Rude,1,100,B,B,B
+humanities,2255,Very Rude,1,100,B,B,B
+humanities,2259,Very Friendly,1,100,D,D,D
+humanities,2259,Friendly,1,100,D,D,D
+humanities,2259,Neutral,1,0,D,B,B
+humanities,2259,Rude,1,0,D,B,B
+humanities,2259,Very Rude,1,0,D,B,B
+humanities,2260,Very Friendly,1,100,B,B,B
+humanities,2260,Friendly,1,100,B,B,B
+humanities,2260,Neutral,1,100,B,B,B
+humanities,2260,Rude,1,100,B,B,B
+humanities,2260,Very Rude,1,100,B,B,B
+humanities,2267,Very Friendly,1,100,B,B,B
+humanities,2267,Friendly,1,100,B,B,B
+humanities,2267,Neutral,1,100,B,B,B
+humanities,2267,Rude,1,100,B,B,B
+humanities,2267,Very Rude,1,100,B,B,B
+humanities,2269,Very Friendly,1,100,C,C,C
+humanities,2269,Friendly,1,100,C,C,C
+humanities,2269,Neutral,1,100,C,C,C
+humanities,2269,Rude,1,100,C,C,C
+humanities,2269,Very Rude,1,100,C,C,C
+humanities,2270,Very Friendly,1,100,C,C,C
+humanities,2270,Friendly,1,100,C,C,C
+humanities,2270,Neutral,1,100,C,C,C
+humanities,2270,Rude,1,100,C,C,C
+humanities,2270,Very Rude,1,100,C,C,C
+humanities,2275,Very Friendly,1,100,C,C,C
+humanities,2275,Friendly,1,100,C,C,C
+humanities,2275,Neutral,1,100,C,C,C
+humanities,2275,Rude,1,100,C,C,C
+humanities,2275,Very Rude,1,100,C,C,C
+humanities,2284,Very Friendly,1,100,C,C,C
+humanities,2284,Friendly,1,100,C,C,C
+humanities,2284,Neutral,1,100,C,C,C
+humanities,2284,Rude,1,100,C,C,C
+humanities,2284,Very Rude,1,100,C,C,C
+humanities,2293,Very Friendly,1,100,B,B,B
+humanities,2293,Friendly,1,100,B,B,B
+humanities,2293,Neutral,1,100,B,B,B
+humanities,2293,Rude,1,100,B,B,B
+humanities,2293,Very Rude,1,100,B,B,B
+humanities,2296,Very Friendly,1,0,D,C,C
+humanities,2296,Friendly,1,0,D,C,C
+humanities,2296,Neutral,1,0,D,C,C
+humanities,2296,Rude,1,0,D,C,C
+humanities,2296,Very Rude,1,0,D,C,C
+humanities,2306,Very Friendly,1,100,D,D,D
+humanities,2306,Friendly,1,100,D,D,D
+humanities,2306,Neutral,1,100,D,D,D
+humanities,2306,Rude,1,100,D,D,D
+humanities,2306,Very Rude,1,100,D,D,D
+humanities,2308,Very Friendly,1,100,A,A,A
+humanities,2308,Friendly,1,100,A,A,A
+humanities,2308,Neutral,1,100,A,A,A
+humanities,2308,Rude,1,100,A,A,A
+humanities,2308,Very Rude,1,100,A,A,A
+humanities,2310,Very Friendly,1,100,A,A,A
+humanities,2310,Friendly,1,100,A,A,A
+humanities,2310,Neutral,1,100,A,A,A
+humanities,2310,Rude,1,100,A,A,A
+humanities,2310,Very Rude,1,100,A,A,A
+humanities,2312,Very Friendly,1,100,D,D,D
+humanities,2312,Friendly,1,100,D,D,D
+humanities,2312,Neutral,1,100,D,D,D
+humanities,2312,Rude,1,100,D,D,D
+humanities,2312,Very Rude,1,100,D,D,D
+humanities,2313,Very Friendly,1,100,B,B,B
+humanities,2313,Friendly,1,100,B,B,B
+humanities,2313,Neutral,1,100,B,B,B
+humanities,2313,Rude,1,100,B,B,B
+humanities,2313,Very Rude,1,100,B,B,B
+humanities,2321,Very Friendly,1,100,A,A,A
+humanities,2321,Friendly,1,100,A,A,A
+humanities,2321,Neutral,1,100,A,A,A
+humanities,2321,Rude,1,100,A,A,A
+humanities,2321,Very Rude,1,100,A,A,A
+humanities,2347,Very Friendly,1,100,B,B,B
+humanities,2347,Friendly,1,100,B,B,B
+humanities,2347,Neutral,1,100,B,B,B
+humanities,2347,Rude,1,100,B,B,B
+humanities,2347,Very Rude,1,100,B,B,B
+humanities,2349,Very Friendly,1,100,B,B,B
+humanities,2349,Friendly,1,100,B,B,B
+humanities,2349,Neutral,1,100,B,B,B
+humanities,2349,Rude,1,100,B,B,B
+humanities,2349,Very Rude,1,100,B,B,B
+humanities,2356,Very Friendly,1,100,A,A,A
+humanities,2356,Friendly,1,100,A,A,A
+humanities,2356,Neutral,1,100,A,A,A
+humanities,2356,Rude,1,100,A,A,A
+humanities,2356,Very Rude,1,100,A,A,A
+humanities,2370,Very Friendly,1,100,B,B,B
+humanities,2370,Friendly,1,100,B,B,B
+humanities,2370,Neutral,1,100,B,B,B
+humanities,2370,Rude,1,100,B,B,B
+humanities,2370,Very Rude,1,100,B,B,B
+humanities,2375,Very Friendly,1,100,B,B,B
+humanities,2375,Friendly,1,100,B,B,B
+humanities,2375,Neutral,1,100,B,B,B
+humanities,2375,Rude,1,100,B,B,B
+humanities,2375,Very Rude,1,100,B,B,B
+humanities,2381,Very Friendly,1,100,A,A,A
+humanities,2381,Friendly,1,100,A,A,A
+humanities,2381,Neutral,1,100,A,A,A
+humanities,2381,Rude,1,100,A,A,A
+humanities,2381,Very Rude,1,100,A,A,A
+humanities,2388,Very Friendly,1,0,C,B,B
+humanities,2388,Friendly,1,0,C,B,B
+humanities,2388,Neutral,1,0,C,B,B
+humanities,2388,Rude,1,100,C,C,C
+humanities,2388,Very Rude,1,0,C,B,B
+humanities,2390,Very Friendly,1,100,B,B,B
+humanities,2390,Friendly,1,100,B,B,B
+humanities,2390,Neutral,1,100,B,B,B
+humanities,2390,Rude,1,100,B,B,B
+humanities,2390,Very Rude,1,100,B,B,B
+humanities,2396,Very Friendly,1,100,A,A,A
+humanities,2396,Friendly,1,100,A,A,A
+humanities,2396,Neutral,1,0,A,C,C
+humanities,2396,Rude,1,100,A,A,A
+humanities,2396,Very Rude,1,100,A,A,A
+humanities,2405,Very Friendly,1,100,B,B,B
+humanities,2405,Friendly,1,100,B,B,B
+humanities,2405,Neutral,1,100,B,B,B
+humanities,2405,Rude,1,100,B,B,B
+humanities,2405,Very Rude,1,100,B,B,B
+humanities,2406,Very Friendly,1,100,C,C,C
+humanities,2406,Friendly,1,100,C,C,C
+humanities,2406,Neutral,1,100,C,C,C
+humanities,2406,Rude,1,100,C,C,C
+humanities,2406,Very Rude,1,100,C,C,C
+humanities,2407,Very Friendly,1,100,C,C,C
+humanities,2407,Friendly,1,100,C,C,C
+humanities,2407,Neutral,1,100,C,C,C
+humanities,2407,Rude,1,100,C,C,C
+humanities,2407,Very Rude,1,100,C,C,C
+humanities,2408,Very Friendly,1,0,C,B,B
+humanities,2408,Friendly,1,0,C,B,B
+humanities,2408,Neutral,1,0,C,B,B
+humanities,2408,Rude,1,0,C,B,B
+humanities,2408,Very Rude,1,0,C,B,B
+humanities,2410,Very Friendly,1,100,C,C,C
+humanities,2410,Friendly,1,100,C,C,C
+humanities,2410,Neutral,1,100,C,C,C
+humanities,2410,Rude,1,100,C,C,C
+humanities,2410,Very Rude,1,100,C,C,C
+humanities,2414,Very Friendly,1,100,B,B,B
+humanities,2414,Friendly,1,100,B,B,B
+humanities,2414,Neutral,1,100,B,B,B
+humanities,2414,Rude,1,100,B,B,B
+humanities,2414,Very Rude,1,100,B,B,B
+humanities,2417,Very Friendly,1,100,D,D,D
+humanities,2417,Friendly,1,100,D,D,D
+humanities,2417,Neutral,1,100,D,D,D
+humanities,2417,Rude,1,100,D,D,D
+humanities,2417,Very Rude,1,100,D,D,D
+humanities,2418,Very Friendly,1,100,D,D,D
+humanities,2418,Friendly,1,100,D,D,D
+humanities,2418,Neutral,1,100,D,D,D
+humanities,2418,Rude,1,100,D,D,D
+humanities,2418,Very Rude,1,100,D,D,D
+humanities,2423,Very Friendly,1,100,C,C,C
+humanities,2423,Friendly,1,100,C,C,C
+humanities,2423,Neutral,1,100,C,C,C
+humanities,2423,Rude,1,100,C,C,C
+humanities,2423,Very Rude,1,100,C,C,C
+humanities,2427,Very Friendly,1,100,D,D,D
+humanities,2427,Friendly,1,100,D,D,D
+humanities,2427,Neutral,1,100,D,D,D
+humanities,2427,Rude,1,100,D,D,D
+humanities,2427,Very Rude,1,100,D,D,D
+humanities,2430,Very Friendly,1,100,D,D,D
+humanities,2430,Friendly,1,100,D,D,D
+humanities,2430,Neutral,1,100,D,D,D
+humanities,2430,Rude,1,100,D,D,D
+humanities,2430,Very Rude,1,100,D,D,D
+humanities,2437,Very Friendly,1,100,C,C,C
+humanities,2437,Friendly,1,100,C,C,C
+humanities,2437,Neutral,1,100,C,C,C
+humanities,2437,Rude,1,100,C,C,C
+humanities,2437,Very Rude,1,100,C,C,C
+humanities,2440,Very Friendly,1,100,B,B,B
+humanities,2440,Friendly,1,100,B,B,B
+humanities,2440,Neutral,1,100,B,B,B
+humanities,2440,Rude,1,100,B,B,B
+humanities,2440,Very Rude,1,100,B,B,B
+humanities,2446,Very Friendly,1,100,D,D,D
+humanities,2446,Friendly,1,100,D,D,D
+humanities,2446,Neutral,1,100,D,D,D
+humanities,2446,Rude,1,100,D,D,D
+humanities,2446,Very Rude,1,100,D,D,D
+humanities,2451,Very Friendly,1,100,C,C,C
+humanities,2451,Friendly,1,100,C,C,C
+humanities,2451,Neutral,1,100,C,C,C
+humanities,2451,Rude,1,100,C,C,C
+humanities,2451,Very Rude,1,100,C,C,C
+humanities,2453,Very Friendly,1,0,D,C,C
+humanities,2453,Friendly,1,0,D,A,A
+humanities,2453,Neutral,1,0,D,C,C
+humanities,2453,Rude,1,0,D,C,C
+humanities,2453,Very Rude,1,0,D,C,C
+humanities,2459,Very Friendly,1,100,C,C,C
+humanities,2459,Friendly,1,100,C,C,C
+humanities,2459,Neutral,1,100,C,C,C
+humanities,2459,Rude,1,100,C,C,C
+humanities,2459,Very Rude,1,100,C,C,C
+humanities,2460,Very Friendly,1,100,A,A,A
+humanities,2460,Friendly,1,100,A,A,A
+humanities,2460,Neutral,1,100,A,A,A
+humanities,2460,Rude,1,100,A,A,A
+humanities,2460,Very Rude,1,100,A,A,A
+humanities,2463,Very Friendly,1,100,A,A,A
+humanities,2463,Friendly,1,100,A,A,A
+humanities,2463,Neutral,1,100,A,A,A
+humanities,2463,Rude,1,100,A,A,A
+humanities,2463,Very Rude,1,100,A,A,A
+humanities,2464,Very Friendly,1,100,B,B,B
+humanities,2464,Friendly,1,100,B,B,B
+humanities,2464,Neutral,1,100,B,B,B
+humanities,2464,Rude,1,100,B,B,B
+humanities,2464,Very Rude,1,100,B,B,B
+humanities,2466,Very Friendly,1,100,B,B,B
+humanities,2466,Friendly,1,0,B,C,C
+humanities,2466,Neutral,1,0,B,C,C
+humanities,2466,Rude,1,0,B,C,C
+humanities,2466,Very Rude,1,0,B,C,C
+humanities,2479,Very Friendly,1,100,B,B,B
+humanities,2479,Friendly,1,100,B,B,B
+humanities,2479,Neutral,1,100,B,B,B
+humanities,2479,Rude,1,100,B,B,B
+humanities,2479,Very Rude,1,100,B,B,B
+humanities,2481,Very Friendly,1,100,A,A,A
+humanities,2481,Friendly,1,100,A,A,A
+humanities,2481,Neutral,1,100,A,A,A
+humanities,2481,Rude,1,100,A,A,A
+humanities,2481,Very Rude,1,0,A,B,B
+humanities,2488,Very Friendly,1,100,C,C,C
+humanities,2488,Friendly,1,100,C,C,C
+humanities,2488,Neutral,1,100,C,C,C
+humanities,2488,Rude,1,100,C,C,C
+humanities,2488,Very Rude,1,100,C,C,C
+humanities,2493,Very Friendly,1,100,C,C,C
+humanities,2493,Friendly,1,100,C,C,C
+humanities,2493,Neutral,1,100,C,C,C
+humanities,2493,Rude,1,100,C,C,C
+humanities,2493,Very Rude,1,100,C,C,C
+humanities,2497,Very Friendly,1,100,A,A,A
+humanities,2497,Friendly,1,100,A,A,A
+humanities,2497,Neutral,1,100,A,A,A
+humanities,2497,Rude,1,100,A,A,A
+humanities,2497,Very Rude,1,100,A,A,A
+humanities,2499,Very Friendly,1,100,D,D,D
+humanities,2499,Friendly,1,100,D,D,D
+humanities,2499,Neutral,1,100,D,D,D
+humanities,2499,Rude,1,100,D,D,D
+humanities,2499,Very Rude,1,100,D,D,D
+humanities,2501,Very Friendly,1,100,B,B,B
+humanities,2501,Friendly,1,100,B,B,B
+humanities,2501,Neutral,1,100,B,B,B
+humanities,2501,Rude,1,100,B,B,B
+humanities,2501,Very Rude,1,100,B,B,B
+humanities,2504,Very Friendly,1,100,B,B,B
+humanities,2504,Friendly,1,100,B,B,B
+humanities,2504,Neutral,1,100,B,B,B
+humanities,2504,Rude,1,100,B,B,B
+humanities,2504,Very Rude,1,100,B,B,B
+humanities,2510,Very Friendly,1,100,C,C,C
+humanities,2510,Friendly,1,100,C,C,C
+humanities,2510,Neutral,1,100,C,C,C
+humanities,2510,Rude,1,100,C,C,C
+humanities,2510,Very Rude,1,100,C,C,C
+humanities,2511,Very Friendly,1,100,D,D,D
+humanities,2511,Friendly,1,100,D,D,D
+humanities,2511,Neutral,1,100,D,D,D
+humanities,2511,Rude,1,100,D,D,D
+humanities,2511,Very Rude,1,100,D,D,D
+humanities,2513,Very Friendly,1,0,C,D,D
+humanities,2513,Friendly,1,0,C,D,D
+humanities,2513,Neutral,1,0,C,D,D
+humanities,2513,Rude,1,0,C,D,D
+humanities,2513,Very Rude,1,0,C,D,D
+humanities,2523,Very Friendly,1,100,C,C,C
+humanities,2523,Friendly,1,100,C,C,C
+humanities,2523,Neutral,1,100,C,C,C
+humanities,2523,Rude,1,100,C,C,C
+humanities,2523,Very Rude,1,100,C,C,C
+humanities,2526,Very Friendly,1,100,C,C,C
+humanities,2526,Friendly,1,100,C,C,C
+humanities,2526,Neutral,1,100,C,C,C
+humanities,2526,Rude,1,100,C,C,C
+humanities,2526,Very Rude,1,100,C,C,C
+humanities,2535,Very Friendly,1,0,A,B,B
+humanities,2535,Friendly,1,0,A,B,B
+humanities,2535,Neutral,1,100,A,A,A
+humanities,2535,Rude,1,0,A,B,B
+humanities,2535,Very Rude,1,100,A,A,A
+humanities,2541,Very Friendly,1,100,B,B,B
+humanities,2541,Friendly,1,100,B,B,B
+humanities,2541,Neutral,1,100,B,B,B
+humanities,2541,Rude,1,100,B,B,B
+humanities,2541,Very Rude,1,100,B,B,B
+humanities,2544,Very Friendly,1,100,C,C,C
+humanities,2544,Friendly,1,100,C,C,C
+humanities,2544,Neutral,1,100,C,C,C
+humanities,2544,Rude,1,100,C,C,C
+humanities,2544,Very Rude,1,100,C,C,C
+humanities,2555,Very Friendly,1,100,B,B,B
+humanities,2555,Friendly,1,100,B,B,B
+humanities,2555,Neutral,1,100,B,B,B
+humanities,2555,Rude,1,100,B,B,B
+humanities,2555,Very Rude,1,100,B,B,B
+humanities,2556,Very Friendly,1,100,C,C,C
+humanities,2556,Friendly,1,100,C,C,C
+humanities,2556,Neutral,1,100,C,C,C
+humanities,2556,Rude,1,100,C,C,C
+humanities,2556,Very Rude,1,100,C,C,C
+humanities,2560,Very Friendly,1,100,C,C,C
+humanities,2560,Friendly,1,100,C,C,C
+humanities,2560,Neutral,1,100,C,C,C
+humanities,2560,Rude,1,100,C,C,C
+humanities,2560,Very Rude,1,100,C,C,C
+humanities,2562,Very Friendly,1,100,B,B,B
+humanities,2562,Friendly,1,100,B,B,B
+humanities,2562,Neutral,1,100,B,B,B
+humanities,2562,Rude,1,100,B,B,B
+humanities,2562,Very Rude,1,100,B,B,B
+humanities,2570,Very Friendly,1,100,B,B,B
+humanities,2570,Friendly,1,100,B,B,B
+humanities,2570,Neutral,1,100,B,B,B
+humanities,2570,Rude,1,100,B,B,B
+humanities,2570,Very Rude,1,100,B,B,B
+humanities,2571,Very Friendly,1,100,B,B,B
+humanities,2571,Friendly,1,100,B,B,B
+humanities,2571,Neutral,1,100,B,B,B
+humanities,2571,Rude,1,100,B,B,B
+humanities,2571,Very Rude,1,100,B,B,B
+humanities,2575,Very Friendly,1,100,A,A,A
+humanities,2575,Friendly,1,100,A,A,A
+humanities,2575,Neutral,1,100,A,A,A
+humanities,2575,Rude,1,100,A,A,A
+humanities,2575,Very Rude,1,100,A,A,A
+humanities,2576,Very Friendly,1,100,C,C,C
+humanities,2576,Friendly,1,100,C,C,C
+humanities,2576,Neutral,1,100,C,C,C
+humanities,2576,Rude,1,100,C,C,C
+humanities,2576,Very Rude,1,100,C,C,C
+humanities,2579,Very Friendly,1,0,D,A,A
+humanities,2579,Friendly,1,0,D,A,A
+humanities,2579,Neutral,1,100,D,D,D
+humanities,2579,Rude,1,100,D,D,D
+humanities,2579,Very Rude,1,0,D,C,C
+humanities,2586,Very Friendly,1,100,B,B,B
+humanities,2586,Friendly,1,100,B,B,B
+humanities,2586,Neutral,1,100,B,B,B
+humanities,2586,Rude,1,100,B,B,B
+humanities,2586,Very Rude,1,100,B,B,B
+humanities,2589,Very Friendly,1,0,B,D,D
+humanities,2589,Friendly,1,0,B,D,D
+humanities,2589,Neutral,1,0,B,D,D
+humanities,2589,Rude,1,0,B,D,D
+humanities,2589,Very Rude,1,0,B,D,D
+humanities,2592,Very Friendly,1,0,D,B,B
+humanities,2592,Friendly,1,0,D,B,B
+humanities,2592,Neutral,1,0,D,B,B
+humanities,2592,Rude,1,0,D,B,B
+humanities,2592,Very Rude,1,0,D,B,B
+humanities,2597,Very Friendly,1,100,B,B,B
+humanities,2597,Friendly,1,100,B,B,B
+humanities,2597,Neutral,1,100,B,B,B
+humanities,2597,Rude,1,100,B,B,B
+humanities,2597,Very Rude,1,100,B,B,B
+humanities,2601,Very Friendly,1,100,C,C,C
+humanities,2601,Friendly,1,100,C,C,C
+humanities,2601,Neutral,1,100,C,C,C
+humanities,2601,Rude,1,100,C,C,C
+humanities,2601,Very Rude,1,100,C,C,C
+humanities,2606,Very Friendly,1,100,C,C,C
+humanities,2606,Friendly,1,100,C,C,C
+humanities,2606,Neutral,1,100,C,C,C
+humanities,2606,Rude,1,100,C,C,C
+humanities,2606,Very Rude,1,100,C,C,C
+humanities,2607,Very Friendly,1,100,C,C,C
+humanities,2607,Friendly,1,100,C,C,C
+humanities,2607,Neutral,1,100,C,C,C
+humanities,2607,Rude,1,100,C,C,C
+humanities,2607,Very Rude,1,100,C,C,C
+humanities,2616,Very Friendly,1,100,C,C,C
+humanities,2616,Friendly,1,100,C,C,C
+humanities,2616,Neutral,1,100,C,C,C
+humanities,2616,Rude,1,100,C,C,C
+humanities,2616,Very Rude,1,100,C,C,C
+humanities,2618,Very Friendly,1,100,A,A,A
+humanities,2618,Friendly,1,100,A,A,A
+humanities,2618,Neutral,1,100,A,A,A
+humanities,2618,Rude,1,100,A,A,A
+humanities,2618,Very Rude,1,100,A,A,A
+humanities,2624,Very Friendly,1,100,A,A,A
+humanities,2624,Friendly,1,100,A,A,A
+humanities,2624,Neutral,1,100,A,A,A
+humanities,2624,Rude,1,100,A,A,A
+humanities,2624,Very Rude,1,100,A,A,A
+humanities,2628,Very Friendly,1,100,C,C,C
+humanities,2628,Friendly,1,100,C,C,C
+humanities,2628,Neutral,1,100,C,C,C
+humanities,2628,Rude,1,100,C,C,C
+humanities,2628,Very Rude,1,100,C,C,C
+humanities,2632,Very Friendly,1,100,C,C,C
+humanities,2632,Friendly,1,100,C,C,C
+humanities,2632,Neutral,1,100,C,C,C
+humanities,2632,Rude,1,100,C,C,C
+humanities,2632,Very Rude,1,100,C,C,C
+humanities,2641,Very Friendly,1,0,D,A,A
+humanities,2641,Friendly,1,0,D,A,A
+humanities,2641,Neutral,1,0,D,A,A
+humanities,2641,Rude,1,0,D,A,A
+humanities,2641,Very Rude,1,0,D,A,A
+humanities,2644,Very Friendly,1,100,C,C,C
+humanities,2644,Friendly,1,100,C,C,C
+humanities,2644,Neutral,1,100,C,C,C
+humanities,2644,Rude,1,100,C,C,C
+humanities,2644,Very Rude,1,100,C,C,C
+humanities,2647,Very Friendly,1,0,A,B,B
+humanities,2647,Friendly,1,0,A,B,B
+humanities,2647,Neutral,1,0,A,B,B
+humanities,2647,Rude,1,0,A,B,B
+humanities,2647,Very Rude,1,0,A,B,B
+humanities,2652,Very Friendly,1,100,A,A,A
+humanities,2652,Friendly,1,100,A,A,A
+humanities,2652,Neutral,1,100,A,A,A
+humanities,2652,Rude,1,100,A,A,A
+humanities,2652,Very Rude,1,100,A,A,A
+humanities,2653,Very Friendly,1,100,C,C,C
+humanities,2653,Friendly,1,100,C,C,C
+humanities,2653,Neutral,1,100,C,C,C
+humanities,2653,Rude,1,100,C,C,C
+humanities,2653,Very Rude,1,100,C,C,C
+humanities,2655,Very Friendly,1,100,A,A,A
+humanities,2655,Friendly,1,100,A,A,A
+humanities,2655,Neutral,1,100,A,A,A
+humanities,2655,Rude,1,100,A,A,A
+humanities,2655,Very Rude,1,100,A,A,A
+humanities,2657,Very Friendly,1,100,B,B,B
+humanities,2657,Friendly,1,100,B,B,B
+humanities,2657,Neutral,1,100,B,B,B
+humanities,2657,Rude,1,100,B,B,B
+humanities,2657,Very Rude,1,100,B,B,B
+humanities,2660,Very Friendly,1,100,B,B,B
+humanities,2660,Friendly,1,100,B,B,B
+humanities,2660,Neutral,1,100,B,B,B
+humanities,2660,Rude,1,100,B,B,B
+humanities,2660,Very Rude,1,100,B,B,B
+humanities,2662,Very Friendly,1,100,C,C,C
+humanities,2662,Friendly,1,100,C,C,C
+humanities,2662,Neutral,1,100,C,C,C
+humanities,2662,Rude,1,100,C,C,C
+humanities,2662,Very Rude,1,100,C,C,C
+humanities,2664,Very Friendly,1,100,C,C,C
+humanities,2664,Friendly,1,100,C,C,C
+humanities,2664,Neutral,1,100,C,C,C
+humanities,2664,Rude,1,100,C,C,C
+humanities,2664,Very Rude,1,100,C,C,C
+humanities,2667,Very Friendly,1,100,D,D,D
+humanities,2667,Friendly,1,100,D,D,D
+humanities,2667,Neutral,1,100,D,D,D
+humanities,2667,Rude,1,100,D,D,D
+humanities,2667,Very Rude,1,100,D,D,D
+humanities,2674,Very Friendly,1,100,D,D,D
+humanities,2674,Friendly,1,100,D,D,D
+humanities,2674,Neutral,1,100,D,D,D
+humanities,2674,Rude,1,100,D,D,D
+humanities,2674,Very Rude,1,100,D,D,D
+humanities,2687,Very Friendly,1,100,C,C,C
+humanities,2687,Friendly,1,100,C,C,C
+humanities,2687,Neutral,1,100,C,C,C
+humanities,2687,Rude,1,100,C,C,C
+humanities,2687,Very Rude,1,100,C,C,C
+humanities,2689,Very Friendly,1,100,C,C,C
+humanities,2689,Friendly,1,100,C,C,C
+humanities,2689,Neutral,1,100,C,C,C
+humanities,2689,Rude,1,100,C,C,C
+humanities,2689,Very Rude,1,100,C,C,C
+humanities,2697,Very Friendly,1,100,A,A,A
+humanities,2697,Friendly,1,100,A,A,A
+humanities,2697,Neutral,1,100,A,A,A
+humanities,2697,Rude,1,100,A,A,A
+humanities,2697,Very Rude,1,100,A,A,A
+humanities,2698,Very Friendly,1,100,B,B,B
+humanities,2698,Friendly,1,100,B,B,B
+humanities,2698,Neutral,1,100,B,B,B
+humanities,2698,Rude,1,100,B,B,B
+humanities,2698,Very Rude,1,100,B,B,B
+humanities,2701,Very Friendly,1,100,A,A,A
+humanities,2701,Friendly,1,100,A,A,A
+humanities,2701,Neutral,1,100,A,A,A
+humanities,2701,Rude,1,100,A,A,A
+humanities,2701,Very Rude,1,100,A,A,A
+humanities,2705,Very Friendly,1,100,D,D,D
+humanities,2705,Friendly,1,100,D,D,D
+humanities,2705,Neutral,1,100,D,D,D
+humanities,2705,Rude,1,100,D,D,D
+humanities,2705,Very Rude,1,100,D,D,D
+humanities,2706,Very Friendly,1,100,C,C,C
+humanities,2706,Friendly,1,100,C,C,C
+humanities,2706,Neutral,1,100,C,C,C
+humanities,2706,Rude,1,100,C,C,C
+humanities,2706,Very Rude,1,100,C,C,C
+humanities,2711,Very Friendly,1,0,A,D,D
+humanities,2711,Friendly,1,0,A,D,D
+humanities,2711,Neutral,1,0,A,D,D
+humanities,2711,Rude,1,0,A,D,D
+humanities,2711,Very Rude,1,0,A,D,D
+humanities,2716,Very Friendly,1,100,D,D,D
+humanities,2716,Friendly,1,100,D,D,D
+humanities,2716,Neutral,1,100,D,D,D
+humanities,2716,Rude,1,100,D,D,D
+humanities,2716,Very Rude,1,100,D,D,D
+humanities,2726,Very Friendly,1,0,B,C,C
+humanities,2726,Friendly,1,0,B,C,C
+humanities,2726,Neutral,1,0,B,C,C
+humanities,2726,Rude,1,0,B,C,C
+humanities,2726,Very Rude,1,0,B,C,C
+humanities,2733,Very Friendly,1,100,D,D,D
+humanities,2733,Friendly,1,100,D,D,D
+humanities,2733,Neutral,1,100,D,D,D
+humanities,2733,Rude,1,100,D,D,D
+humanities,2733,Very Rude,1,100,D,D,D
+humanities,2742,Very Friendly,1,100,C,C,C
+humanities,2742,Friendly,1,100,C,C,C
+humanities,2742,Neutral,1,100,C,C,C
+humanities,2742,Rude,1,100,C,C,C
+humanities,2742,Very Rude,1,100,C,C,C
+humanities,2749,Very Friendly,1,100,C,C,C
+humanities,2749,Friendly,1,100,C,C,C
+humanities,2749,Neutral,1,100,C,C,C
+humanities,2749,Rude,1,100,C,C,C
+humanities,2749,Very Rude,1,100,C,C,C
+humanities,2776,Very Friendly,1,100,C,C,C
+humanities,2776,Friendly,1,100,C,C,C
+humanities,2776,Neutral,1,100,C,C,C
+humanities,2776,Rude,1,100,C,C,C
+humanities,2776,Very Rude,1,100,C,C,C
+humanities,2781,Very Friendly,1,100,A,A,A
+humanities,2781,Friendly,1,100,A,A,A
+humanities,2781,Neutral,1,100,A,A,A
+humanities,2781,Rude,1,100,A,A,A
+humanities,2781,Very Rude,1,100,A,A,A
+humanities,2789,Very Friendly,1,100,B,B,B
+humanities,2789,Friendly,1,100,B,B,B
+humanities,2789,Neutral,1,100,B,B,B
+humanities,2789,Rude,1,100,B,B,B
+humanities,2789,Very Rude,1,100,B,B,B
+humanities,2793,Very Friendly,1,0,A,D,D
+humanities,2793,Friendly,1,0,A,D,D
+humanities,2793,Neutral,1,0,A,D,D
+humanities,2793,Rude,1,0,A,D,D
+humanities,2793,Very Rude,1,0,A,D,D
+humanities,2795,Very Friendly,1,0,D,C,C
+humanities,2795,Friendly,1,0,D,C,C
+humanities,2795,Neutral,1,0,D,C,C
+humanities,2795,Rude,1,0,D,C,C
+humanities,2795,Very Rude,1,0,D,C,C
+humanities,2805,Very Friendly,1,100,B,B,B
+humanities,2805,Friendly,1,100,B,B,B
+humanities,2805,Neutral,1,100,B,B,B
+humanities,2805,Rude,1,100,B,B,B
+humanities,2805,Very Rude,1,100,B,B,B
+humanities,2810,Very Friendly,1,100,B,B,B
+humanities,2810,Friendly,1,100,B,B,B
+humanities,2810,Neutral,1,100,B,B,B
+humanities,2810,Rude,1,100,B,B,B
+humanities,2810,Very Rude,1,100,B,B,B
+humanities,2813,Very Friendly,1,100,C,C,C
+humanities,2813,Friendly,1,100,C,C,C
+humanities,2813,Neutral,1,100,C,C,C
+humanities,2813,Rude,1,100,C,C,C
+humanities,2813,Very Rude,1,100,C,C,C
+humanities,2814,Very Friendly,1,100,D,D,D
+humanities,2814,Friendly,1,100,D,D,D
+humanities,2814,Neutral,1,100,D,D,D
+humanities,2814,Rude,1,100,D,D,D
+humanities,2814,Very Rude,1,100,D,D,D
+humanities,2816,Very Friendly,1,100,B,B,B
+humanities,2816,Friendly,1,100,B,B,B
+humanities,2816,Neutral,1,100,B,B,B
+humanities,2816,Rude,1,100,B,B,B
+humanities,2816,Very Rude,1,100,B,B,B
+humanities,2818,Very Friendly,1,100,C,C,C
+humanities,2818,Friendly,1,100,C,C,C
+humanities,2818,Neutral,1,100,C,C,C
+humanities,2818,Rude,1,100,C,C,C
+humanities,2818,Very Rude,1,100,C,C,C
+humanities,2819,Very Friendly,1,100,B,B,B
+humanities,2819,Friendly,1,100,B,B,B
+humanities,2819,Neutral,1,100,B,B,B
+humanities,2819,Rude,1,100,B,B,B
+humanities,2819,Very Rude,1,100,B,B,B
+humanities,2821,Very Friendly,1,100,B,B,B
+humanities,2821,Friendly,1,100,B,B,B
+humanities,2821,Neutral,1,100,B,B,B
+humanities,2821,Rude,1,100,B,B,B
+humanities,2821,Very Rude,1,100,B,B,B
+humanities,2831,Very Friendly,1,100,D,D,D
+humanities,2831,Friendly,1,100,D,D,D
+humanities,2831,Neutral,1,100,D,D,D
+humanities,2831,Rude,1,0,D,C,C
+humanities,2831,Very Rude,1,0,D,C,C
+humanities,2836,Very Friendly,1,100,C,C,C
+humanities,2836,Friendly,1,100,C,C,C
+humanities,2836,Neutral,1,100,C,C,C
+humanities,2836,Rude,1,100,C,C,C
+humanities,2836,Very Rude,1,100,C,C,C
+humanities,2851,Very Friendly,1,100,D,D,D
+humanities,2851,Friendly,1,100,D,D,D
+humanities,2851,Neutral,1,100,D,D,D
+humanities,2851,Rude,1,100,D,D,D
+humanities,2851,Very Rude,1,100,D,D,D
+humanities,2857,Very Friendly,1,100,B,B,B
+humanities,2857,Friendly,1,100,B,B,B
+humanities,2857,Neutral,1,100,B,B,B
+humanities,2857,Rude,1,100,B,B,B
+humanities,2857,Very Rude,1,100,B,B,B
+humanities,2859,Very Friendly,1,100,B,B,B
+humanities,2859,Friendly,1,100,B,B,B
+humanities,2859,Neutral,1,100,B,B,B
+humanities,2859,Rude,1,100,B,B,B
+humanities,2859,Very Rude,1,100,B,B,B
+humanities,2874,Very Friendly,1,100,B,B,B
+humanities,2874,Friendly,1,100,B,B,B
+humanities,2874,Neutral,1,100,B,B,B
+humanities,2874,Rude,1,100,B,B,B
+humanities,2874,Very Rude,1,100,B,B,B
+humanities,2878,Very Friendly,1,100,B,B,B
+humanities,2878,Friendly,1,100,B,B,B
+humanities,2878,Neutral,1,100,B,B,B
+humanities,2878,Rude,1,100,B,B,B
+humanities,2878,Very Rude,1,100,B,B,B
+humanities,2880,Very Friendly,1,100,C,C,C
+humanities,2880,Friendly,1,100,C,C,C
+humanities,2880,Neutral,1,100,C,C,C
+humanities,2880,Rude,1,100,C,C,C
+humanities,2880,Very Rude,1,100,C,C,C
+humanities,2882,Very Friendly,1,100,D,D,D
+humanities,2882,Friendly,1,100,D,D,D
+humanities,2882,Neutral,1,100,D,D,D
+humanities,2882,Rude,1,100,D,D,D
+humanities,2882,Very Rude,1,100,D,D,D
+humanities,2887,Very Friendly,1,100,D,D,D
+humanities,2887,Friendly,1,100,D,D,D
+humanities,2887,Neutral,1,100,D,D,D
+humanities,2887,Rude,1,100,D,D,D
+humanities,2887,Very Rude,1,100,D,D,D
+humanities,2894,Very Friendly,1,100,D,D,D
+humanities,2894,Friendly,1,100,D,D,D
+humanities,2894,Neutral,1,100,D,D,D
+humanities,2894,Rude,1,100,D,D,D
+humanities,2894,Very Rude,1,100,D,D,D
+humanities,2895,Very Friendly,1,100,B,B,B
+humanities,2895,Friendly,1,100,B,B,B
+humanities,2895,Neutral,1,100,B,B,B
+humanities,2895,Rude,1,100,B,B,B
+humanities,2895,Very Rude,1,100,B,B,B
+humanities,2896,Very Friendly,1,100,A,A,A
+humanities,2896,Friendly,1,100,A,A,A
+humanities,2896,Neutral,1,100,A,A,A
+humanities,2896,Rude,1,100,A,A,A
+humanities,2896,Very Rude,1,100,A,A,A
+humanities,2898,Very Friendly,1,100,D,D,D
+humanities,2898,Friendly,1,100,D,D,D
+humanities,2898,Neutral,1,100,D,D,D
+humanities,2898,Rude,1,100,D,D,D
+humanities,2898,Very Rude,1,100,D,D,D
+humanities,2901,Very Friendly,1,100,B,B,B
+humanities,2901,Friendly,1,100,B,B,B
+humanities,2901,Neutral,1,100,B,B,B
+humanities,2901,Rude,1,100,B,B,B
+humanities,2901,Very Rude,1,100,B,B,B
+humanities,2906,Very Friendly,1,100,C,C,C
+humanities,2906,Friendly,1,100,C,C,C
+humanities,2906,Neutral,1,100,C,C,C
+humanities,2906,Rude,1,100,C,C,C
+humanities,2906,Very Rude,1,100,C,C,C
+humanities,2908,Very Friendly,1,100,B,B,B
+humanities,2908,Friendly,1,100,B,B,B
+humanities,2908,Neutral,1,100,B,B,B
+humanities,2908,Rude,1,100,B,B,B
+humanities,2908,Very Rude,1,100,B,B,B
+humanities,2911,Very Friendly,1,100,A,A,A
+humanities,2911,Friendly,1,100,A,A,A
+humanities,2911,Neutral,1,100,A,A,A
+humanities,2911,Rude,1,100,A,A,A
+humanities,2911,Very Rude,1,100,A,A,A
+humanities,2925,Very Friendly,1,100,B,B,B
+humanities,2925,Friendly,1,100,B,B,B
+humanities,2925,Neutral,1,100,B,B,B
+humanities,2925,Rude,1,100,B,B,B
+humanities,2925,Very Rude,1,100,B,B,B
+humanities,2928,Very Friendly,1,100,D,D,D
+humanities,2928,Friendly,1,100,D,D,D
+humanities,2928,Neutral,1,100,D,D,D
+humanities,2928,Rude,1,100,D,D,D
+humanities,2928,Very Rude,1,100,D,D,D
+humanities,2941,Very Friendly,1,100,B,B,B
+humanities,2941,Friendly,1,100,B,B,B
+humanities,2941,Neutral,1,100,B,B,B
+humanities,2941,Rude,1,100,B,B,B
+humanities,2941,Very Rude,1,100,B,B,B
+humanities,2950,Very Friendly,1,100,A,A,A
+humanities,2950,Friendly,1,100,A,A,A
+humanities,2950,Neutral,1,100,A,A,A
+humanities,2950,Rude,1,100,A,A,A
+humanities,2950,Very Rude,1,100,A,A,A
+humanities,2955,Very Friendly,1,0,A,B,B
+humanities,2955,Friendly,1,0,A,B,B
+humanities,2955,Neutral,1,0,A,B,B
+humanities,2955,Rude,1,0,A,B,B
+humanities,2955,Very Rude,1,100,A,A,A
+humanities,2967,Very Friendly,1,100,D,D,D
+humanities,2967,Friendly,1,100,D,D,D
+humanities,2967,Neutral,1,100,D,D,D
+humanities,2967,Rude,1,100,D,D,D
+humanities,2967,Very Rude,1,100,D,D,D
+humanities,2969,Very Friendly,1,100,B,B,B
+humanities,2969,Friendly,1,100,B,B,B
+humanities,2969,Neutral,1,100,B,B,B
+humanities,2969,Rude,1,100,B,B,B
+humanities,2969,Very Rude,1,100,B,B,B
+humanities,2978,Very Friendly,1,100,C,C,C
+humanities,2978,Friendly,1,0,C,B,B
+humanities,2978,Neutral,1,100,C,C,C
+humanities,2978,Rude,1,0,C,B,B
+humanities,2978,Very Rude,1,0,C,B,B
+humanities,2979,Very Friendly,1,100,D,D,D
+humanities,2979,Friendly,1,100,D,D,D
+humanities,2979,Neutral,1,100,D,D,D
+humanities,2979,Rude,1,100,D,D,D
+humanities,2979,Very Rude,1,100,D,D,D
+humanities,2991,Very Friendly,1,100,C,C,C
+humanities,2991,Friendly,1,100,C,C,C
+humanities,2991,Neutral,1,100,C,C,C
+humanities,2991,Rude,1,100,C,C,C
+humanities,2991,Very Rude,1,100,C,C,C
+humanities,2992,Very Friendly,1,100,C,C,C
+humanities,2992,Friendly,1,100,C,C,C
+humanities,2992,Neutral,1,100,C,C,C
+humanities,2992,Rude,1,100,C,C,C
+humanities,2992,Very Rude,1,100,C,C,C
+humanities,2993,Very Friendly,1,100,A,A,A
+humanities,2993,Friendly,1,100,A,A,A
+humanities,2993,Neutral,1,100,A,A,A
+humanities,2993,Rude,1,100,A,A,A
+humanities,2993,Very Rude,1,100,A,A,A
+humanities,2998,Very Friendly,1,100,A,A,A
+humanities,2998,Friendly,1,100,A,A,A
+humanities,2998,Neutral,1,100,A,A,A
+humanities,2998,Rude,1,100,A,A,A
+humanities,2998,Very Rude,1,100,A,A,A
+humanities,3001,Very Friendly,1,0,C,B,B
+humanities,3001,Friendly,1,0,C,B,B
+humanities,3001,Neutral,1,0,C,B,B
+humanities,3001,Rude,1,0,C,B,B
+humanities,3001,Very Rude,1,0,C,B,B
+humanities,3003,Very Friendly,1,100,D,D,D
+humanities,3003,Friendly,1,100,D,D,D
+humanities,3003,Neutral,1,100,D,D,D
+humanities,3003,Rude,1,100,D,D,D
+humanities,3003,Very Rude,1,100,D,D,D
+humanities,3004,Very Friendly,1,100,C,C,C
+humanities,3004,Friendly,1,100,C,C,C
+humanities,3004,Neutral,1,100,C,C,C
+humanities,3004,Rude,1,100,C,C,C
+humanities,3004,Very Rude,1,100,C,C,C
+humanities,3007,Very Friendly,1,100,B,B,B
+humanities,3007,Friendly,1,100,B,B,B
+humanities,3007,Neutral,1,100,B,B,B
+humanities,3007,Rude,1,100,B,B,B
+humanities,3007,Very Rude,1,100,B,B,B
+humanities,3009,Very Friendly,1,100,C,C,C
+humanities,3009,Friendly,1,100,C,C,C
+humanities,3009,Neutral,1,100,C,C,C
+humanities,3009,Rude,1,100,C,C,C
+humanities,3009,Very Rude,1,100,C,C,C
+humanities,3023,Very Friendly,1,100,D,D,D
+humanities,3023,Friendly,1,100,D,D,D
+humanities,3023,Neutral,1,100,D,D,D
+humanities,3023,Rude,1,100,D,D,D
+humanities,3023,Very Rude,1,100,D,D,D
+humanities,3025,Very Friendly,1,0,B,C,C
+humanities,3025,Friendly,1,0,B,C,C
+humanities,3025,Neutral,1,0,B,C,C
+humanities,3025,Rude,1,0,B,C,C
+humanities,3025,Very Rude,1,0,B,C,C
+humanities,3033,Very Friendly,1,0,B,C,C
+humanities,3033,Friendly,1,0,B,C,C
+humanities,3033,Neutral,1,0,B,C,C
+humanities,3033,Rude,1,0,B,C,C
+humanities,3033,Very Rude,1,0,B,C,C
+humanities,3040,Very Friendly,1,100,C,C,C
+humanities,3040,Friendly,1,100,C,C,C
+humanities,3040,Neutral,1,100,C,C,C
+humanities,3040,Rude,1,100,C,C,C
+humanities,3040,Very Rude,1,100,C,C,C
+humanities,3048,Very Friendly,1,100,B,B,B
+humanities,3048,Friendly,1,100,B,B,B
+humanities,3048,Neutral,1,100,B,B,B
+humanities,3048,Rude,1,100,B,B,B
+humanities,3048,Very Rude,1,100,B,B,B
+humanities,3054,Very Friendly,1,100,B,B,B
+humanities,3054,Friendly,1,100,B,B,B
+humanities,3054,Neutral,1,100,B,B,B
+humanities,3054,Rude,1,100,B,B,B
+humanities,3054,Very Rude,1,100,B,B,B
+humanities,3066,Very Friendly,1,100,C,C,C
+humanities,3066,Friendly,1,100,C,C,C
+humanities,3066,Neutral,1,100,C,C,C
+humanities,3066,Rude,1,100,C,C,C
+humanities,3066,Very Rude,1,100,C,C,C
+humanities,3067,Very Friendly,1,100,D,D,D
+humanities,3067,Friendly,1,100,D,D,D
+humanities,3067,Neutral,1,100,D,D,D
+humanities,3067,Rude,1,100,D,D,D
+humanities,3067,Very Rude,1,100,D,D,D
+humanities,3076,Very Friendly,1,0,B,C,C
+humanities,3076,Friendly,1,0,B,C,C
+humanities,3076,Neutral,1,0,B,C,C
+humanities,3076,Rude,1,0,B,C,C
+humanities,3076,Very Rude,1,0,B,C,C
+humanities,3082,Very Friendly,1,100,B,B,B
+humanities,3082,Friendly,1,100,B,B,B
+humanities,3082,Neutral,1,100,B,B,B
+humanities,3082,Rude,1,100,B,B,B
+humanities,3082,Very Rude,1,100,B,B,B
+humanities,3086,Very Friendly,1,100,B,B,B
+humanities,3086,Friendly,1,100,B,B,B
+humanities,3086,Neutral,1,100,B,B,B
+humanities,3086,Rude,1,100,B,B,B
+humanities,3086,Very Rude,1,100,B,B,B
+humanities,3092,Very Friendly,1,100,C,C,C
+humanities,3092,Friendly,1,100,C,C,C
+humanities,3092,Neutral,1,100,C,C,C
+humanities,3092,Rude,1,100,C,C,C
+humanities,3092,Very Rude,1,100,C,C,C
+humanities,3096,Very Friendly,1,100,B,B,B
+humanities,3096,Friendly,1,100,B,B,B
+humanities,3096,Neutral,1,100,B,B,B
+humanities,3096,Rude,1,100,B,B,B
+humanities,3096,Very Rude,1,100,B,B,B
+humanities,3097,Very Friendly,1,100,D,D,D
+humanities,3097,Friendly,1,100,D,D,D
+humanities,3097,Neutral,1,100,D,D,D
+humanities,3097,Rude,1,100,D,D,D
+humanities,3097,Very Rude,1,100,D,D,D
+humanities,3102,Very Friendly,1,100,C,C,C
+humanities,3102,Friendly,1,100,C,C,C
+humanities,3102,Neutral,1,100,C,C,C
+humanities,3102,Rude,1,100,C,C,C
+humanities,3102,Very Rude,1,100,C,C,C
+humanities,3107,Very Friendly,1,0,A,B,B
+humanities,3107,Friendly,1,0,A,B,B
+humanities,3107,Neutral,1,0,A,B,B
+humanities,3107,Rude,1,0,A,B,B
+humanities,3107,Very Rude,1,0,A,B,B
+humanities,3110,Very Friendly,1,100,C,C,C
+humanities,3110,Friendly,1,100,C,C,C
+humanities,3110,Neutral,1,100,C,C,C
+humanities,3110,Rude,1,100,C,C,C
+humanities,3110,Very Rude,1,100,C,C,C
+humanities,3114,Very Friendly,1,100,A,A,A
+humanities,3114,Friendly,1,0,A,C,C
+humanities,3114,Neutral,1,0,A,C,C
+humanities,3114,Rude,1,100,A,A,A
+humanities,3114,Very Rude,1,100,A,A,A
+humanities,3127,Very Friendly,1,100,C,C,C
+humanities,3127,Friendly,1,100,C,C,C
+humanities,3127,Neutral,1,100,C,C,C
+humanities,3127,Rude,1,100,C,C,C
+humanities,3127,Very Rude,1,100,C,C,C
+humanities,3130,Very Friendly,1,100,A,A,A
+humanities,3130,Friendly,1,100,A,A,A
+humanities,3130,Neutral,1,100,A,A,A
+humanities,3130,Rude,1,100,A,A,A
+humanities,3130,Very Rude,1,0,A,C,C
+humanities,3133,Very Friendly,1,0,D,C,C
+humanities,3133,Friendly,1,0,D,C,C
+humanities,3133,Neutral,1,0,D,C,C
+humanities,3133,Rude,1,0,D,C,C
+humanities,3133,Very Rude,1,0,D,C,C
+humanities,3135,Very Friendly,1,100,C,C,C
+humanities,3135,Friendly,1,100,C,C,C
+humanities,3135,Neutral,1,100,C,C,C
+humanities,3135,Rude,1,100,C,C,C
+humanities,3135,Very Rude,1,100,C,C,C
+humanities,3144,Very Friendly,1,0,B,D,D
+humanities,3144,Friendly,1,0,B,D,D
+humanities,3144,Neutral,1,0,B,D,D
+humanities,3144,Rude,1,0,B,D,D
+humanities,3144,Very Rude,1,0,B,D,D
+humanities,3151,Very Friendly,1,100,A,A,A
+humanities,3151,Friendly,1,100,A,A,A
+humanities,3151,Neutral,1,100,A,A,A
+humanities,3151,Rude,1,100,A,A,A
+humanities,3151,Very Rude,1,100,A,A,A
+humanities,3152,Very Friendly,1,100,B,B,B
+humanities,3152,Friendly,1,100,B,B,B
+humanities,3152,Neutral,1,100,B,B,B
+humanities,3152,Rude,1,100,B,B,B
+humanities,3152,Very Rude,1,100,B,B,B
+humanities,3154,Very Friendly,1,100,B,B,B
+humanities,3154,Friendly,1,100,B,B,B
+humanities,3154,Neutral,1,100,B,B,B
+humanities,3154,Rude,1,100,B,B,B
+humanities,3154,Very Rude,1,100,B,B,B
+humanities,3162,Very Friendly,1,100,D,D,D
+humanities,3162,Friendly,1,100,D,D,D
+humanities,3162,Neutral,1,100,D,D,D
+humanities,3162,Rude,1,100,D,D,D
+humanities,3162,Very Rude,1,100,D,D,D
+humanities,3164,Very Friendly,1,100,D,D,D
+humanities,3164,Friendly,1,100,D,D,D
+humanities,3164,Neutral,1,100,D,D,D
+humanities,3164,Rude,1,100,D,D,D
+humanities,3164,Very Rude,1,100,D,D,D
+humanities,3166,Very Friendly,1,100,A,A,A
+humanities,3166,Friendly,1,100,A,A,A
+humanities,3166,Neutral,1,100,A,A,A
+humanities,3166,Rude,1,100,A,A,A
+humanities,3166,Very Rude,1,100,A,A,A
+humanities,3169,Very Friendly,1,0,A,B,B
+humanities,3169,Friendly,1,0,A,B,B
+humanities,3169,Neutral,1,0,A,B,B
+humanities,3169,Rude,1,0,A,B,B
+humanities,3169,Very Rude,1,0,A,B,B
+humanities,3175,Very Friendly,1,0,B,D,D
+humanities,3175,Friendly,1,0,B,D,D
+humanities,3175,Neutral,1,0,B,D,D
+humanities,3175,Rude,1,0,B,D,D
+humanities,3175,Very Rude,1,0,B,D,D
+humanities,3190,Very Friendly,1,100,C,C,C
+humanities,3190,Friendly,1,100,C,C,C
+humanities,3190,Neutral,1,100,C,C,C
+humanities,3190,Rude,1,100,C,C,C
+humanities,3190,Very Rude,1,100,C,C,C
+humanities,3201,Very Friendly,1,0,A,B,B
+humanities,3201,Friendly,1,0,A,B,B
+humanities,3201,Neutral,1,0,A,B,B
+humanities,3201,Rude,1,0,A,B,B
+humanities,3201,Very Rude,1,0,A,B,B
+humanities,3202,Very Friendly,1,100,B,B,B
+humanities,3202,Friendly,1,100,B,B,B
+humanities,3202,Neutral,1,100,B,B,B
+humanities,3202,Rude,1,100,B,B,B
+humanities,3202,Very Rude,1,100,B,B,B
+humanities,3204,Very Friendly,1,100,B,B,B
+humanities,3204,Friendly,1,100,B,B,B
+humanities,3204,Neutral,1,100,B,B,B
+humanities,3204,Rude,1,100,B,B,B
+humanities,3204,Very Rude,1,100,B,B,B
+humanities,3207,Very Friendly,1,100,A,A,A
+humanities,3207,Friendly,1,100,A,A,A
+humanities,3207,Neutral,1,100,A,A,A
+humanities,3207,Rude,1,100,A,A,A
+humanities,3207,Very Rude,1,100,A,A,A
+humanities,3219,Very Friendly,1,100,C,C,C
+humanities,3219,Friendly,1,100,C,C,C
+humanities,3219,Neutral,1,100,C,C,C
+humanities,3219,Rude,1,100,C,C,C
+humanities,3219,Very Rude,1,100,C,C,C
+humanities,3221,Very Friendly,1,100,C,C,C
+humanities,3221,Friendly,1,100,C,C,C
+humanities,3221,Neutral,1,100,C,C,C
+humanities,3221,Rude,1,100,C,C,C
+humanities,3221,Very Rude,1,100,C,C,C
+humanities,3222,Very Friendly,1,100,B,B,B
+humanities,3222,Friendly,1,100,B,B,B
+humanities,3222,Neutral,1,100,B,B,B
+humanities,3222,Rude,1,100,B,B,B
+humanities,3222,Very Rude,1,100,B,B,B
+humanities,3226,Very Friendly,1,100,B,B,B
+humanities,3226,Friendly,1,100,B,B,B
+humanities,3226,Neutral,1,100,B,B,B
+humanities,3226,Rude,1,100,B,B,B
+humanities,3226,Very Rude,1,100,B,B,B
+humanities,3236,Very Friendly,1,0,B,D,D
+humanities,3236,Friendly,1,100,B,B,B
+humanities,3236,Neutral,1,100,B,B,B
+humanities,3236,Rude,1,100,B,B,B
+humanities,3236,Very Rude,1,100,B,B,B
+humanities,3244,Very Friendly,1,0,C,B,B
+humanities,3244,Friendly,1,0,C,B,B
+humanities,3244,Neutral,1,0,C,B,B
+humanities,3244,Rude,1,0,C,B,B
+humanities,3244,Very Rude,1,0,C,B,B
+humanities,3245,Very Friendly,1,0,B,A,A
+humanities,3245,Friendly,1,0,B,A,A
+humanities,3245,Neutral,1,0,B,A,A
+humanities,3245,Rude,1,0,B,A,A
+humanities,3245,Very Rude,1,0,B,A,A
+humanities,3251,Very Friendly,1,100,C,C,C
+humanities,3251,Friendly,1,100,C,C,C
+humanities,3251,Neutral,1,100,C,C,C
+humanities,3251,Rude,1,100,C,C,C
+humanities,3251,Very Rude,1,100,C,C,C
+humanities,3253,Very Friendly,1,100,B,B,B
+humanities,3253,Friendly,1,100,B,B,B
+humanities,3253,Neutral,1,100,B,B,B
+humanities,3253,Rude,1,100,B,B,B
+humanities,3253,Very Rude,1,100,B,B,B
+humanities,3254,Very Friendly,1,100,C,C,C
+humanities,3254,Friendly,1,100,C,C,C
+humanities,3254,Neutral,1,100,C,C,C
+humanities,3254,Rude,1,100,C,C,C
+humanities,3254,Very Rude,1,100,C,C,C
+humanities,3259,Very Friendly,1,100,D,D,D
+humanities,3259,Friendly,1,100,D,D,D
+humanities,3259,Neutral,1,100,D,D,D
+humanities,3259,Rude,1,100,D,D,D
+humanities,3259,Very Rude,1,100,D,D,D
+humanities,3265,Very Friendly,1,0,B,D,D
+humanities,3265,Friendly,1,0,B,D,D
+humanities,3265,Neutral,1,0,B,D,D
+humanities,3265,Rude,1,0,B,D,D
+humanities,3265,Very Rude,1,0,B,D,D
+humanities,3275,Very Friendly,1,0,C,D,D
+humanities,3275,Friendly,1,0,C,D,D
+humanities,3275,Neutral,1,0,C,D,D
+humanities,3275,Rude,1,0,C,D,D
+humanities,3275,Very Rude,1,0,C,D,D
+humanities,3276,Very Friendly,1,100,B,B,B
+humanities,3276,Friendly,1,100,B,B,B
+humanities,3276,Neutral,1,100,B,B,B
+humanities,3276,Rude,1,100,B,B,B
+humanities,3276,Very Rude,1,100,B,B,B
+humanities,3280,Very Friendly,1,100,C,C,C
+humanities,3280,Friendly,1,100,C,C,C
+humanities,3280,Neutral,1,100,C,C,C
+humanities,3280,Rude,1,100,C,C,C
+humanities,3280,Very Rude,1,100,C,C,C
+humanities,3291,Very Friendly,1,100,C,C,C
+humanities,3291,Friendly,1,100,C,C,C
+humanities,3291,Neutral,1,100,C,C,C
+humanities,3291,Rude,1,100,C,C,C
+humanities,3291,Very Rude,1,100,C,C,C
+humanities,3299,Very Friendly,1,100,A,A,A
+humanities,3299,Friendly,1,100,A,A,A
+humanities,3299,Neutral,1,100,A,A,A
+humanities,3299,Rude,1,100,A,A,A
+humanities,3299,Very Rude,1,100,A,A,A
+humanities,3300,Very Friendly,1,100,A,A,A
+humanities,3300,Friendly,1,100,A,A,A
+humanities,3300,Neutral,1,100,A,A,A
+humanities,3300,Rude,1,100,A,A,A
+humanities,3300,Very Rude,1,100,A,A,A
+humanities,3304,Very Friendly,1,100,D,D,D
+humanities,3304,Friendly,1,100,D,D,D
+humanities,3304,Neutral,1,100,D,D,D
+humanities,3304,Rude,1,100,D,D,D
+humanities,3304,Very Rude,1,100,D,D,D
+humanities,3306,Very Friendly,1,0,A,C,C
+humanities,3306,Friendly,1,0,A,C,C
+humanities,3306,Neutral,1,0,A,C,C
+humanities,3306,Rude,1,0,A,C,C
+humanities,3306,Very Rude,1,0,A,C,C
+humanities,3309,Very Friendly,1,100,D,D,D
+humanities,3309,Friendly,1,100,D,D,D
+humanities,3309,Neutral,1,100,D,D,D
+humanities,3309,Rude,1,100,D,D,D
+humanities,3309,Very Rude,1,100,D,D,D
+humanities,3310,Very Friendly,1,100,D,D,D
+humanities,3310,Friendly,1,100,D,D,D
+humanities,3310,Neutral,1,100,D,D,D
+humanities,3310,Rude,1,100,D,D,D
+humanities,3310,Very Rude,1,100,D,D,D
+humanities,3313,Very Friendly,1,100,C,C,C
+humanities,3313,Friendly,1,100,C,C,C
+humanities,3313,Neutral,1,100,C,C,C
+humanities,3313,Rude,1,100,C,C,C
+humanities,3313,Very Rude,1,100,C,C,C
+humanities,3314,Very Friendly,1,100,D,D,D
+humanities,3314,Friendly,1,100,D,D,D
+humanities,3314,Neutral,1,100,D,D,D
+humanities,3314,Rude,1,100,D,D,D
+humanities,3314,Very Rude,1,100,D,D,D
+humanities,3319,Very Friendly,1,100,B,B,B
+humanities,3319,Friendly,1,100,B,B,B
+humanities,3319,Neutral,1,100,B,B,B
+humanities,3319,Rude,1,100,B,B,B
+humanities,3319,Very Rude,1,100,B,B,B
+humanities,3321,Very Friendly,1,100,A,A,A
+humanities,3321,Friendly,1,100,A,A,A
+humanities,3321,Neutral,1,100,A,A,A
+humanities,3321,Rude,1,100,A,A,A
+humanities,3321,Very Rude,1,100,A,A,A
+humanities,3323,Very Friendly,1,100,D,D,D
+humanities,3323,Friendly,1,100,D,D,D
+humanities,3323,Neutral,1,100,D,D,D
+humanities,3323,Rude,1,100,D,D,D
+humanities,3323,Very Rude,1,100,D,D,D
+humanities,3329,Very Friendly,1,0,C,A,A
+humanities,3329,Friendly,1,0,C,A,A
+humanities,3329,Neutral,1,0,C,A,A
+humanities,3329,Rude,1,0,C,A,A
+humanities,3329,Very Rude,1,0,C,A,A
+humanities,3330,Very Friendly,1,100,D,D,D
+humanities,3330,Friendly,1,100,D,D,D
+humanities,3330,Neutral,1,100,D,D,D
+humanities,3330,Rude,1,100,D,D,D
+humanities,3330,Very Rude,1,100,D,D,D
+humanities,3335,Very Friendly,1,100,C,C,C
+humanities,3335,Friendly,1,100,C,C,C
+humanities,3335,Neutral,1,100,C,C,C
+humanities,3335,Rude,1,100,C,C,C
+humanities,3335,Very Rude,1,100,C,C,C
+humanities,3337,Very Friendly,1,0,C,D,D
+humanities,3337,Friendly,1,0,C,D,D
+humanities,3337,Neutral,1,0,C,D,D
+humanities,3337,Rude,1,0,C,D,D
+humanities,3337,Very Rude,1,0,C,D,D
+humanities,3338,Very Friendly,1,0,D,A,A
+humanities,3338,Friendly,1,0,D,A,A
+humanities,3338,Neutral,1,0,D,A,A
+humanities,3338,Rude,1,0,D,A,A
+humanities,3338,Very Rude,1,0,D,A,A
+humanities,3342,Very Friendly,1,100,B,B,B
+humanities,3342,Friendly,1,100,B,B,B
+humanities,3342,Neutral,1,100,B,B,B
+humanities,3342,Rude,1,100,B,B,B
+humanities,3342,Very Rude,1,100,B,B,B
+humanities,3351,Very Friendly,1,100,D,D,D
+humanities,3351,Friendly,1,100,D,D,D
+humanities,3351,Neutral,1,100,D,D,D
+humanities,3351,Rude,1,100,D,D,D
+humanities,3351,Very Rude,1,100,D,D,D
+humanities,3354,Very Friendly,1,100,A,A,A
+humanities,3354,Friendly,1,100,A,A,A
+humanities,3354,Neutral,1,100,A,A,A
+humanities,3354,Rude,1,100,A,A,A
+humanities,3354,Very Rude,1,100,A,A,A
+humanities,3360,Very Friendly,1,100,D,D,D
+humanities,3360,Friendly,1,100,D,D,D
+humanities,3360,Neutral,1,100,D,D,D
+humanities,3360,Rude,1,100,D,D,D
+humanities,3360,Very Rude,1,100,D,D,D
+humanities,3361,Very Friendly,1,0,B,D,D
+humanities,3361,Friendly,1,100,B,B,B
+humanities,3361,Neutral,1,0,B,D,D
+humanities,3361,Rude,1,0,B,D,D
+humanities,3361,Very Rude,1,0,B,D,D
+humanities,3367,Very Friendly,1,100,A,A,A
+humanities,3367,Friendly,1,100,A,A,A
+humanities,3367,Neutral,1,100,A,A,A
+humanities,3367,Rude,1,100,A,A,A
+humanities,3367,Very Rude,1,100,A,A,A
+humanities,3371,Very Friendly,1,0,B,C,C
+humanities,3371,Friendly,1,0,B,C,C
+humanities,3371,Neutral,1,0,B,C,C
+humanities,3371,Rude,1,0,B,C,C
+humanities,3371,Very Rude,1,0,B,C,C
+humanities,3376,Very Friendly,1,100,C,C,C
+humanities,3376,Friendly,1,100,C,C,C
+humanities,3376,Neutral,1,100,C,C,C
+humanities,3376,Rude,1,100,C,C,C
+humanities,3376,Very Rude,1,100,C,C,C
+humanities,3378,Very Friendly,1,100,A,A,A
+humanities,3378,Friendly,1,100,A,A,A
+humanities,3378,Neutral,1,100,A,A,A
+humanities,3378,Rude,1,100,A,A,A
+humanities,3378,Very Rude,1,100,A,A,A
+humanities,3385,Very Friendly,1,100,D,D,D
+humanities,3385,Friendly,1,100,D,D,D
+humanities,3385,Neutral,1,100,D,D,D
+humanities,3385,Rude,1,100,D,D,D
+humanities,3385,Very Rude,1,100,D,D,D
+humanities,3389,Very Friendly,1,100,B,B,B
+humanities,3389,Friendly,1,100,B,B,B
+humanities,3389,Neutral,1,100,B,B,B
+humanities,3389,Rude,1,100,B,B,B
+humanities,3389,Very Rude,1,100,B,B,B
+humanities,3393,Very Friendly,1,100,C,C,C
+humanities,3393,Friendly,1,100,C,C,C
+humanities,3393,Neutral,1,100,C,C,C
+humanities,3393,Rude,1,100,C,C,C
+humanities,3393,Very Rude,1,100,C,C,C
+humanities,3399,Very Friendly,1,100,D,D,D
+humanities,3399,Friendly,1,100,D,D,D
+humanities,3399,Neutral,1,0,D,B,B
+humanities,3399,Rude,1,100,D,D,D
+humanities,3399,Very Rude,1,0,D,B,B
+humanities,3401,Very Friendly,1,100,A,A,A
+humanities,3401,Friendly,1,100,A,A,A
+humanities,3401,Neutral,1,100,A,A,A
+humanities,3401,Rude,1,100,A,A,A
+humanities,3401,Very Rude,1,100,A,A,A
+humanities,3405,Very Friendly,1,100,A,A,A
+humanities,3405,Friendly,1,100,A,A,A
+humanities,3405,Neutral,1,100,A,A,A
+humanities,3405,Rude,1,100,A,A,A
+humanities,3405,Very Rude,1,100,A,A,A
+humanities,3423,Very Friendly,1,100,B,B,B
+humanities,3423,Friendly,1,100,B,B,B
+humanities,3423,Neutral,1,100,B,B,B
+humanities,3423,Rude,1,100,B,B,B
+humanities,3423,Very Rude,1,100,B,B,B
+humanities,3425,Very Friendly,1,100,A,A,A
+humanities,3425,Friendly,1,100,A,A,A
+humanities,3425,Neutral,1,100,A,A,A
+humanities,3425,Rude,1,100,A,A,A
+humanities,3425,Very Rude,1,100,A,A,A
+humanities,3430,Very Friendly,1,100,C,C,C
+humanities,3430,Friendly,1,100,C,C,C
+humanities,3430,Neutral,1,100,C,C,C
+humanities,3430,Rude,1,100,C,C,C
+humanities,3430,Very Rude,1,100,C,C,C
+humanities,3434,Very Friendly,1,100,D,D,D
+humanities,3434,Friendly,1,100,D,D,D
+humanities,3434,Neutral,1,100,D,D,D
+humanities,3434,Rude,1,100,D,D,D
+humanities,3434,Very Rude,1,100,D,D,D
+humanities,3440,Very Friendly,1,100,A,A,A
+humanities,3440,Friendly,1,100,A,A,A
+humanities,3440,Neutral,1,100,A,A,A
+humanities,3440,Rude,1,100,A,A,A
+humanities,3440,Very Rude,1,100,A,A,A
+humanities,3444,Very Friendly,1,0,B,A,A
+humanities,3444,Friendly,1,0,B,A,A
+humanities,3444,Neutral,1,0,B,A,A
+humanities,3444,Rude,1,0,B,A,A
+humanities,3444,Very Rude,1,0,B,A,A
+humanities,3460,Very Friendly,1,0,D,B,B
+humanities,3460,Friendly,1,0,D,B,B
+humanities,3460,Neutral,1,0,D,B,B
+humanities,3460,Rude,1,0,D,B,B
+humanities,3460,Very Rude,1,0,D,B,B
+humanities,3471,Very Friendly,1,0,D,C,C
+humanities,3471,Friendly,1,0,D,C,C
+humanities,3471,Neutral,1,0,D,C,C
+humanities,3471,Rude,1,0,D,C,C
+humanities,3471,Very Rude,1,0,D,C,C
+humanities,3478,Very Friendly,1,0,D,B,B
+humanities,3478,Friendly,1,0,D,B,B
+humanities,3478,Neutral,1,0,D,B,B
+humanities,3478,Rude,1,0,D,B,B
+humanities,3478,Very Rude,1,0,D,B,B
+humanities,3484,Very Friendly,1,100,B,B,B
+humanities,3484,Friendly,1,100,B,B,B
+humanities,3484,Neutral,1,100,B,B,B
+humanities,3484,Rude,1,100,B,B,B
+humanities,3484,Very Rude,1,100,B,B,B
+humanities,3485,Very Friendly,1,100,B,B,B
+humanities,3485,Friendly,1,100,B,B,B
+humanities,3485,Neutral,1,100,B,B,B
+humanities,3485,Rude,1,100,B,B,B
+humanities,3485,Very Rude,1,100,B,B,B
+humanities,3489,Very Friendly,1,100,C,C,C
+humanities,3489,Friendly,1,100,C,C,C
+humanities,3489,Neutral,1,100,C,C,C
+humanities,3489,Rude,1,100,C,C,C
+humanities,3489,Very Rude,1,100,C,C,C
+humanities,3494,Very Friendly,1,100,B,B,B
+humanities,3494,Friendly,1,100,B,B,B
+humanities,3494,Neutral,1,100,B,B,B
+humanities,3494,Rude,1,100,B,B,B
+humanities,3494,Very Rude,1,100,B,B,B
+humanities,3495,Very Friendly,1,100,C,C,C
+humanities,3495,Friendly,1,100,C,C,C
+humanities,3495,Neutral,1,100,C,C,C
+humanities,3495,Rude,1,100,C,C,C
+humanities,3495,Very Rude,1,100,C,C,C
+humanities,3498,Very Friendly,1,100,D,D,D
+humanities,3498,Friendly,1,100,D,D,D
+humanities,3498,Neutral,1,100,D,D,D
+humanities,3498,Rude,1,100,D,D,D
+humanities,3498,Very Rude,1,100,D,D,D
+humanities,3500,Very Friendly,1,100,A,A,A
+humanities,3500,Friendly,1,100,A,A,A
+humanities,3500,Neutral,1,100,A,A,A
+humanities,3500,Rude,1,100,A,A,A
+humanities,3500,Very Rude,1,100,A,A,A
+humanities,3501,Very Friendly,1,100,D,D,D
+humanities,3501,Friendly,1,100,D,D,D
+humanities,3501,Neutral,1,100,D,D,D
+humanities,3501,Rude,1,100,D,D,D
+humanities,3501,Very Rude,1,100,D,D,D
+humanities,3505,Very Friendly,1,100,C,C,C
+humanities,3505,Friendly,1,100,C,C,C
+humanities,3505,Neutral,1,100,C,C,C
+humanities,3505,Rude,1,100,C,C,C
+humanities,3505,Very Rude,1,100,C,C,C
+humanities,3509,Very Friendly,1,0,A,D,D
+humanities,3509,Friendly,1,0,A,D,D
+humanities,3509,Neutral,1,0,A,D,D
+humanities,3509,Rude,1,0,A,D,D
+humanities,3509,Very Rude,1,0,A,D,D
+humanities,3521,Very Friendly,1,0,C,B,B
+humanities,3521,Friendly,1,100,C,C,C
+humanities,3521,Neutral,1,0,C,B,B
+humanities,3521,Rude,1,0,C,B,B
+humanities,3521,Very Rude,1,0,C,B,B
+humanities,3522,Very Friendly,1,100,B,B,B
+humanities,3522,Friendly,1,100,B,B,B
+humanities,3522,Neutral,1,100,B,B,B
+humanities,3522,Rude,1,100,B,B,B
+humanities,3522,Very Rude,1,100,B,B,B
+humanities,3525,Very Friendly,1,100,C,C,C
+humanities,3525,Friendly,1,100,C,C,C
+humanities,3525,Neutral,1,100,C,C,C
+humanities,3525,Rude,1,100,C,C,C
+humanities,3525,Very Rude,1,100,C,C,C
+humanities,3528,Very Friendly,1,0,B,D,D
+humanities,3528,Friendly,1,0,B,D,D
+humanities,3528,Neutral,1,0,B,D,D
+humanities,3528,Rude,1,0,B,D,D
+humanities,3528,Very Rude,1,0,B,D,D
+humanities,3530,Very Friendly,1,100,D,D,D
+humanities,3530,Friendly,1,100,D,D,D
+humanities,3530,Neutral,1,100,D,D,D
+humanities,3530,Rude,1,100,D,D,D
+humanities,3530,Very Rude,1,100,D,D,D
+humanities,3540,Very Friendly,1,0,B,A,A
+humanities,3540,Friendly,1,0,B,A,A
+humanities,3540,Neutral,1,0,B,A,A
+humanities,3540,Rude,1,0,B,A,A
+humanities,3540,Very Rude,1,0,B,A,A
+humanities,3541,Very Friendly,1,100,D,D,D
+humanities,3541,Friendly,1,100,D,D,D
+humanities,3541,Neutral,1,100,D,D,D
+humanities,3541,Rude,1,100,D,D,D
+humanities,3541,Very Rude,1,100,D,D,D
+humanities,3544,Very Friendly,1,100,D,D,D
+humanities,3544,Friendly,1,100,D,D,D
+humanities,3544,Neutral,1,100,D,D,D
+humanities,3544,Rude,1,100,D,D,D
+humanities,3544,Very Rude,1,100,D,D,D
+humanities,3545,Very Friendly,1,0,C,B,B
+humanities,3545,Friendly,1,0,C,B,B
+humanities,3545,Neutral,1,0,C,B,B
+humanities,3545,Rude,1,0,C,B,B
+humanities,3545,Very Rude,1,0,C,B,B
+humanities,3550,Very Friendly,1,100,C,C,C
+humanities,3550,Friendly,1,100,C,C,C
+humanities,3550,Neutral,1,100,C,C,C
+humanities,3550,Rude,1,100,C,C,C
+humanities,3550,Very Rude,1,100,C,C,C
+humanities,3552,Very Friendly,1,100,D,D,D
+humanities,3552,Friendly,1,100,D,D,D
+humanities,3552,Neutral,1,100,D,D,D
+humanities,3552,Rude,1,100,D,D,D
+humanities,3552,Very Rude,1,100,D,D,D
+humanities,3556,Very Friendly,1,0,C,D,D
+humanities,3556,Friendly,1,0,C,D,D
+humanities,3556,Neutral,1,0,C,D,D
+humanities,3556,Rude,1,0,C,D,D
+humanities,3556,Very Rude,1,0,C,D,D
+humanities,3563,Very Friendly,1,0,A,C,C
+humanities,3563,Friendly,1,0,A,C,C
+humanities,3563,Neutral,1,0,A,C,C
+humanities,3563,Rude,1,0,A,C,C
+humanities,3563,Very Rude,1,0,A,C,C
+humanities,3565,Very Friendly,1,0,B,C,C
+humanities,3565,Friendly,1,0,B,C,C
+humanities,3565,Neutral,1,0,B,C,C
+humanities,3565,Rude,1,0,B,C,C
+humanities,3565,Very Rude,1,0,B,C,C
+humanities,3569,Very Friendly,1,100,B,B,B
+humanities,3569,Friendly,1,100,B,B,B
+humanities,3569,Neutral,1,100,B,B,B
+humanities,3569,Rude,1,100,B,B,B
+humanities,3569,Very Rude,1,100,B,B,B
+humanities,3584,Very Friendly,1,0,A,B,B
+humanities,3584,Friendly,1,0,A,B,B
+humanities,3584,Neutral,1,0,A,B,B
+humanities,3584,Rude,1,0,A,B,B
+humanities,3584,Very Rude,1,0,A,B,B
+humanities,3587,Very Friendly,1,100,A,A,A
+humanities,3587,Friendly,1,100,A,A,A
+humanities,3587,Neutral,1,100,A,A,A
+humanities,3587,Rude,1,100,A,A,A
+humanities,3587,Very Rude,1,100,A,A,A
+humanities,3588,Very Friendly,1,100,A,A,A
+humanities,3588,Friendly,1,100,A,A,A
+humanities,3588,Neutral,1,100,A,A,A
+humanities,3588,Rude,1,100,A,A,A
+humanities,3588,Very Rude,1,100,A,A,A
+humanities,3589,Very Friendly,1,100,C,C,C
+humanities,3589,Friendly,1,100,C,C,C
+humanities,3589,Neutral,1,100,C,C,C
+humanities,3589,Rude,1,100,C,C,C
+humanities,3589,Very Rude,1,100,C,C,C
+humanities,3595,Very Friendly,1,100,C,C,C
+humanities,3595,Friendly,1,100,C,C,C
+humanities,3595,Neutral,1,100,C,C,C
+humanities,3595,Rude,1,100,C,C,C
+humanities,3595,Very Rude,1,100,C,C,C
+humanities,3596,Very Friendly,1,100,C,C,C
+humanities,3596,Friendly,1,100,C,C,C
+humanities,3596,Neutral,1,100,C,C,C
+humanities,3596,Rude,1,100,C,C,C
+humanities,3596,Very Rude,1,100,C,C,C
+humanities,3607,Very Friendly,1,100,D,D,D
+humanities,3607,Friendly,1,100,D,D,D
+humanities,3607,Neutral,1,100,D,D,D
+humanities,3607,Rude,1,100,D,D,D
+humanities,3607,Very Rude,1,100,D,D,D
+humanities,3608,Very Friendly,1,100,B,B,B
+humanities,3608,Friendly,1,100,B,B,B
+humanities,3608,Neutral,1,100,B,B,B
+humanities,3608,Rude,1,100,B,B,B
+humanities,3608,Very Rude,1,100,B,B,B
+humanities,3611,Very Friendly,1,0,D,C,C
+humanities,3611,Friendly,1,0,D,C,C
+humanities,3611,Neutral,1,0,D,C,C
+humanities,3611,Rude,1,0,D,C,C
+humanities,3611,Very Rude,1,0,D,C,C
+humanities,3614,Very Friendly,1,0,D,B,B
+humanities,3614,Friendly,1,0,D,B,B
+humanities,3614,Neutral,1,0,D,B,B
+humanities,3614,Rude,1,0,D,B,B
+humanities,3614,Very Rude,1,0,D,B,B
+humanities,3617,Very Friendly,1,100,D,D,D
+humanities,3617,Friendly,1,100,D,D,D
+humanities,3617,Neutral,1,100,D,D,D
+humanities,3617,Rude,1,100,D,D,D
+humanities,3617,Very Rude,1,100,D,D,D
+humanities,3618,Very Friendly,1,0,A,B,B
+humanities,3618,Friendly,1,0,A,B,B
+humanities,3618,Neutral,1,0,A,B,B
+humanities,3618,Rude,1,0,A,B,B
+humanities,3618,Very Rude,1,0,A,B,B
+humanities,3624,Very Friendly,1,0,D,B,B
+humanities,3624,Friendly,1,0,D,B,B
+humanities,3624,Neutral,1,0,D,B,B
+humanities,3624,Rude,1,0,D,B,B
+humanities,3624,Very Rude,1,0,D,B,B
+humanities,3625,Very Friendly,1,0,A,B,B
+humanities,3625,Friendly,1,0,A,B,B
+humanities,3625,Neutral,1,0,A,B,B
+humanities,3625,Rude,1,0,A,B,B
+humanities,3625,Very Rude,1,0,A,B,B
+humanities,3627,Very Friendly,1,100,C,C,C
+humanities,3627,Friendly,1,100,C,C,C
+humanities,3627,Neutral,1,100,C,C,C
+humanities,3627,Rude,1,100,C,C,C
+humanities,3627,Very Rude,1,100,C,C,C
+humanities,3629,Very Friendly,1,100,D,D,D
+humanities,3629,Friendly,1,100,D,D,D
+humanities,3629,Neutral,1,100,D,D,D
+humanities,3629,Rude,1,100,D,D,D
+humanities,3629,Very Rude,1,100,D,D,D
+humanities,3643,Very Friendly,1,0,A,C,C
+humanities,3643,Friendly,1,0,A,C,C
+humanities,3643,Neutral,1,0,A,C,C
+humanities,3643,Rude,1,0,A,C,C
+humanities,3643,Very Rude,1,0,A,C,C
+humanities,3652,Very Friendly,1,0,D,A,A
+humanities,3652,Friendly,1,0,D,A,A
+humanities,3652,Neutral,1,0,D,A,A
+humanities,3652,Rude,1,0,D,A,A
+humanities,3652,Very Rude,1,0,D,A,A
+humanities,3682,Very Friendly,1,100,D,D,D
+humanities,3682,Friendly,1,100,D,D,D
+humanities,3682,Neutral,1,100,D,D,D
+humanities,3682,Rude,1,100,D,D,D
+humanities,3682,Very Rude,1,100,D,D,D
+humanities,3689,Very Friendly,1,100,C,C,C
+humanities,3689,Friendly,1,100,C,C,C
+humanities,3689,Neutral,1,100,C,C,C
+humanities,3689,Rude,1,100,C,C,C
+humanities,3689,Very Rude,1,100,C,C,C
+humanities,3700,Very Friendly,1,100,A,A,A
+humanities,3700,Friendly,1,100,A,A,A
+humanities,3700,Neutral,1,100,A,A,A
+humanities,3700,Rude,1,100,A,A,A
+humanities,3700,Very Rude,1,100,A,A,A
+humanities,3706,Very Friendly,1,100,C,C,C
+humanities,3706,Friendly,1,100,C,C,C
+humanities,3706,Neutral,1,100,C,C,C
+humanities,3706,Rude,1,100,C,C,C
+humanities,3706,Very Rude,1,100,C,C,C
+humanities,3713,Very Friendly,1,0,C,B,B
+humanities,3713,Friendly,1,100,C,C,C
+humanities,3713,Neutral,1,0,C,B,B
+humanities,3713,Rude,1,100,C,C,C
+humanities,3713,Very Rude,1,0,C,B,B
+humanities,3716,Very Friendly,1,100,B,B,B
+humanities,3716,Friendly,1,100,B,B,B
+humanities,3716,Neutral,1,100,B,B,B
+humanities,3716,Rude,1,100,B,B,B
+humanities,3716,Very Rude,1,100,B,B,B
+humanities,3717,Very Friendly,1,100,C,C,C
+humanities,3717,Friendly,1,100,C,C,C
+humanities,3717,Neutral,1,100,C,C,C
+humanities,3717,Rude,1,100,C,C,C
+humanities,3717,Very Rude,1,100,C,C,C
+humanities,3718,Very Friendly,1,100,A,A,A
+humanities,3718,Friendly,1,100,A,A,A
+humanities,3718,Neutral,1,100,A,A,A
+humanities,3718,Rude,1,100,A,A,A
+humanities,3718,Very Rude,1,100,A,A,A
+humanities,3719,Very Friendly,1,100,A,A,A
+humanities,3719,Friendly,1,100,A,A,A
+humanities,3719,Neutral,1,100,A,A,A
+humanities,3719,Rude,1,100,A,A,A
+humanities,3719,Very Rude,1,100,A,A,A
+humanities,3723,Very Friendly,1,0,B,C,C
+humanities,3723,Friendly,1,0,B,C,C
+humanities,3723,Neutral,1,0,B,C,C
+humanities,3723,Rude,1,0,B,C,C
+humanities,3723,Very Rude,1,0,B,C,C
+humanities,3729,Very Friendly,1,100,D,D,D
+humanities,3729,Friendly,1,100,D,D,D
+humanities,3729,Neutral,1,100,D,D,D
+humanities,3729,Rude,1,100,D,D,D
+humanities,3729,Very Rude,1,100,D,D,D
+humanities,3738,Very Friendly,1,100,D,D,D
+humanities,3738,Friendly,1,100,D,D,D
+humanities,3738,Neutral,1,100,D,D,D
+humanities,3738,Rude,1,100,D,D,D
+humanities,3738,Very Rude,1,100,D,D,D
+humanities,3740,Very Friendly,1,100,B,B,B
+humanities,3740,Friendly,1,100,B,B,B
+humanities,3740,Neutral,1,100,B,B,B
+humanities,3740,Rude,1,100,B,B,B
+humanities,3740,Very Rude,1,100,B,B,B
+humanities,3751,Very Friendly,1,100,B,B,B
+humanities,3751,Friendly,1,100,B,B,B
+humanities,3751,Neutral,1,100,B,B,B
+humanities,3751,Rude,1,100,B,B,B
+humanities,3751,Very Rude,1,100,B,B,B
+humanities,3752,Very Friendly,1,0,C,A,A
+humanities,3752,Friendly,1,0,C,A,A
+humanities,3752,Neutral,1,0,C,A,A
+humanities,3752,Rude,1,0,C,A,A
+humanities,3752,Very Rude,1,0,C,A,A
+humanities,3757,Very Friendly,1,0,D,C,C
+humanities,3757,Friendly,1,0,D,C,C
+humanities,3757,Neutral,1,0,D,C,C
+humanities,3757,Rude,1,0,D,C,C
+humanities,3757,Very Rude,1,0,D,C,C
+humanities,3760,Very Friendly,1,0,D,A,A
+humanities,3760,Friendly,1,0,D,A,A
+humanities,3760,Neutral,1,0,D,A,A
+humanities,3760,Rude,1,0,D,A,A
+humanities,3760,Very Rude,1,0,D,A,A
+humanities,3761,Very Friendly,1,0,D,C,C
+humanities,3761,Friendly,1,0,D,C,C
+humanities,3761,Neutral,1,0,D,C,C
+humanities,3761,Rude,1,0,D,C,C
+humanities,3761,Very Rude,1,0,D,C,C
+humanities,3762,Very Friendly,1,0,A,D,D
+humanities,3762,Friendly,1,0,A,D,D
+humanities,3762,Neutral,1,0,A,D,D
+humanities,3762,Rude,1,0,A,D,D
+humanities,3762,Very Rude,1,0,A,D,D
+humanities,3775,Very Friendly,1,100,C,C,C
+humanities,3775,Friendly,1,100,C,C,C
+humanities,3775,Neutral,1,100,C,C,C
+humanities,3775,Rude,1,100,C,C,C
+humanities,3775,Very Rude,1,100,C,C,C
+humanities,3784,Very Friendly,1,100,D,D,D
+humanities,3784,Friendly,1,100,D,D,D
+humanities,3784,Neutral,1,100,D,D,D
+humanities,3784,Rude,1,100,D,D,D
+humanities,3784,Very Rude,1,100,D,D,D
+humanities,3788,Very Friendly,1,100,D,D,D
+humanities,3788,Friendly,1,100,D,D,D
+humanities,3788,Neutral,1,0,D,C,C
+humanities,3788,Rude,1,100,D,D,D
+humanities,3788,Very Rude,1,100,D,D,D
+humanities,3790,Very Friendly,1,100,C,C,C
+humanities,3790,Friendly,1,100,C,C,C
+humanities,3790,Neutral,1,100,C,C,C
+humanities,3790,Rude,1,100,C,C,C
+humanities,3790,Very Rude,1,100,C,C,C
+humanities,3796,Very Friendly,1,100,B,B,B
+humanities,3796,Friendly,1,100,B,B,B
+humanities,3796,Neutral,1,100,B,B,B
+humanities,3796,Rude,1,100,B,B,B
+humanities,3796,Very Rude,1,100,B,B,B
+humanities,3798,Very Friendly,1,100,D,D,D
+humanities,3798,Friendly,1,100,D,D,D
+humanities,3798,Neutral,1,100,D,D,D
+humanities,3798,Rude,1,100,D,D,D
+humanities,3798,Very Rude,1,100,D,D,D
+humanities,3801,Very Friendly,1,100,C,C,C
+humanities,3801,Friendly,1,100,C,C,C
+humanities,3801,Neutral,1,100,C,C,C
+humanities,3801,Rude,1,100,C,C,C
+humanities,3801,Very Rude,1,100,C,C,C
+humanities,3805,Very Friendly,1,100,A,A,A
+humanities,3805,Friendly,1,100,A,A,A
+humanities,3805,Neutral,1,100,A,A,A
+humanities,3805,Rude,1,100,A,A,A
+humanities,3805,Very Rude,1,0,A,C,C
+humanities,3810,Very Friendly,1,0,D,B,B
+humanities,3810,Friendly,1,0,D,B,B
+humanities,3810,Neutral,1,0,D,B,B
+humanities,3810,Rude,1,0,D,B,B
+humanities,3810,Very Rude,1,0,D,B,B
+humanities,3812,Very Friendly,1,100,B,B,B
+humanities,3812,Friendly,1,100,B,B,B
+humanities,3812,Neutral,1,100,B,B,B
+humanities,3812,Rude,1,100,B,B,B
+humanities,3812,Very Rude,1,100,B,B,B
+humanities,3817,Very Friendly,1,100,B,B,B
+humanities,3817,Friendly,1,100,B,B,B
+humanities,3817,Neutral,1,100,B,B,B
+humanities,3817,Rude,1,100,B,B,B
+humanities,3817,Very Rude,1,100,B,B,B
+humanities,3823,Very Friendly,1,100,B,B,B
+humanities,3823,Friendly,1,100,B,B,B
+humanities,3823,Neutral,1,100,B,B,B
+humanities,3823,Rude,1,100,B,B,B
+humanities,3823,Very Rude,1,100,B,B,B
+humanities,3825,Very Friendly,1,100,B,B,B
+humanities,3825,Friendly,1,100,B,B,B
+humanities,3825,Neutral,1,100,B,B,B
+humanities,3825,Rude,1,100,B,B,B
+humanities,3825,Very Rude,1,100,B,B,B
+humanities,3826,Very Friendly,1,100,B,B,B
+humanities,3826,Friendly,1,100,B,B,B
+humanities,3826,Neutral,1,100,B,B,B
+humanities,3826,Rude,1,100,B,B,B
+humanities,3826,Very Rude,1,100,B,B,B
+humanities,3830,Very Friendly,1,100,C,C,C
+humanities,3830,Friendly,1,100,C,C,C
+humanities,3830,Neutral,1,100,C,C,C
+humanities,3830,Rude,1,100,C,C,C
+humanities,3830,Very Rude,1,100,C,C,C
+humanities,3832,Very Friendly,1,100,B,B,B
+humanities,3832,Friendly,1,100,B,B,B
+humanities,3832,Neutral,1,100,B,B,B
+humanities,3832,Rude,1,100,B,B,B
+humanities,3832,Very Rude,1,100,B,B,B
+humanities,3839,Very Friendly,1,100,B,B,B
+humanities,3839,Friendly,1,100,B,B,B
+humanities,3839,Neutral,1,100,B,B,B
+humanities,3839,Rude,1,100,B,B,B
+humanities,3839,Very Rude,1,100,B,B,B
+humanities,3845,Very Friendly,1,100,B,B,B
+humanities,3845,Friendly,1,100,B,B,B
+humanities,3845,Neutral,1,100,B,B,B
+humanities,3845,Rude,1,100,B,B,B
+humanities,3845,Very Rude,1,100,B,B,B
+humanities,3850,Very Friendly,1,0,A,C,C
+humanities,3850,Friendly,1,0,A,C,C.
+humanities,3850,Neutral,1,0,A,C,C
+humanities,3850,Rude,1,0,A,C,C
+humanities,3850,Very Rude,1,0,A,C,C.
+humanities,3853,Very Friendly,1,100,B,B,B
+humanities,3853,Friendly,1,100,B,B,B
+humanities,3853,Neutral,1,100,B,B,B
+humanities,3853,Rude,1,100,B,B,B
+humanities,3853,Very Rude,1,100,B,B,B
+humanities,3858,Very Friendly,1,100,C,C,C
+humanities,3858,Friendly,1,100,C,C,C
+humanities,3858,Neutral,1,100,C,C,C
+humanities,3858,Rude,1,100,C,C,C
+humanities,3858,Very Rude,1,100,C,C,C
+humanities,3865,Very Friendly,1,100,D,D,D
+humanities,3865,Friendly,1,100,D,D,D
+humanities,3865,Neutral,1,100,D,D,D
+humanities,3865,Rude,1,100,D,D,D
+humanities,3865,Very Rude,1,100,D,D,D
+humanities,3871,Very Friendly,1,100,D,D,D
+humanities,3871,Friendly,1,100,D,D,D
+humanities,3871,Neutral,1,100,D,D,D
+humanities,3871,Rude,1,100,D,D,D
+humanities,3871,Very Rude,1,100,D,D,D
+humanities,3872,Very Friendly,1,100,C,C,C
+humanities,3872,Friendly,1,100,C,C,C
+humanities,3872,Neutral,1,100,C,C,C
+humanities,3872,Rude,1,100,C,C,C
+humanities,3872,Very Rude,1,100,C,C,C
+humanities,3879,Very Friendly,1,0,D,C,C
+humanities,3879,Friendly,1,0,D,C,C
+humanities,3879,Neutral,1,0,D,C,C
+humanities,3879,Rude,1,0,D,C,C
+humanities,3879,Very Rude,1,0,D,C,C
+humanities,3880,Very Friendly,1,0,D,B,B
+humanities,3880,Friendly,1,0,D,B,B
+humanities,3880,Neutral,1,0,D,B,B
+humanities,3880,Rude,1,0,D,B,B
+humanities,3880,Very Rude,1,0,D,B,B
+humanities,3890,Very Friendly,1,100,D,D,D
+humanities,3890,Friendly,1,100,D,D,D
+humanities,3890,Neutral,1,100,D,D,D
+humanities,3890,Rude,1,100,D,D,D
+humanities,3890,Very Rude,1,100,D,D,D
+humanities,3892,Very Friendly,1,100,A,A,A
+humanities,3892,Friendly,1,100,A,A,A
+humanities,3892,Neutral,1,0,A,B,B
+humanities,3892,Rude,1,100,A,A,A
+humanities,3892,Very Rude,1,0,A,B,B
+humanities,3894,Very Friendly,1,100,C,C,C
+humanities,3894,Friendly,1,100,C,C,C
+humanities,3894,Neutral,1,100,C,C,C
+humanities,3894,Rude,1,100,C,C,C
+humanities,3894,Very Rude,1,100,C,C,C
+humanities,3900,Very Friendly,1,100,D,D,D
+humanities,3900,Friendly,1,100,D,D,D
+humanities,3900,Neutral,1,100,D,D,D
+humanities,3900,Rude,1,100,D,D,D
+humanities,3900,Very Rude,1,100,D,D,D
+humanities,3906,Very Friendly,1,100,C,C,C
+humanities,3906,Friendly,1,100,C,C,C
+humanities,3906,Neutral,1,100,C,C,C
+humanities,3906,Rude,1,100,C,C,C
+humanities,3906,Very Rude,1,100,C,C,C
+humanities,3908,Very Friendly,1,100,B,B,B
+humanities,3908,Friendly,1,100,B,B,B
+humanities,3908,Neutral,1,100,B,B,B
+humanities,3908,Rude,1,100,B,B,B
+humanities,3908,Very Rude,1,0,B,A,A
+humanities,3916,Very Friendly,1,100,B,B,B
+humanities,3916,Friendly,1,100,B,B,B
+humanities,3916,Neutral,1,100,B,B,B
+humanities,3916,Rude,1,100,B,B,B
+humanities,3916,Very Rude,1,100,B,B,B
+humanities,3917,Very Friendly,1,100,B,B,B
+humanities,3917,Friendly,1,100,B,B,B
+humanities,3917,Neutral,1,100,B,B,B
+humanities,3917,Rude,1,100,B,B,B
+humanities,3917,Very Rude,1,100,B,B,B
+humanities,3923,Very Friendly,1,100,A,A,A
+humanities,3923,Friendly,1,100,A,A,A
+humanities,3923,Neutral,1,100,A,A,A
+humanities,3923,Rude,1,100,A,A,A
+humanities,3923,Very Rude,1,100,A,A,A
+humanities,3928,Very Friendly,1,100,C,C,C
+humanities,3928,Friendly,1,100,C,C,C
+humanities,3928,Neutral,1,100,C,C,C
+humanities,3928,Rude,1,100,C,C,C
+humanities,3928,Very Rude,1,100,C,C,C
+humanities,3930,Very Friendly,1,100,B,B,B
+humanities,3930,Friendly,1,100,B,B,B
+humanities,3930,Neutral,1,100,B,B,B
+humanities,3930,Rude,1,100,B,B,B
+humanities,3930,Very Rude,1,100,B,B,B
+humanities,3931,Very Friendly,1,0,D,B,B
+humanities,3931,Friendly,1,0,D,B,B
+humanities,3931,Neutral,1,0,D,B,B
+humanities,3931,Rude,1,0,D,B,B
+humanities,3931,Very Rude,1,0,D,B,B
+humanities,3932,Very Friendly,1,100,B,B,B
+humanities,3932,Friendly,1,100,B,B,B
+humanities,3932,Neutral,1,100,B,B,B
+humanities,3932,Rude,1,100,B,B,B
+humanities,3932,Very Rude,1,100,B,B,B
+humanities,3933,Very Friendly,1,0,D,C,C
+humanities,3933,Friendly,1,0,D,C,C
+humanities,3933,Neutral,1,0,D,C,C
+humanities,3933,Rude,1,100,D,D,D
+humanities,3933,Very Rude,1,0,D,C,C
+humanities,3934,Very Friendly,1,0,B,C,C
+humanities,3934,Friendly,1,0,B,C,C
+humanities,3934,Neutral,1,0,B,C,C
+humanities,3934,Rude,1,0,B,C,C
+humanities,3934,Very Rude,1,0,B,C,C
+humanities,3941,Very Friendly,1,100,A,A,A
+humanities,3941,Friendly,1,100,A,A,A
+humanities,3941,Neutral,1,100,A,A,A
+humanities,3941,Rude,1,0,A,B,B
+humanities,3941,Very Rude,1,100,A,A,A
+humanities,3942,Very Friendly,1,100,D,D,D
+humanities,3942,Friendly,1,100,D,D,D
+humanities,3942,Neutral,1,100,D,D,D
+humanities,3942,Rude,1,100,D,D,D
+humanities,3942,Very Rude,1,100,D,D,D
+humanities,3943,Very Friendly,1,100,B,B,B
+humanities,3943,Friendly,1,100,B,B,B
+humanities,3943,Neutral,1,100,B,B,B
+humanities,3943,Rude,1,100,B,B,B
+humanities,3943,Very Rude,1,100,B,B,B
+humanities,3945,Very Friendly,1,100,C,C,C
+humanities,3945,Friendly,1,100,C,C,C
+humanities,3945,Neutral,1,100,C,C,C
+humanities,3945,Rude,1,100,C,C,C
+humanities,3945,Very Rude,1,100,C,C,C
+humanities,3948,Very Friendly,1,100,C,C,C
+humanities,3948,Friendly,1,100,C,C,C
+humanities,3948,Neutral,1,100,C,C,C
+humanities,3948,Rude,1,100,C,C,C
+humanities,3948,Very Rude,1,100,C,C,C
+humanities,3949,Very Friendly,1,100,D,D,D
+humanities,3949,Friendly,1,100,D,D,D
+humanities,3949,Neutral,1,100,D,D,D
+humanities,3949,Rude,1,100,D,D,D
+humanities,3949,Very Rude,1,100,D,D,D
+humanities,3960,Very Friendly,1,0,B,C,C
+humanities,3960,Friendly,1,0,B,C,C
+humanities,3960,Neutral,1,0,B,C,C
+humanities,3960,Rude,1,0,B,C,C
+humanities,3960,Very Rude,1,0,B,C,C
+humanities,3965,Very Friendly,1,0,B,D,D
+humanities,3965,Friendly,1,0,B,D,D
+humanities,3965,Neutral,1,0,B,D,D
+humanities,3965,Rude,1,0,B,D,D
+humanities,3965,Very Rude,1,0,B,D,D
+humanities,3967,Very Friendly,1,100,A,A,A
+humanities,3967,Friendly,1,100,A,A,A
+humanities,3967,Neutral,1,100,A,A,A
+humanities,3967,Rude,1,100,A,A,A
+humanities,3967,Very Rude,1,100,A,A,A
+humanities,3968,Very Friendly,1,100,A,A,A
+humanities,3968,Friendly,1,100,A,A,A
+humanities,3968,Neutral,1,100,A,A,A
+humanities,3968,Rude,1,100,A,A,A
+humanities,3968,Very Rude,1,100,A,A,A
+humanities,4003,Very Friendly,1,100,C,C,C
+humanities,4003,Friendly,1,100,C,C,C
+humanities,4003,Neutral,1,100,C,C,C
+humanities,4003,Rude,1,100,C,C,C
+humanities,4003,Very Rude,1,100,C,C,C
+humanities,4004,Very Friendly,1,100,C,C,C
+humanities,4004,Friendly,1,100,C,C,C
+humanities,4004,Neutral,1,100,C,C,C
+humanities,4004,Rude,1,100,C,C,C
+humanities,4004,Very Rude,1,100,C,C,C
+humanities,4006,Very Friendly,1,100,B,B,B
+humanities,4006,Friendly,1,100,B,B,B
+humanities,4006,Neutral,1,100,B,B,B
+humanities,4006,Rude,1,100,B,B,B
+humanities,4006,Very Rude,1,100,B,B,B
+humanities,4020,Very Friendly,1,100,A,A,A
+humanities,4020,Friendly,1,0,A,C,C
+humanities,4020,Neutral,1,0,A,C,C
+humanities,4020,Rude,1,100,A,A,A
+humanities,4020,Very Rude,1,0,A,C,C
+humanities,4025,Very Friendly,1,100,B,B,B
+humanities,4025,Friendly,1,100,B,B,B
+humanities,4025,Neutral,1,100,B,B,B
+humanities,4025,Rude,1,100,B,B,B
+humanities,4025,Very Rude,1,100,B,B,B
+humanities,4027,Very Friendly,1,100,B,B,B
+humanities,4027,Friendly,1,100,B,B,B
+humanities,4027,Neutral,1,100,B,B,B
+humanities,4027,Rude,1,100,B,B,B
+humanities,4027,Very Rude,1,100,B,B,B
+humanities,4032,Very Friendly,1,100,C,C,C
+humanities,4032,Friendly,1,100,C,C,C
+humanities,4032,Neutral,1,100,C,C,C
+humanities,4032,Rude,1,100,C,C,C
+humanities,4032,Very Rude,1,100,C,C,C
+humanities,4035,Very Friendly,1,0,A,B,B
+humanities,4035,Friendly,1,0,A,B,B
+humanities,4035,Neutral,1,0,A,B,B
+humanities,4035,Rude,1,0,A,B,B
+humanities,4035,Very Rude,1,0,A,B,B
+humanities,4039,Very Friendly,1,0,A,D,D
+humanities,4039,Friendly,1,0,A,D,D
+humanities,4039,Neutral,1,0,A,D,D
+humanities,4039,Rude,1,0,A,D,D
+humanities,4039,Very Rude,1,0,A,D,D
+humanities,4045,Very Friendly,1,0,D,C,C
+humanities,4045,Friendly,1,0,D,C,C
+humanities,4045,Neutral,1,0,D,C,C
+humanities,4045,Rude,1,0,D,C,C
+humanities,4045,Very Rude,1,0,D,C,C
+humanities,4048,Very Friendly,1,0,D,C,C
+humanities,4048,Friendly,1,0,D,C,C
+humanities,4048,Neutral,1,0,D,C,C
+humanities,4048,Rude,1,0,D,C,C
+humanities,4048,Very Rude,1,0,D,C,C
+humanities,4051,Very Friendly,1,100,A,A,A
+humanities,4051,Friendly,1,100,A,A,A
+humanities,4051,Neutral,1,100,A,A,A
+humanities,4051,Rude,1,100,A,A,A
+humanities,4051,Very Rude,1,100,A,A,A
+humanities,4052,Very Friendly,1,100,C,C,C
+humanities,4052,Friendly,1,100,C,C,C
+humanities,4052,Neutral,1,100,C,C,C
+humanities,4052,Rude,1,100,C,C,C
+humanities,4052,Very Rude,1,100,C,C,C
+humanities,4061,Very Friendly,1,100,A,A,A
+humanities,4061,Friendly,1,100,A,A,A
+humanities,4061,Neutral,1,100,A,A,A
+humanities,4061,Rude,1,100,A,A,A
+humanities,4061,Very Rude,1,100,A,A,A
+humanities,4063,Very Friendly,1,0,D,A,A
+humanities,4063,Friendly,1,100,D,D,D
+humanities,4063,Neutral,1,100,D,D,D
+humanities,4063,Rude,1,100,D,D,D
+humanities,4063,Very Rude,1,100,D,D,D
+humanities,4065,Very Friendly,1,0,A,D,D
+humanities,4065,Friendly,1,0,A,D,D
+humanities,4065,Neutral,1,0,A,D,D
+humanities,4065,Rude,1,0,A,D,D
+humanities,4065,Very Rude,1,0,A,D,D
+humanities,4066,Very Friendly,1,0,A,D,D
+humanities,4066,Friendly,1,0,A,D,D
+humanities,4066,Neutral,1,0,A,D,D
+humanities,4066,Rude,1,0,A,D,D
+humanities,4066,Very Rude,1,0,A,D,D
+humanities,4067,Very Friendly,1,0,A,B,B
+humanities,4067,Friendly,1,0,A,B,B
+humanities,4067,Neutral,1,0,A,B,B
+humanities,4067,Rude,1,0,A,B,B
+humanities,4067,Very Rude,1,0,A,B,B
+humanities,4069,Very Friendly,1,0,B,C,C
+humanities,4069,Friendly,1,0,B,C,C
+humanities,4069,Neutral,1,0,B,C,C
+humanities,4069,Rude,1,0,B,C,C
+humanities,4069,Very Rude,1,0,B,C,C
+humanities,4074,Very Friendly,1,100,D,D,D
+humanities,4074,Friendly,1,100,D,D,D
+humanities,4074,Neutral,1,100,D,D,D
+humanities,4074,Rude,1,100,D,D,D
+humanities,4074,Very Rude,1,100,D,D,D
+humanities,4077,Very Friendly,1,100,B,B,B
+humanities,4077,Friendly,1,100,B,B,B
+humanities,4077,Neutral,1,100,B,B,B
+humanities,4077,Rude,1,100,B,B,B
+humanities,4077,Very Rude,1,100,B,B,B
+humanities,4079,Very Friendly,1,100,C,C,C
+humanities,4079,Friendly,1,100,C,C,C
+humanities,4079,Neutral,1,100,C,C,C
+humanities,4079,Rude,1,100,C,C,C
+humanities,4079,Very Rude,1,100,C,C,C
+humanities,4092,Very Friendly,1,100,C,C,C
+humanities,4092,Friendly,1,100,C,C,C
+humanities,4092,Neutral,1,100,C,C,C
+humanities,4092,Rude,1,100,C,C,C
+humanities,4092,Very Rude,1,100,C,C,C
+humanities,4095,Very Friendly,1,0,D,A,A
+humanities,4095,Friendly,1,0,D,A,A
+humanities,4095,Neutral,1,0,D,A,A
+humanities,4095,Rude,1,0,D,A,A
+humanities,4095,Very Rude,1,0,D,A,A
+humanities,4096,Very Friendly,1,100,D,D,D
+humanities,4096,Friendly,1,0,D,A,A
+humanities,4096,Neutral,1,100,D,D,D
+humanities,4096,Rude,1,0,D,A,A
+humanities,4096,Very Rude,1,0,D,A,A
+humanities,4104,Very Friendly,1,100,C,C,C
+humanities,4104,Friendly,1,100,C,C,C
+humanities,4104,Neutral,1,100,C,C,C
+humanities,4104,Rude,1,100,C,C,C
+humanities,4104,Very Rude,1,100,C,C,C
+humanities,4112,Very Friendly,1,0,A,C,C
+humanities,4112,Friendly,1,0,A,C,C
+humanities,4112,Neutral,1,0,A,C,C
+humanities,4112,Rude,1,0,A,C,C
+humanities,4112,Very Rude,1,0,A,C,C
+humanities,4113,Very Friendly,1,100,B,B,B
+humanities,4113,Friendly,1,100,B,B,B
+humanities,4113,Neutral,1,100,B,B,B
+humanities,4113,Rude,1,100,B,B,B
+humanities,4113,Very Rude,1,100,B,B,B
+humanities,4122,Very Friendly,1,0,D,C,C
+humanities,4122,Friendly,1,0,D,C,C
+humanities,4122,Neutral,1,0,D,C,C
+humanities,4122,Rude,1,0,D,C,C
+humanities,4122,Very Rude,1,0,D,C,C
+humanities,4129,Very Friendly,1,100,B,B,B
+humanities,4129,Friendly,1,100,B,B,B
+humanities,4129,Neutral,1,100,B,B,B
+humanities,4129,Rude,1,100,B,B,B
+humanities,4129,Very Rude,1,100,B,B,B
+humanities,4130,Very Friendly,1,100,B,B,B
+humanities,4130,Friendly,1,100,B,B,B
+humanities,4130,Neutral,1,100,B,B,B
+humanities,4130,Rude,1,100,B,B,B
+humanities,4130,Very Rude,1,100,B,B,B
+humanities,4131,Very Friendly,1,100,B,B,B
+humanities,4131,Friendly,1,100,B,B,B
+humanities,4131,Neutral,1,100,B,B,B
+humanities,4131,Rude,1,100,B,B,B
+humanities,4131,Very Rude,1,100,B,B,B
+humanities,4140,Very Friendly,1,100,B,B,B
+humanities,4140,Friendly,1,100,B,B,B
+humanities,4140,Neutral,1,100,B,B,B
+humanities,4140,Rude,1,100,B,B,B
+humanities,4140,Very Rude,1,100,B,B,B
+humanities,4148,Very Friendly,1,100,D,D,D
+humanities,4148,Friendly,1,100,D,D,D
+humanities,4148,Neutral,1,100,D,D,D
+humanities,4148,Rude,1,100,D,D,D
+humanities,4148,Very Rude,1,100,D,D,D
+humanities,4149,Very Friendly,1,100,D,D,D
+humanities,4149,Friendly,1,100,D,D,D
+humanities,4149,Neutral,1,100,D,D,D
+humanities,4149,Rude,1,100,D,D,D
+humanities,4149,Very Rude,1,100,D,D,D
+humanities,4155,Very Friendly,1,0,C,B,B
+humanities,4155,Friendly,1,100,C,C,C
+humanities,4155,Neutral,1,0,C,B,B
+humanities,4155,Rude,1,100,C,C,C
+humanities,4155,Very Rude,1,0,C,B,B
+humanities,4156,Very Friendly,1,0,D,A,A
+humanities,4156,Friendly,1,0,D,A,A
+humanities,4156,Neutral,1,0,D,A,A
+humanities,4156,Rude,1,0,D,A,A
+humanities,4156,Very Rude,1,0,D,A,A
+humanities,4158,Very Friendly,1,100,B,B,B
+humanities,4158,Friendly,1,100,B,B,B
+humanities,4158,Neutral,1,100,B,B,B
+humanities,4158,Rude,1,100,B,B,B
+humanities,4158,Very Rude,1,100,B,B,B
+humanities,4159,Very Friendly,1,0,A,B,B
+humanities,4159,Friendly,1,0,A,B,B
+humanities,4159,Neutral,1,0,A,B,B
+humanities,4159,Rude,1,0,A,B,B
+humanities,4159,Very Rude,1,0,A,B,B
+humanities,4160,Very Friendly,1,0,A,C,C
+humanities,4160,Friendly,1,0,A,C,C
+humanities,4160,Neutral,1,0,A,C,C
+humanities,4160,Rude,1,0,A,C,C
+humanities,4160,Very Rude,1,0,A,C,C
+humanities,4161,Very Friendly,1,100,D,D,D
+humanities,4161,Friendly,1,100,D,D,D
+humanities,4161,Neutral,1,100,D,D,D
+humanities,4161,Rude,1,100,D,D,D
+humanities,4161,Very Rude,1,100,D,D,D
+humanities,4169,Very Friendly,1,100,B,B,B
+humanities,4169,Friendly,1,100,B,B,B
+humanities,4169,Neutral,1,100,B,B,B
+humanities,4169,Rude,1,100,B,B,B
+humanities,4169,Very Rude,1,100,B,B,B
+humanities,4178,Very Friendly,1,100,C,C,C
+humanities,4178,Friendly,1,100,C,C,C
+humanities,4178,Neutral,1,100,C,C,C
+humanities,4178,Rude,1,100,C,C,C
+humanities,4178,Very Rude,1,100,C,C,C
+humanities,4189,Very Friendly,1,100,C,C,C
+humanities,4189,Friendly,1,100,C,C,C
+humanities,4189,Neutral,1,100,C,C,C
+humanities,4189,Rude,1,100,C,C,C
+humanities,4189,Very Rude,1,100,C,C,C
+humanities,4191,Very Friendly,1,0,A,C,C
+humanities,4191,Friendly,1,0,A,C,C
+humanities,4191,Neutral,1,0,A,C,C
+humanities,4191,Rude,1,0,A,C,C
+humanities,4191,Very Rude,1,0,A,C,C
+humanities,4198,Very Friendly,1,100,A,A,A
+humanities,4198,Friendly,1,100,A,A,A
+humanities,4198,Neutral,1,100,A,A,A
+humanities,4198,Rude,1,100,A,A,A
+humanities,4198,Very Rude,1,100,A,A,A
+humanities,4205,Very Friendly,1,100,D,D,D
+humanities,4205,Friendly,1,100,D,D,D
+humanities,4205,Neutral,1,100,D,D,D
+humanities,4205,Rude,1,0,D,B,B
+humanities,4205,Very Rude,1,100,D,D,D
+humanities,4212,Very Friendly,1,0,C,B,B
+humanities,4212,Friendly,1,100,C,C,C
+humanities,4212,Neutral,1,100,C,C,C
+humanities,4212,Rude,1,100,C,C,C
+humanities,4212,Very Rude,1,100,C,C,C
+humanities,4216,Very Friendly,1,0,A,C,C
+humanities,4216,Friendly,1,0,A,C,C
+humanities,4216,Neutral,1,0,A,C,C
+humanities,4216,Rude,1,0,A,C,C
+humanities,4216,Very Rude,1,0,A,C,C
+humanities,4225,Very Friendly,1,0,C,B,B
+humanities,4225,Friendly,1,0,C,B,B
+humanities,4225,Neutral,1,0,C,B,B
+humanities,4225,Rude,1,0,C,B,B
+humanities,4225,Very Rude,1,0,C,B,B
+humanities,4228,Very Friendly,1,100,B,B,B
+humanities,4228,Friendly,1,100,B,B,B
+humanities,4228,Neutral,1,100,B,B,B
+humanities,4228,Rude,1,100,B,B,B
+humanities,4228,Very Rude,1,100,B,B,B
+humanities,4242,Very Friendly,1,100,A,A,A
+humanities,4242,Friendly,1,0,A,C,C
+humanities,4242,Neutral,1,0,A,C,C
+humanities,4242,Rude,1,100,A,A,A
+humanities,4242,Very Rude,1,100,A,A,A
+humanities,4246,Very Friendly,1,100,A,A,A
+humanities,4246,Friendly,1,100,A,A,A
+humanities,4246,Neutral,1,100,A,A,A
+humanities,4246,Rude,1,100,A,A,A
+humanities,4246,Very Rude,1,100,A,A,A
+humanities,4247,Very Friendly,1,100,D,D,D
+humanities,4247,Friendly,1,100,D,D,D
+humanities,4247,Neutral,1,100,D,D,D
+humanities,4247,Rude,1,100,D,D,D
+humanities,4247,Very Rude,1,100,D,D,D
+humanities,4257,Very Friendly,1,100,D,D,D
+humanities,4257,Friendly,1,100,D,D,D
+humanities,4257,Neutral,1,100,D,D,D
+humanities,4257,Rude,1,100,D,D,D
+humanities,4257,Very Rude,1,100,D,D,D
+humanities,4261,Very Friendly,1,100,C,C,C
+humanities,4261,Friendly,1,100,C,C,C
+humanities,4261,Neutral,1,100,C,C,C
+humanities,4261,Rude,1,100,C,C,C
+humanities,4261,Very Rude,1,100,C,C,C
+humanities,4262,Very Friendly,1,100,D,D,D
+humanities,4262,Friendly,1,100,D,D,D
+humanities,4262,Neutral,1,100,D,D,D
+humanities,4262,Rude,1,100,D,D,D
+humanities,4262,Very Rude,1,100,D,D,D
+humanities,4263,Very Friendly,1,0,A,B,B
+humanities,4263,Friendly,1,0,A,B,B
+humanities,4263,Neutral,1,0,A,B,B
+humanities,4263,Rude,1,0,A,B,B
+humanities,4263,Very Rude,1,0,A,B,B
+humanities,4266,Very Friendly,1,100,B,B,B
+humanities,4266,Friendly,1,100,B,B,B
+humanities,4266,Neutral,1,100,B,B,B
+humanities,4266,Rude,1,100,B,B,B
+humanities,4266,Very Rude,1,100,B,B,B
+humanities,4271,Very Friendly,1,100,A,A,A
+humanities,4271,Friendly,1,100,A,A,A
+humanities,4271,Neutral,1,100,A,A,A
+humanities,4271,Rude,1,100,A,A,A
+humanities,4271,Very Rude,1,100,A,A,A
+humanities,4275,Very Friendly,1,100,C,C,C
+humanities,4275,Friendly,1,100,C,C,C
+humanities,4275,Neutral,1,100,C,C,C
+humanities,4275,Rude,1,100,C,C,C
+humanities,4275,Very Rude,1,100,C,C,C
+humanities,4278,Very Friendly,1,100,D,D,D
+humanities,4278,Friendly,1,100,D,D,D
+humanities,4278,Neutral,1,100,D,D,D
+humanities,4278,Rude,1,100,D,D,D
+humanities,4278,Very Rude,1,100,D,D,D
+humanities,4289,Very Friendly,1,100,D,D,D
+humanities,4289,Friendly,1,100,D,D,D
+humanities,4289,Neutral,1,100,D,D,D
+humanities,4289,Rude,1,100,D,D,D
+humanities,4289,Very Rude,1,100,D,D,D
+humanities,4293,Very Friendly,1,100,C,C,C
+humanities,4293,Friendly,1,100,C,C,C
+humanities,4293,Neutral,1,100,C,C,C
+humanities,4293,Rude,1,100,C,C,C
+humanities,4293,Very Rude,1,100,C,C,C
+humanities,4295,Very Friendly,1,100,B,B,B
+humanities,4295,Friendly,1,100,B,B,B
+humanities,4295,Neutral,1,100,B,B,B
+humanities,4295,Rude,1,100,B,B,B
+humanities,4295,Very Rude,1,100,B,B,B
+humanities,4301,Very Friendly,1,100,C,C,C
+humanities,4301,Friendly,1,100,C,C,C
+humanities,4301,Neutral,1,100,C,C,C
+humanities,4301,Rude,1,100,C,C,C
+humanities,4301,Very Rude,1,100,C,C,C
+humanities,4302,Very Friendly,1,100,B,B,B
+humanities,4302,Friendly,1,100,B,B,B
+humanities,4302,Neutral,1,100,B,B,B
+humanities,4302,Rude,1,100,B,B,B
+humanities,4302,Very Rude,1,100,B,B,B
+humanities,4304,Very Friendly,1,100,A,A,A
+humanities,4304,Friendly,1,100,A,A,A
+humanities,4304,Neutral,1,100,A,A,A
+humanities,4304,Rude,1,100,A,A,A
+humanities,4304,Very Rude,1,100,A,A,A
+humanities,4307,Very Friendly,1,100,A,A,A
+humanities,4307,Friendly,1,100,A,A,A
+humanities,4307,Neutral,1,100,A,A,A
+humanities,4307,Rude,1,100,A,A,A
+humanities,4307,Very Rude,1,100,A,A,A
+humanities,4311,Very Friendly,1,0,A,B,B
+humanities,4311,Friendly,1,0,A,D,D
+humanities,4311,Neutral,1,0,A,D,D
+humanities,4311,Rude,1,0,A,D,D
+humanities,4311,Very Rude,1,0,A,D,D
+humanities,4317,Very Friendly,1,100,B,B,B
+humanities,4317,Friendly,1,100,B,B,B
+humanities,4317,Neutral,1,100,B,B,B
+humanities,4317,Rude,1,100,B,B,B
+humanities,4317,Very Rude,1,100,B,B,B
+humanities,4319,Very Friendly,1,100,D,D,D
+humanities,4319,Friendly,1,100,D,D,D
+humanities,4319,Neutral,1,100,D,D,D
+humanities,4319,Rude,1,100,D,D,D
+humanities,4319,Very Rude,1,100,D,D,D
+humanities,4322,Very Friendly,1,0,A,D,D
+humanities,4322,Friendly,1,0,A,D,D
+humanities,4322,Neutral,1,0,A,D,D
+humanities,4322,Rude,1,0,A,D,D
+humanities,4322,Very Rude,1,0,A,D,D
+humanities,4327,Very Friendly,1,100,D,D,D
+humanities,4327,Friendly,1,100,D,D,D
+humanities,4327,Neutral,1,100,D,D,D
+humanities,4327,Rude,1,100,D,D,D
+humanities,4327,Very Rude,1,100,D,D,D
+humanities,4340,Very Friendly,1,100,B,B,B
+humanities,4340,Friendly,1,100,B,B,B
+humanities,4340,Neutral,1,100,B,B,B
+humanities,4340,Rude,1,100,B,B,B
+humanities,4340,Very Rude,1,100,B,B,B
+humanities,4346,Very Friendly,1,100,D,D,D
+humanities,4346,Friendly,1,100,D,D,D
+humanities,4346,Neutral,1,100,D,D,D
+humanities,4346,Rude,1,100,D,D,D
+humanities,4346,Very Rude,1,100,D,D,D
+humanities,4351,Very Friendly,1,0,B,D,D
+humanities,4351,Friendly,1,0,B,D,D
+humanities,4351,Neutral,1,0,B,D,D
+humanities,4351,Rude,1,0,B,D,D
+humanities,4351,Very Rude,1,0,B,D,D
+humanities,4358,Very Friendly,1,100,A,A,A
+humanities,4358,Friendly,1,0,A,C,C
+humanities,4358,Neutral,1,100,A,A,A
+humanities,4358,Rude,1,0,A,C,C
+humanities,4358,Very Rude,1,100,A,A,A
+humanities,4360,Very Friendly,1,0,A,C,C
+humanities,4360,Friendly,1,0,A,C,C
+humanities,4360,Neutral,1,0,A,C,C
+humanities,4360,Rude,1,0,A,C,C
+humanities,4360,Very Rude,1,0,A,C,C
+humanities,4362,Very Friendly,1,0,C,B,B
+humanities,4362,Friendly,1,0,C,B,B
+humanities,4362,Neutral,1,0,C,B,B
+humanities,4362,Rude,1,0,C,B,B
+humanities,4362,Very Rude,1,0,C,B,B
+humanities,4366,Very Friendly,1,0,C,D,D
+humanities,4366,Friendly,1,0,C,D,D
+humanities,4366,Neutral,1,0,C,D,D
+humanities,4366,Rude,1,0,C,D,D
+humanities,4366,Very Rude,1,0,C,D,D
+humanities,4375,Very Friendly,1,100,A,A,A
+humanities,4375,Friendly,1,100,A,A,A
+humanities,4375,Neutral,1,100,A,A,A
+humanities,4375,Rude,1,100,A,A,A
+humanities,4375,Very Rude,1,100,A,A,A
+humanities,4378,Very Friendly,1,100,B,B,B
+humanities,4378,Friendly,1,100,B,B,B
+humanities,4378,Neutral,1,100,B,B,B
+humanities,4378,Rude,1,100,B,B,B
+humanities,4378,Very Rude,1,100,B,B,B
+humanities,4381,Very Friendly,1,0,C,B,B
+humanities,4381,Friendly,1,0,C,B,B
+humanities,4381,Neutral,1,0,C,B,B
+humanities,4381,Rude,1,0,C,B,B
+humanities,4381,Very Rude,1,0,C,B,B
+humanities,4383,Very Friendly,1,0,A,C,C
+humanities,4383,Friendly,1,0,A,C,C
+humanities,4383,Neutral,1,0,A,C,C
+humanities,4383,Rude,1,0,A,C,C
+humanities,4383,Very Rude,1,0,A,C,C
+humanities,4393,Very Friendly,1,0,C,A,A
+humanities,4393,Friendly,1,0,C,A,A
+humanities,4393,Neutral,1,0,C,A,A
+humanities,4393,Rude,1,0,C,A,A
+humanities,4393,Very Rude,1,0,C,A,A
+humanities,4402,Very Friendly,1,0,C,D,D
+humanities,4402,Friendly,1,0,C,D,D
+humanities,4402,Neutral,1,0,C,D,D
+humanities,4402,Rude,1,0,C,D,D
+humanities,4402,Very Rude,1,0,C,D,D
+humanities,4403,Very Friendly,1,100,A,A,A
+humanities,4403,Friendly,1,100,A,A,A
+humanities,4403,Neutral,1,100,A,A,A
+humanities,4403,Rude,1,100,A,A,A
+humanities,4403,Very Rude,1,100,A,A,A
+humanities,4410,Very Friendly,1,0,D,C,C
+humanities,4410,Friendly,1,0,D,C,C
+humanities,4410,Neutral,1,0,D,C,C
+humanities,4410,Rude,1,0,D,C,C
+humanities,4410,Very Rude,1,0,D,C,C
+humanities,4411,Very Friendly,1,100,C,C,C
+humanities,4411,Friendly,1,100,C,C,C
+humanities,4411,Neutral,1,100,C,C,C
+humanities,4411,Rude,1,100,C,C,C
+humanities,4411,Very Rude,1,100,C,C,C
+humanities,4413,Very Friendly,1,100,B,B,B
+humanities,4413,Friendly,1,100,B,B,B
+humanities,4413,Neutral,1,100,B,B,B
+humanities,4413,Rude,1,100,B,B,B
+humanities,4413,Very Rude,1,100,B,B,B
+humanities,4417,Very Friendly,1,100,C,C,C
+humanities,4417,Friendly,1,100,C,C,C
+humanities,4417,Neutral,1,100,C,C,C
+humanities,4417,Rude,1,100,C,C,C
+humanities,4417,Very Rude,1,100,C,C,C
+humanities,4418,Very Friendly,1,100,B,B,B
+humanities,4418,Friendly,1,100,B,B,B
+humanities,4418,Neutral,1,100,B,B,B
+humanities,4418,Rude,1,100,B,B,B
+humanities,4418,Very Rude,1,100,B,B,B
+humanities,4421,Very Friendly,1,100,D,D,D
+humanities,4421,Friendly,1,100,D,D,D
+humanities,4421,Neutral,1,100,D,D,D
+humanities,4421,Rude,1,100,D,D,D
+humanities,4421,Very Rude,1,100,D,D,D
+humanities,4422,Very Friendly,1,100,A,A,A
+humanities,4422,Friendly,1,100,A,A,A
+humanities,4422,Neutral,1,100,A,A,A
+humanities,4422,Rude,1,100,A,A,A
+humanities,4422,Very Rude,1,100,A,A,A
+humanities,4436,Very Friendly,1,100,C,C,C
+humanities,4436,Friendly,1,100,C,C,C
+humanities,4436,Neutral,1,100,C,C,C
+humanities,4436,Rude,1,100,C,C,C
+humanities,4436,Very Rude,1,100,C,C,C
+humanities,4440,Very Friendly,1,100,A,A,A
+humanities,4440,Friendly,1,100,A,A,A
+humanities,4440,Neutral,1,100,A,A,A
+humanities,4440,Rude,1,100,A,A,A
+humanities,4440,Very Rude,1,100,A,A,A
+humanities,4448,Very Friendly,1,100,B,B,B
+humanities,4448,Friendly,1,100,B,B,B
+humanities,4448,Neutral,1,100,B,B,B
+humanities,4448,Rude,1,100,B,B,B
+humanities,4448,Very Rude,1,100,B,B,B
+humanities,4451,Very Friendly,1,0,D,C,C
+humanities,4451,Friendly,1,0,D,C,C
+humanities,4451,Neutral,1,0,D,C,C
+humanities,4451,Rude,1,0,D,C,C
+humanities,4451,Very Rude,1,0,D,C,C
+humanities,4452,Very Friendly,1,100,A,A,A
+humanities,4452,Friendly,1,100,A,A,A
+humanities,4452,Neutral,1,100,A,A,A
+humanities,4452,Rude,1,100,A,A,A
+humanities,4452,Very Rude,1,100,A,A,A
+humanities,4457,Very Friendly,1,100,A,A,A
+humanities,4457,Friendly,1,100,A,A,A
+humanities,4457,Neutral,1,100,A,A,A
+humanities,4457,Rude,1,100,A,A,A
+humanities,4457,Very Rude,1,100,A,A,A
+humanities,4476,Very Friendly,1,100,B,B,B
+humanities,4476,Friendly,1,100,B,B,B
+humanities,4476,Neutral,1,100,B,B,B
+humanities,4476,Rude,1,100,B,B,B
+humanities,4476,Very Rude,1,100,B,B,B
+humanities,4479,Very Friendly,1,100,D,D,D
+humanities,4479,Friendly,1,100,D,D,D
+humanities,4479,Neutral,1,100,D,D,D
+humanities,4479,Rude,1,100,D,D,D
+humanities,4479,Very Rude,1,100,D,D,D
+humanities,4482,Very Friendly,1,100,D,D,D
+humanities,4482,Friendly,1,100,D,D,D
+humanities,4482,Neutral,1,100,D,D,D
+humanities,4482,Rude,1,100,D,D,D
+humanities,4482,Very Rude,1,100,D,D,D
+humanities,4484,Very Friendly,1,100,B,B,B
+humanities,4484,Friendly,1,100,B,B,B
+humanities,4484,Neutral,1,100,B,B,B
+humanities,4484,Rude,1,100,B,B,B
+humanities,4484,Very Rude,1,100,B,B,B
+humanities,4485,Very Friendly,1,0,A,C,C
+humanities,4485,Friendly,1,0,A,C,C
+humanities,4485,Neutral,1,0,A,C,C
+humanities,4485,Rude,1,0,A,C,C
+humanities,4485,Very Rude,1,100,A,A,A
+humanities,4486,Very Friendly,1,100,C,C,C
+humanities,4486,Friendly,1,100,C,C,C
+humanities,4486,Neutral,1,100,C,C,C
+humanities,4486,Rude,1,100,C,C,C
+humanities,4486,Very Rude,1,100,C,C,C
+humanities,4490,Very Friendly,1,100,D,D,D
+humanities,4490,Friendly,1,100,D,D,D
+humanities,4490,Neutral,1,100,D,D,D
+humanities,4490,Rude,1,100,D,D,D
+humanities,4490,Very Rude,1,100,D,D,D
+humanities,4491,Very Friendly,1,0,D,C,C
+humanities,4491,Friendly,1,0,D,C,C
+humanities,4491,Neutral,1,0,D,C,C
+humanities,4491,Rude,1,0,D,C,C
+humanities,4491,Very Rude,1,0,D,C,C
+humanities,4493,Very Friendly,1,100,B,B,B
+humanities,4493,Friendly,1,100,B,B,B
+humanities,4493,Neutral,1,100,B,B,B
+humanities,4493,Rude,1,100,B,B,B
+humanities,4493,Very Rude,1,100,B,B,B
+humanities,4511,Very Friendly,1,100,C,C,C
+humanities,4511,Friendly,1,100,C,C,C
+humanities,4511,Neutral,1,100,C,C,C
+humanities,4511,Rude,1,100,C,C,C
+humanities,4511,Very Rude,1,100,C,C,C
+humanities,4518,Very Friendly,1,100,C,C,C
+humanities,4518,Friendly,1,100,C,C,C
+humanities,4518,Neutral,1,100,C,C,C
+humanities,4518,Rude,1,100,C,C,C
+humanities,4518,Very Rude,1,100,C,C,C
+humanities,4534,Very Friendly,1,100,D,D,D
+humanities,4534,Friendly,1,100,D,D,D
+humanities,4534,Neutral,1,100,D,D,D
+humanities,4534,Rude,1,100,D,D,D
+humanities,4534,Very Rude,1,100,D,D,D
+humanities,4539,Very Friendly,1,100,D,D,D
+humanities,4539,Friendly,1,100,D,D,D
+humanities,4539,Neutral,1,100,D,D,D
+humanities,4539,Rude,1,100,D,D,D
+humanities,4539,Very Rude,1,100,D,D,D
+humanities,4543,Very Friendly,1,100,D,D,D
+humanities,4543,Friendly,1,100,D,D,D
+humanities,4543,Neutral,1,100,D,D,D
+humanities,4543,Rude,1,100,D,D,D
+humanities,4543,Very Rude,1,100,D,D,D
+humanities,4547,Very Friendly,1,100,B,B,B
+humanities,4547,Friendly,1,100,B,B,B
+humanities,4547,Neutral,1,100,B,B,B
+humanities,4547,Rude,1,100,B,B,B
+humanities,4547,Very Rude,1,100,B,B,B
+humanities,4554,Very Friendly,1,100,A,A,A
+humanities,4554,Friendly,1,100,A,A,A
+humanities,4554,Neutral,1,100,A,A,A
+humanities,4554,Rude,1,100,A,A,A
+humanities,4554,Very Rude,1,100,A,A,A
+humanities,4560,Very Friendly,1,100,A,A,A
+humanities,4560,Friendly,1,100,A,A,A
+humanities,4560,Neutral,1,100,A,A,A
+humanities,4560,Rude,1,100,A,A,A
+humanities,4560,Very Rude,1,100,A,A,A
+humanities,4568,Very Friendly,1,100,A,A,A
+humanities,4568,Friendly,1,100,A,A,A
+humanities,4568,Neutral,1,100,A,A,A
+humanities,4568,Rude,1,100,A,A,A
+humanities,4568,Very Rude,1,100,A,A,A
+humanities,4571,Very Friendly,1,100,A,A,A
+humanities,4571,Friendly,1,100,A,A,A
+humanities,4571,Neutral,1,100,A,A,A
+humanities,4571,Rude,1,100,A,A,A
+humanities,4571,Very Rude,1,100,A,A,A
+humanities,4574,Very Friendly,1,100,C,C,C
+humanities,4574,Friendly,1,100,C,C,C
+humanities,4574,Neutral,1,100,C,C,C
+humanities,4574,Rude,1,100,C,C,C
+humanities,4574,Very Rude,1,100,C,C,C
+humanities,4575,Very Friendly,1,100,B,B,B
+humanities,4575,Friendly,1,100,B,B,B
+humanities,4575,Neutral,1,100,B,B,B
+humanities,4575,Rude,1,100,B,B,B
+humanities,4575,Very Rude,1,100,B,B,B
+humanities,4581,Very Friendly,1,100,A,A,A
+humanities,4581,Friendly,1,100,A,A,A
+humanities,4581,Neutral,1,100,A,A,A
+humanities,4581,Rude,1,100,A,A,A
+humanities,4581,Very Rude,1,100,A,A,A
+humanities,4586,Very Friendly,1,100,B,B,B
+humanities,4586,Friendly,1,100,B,B,B
+humanities,4586,Neutral,1,100,B,B,B
+humanities,4586,Rude,1,100,B,B,B
+humanities,4586,Very Rude,1,100,B,B,B
+humanities,4591,Very Friendly,1,100,B,B,B
+humanities,4591,Friendly,1,100,B,B,B
+humanities,4591,Neutral,1,100,B,B,B
+humanities,4591,Rude,1,100,B,B,B
+humanities,4591,Very Rude,1,100,B,B,B
+humanities,4592,Very Friendly,1,100,C,C,C
+humanities,4592,Friendly,1,100,C,C,C
+humanities,4592,Neutral,1,100,C,C,C
+humanities,4592,Rude,1,100,C,C,C
+humanities,4592,Very Rude,1,100,C,C,C
+humanities,4597,Very Friendly,1,100,B,B,B
+humanities,4597,Friendly,1,100,B,B,B
+humanities,4597,Neutral,1,100,B,B,B
+humanities,4597,Rude,1,100,B,B,B
+humanities,4597,Very Rude,1,100,B,B,B
+humanities,4600,Very Friendly,1,100,C,C,C
+humanities,4600,Friendly,1,100,C,C,C
+humanities,4600,Neutral,1,100,C,C,C
+humanities,4600,Rude,1,100,C,C,C
+humanities,4600,Very Rude,1,100,C,C,C
+humanities,4607,Very Friendly,1,100,B,B,B
+humanities,4607,Friendly,1,100,B,B,B
+humanities,4607,Neutral,1,100,B,B,B
+humanities,4607,Rude,1,100,B,B,B
+humanities,4607,Very Rude,1,100,B,B,B
+humanities,4612,Very Friendly,1,100,C,C,C
+humanities,4612,Friendly,1,100,C,C,C
+humanities,4612,Neutral,1,100,C,C,C
+humanities,4612,Rude,1,100,C,C,C
+humanities,4612,Very Rude,1,100,C,C,C
+humanities,4613,Very Friendly,1,100,C,C,C
+humanities,4613,Friendly,1,100,C,C,C
+humanities,4613,Neutral,1,100,C,C,C
+humanities,4613,Rude,1,100,C,C,C
+humanities,4613,Very Rude,1,100,C,C,C
+humanities,4614,Very Friendly,1,100,C,C,C
+humanities,4614,Friendly,1,100,C,C,C
+humanities,4614,Neutral,1,100,C,C,C
+humanities,4614,Rude,1,100,C,C,C
+humanities,4614,Very Rude,1,100,C,C,C
+humanities,4619,Very Friendly,1,0,C,A,A
+humanities,4619,Friendly,1,0,C,A,A
+humanities,4619,Neutral,1,0,C,A,A
+humanities,4619,Rude,1,0,C,A,A
+humanities,4619,Very Rude,1,0,C,A,A
+humanities,4621,Very Friendly,1,100,A,A,A
+humanities,4621,Friendly,1,100,A,A,A
+humanities,4621,Neutral,1,100,A,A,A
+humanities,4621,Rude,1,100,A,A,A
+humanities,4621,Very Rude,1,100,A,A,A
+humanities,4622,Very Friendly,1,100,A,A,A
+humanities,4622,Friendly,1,100,A,A,A
+humanities,4622,Neutral,1,100,A,A,A
+humanities,4622,Rude,1,100,A,A,A
+humanities,4622,Very Rude,1,100,A,A,A
+humanities,4625,Very Friendly,1,100,B,B,B
+humanities,4625,Friendly,1,100,B,B,B
+humanities,4625,Neutral,1,100,B,B,B
+humanities,4625,Rude,1,100,B,B,B
+humanities,4625,Very Rude,1,100,B,B,B
+humanities,4626,Very Friendly,1,0,C,B,B
+humanities,4626,Friendly,1,0,C,B,B
+humanities,4626,Neutral,1,100,C,C,C
+humanities,4626,Rude,1,0,C,B,B
+humanities,4626,Very Rude,1,0,C,B,B
+humanities,4627,Very Friendly,1,100,D,D,D
+humanities,4627,Friendly,1,100,D,D,D
+humanities,4627,Neutral,1,100,D,D,D
+humanities,4627,Rude,1,100,D,D,D
+humanities,4627,Very Rude,1,100,D,D,D
+humanities,4631,Very Friendly,1,100,A,A,A
+humanities,4631,Friendly,1,100,A,A,A
+humanities,4631,Neutral,1,100,A,A,A
+humanities,4631,Rude,1,100,A,A,A
+humanities,4631,Very Rude,1,100,A,A,A
+humanities,4632,Very Friendly,1,0,A,C,C
+humanities,4632,Friendly,1,0,A,C,C
+humanities,4632,Neutral,1,0,A,C,C
+humanities,4632,Rude,1,0,A,C,C
+humanities,4632,Very Rude,1,0,A,C,C
+humanities,4634,Very Friendly,1,100,A,A,A
+humanities,4634,Friendly,1,100,A,A,A
+humanities,4634,Neutral,1,100,A,A,A
+humanities,4634,Rude,1,100,A,A,A
+humanities,4634,Very Rude,1,100,A,A,A
+humanities,4637,Very Friendly,1,100,A,A,A
+humanities,4637,Friendly,1,100,A,A,A
+humanities,4637,Neutral,1,100,A,A,A
+humanities,4637,Rude,1,100,A,A,A
+humanities,4637,Very Rude,1,100,A,A,A
+humanities,4638,Very Friendly,1,100,B,B,B
+humanities,4638,Friendly,1,100,B,B,B
+humanities,4638,Neutral,1,100,B,B,B
+humanities,4638,Rude,1,100,B,B,B
+humanities,4638,Very Rude,1,100,B,B,B
+humanities,4646,Very Friendly,1,100,A,A,A
+humanities,4646,Friendly,1,100,A,A,A
+humanities,4646,Neutral,1,100,A,A,A
+humanities,4646,Rude,1,100,A,A,A
+humanities,4646,Very Rude,1,100,A,A,A
+humanities,4658,Very Friendly,1,100,C,C,C
+humanities,4658,Friendly,1,100,C,C,C
+humanities,4658,Neutral,1,100,C,C,C
+humanities,4658,Rude,1,100,C,C,C
+humanities,4658,Very Rude,1,100,C,C,C
+humanities,4661,Very Friendly,1,100,D,D,D
+humanities,4661,Friendly,1,100,D,D,D
+humanities,4661,Neutral,1,100,D,D,D
+humanities,4661,Rude,1,100,D,D,D
+humanities,4661,Very Rude,1,100,D,D,D
+humanities,4665,Very Friendly,1,100,C,C,C
+humanities,4665,Friendly,1,100,C,C,C
+humanities,4665,Neutral,1,100,C,C,C
+humanities,4665,Rude,1,100,C,C,C
+humanities,4665,Very Rude,1,100,C,C,C
+humanities,4673,Very Friendly,1,100,D,D,D
+humanities,4673,Friendly,1,100,D,D,D
+humanities,4673,Neutral,1,100,D,D,D
+humanities,4673,Rude,1,100,D,D,D
+humanities,4673,Very Rude,1,100,D,D,D
+humanities,4675,Very Friendly,1,100,C,C,C
+humanities,4675,Friendly,1,100,C,C,C
+humanities,4675,Neutral,1,100,C,C,C
+humanities,4675,Rude,1,100,C,C,C
+humanities,4675,Very Rude,1,100,C,C,C
+humanities,4682,Very Friendly,1,100,C,C,C
+humanities,4682,Friendly,1,100,C,C,C
+humanities,4682,Neutral,1,100,C,C,C
+humanities,4682,Rude,1,100,C,C,C
+humanities,4682,Very Rude,1,100,C,C,C
+humanities,4688,Very Friendly,1,100,B,B,B
+humanities,4688,Friendly,1,100,B,B,B
+humanities,4688,Neutral,1,100,B,B,B
+humanities,4688,Rude,1,100,B,B,B
+humanities,4688,Very Rude,1,100,B,B,B
+humanities,4690,Very Friendly,1,100,D,D,D
+humanities,4690,Friendly,1,100,D,D,D
+humanities,4690,Neutral,1,100,D,D,D
+humanities,4690,Rude,1,100,D,D,D
+humanities,4690,Very Rude,1,100,D,D,D
+humanities,4694,Very Friendly,1,100,C,C,C
+humanities,4694,Friendly,1,100,C,C,C
+humanities,4694,Neutral,1,100,C,C,C
+humanities,4694,Rude,1,100,C,C,C
+humanities,4694,Very Rude,1,100,C,C,C
+humanities,4699,Very Friendly,1,0,A,B,B
+humanities,4699,Friendly,1,0,A,B,B
+humanities,4699,Neutral,1,0,A,B,B
+humanities,4699,Rude,1,0,A,B,B
+humanities,4699,Very Rude,1,0,A,B,B
+humanities,4702,Very Friendly,1,100,C,C,C
+humanities,4702,Friendly,1,100,C,C,C
+humanities,4702,Neutral,1,100,C,C,C
+humanities,4702,Rude,1,100,C,C,C
+humanities,4702,Very Rude,1,100,C,C,C
+humanities,4705,Very Friendly,1,100,A,A,A
+humanities,4705,Friendly,1,100,A,A,A
+humanities,4705,Neutral,1,100,A,A,A
+humanities,4705,Rude,1,100,A,A,A
+humanities,4705,Very Rude,1,100,A,A,A

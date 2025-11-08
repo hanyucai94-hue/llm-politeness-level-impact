@@ -1,0 +1,2501 @@
+Domain,QID,Tone,Average Accuracy (%),Runs Counted
+stem,1,Very Friendly,100.0,3
+stem,1,Friendly,100.0,3
+stem,1,Neutral,100.0,3
+stem,1,Rude,100.0,3
+stem,1,Very Rude,100.0,3
+stem,15,Very Friendly,100.0,3
+stem,15,Friendly,100.0,3
+stem,15,Neutral,0.0,3
+stem,15,Rude,66.67,3
+stem,15,Very Rude,100.0,3
+stem,31,Very Friendly,0.0,3
+stem,31,Friendly,0.0,3
+stem,31,Neutral,0.0,3
+stem,31,Rude,66.67,3
+stem,31,Very Rude,0.0,3
+stem,33,Very Friendly,100.0,3
+stem,33,Friendly,100.0,3
+stem,33,Neutral,100.0,3
+stem,33,Rude,100.0,3
+stem,33,Very Rude,100.0,3
+stem,45,Very Friendly,0.0,3
+stem,45,Friendly,0.0,3
+stem,45,Neutral,0.0,3
+stem,45,Rude,0.0,3
+stem,45,Very Rude,0.0,3
+stem,46,Very Friendly,33.33,3
+stem,46,Friendly,0.0,3
+stem,46,Neutral,0.0,3
+stem,46,Rude,100.0,3
+stem,46,Very Rude,100.0,3
+stem,52,Very Friendly,100.0,3
+stem,52,Friendly,100.0,3
+stem,52,Neutral,100.0,3
+stem,52,Rude,100.0,3
+stem,52,Very Rude,100.0,3
+stem,53,Very Friendly,100.0,3
+stem,53,Friendly,100.0,3
+stem,53,Neutral,100.0,3
+stem,53,Rude,100.0,3
+stem,53,Very Rude,100.0,3
+stem,57,Very Friendly,0.0,3
+stem,57,Friendly,0.0,3
+stem,57,Neutral,0.0,3
+stem,57,Rude,0.0,3
+stem,57,Very Rude,66.67,3
+stem,64,Very Friendly,0.0,3
+stem,64,Friendly,0.0,3
+stem,64,Neutral,0.0,3
+stem,64,Rude,0.0,3
+stem,64,Very Rude,0.0,3
+stem,68,Very Friendly,0.0,3
+stem,68,Friendly,0.0,3
+stem,68,Neutral,0.0,3
+stem,68,Rude,0.0,3
+stem,68,Very Rude,0.0,3
+stem,71,Very Friendly,0.0,3
+stem,71,Friendly,0.0,3
+stem,71,Neutral,0.0,3
+stem,71,Rude,0.0,3
+stem,71,Very Rude,0.0,3
+stem,74,Very Friendly,100.0,3
+stem,74,Friendly,100.0,3
+stem,74,Neutral,100.0,3
+stem,74,Rude,100.0,3
+stem,74,Very Rude,100.0,3
+stem,81,Very Friendly,100.0,3
+stem,81,Friendly,100.0,3
+stem,81,Neutral,100.0,3
+stem,81,Rude,100.0,3
+stem,81,Very Rude,100.0,3
+stem,89,Very Friendly,100.0,3
+stem,89,Friendly,100.0,3
+stem,89,Neutral,100.0,3
+stem,89,Rude,100.0,3
+stem,89,Very Rude,0.0,3
+stem,94,Very Friendly,0.0,3
+stem,94,Friendly,100.0,3
+stem,94,Neutral,0.0,3
+stem,94,Rude,0.0,3
+stem,94,Very Rude,33.33,3
+stem,103,Very Friendly,100.0,3
+stem,103,Friendly,100.0,3
+stem,103,Neutral,100.0,3
+stem,103,Rude,100.0,3
+stem,103,Very Rude,100.0,3
+stem,109,Very Friendly,0.0,3
+stem,109,Friendly,0.0,3
+stem,109,Neutral,0.0,3
+stem,109,Rude,0.0,3
+stem,109,Very Rude,0.0,3
+stem,112,Very Friendly,100.0,3
+stem,112,Friendly,100.0,3
+stem,112,Neutral,100.0,3
+stem,112,Rude,100.0,3
+stem,112,Very Rude,100.0,3
+stem,121,Very Friendly,100.0,3
+stem,121,Friendly,100.0,3
+stem,121,Neutral,100.0,3
+stem,121,Rude,100.0,3
+stem,121,Very Rude,100.0,3
+stem,125,Very Friendly,0.0,3
+stem,125,Friendly,0.0,3
+stem,125,Neutral,0.0,3
+stem,125,Rude,0.0,3
+stem,125,Very Rude,0.0,3
+stem,135,Very Friendly,100.0,3
+stem,135,Friendly,100.0,3
+stem,135,Neutral,100.0,3
+stem,135,Rude,100.0,3
+stem,135,Very Rude,100.0,3
+stem,140,Very Friendly,100.0,3
+stem,140,Friendly,100.0,3
+stem,140,Neutral,100.0,3
+stem,140,Rude,100.0,3
+stem,140,Very Rude,100.0,3
+stem,142,Very Friendly,0.0,3
+stem,142,Friendly,0.0,3
+stem,142,Neutral,0.0,3
+stem,142,Rude,0.0,3
+stem,142,Very Rude,0.0,3
+stem,145,Very Friendly,100.0,3
+stem,145,Friendly,100.0,3
+stem,145,Neutral,100.0,3
+stem,145,Rude,100.0,3
+stem,145,Very Rude,100.0,3
+stem,150,Very Friendly,100.0,3
+stem,150,Friendly,100.0,3
+stem,150,Neutral,100.0,3
+stem,150,Rude,100.0,3
+stem,150,Very Rude,100.0,3
+stem,153,Very Friendly,100.0,3
+stem,153,Friendly,100.0,3
+stem,153,Neutral,100.0,3
+stem,153,Rude,100.0,3
+stem,153,Very Rude,100.0,3
+stem,163,Very Friendly,100.0,3
+stem,163,Friendly,100.0,3
+stem,163,Neutral,100.0,3
+stem,163,Rude,100.0,3
+stem,163,Very Rude,100.0,3
+stem,171,Very Friendly,100.0,3
+stem,171,Friendly,100.0,3
+stem,171,Neutral,100.0,3
+stem,171,Rude,100.0,3
+stem,171,Very Rude,100.0,3
+stem,174,Very Friendly,100.0,3
+stem,174,Friendly,100.0,3
+stem,174,Neutral,100.0,3
+stem,174,Rude,100.0,3
+stem,174,Very Rude,100.0,3
+stem,175,Very Friendly,100.0,3
+stem,175,Friendly,100.0,3
+stem,175,Neutral,100.0,3
+stem,175,Rude,100.0,3
+stem,175,Very Rude,100.0,3
+stem,176,Very Friendly,100.0,3
+stem,176,Friendly,100.0,3
+stem,176,Neutral,100.0,3
+stem,176,Rude,100.0,3
+stem,176,Very Rude,100.0,3
+stem,178,Very Friendly,100.0,3
+stem,178,Friendly,100.0,3
+stem,178,Neutral,100.0,3
+stem,178,Rude,100.0,3
+stem,178,Very Rude,100.0,3
+stem,179,Very Friendly,100.0,3
+stem,179,Friendly,100.0,3
+stem,179,Neutral,100.0,3
+stem,179,Rude,100.0,3
+stem,179,Very Rude,100.0,3
+stem,184,Very Friendly,100.0,3
+stem,184,Friendly,100.0,3
+stem,184,Neutral,100.0,3
+stem,184,Rude,100.0,3
+stem,184,Very Rude,100.0,3
+stem,185,Very Friendly,100.0,3
+stem,185,Friendly,100.0,3
+stem,185,Neutral,100.0,3
+stem,185,Rude,100.0,3
+stem,185,Very Rude,100.0,3
+stem,189,Very Friendly,100.0,3
+stem,189,Friendly,100.0,3
+stem,189,Neutral,100.0,3
+stem,189,Rude,100.0,3
+stem,189,Very Rude,100.0,3
+stem,193,Very Friendly,100.0,3
+stem,193,Friendly,100.0,3
+stem,193,Neutral,100.0,3
+stem,193,Rude,100.0,3
+stem,193,Very Rude,100.0,3
+stem,195,Very Friendly,100.0,3
+stem,195,Friendly,100.0,3
+stem,195,Neutral,100.0,3
+stem,195,Rude,100.0,3
+stem,195,Very Rude,100.0,3
+stem,197,Very Friendly,100.0,3
+stem,197,Friendly,100.0,3
+stem,197,Neutral,100.0,3
+stem,197,Rude,100.0,3
+stem,197,Very Rude,100.0,3
+stem,204,Very Friendly,0.0,3
+stem,204,Friendly,0.0,3
+stem,204,Neutral,0.0,3
+stem,204,Rude,0.0,3
+stem,204,Very Rude,0.0,3
+stem,212,Very Friendly,0.0,3
+stem,212,Friendly,0.0,3
+stem,212,Neutral,100.0,3
+stem,212,Rude,100.0,3
+stem,212,Very Rude,0.0,3
+stem,219,Very Friendly,100.0,3
+stem,219,Friendly,100.0,3
+stem,219,Neutral,100.0,3
+stem,219,Rude,100.0,3
+stem,219,Very Rude,100.0,3
+stem,234,Very Friendly,100.0,3
+stem,234,Friendly,100.0,3
+stem,234,Neutral,100.0,3
+stem,234,Rude,100.0,3
+stem,234,Very Rude,100.0,3
+stem,240,Very Friendly,0.0,3
+stem,240,Friendly,0.0,3
+stem,240,Neutral,0.0,3
+stem,240,Rude,0.0,3
+stem,240,Very Rude,0.0,3
+stem,247,Very Friendly,100.0,3
+stem,247,Friendly,100.0,3
+stem,247,Neutral,100.0,3
+stem,247,Rude,100.0,3
+stem,247,Very Rude,100.0,3
+stem,252,Very Friendly,100.0,3
+stem,252,Friendly,100.0,3
+stem,252,Neutral,100.0,3
+stem,252,Rude,100.0,3
+stem,252,Very Rude,100.0,3
+stem,255,Very Friendly,100.0,3
+stem,255,Friendly,100.0,3
+stem,255,Neutral,100.0,3
+stem,255,Rude,100.0,3
+stem,255,Very Rude,100.0,3
+stem,257,Very Friendly,100.0,3
+stem,257,Friendly,100.0,3
+stem,257,Neutral,100.0,3
+stem,257,Rude,100.0,3
+stem,257,Very Rude,100.0,3
+stem,258,Very Friendly,100.0,3
+stem,258,Friendly,100.0,3
+stem,258,Neutral,100.0,3
+stem,258,Rude,100.0,3
+stem,258,Very Rude,100.0,3
+stem,267,Very Friendly,100.0,3
+stem,267,Friendly,100.0,3
+stem,267,Neutral,100.0,3
+stem,267,Rude,100.0,3
+stem,267,Very Rude,100.0,3
+stem,271,Very Friendly,100.0,3
+stem,271,Friendly,100.0,3
+stem,271,Neutral,100.0,3
+stem,271,Rude,100.0,3
+stem,271,Very Rude,100.0,3
+stem,290,Very Friendly,100.0,3
+stem,290,Friendly,100.0,3
+stem,290,Neutral,100.0,3
+stem,290,Rude,66.67,3
+stem,290,Very Rude,0.0,3
+stem,292,Very Friendly,100.0,3
+stem,292,Friendly,100.0,3
+stem,292,Neutral,100.0,3
+stem,292,Rude,100.0,3
+stem,292,Very Rude,100.0,3
+stem,297,Very Friendly,100.0,3
+stem,297,Friendly,100.0,3
+stem,297,Neutral,100.0,3
+stem,297,Rude,100.0,3
+stem,297,Very Rude,100.0,3
+stem,299,Very Friendly,100.0,3
+stem,299,Friendly,100.0,3
+stem,299,Neutral,100.0,3
+stem,299,Rude,100.0,3
+stem,299,Very Rude,100.0,3
+stem,300,Very Friendly,100.0,3
+stem,300,Friendly,100.0,3
+stem,300,Neutral,100.0,3
+stem,300,Rude,100.0,3
+stem,300,Very Rude,100.0,3
+stem,310,Very Friendly,100.0,3
+stem,310,Friendly,100.0,3
+stem,310,Neutral,100.0,3
+stem,310,Rude,100.0,3
+stem,310,Very Rude,100.0,3
+stem,314,Very Friendly,100.0,3
+stem,314,Friendly,100.0,3
+stem,314,Neutral,100.0,3
+stem,314,Rude,100.0,3
+stem,314,Very Rude,100.0,3
+stem,315,Very Friendly,100.0,3
+stem,315,Friendly,100.0,3
+stem,315,Neutral,100.0,3
+stem,315,Rude,100.0,3
+stem,315,Very Rude,100.0,3
+stem,319,Very Friendly,100.0,3
+stem,319,Friendly,100.0,3
+stem,319,Neutral,100.0,3
+stem,319,Rude,100.0,3
+stem,319,Very Rude,100.0,3
+stem,322,Very Friendly,100.0,3
+stem,322,Friendly,100.0,3
+stem,322,Neutral,100.0,3
+stem,322,Rude,100.0,3
+stem,322,Very Rude,100.0,3
+stem,323,Very Friendly,100.0,3
+stem,323,Friendly,100.0,3
+stem,323,Neutral,100.0,3
+stem,323,Rude,100.0,3
+stem,323,Very Rude,100.0,3
+stem,325,Very Friendly,100.0,3
+stem,325,Friendly,100.0,3
+stem,325,Neutral,100.0,3
+stem,325,Rude,100.0,3
+stem,325,Very Rude,100.0,3
+stem,326,Very Friendly,0.0,3
+stem,326,Friendly,0.0,3
+stem,326,Neutral,0.0,3
+stem,326,Rude,0.0,3
+stem,326,Very Rude,0.0,3
+stem,332,Very Friendly,100.0,3
+stem,332,Friendly,100.0,3
+stem,332,Neutral,100.0,3
+stem,332,Rude,100.0,3
+stem,332,Very Rude,100.0,3
+stem,333,Very Friendly,100.0,3
+stem,333,Friendly,100.0,3
+stem,333,Neutral,100.0,3
+stem,333,Rude,100.0,3
+stem,333,Very Rude,100.0,3
+stem,344,Very Friendly,100.0,3
+stem,344,Friendly,100.0,3
+stem,344,Neutral,100.0,3
+stem,344,Rude,100.0,3
+stem,344,Very Rude,100.0,3
+stem,355,Very Friendly,0.0,3
+stem,355,Friendly,0.0,3
+stem,355,Neutral,33.33,3
+stem,355,Rude,0.0,3
+stem,355,Very Rude,0.0,3
+stem,369,Very Friendly,100.0,3
+stem,369,Friendly,100.0,3
+stem,369,Neutral,100.0,3
+stem,369,Rude,100.0,3
+stem,369,Very Rude,100.0,3
+stem,371,Very Friendly,0.0,3
+stem,371,Friendly,0.0,3
+stem,371,Neutral,0.0,3
+stem,371,Rude,0.0,3
+stem,371,Very Rude,0.0,3
+stem,394,Very Friendly,100.0,3
+stem,394,Friendly,100.0,3
+stem,394,Neutral,100.0,3
+stem,394,Rude,100.0,3
+stem,394,Very Rude,100.0,3
+stem,403,Very Friendly,100.0,3
+stem,403,Friendly,100.0,3
+stem,403,Neutral,100.0,3
+stem,403,Rude,100.0,3
+stem,403,Very Rude,100.0,3
+stem,409,Very Friendly,100.0,3
+stem,409,Friendly,100.0,3
+stem,409,Neutral,100.0,3
+stem,409,Rude,100.0,3
+stem,409,Very Rude,100.0,3
+stem,411,Very Friendly,100.0,3
+stem,411,Friendly,100.0,3
+stem,411,Neutral,100.0,3
+stem,411,Rude,100.0,3
+stem,411,Very Rude,100.0,3
+stem,412,Very Friendly,100.0,3
+stem,412,Friendly,100.0,3
+stem,412,Neutral,100.0,3
+stem,412,Rude,100.0,3
+stem,412,Very Rude,100.0,3
+stem,415,Very Friendly,100.0,3
+stem,415,Friendly,100.0,3
+stem,415,Neutral,100.0,3
+stem,415,Rude,100.0,3
+stem,415,Very Rude,100.0,3
+stem,417,Very Friendly,100.0,3
+stem,417,Friendly,100.0,3
+stem,417,Neutral,100.0,3
+stem,417,Rude,100.0,3
+stem,417,Very Rude,100.0,3
+stem,424,Very Friendly,100.0,3
+stem,424,Friendly,100.0,3
+stem,424,Neutral,100.0,3
+stem,424,Rude,100.0,3
+stem,424,Very Rude,100.0,3
+stem,431,Very Friendly,100.0,3
+stem,431,Friendly,100.0,3
+stem,431,Neutral,100.0,3
+stem,431,Rude,100.0,3
+stem,431,Very Rude,100.0,3
+stem,433,Very Friendly,100.0,3
+stem,433,Friendly,100.0,3
+stem,433,Neutral,100.0,3
+stem,433,Rude,100.0,3
+stem,433,Very Rude,100.0,3
+stem,434,Very Friendly,100.0,3
+stem,434,Friendly,100.0,3
+stem,434,Neutral,100.0,3
+stem,434,Rude,100.0,3
+stem,434,Very Rude,100.0,3
+stem,437,Very Friendly,100.0,3
+stem,437,Friendly,100.0,3
+stem,437,Neutral,100.0,3
+stem,437,Rude,100.0,3
+stem,437,Very Rude,100.0,3
+stem,440,Very Friendly,100.0,3
+stem,440,Friendly,100.0,3
+stem,440,Neutral,100.0,3
+stem,440,Rude,100.0,3
+stem,440,Very Rude,100.0,3
+stem,444,Very Friendly,100.0,3
+stem,444,Friendly,100.0,3
+stem,444,Neutral,100.0,3
+stem,444,Rude,100.0,3
+stem,444,Very Rude,100.0,3
+stem,450,Very Friendly,100.0,3
+stem,450,Friendly,100.0,3
+stem,450,Neutral,100.0,3
+stem,450,Rude,100.0,3
+stem,450,Very Rude,100.0,3
+stem,451,Very Friendly,100.0,3
+stem,451,Friendly,100.0,3
+stem,451,Neutral,100.0,3
+stem,451,Rude,100.0,3
+stem,451,Very Rude,100.0,3
+stem,458,Very Friendly,100.0,3
+stem,458,Friendly,100.0,3
+stem,458,Neutral,100.0,3
+stem,458,Rude,100.0,3
+stem,458,Very Rude,100.0,3
+stem,464,Very Friendly,100.0,3
+stem,464,Friendly,100.0,3
+stem,464,Neutral,100.0,3
+stem,464,Rude,100.0,3
+stem,464,Very Rude,100.0,3
+stem,472,Very Friendly,100.0,3
+stem,472,Friendly,100.0,3
+stem,472,Neutral,100.0,3
+stem,472,Rude,100.0,3
+stem,472,Very Rude,100.0,3
+stem,479,Very Friendly,100.0,3
+stem,479,Friendly,100.0,3
+stem,479,Neutral,100.0,3
+stem,479,Rude,100.0,3
+stem,479,Very Rude,100.0,3
+stem,480,Very Friendly,100.0,3
+stem,480,Friendly,100.0,3
+stem,480,Neutral,100.0,3
+stem,480,Rude,100.0,3
+stem,480,Very Rude,100.0,3
+stem,486,Very Friendly,100.0,3
+stem,486,Friendly,100.0,3
+stem,486,Neutral,100.0,3
+stem,486,Rude,100.0,3
+stem,486,Very Rude,100.0,3
+stem,487,Very Friendly,100.0,3
+stem,487,Friendly,100.0,3
+stem,487,Neutral,100.0,3
+stem,487,Rude,100.0,3
+stem,487,Very Rude,100.0,3
+stem,496,Very Friendly,100.0,3
+stem,496,Friendly,100.0,3
+stem,496,Neutral,100.0,3
+stem,496,Rude,100.0,3
+stem,496,Very Rude,100.0,3
+stem,507,Very Friendly,100.0,3
+stem,507,Friendly,100.0,3
+stem,507,Neutral,100.0,3
+stem,507,Rude,100.0,3
+stem,507,Very Rude,100.0,3
+stem,508,Very Friendly,100.0,3
+stem,508,Friendly,100.0,3
+stem,508,Neutral,100.0,3
+stem,508,Rude,100.0,3
+stem,508,Very Rude,100.0,3
+stem,512,Very Friendly,0.0,3
+stem,512,Friendly,0.0,3
+stem,512,Neutral,0.0,3
+stem,512,Rude,0.0,3
+stem,512,Very Rude,0.0,3
+stem,528,Very Friendly,100.0,3
+stem,528,Friendly,100.0,3
+stem,528,Neutral,100.0,3
+stem,528,Rude,100.0,3
+stem,528,Very Rude,100.0,3
+stem,529,Very Friendly,100.0,3
+stem,529,Friendly,100.0,3
+stem,529,Neutral,100.0,3
+stem,529,Rude,100.0,3
+stem,529,Very Rude,100.0,3
+stem,533,Very Friendly,100.0,3
+stem,533,Friendly,100.0,3
+stem,533,Neutral,100.0,3
+stem,533,Rude,100.0,3
+stem,533,Very Rude,100.0,3
+stem,536,Very Friendly,100.0,3
+stem,536,Friendly,100.0,3
+stem,536,Neutral,100.0,3
+stem,536,Rude,100.0,3
+stem,536,Very Rude,100.0,3
+stem,545,Very Friendly,0.0,3
+stem,545,Friendly,0.0,3
+stem,545,Neutral,0.0,3
+stem,545,Rude,0.0,3
+stem,545,Very Rude,0.0,3
+stem,555,Very Friendly,0.0,3
+stem,555,Friendly,0.0,3
+stem,555,Neutral,0.0,3
+stem,555,Rude,0.0,3
+stem,555,Very Rude,0.0,3
+stem,556,Very Friendly,100.0,3
+stem,556,Friendly,100.0,3
+stem,556,Neutral,100.0,3
+stem,556,Rude,100.0,3
+stem,556,Very Rude,100.0,3
+stem,558,Very Friendly,0.0,3
+stem,558,Friendly,0.0,3
+stem,558,Neutral,0.0,3
+stem,558,Rude,0.0,3
+stem,558,Very Rude,0.0,3
+stem,565,Very Friendly,0.0,3
+stem,565,Friendly,0.0,3
+stem,565,Neutral,0.0,3
+stem,565,Rude,0.0,3
+stem,565,Very Rude,0.0,3
+stem,566,Very Friendly,100.0,3
+stem,566,Friendly,100.0,3
+stem,566,Neutral,100.0,3
+stem,566,Rude,100.0,3
+stem,566,Very Rude,100.0,3
+stem,568,Very Friendly,100.0,3
+stem,568,Friendly,100.0,3
+stem,568,Neutral,100.0,3
+stem,568,Rude,100.0,3
+stem,568,Very Rude,100.0,3
+stem,569,Very Friendly,100.0,3
+stem,569,Friendly,100.0,3
+stem,569,Neutral,100.0,3
+stem,569,Rude,100.0,3
+stem,569,Very Rude,100.0,3
+stem,573,Very Friendly,0.0,3
+stem,573,Friendly,0.0,3
+stem,573,Neutral,0.0,3
+stem,573,Rude,0.0,3
+stem,573,Very Rude,0.0,3
+stem,582,Very Friendly,100.0,3
+stem,582,Friendly,100.0,3
+stem,582,Neutral,100.0,3
+stem,582,Rude,100.0,3
+stem,582,Very Rude,100.0,3
+stem,583,Very Friendly,0.0,3
+stem,583,Friendly,0.0,3
+stem,583,Neutral,0.0,3
+stem,583,Rude,0.0,3
+stem,583,Very Rude,0.0,3
+stem,595,Very Friendly,100.0,3
+stem,595,Friendly,100.0,3
+stem,595,Neutral,100.0,3
+stem,595,Rude,100.0,3
+stem,595,Very Rude,100.0,3
+stem,599,Very Friendly,0.0,3
+stem,599,Friendly,0.0,3
+stem,599,Neutral,0.0,3
+stem,599,Rude,0.0,3
+stem,599,Very Rude,0.0,3
+stem,600,Very Friendly,100.0,3
+stem,600,Friendly,100.0,3
+stem,600,Neutral,100.0,3
+stem,600,Rude,100.0,3
+stem,600,Very Rude,100.0,3
+stem,603,Very Friendly,100.0,3
+stem,603,Friendly,100.0,3
+stem,603,Neutral,100.0,3
+stem,603,Rude,100.0,3
+stem,603,Very Rude,100.0,3
+stem,606,Very Friendly,100.0,3
+stem,606,Friendly,100.0,3
+stem,606,Neutral,100.0,3
+stem,606,Rude,100.0,3
+stem,606,Very Rude,100.0,3
+stem,613,Very Friendly,100.0,3
+stem,613,Friendly,100.0,3
+stem,613,Neutral,100.0,3
+stem,613,Rude,100.0,3
+stem,613,Very Rude,100.0,3
+stem,622,Very Friendly,100.0,3
+stem,622,Friendly,100.0,3
+stem,622,Neutral,0.0,3
+stem,622,Rude,0.0,3
+stem,622,Very Rude,100.0,3
+stem,638,Very Friendly,100.0,3
+stem,638,Friendly,100.0,3
+stem,638,Neutral,100.0,3
+stem,638,Rude,100.0,3
+stem,638,Very Rude,100.0,3
+stem,643,Very Friendly,0.0,3
+stem,643,Friendly,0.0,3
+stem,643,Neutral,0.0,3
+stem,643,Rude,0.0,3
+stem,643,Very Rude,0.0,3
+stem,651,Very Friendly,0.0,3
+stem,651,Friendly,0.0,3
+stem,651,Neutral,0.0,3
+stem,651,Rude,0.0,3
+stem,651,Very Rude,0.0,3
+stem,652,Very Friendly,100.0,3
+stem,652,Friendly,100.0,3
+stem,652,Neutral,100.0,3
+stem,652,Rude,100.0,3
+stem,652,Very Rude,100.0,3
+stem,671,Very Friendly,100.0,3
+stem,671,Friendly,100.0,3
+stem,671,Neutral,100.0,3
+stem,671,Rude,100.0,3
+stem,671,Very Rude,100.0,3
+stem,679,Very Friendly,100.0,3
+stem,679,Friendly,100.0,3
+stem,679,Neutral,100.0,3
+stem,679,Rude,100.0,3
+stem,679,Very Rude,100.0,3
+stem,680,Very Friendly,0.0,3
+stem,680,Friendly,0.0,3
+stem,680,Neutral,0.0,3
+stem,680,Rude,0.0,3
+stem,680,Very Rude,0.0,3
+stem,681,Very Friendly,0.0,3
+stem,681,Friendly,0.0,3
+stem,681,Neutral,0.0,3
+stem,681,Rude,0.0,3
+stem,681,Very Rude,0.0,3
+stem,683,Very Friendly,0.0,3
+stem,683,Friendly,0.0,3
+stem,683,Neutral,0.0,3
+stem,683,Rude,0.0,3
+stem,683,Very Rude,0.0,3
+stem,686,Very Friendly,100.0,3
+stem,686,Friendly,100.0,3
+stem,686,Neutral,100.0,3
+stem,686,Rude,100.0,3
+stem,686,Very Rude,100.0,3
+stem,694,Very Friendly,100.0,3
+stem,694,Friendly,100.0,3
+stem,694,Neutral,100.0,3
+stem,694,Rude,100.0,3
+stem,694,Very Rude,100.0,3
+stem,696,Very Friendly,100.0,3
+stem,696,Friendly,100.0,3
+stem,696,Neutral,100.0,3
+stem,696,Rude,100.0,3
+stem,696,Very Rude,33.33,3
+stem,701,Very Friendly,100.0,3
+stem,701,Friendly,100.0,3
+stem,701,Neutral,66.67,3
+stem,701,Rude,100.0,3
+stem,701,Very Rude,33.33,3
+stem,719,Very Friendly,0.0,3
+stem,719,Friendly,0.0,3
+stem,719,Neutral,0.0,3
+stem,719,Rude,0.0,3
+stem,719,Very Rude,0.0,3
+stem,728,Very Friendly,100.0,3
+stem,728,Friendly,100.0,3
+stem,728,Neutral,100.0,3
+stem,728,Rude,100.0,3
+stem,728,Very Rude,100.0,3
+stem,745,Very Friendly,0.0,3
+stem,745,Friendly,0.0,3
+stem,745,Neutral,0.0,3
+stem,745,Rude,0.0,3
+stem,745,Very Rude,0.0,3
+stem,747,Very Friendly,0.0,3
+stem,747,Friendly,0.0,3
+stem,747,Neutral,100.0,3
+stem,747,Rude,0.0,3
+stem,747,Very Rude,33.33,3
+stem,757,Very Friendly,100.0,3
+stem,757,Friendly,0.0,3
+stem,757,Neutral,100.0,3
+stem,757,Rude,100.0,3
+stem,757,Very Rude,100.0,3
+stem,760,Very Friendly,0.0,3
+stem,760,Friendly,0.0,3
+stem,760,Neutral,0.0,3
+stem,760,Rude,0.0,3
+stem,760,Very Rude,0.0,3
+stem,762,Very Friendly,0.0,3
+stem,762,Friendly,0.0,3
+stem,762,Neutral,0.0,3
+stem,762,Rude,0.0,3
+stem,762,Very Rude,0.0,3
+stem,765,Very Friendly,100.0,3
+stem,765,Friendly,100.0,3
+stem,765,Neutral,100.0,3
+stem,765,Rude,100.0,3
+stem,765,Very Rude,100.0,3
+stem,786,Very Friendly,0.0,3
+stem,786,Friendly,0.0,3
+stem,786,Neutral,0.0,3
+stem,786,Rude,0.0,3
+stem,786,Very Rude,0.0,3
+stem,788,Very Friendly,0.0,3
+stem,788,Friendly,0.0,3
+stem,788,Neutral,0.0,3
+stem,788,Rude,0.0,3
+stem,788,Very Rude,0.0,3
+stem,790,Very Friendly,0.0,3
+stem,790,Friendly,0.0,3
+stem,790,Neutral,0.0,3
+stem,790,Rude,0.0,3
+stem,790,Very Rude,0.0,3
+stem,791,Very Friendly,0.0,3
+stem,791,Friendly,0.0,3
+stem,791,Neutral,0.0,3
+stem,791,Rude,0.0,3
+stem,791,Very Rude,0.0,3
+stem,795,Very Friendly,0.0,3
+stem,795,Friendly,0.0,3
+stem,795,Neutral,0.0,3
+stem,795,Rude,0.0,3
+stem,795,Very Rude,0.0,3
+stem,799,Very Friendly,100.0,3
+stem,799,Friendly,100.0,3
+stem,799,Neutral,100.0,3
+stem,799,Rude,100.0,3
+stem,799,Very Rude,100.0,3
+stem,802,Very Friendly,0.0,3
+stem,802,Friendly,0.0,3
+stem,802,Neutral,0.0,3
+stem,802,Rude,0.0,3
+stem,802,Very Rude,0.0,3
+stem,806,Very Friendly,0.0,3
+stem,806,Friendly,0.0,3
+stem,806,Neutral,0.0,3
+stem,806,Rude,0.0,3
+stem,806,Very Rude,0.0,3
+stem,808,Very Friendly,100.0,3
+stem,808,Friendly,100.0,3
+stem,808,Neutral,100.0,3
+stem,808,Rude,0.0,3
+stem,808,Very Rude,0.0,3
+stem,810,Very Friendly,0.0,3
+stem,810,Friendly,0.0,3
+stem,810,Neutral,0.0,3
+stem,810,Rude,66.67,3
+stem,810,Very Rude,0.0,3
+stem,813,Very Friendly,0.0,3
+stem,813,Friendly,0.0,3
+stem,813,Neutral,0.0,3
+stem,813,Rude,0.0,3
+stem,813,Very Rude,0.0,3
+stem,818,Very Friendly,100.0,3
+stem,818,Friendly,100.0,3
+stem,818,Neutral,100.0,3
+stem,818,Rude,100.0,3
+stem,818,Very Rude,100.0,3
+stem,840,Very Friendly,100.0,3
+stem,840,Friendly,100.0,3
+stem,840,Neutral,100.0,3
+stem,840,Rude,100.0,3
+stem,840,Very Rude,100.0,3
+stem,841,Very Friendly,100.0,3
+stem,841,Friendly,100.0,3
+stem,841,Neutral,100.0,3
+stem,841,Rude,100.0,3
+stem,841,Very Rude,100.0,3
+stem,843,Very Friendly,0.0,3
+stem,843,Friendly,0.0,3
+stem,843,Neutral,0.0,3
+stem,843,Rude,0.0,3
+stem,843,Very Rude,0.0,3
+stem,846,Very Friendly,100.0,3
+stem,846,Friendly,100.0,3
+stem,846,Neutral,100.0,3
+stem,846,Rude,100.0,3
+stem,846,Very Rude,100.0,3
+stem,848,Very Friendly,100.0,3
+stem,848,Friendly,100.0,3
+stem,848,Neutral,100.0,3
+stem,848,Rude,100.0,3
+stem,848,Very Rude,100.0,3
+stem,868,Very Friendly,100.0,3
+stem,868,Friendly,100.0,3
+stem,868,Neutral,100.0,3
+stem,868,Rude,100.0,3
+stem,868,Very Rude,100.0,3
+stem,870,Very Friendly,33.33,3
+stem,870,Friendly,0.0,3
+stem,870,Neutral,100.0,3
+stem,870,Rude,0.0,3
+stem,870,Very Rude,100.0,3
+stem,875,Very Friendly,0.0,3
+stem,875,Friendly,0.0,3
+stem,875,Neutral,0.0,3
+stem,875,Rude,0.0,3
+stem,875,Very Rude,0.0,3
+stem,880,Very Friendly,0.0,3
+stem,880,Friendly,0.0,3
+stem,880,Neutral,0.0,3
+stem,880,Rude,0.0,3
+stem,880,Very Rude,0.0,3
+stem,882,Very Friendly,100.0,3
+stem,882,Friendly,100.0,3
+stem,882,Neutral,66.67,3
+stem,882,Rude,100.0,3
+stem,882,Very Rude,100.0,3
+stem,890,Very Friendly,0.0,3
+stem,890,Friendly,0.0,3
+stem,890,Neutral,0.0,3
+stem,890,Rude,0.0,3
+stem,890,Very Rude,0.0,3
+stem,901,Very Friendly,100.0,3
+stem,901,Friendly,100.0,3
+stem,901,Neutral,100.0,3
+stem,901,Rude,100.0,3
+stem,901,Very Rude,100.0,3
+stem,904,Very Friendly,66.67,3
+stem,904,Friendly,0.0,3
+stem,904,Neutral,0.0,3
+stem,904,Rude,33.33,3
+stem,904,Very Rude,33.33,3
+stem,927,Very Friendly,100.0,3
+stem,927,Friendly,100.0,3
+stem,927,Neutral,100.0,3
+stem,927,Rude,100.0,3
+stem,927,Very Rude,100.0,3
+stem,930,Very Friendly,0.0,3
+stem,930,Friendly,0.0,3
+stem,930,Neutral,0.0,3
+stem,930,Rude,0.0,3
+stem,930,Very Rude,0.0,3
+stem,931,Very Friendly,0.0,3
+stem,931,Friendly,0.0,3
+stem,931,Neutral,0.0,3
+stem,931,Rude,0.0,3
+stem,931,Very Rude,0.0,3
+stem,946,Very Friendly,33.33,3
+stem,946,Friendly,0.0,3
+stem,946,Neutral,0.0,3
+stem,946,Rude,33.33,3
+stem,946,Very Rude,100.0,3
+stem,977,Very Friendly,100.0,3
+stem,977,Friendly,100.0,3
+stem,977,Neutral,100.0,3
+stem,977,Rude,100.0,3
+stem,977,Very Rude,100.0,3
+stem,979,Very Friendly,100.0,3
+stem,979,Friendly,100.0,3
+stem,979,Neutral,100.0,3
+stem,979,Rude,100.0,3
+stem,979,Very Rude,100.0,3
+stem,980,Very Friendly,100.0,3
+stem,980,Friendly,100.0,3
+stem,980,Neutral,100.0,3
+stem,980,Rude,100.0,3
+stem,980,Very Rude,100.0,3
+stem,1000,Very Friendly,100.0,3
+stem,1000,Friendly,100.0,3
+stem,1000,Neutral,100.0,3
+stem,1000,Rude,100.0,3
+stem,1000,Very Rude,100.0,3
+stem,1002,Very Friendly,100.0,3
+stem,1002,Friendly,100.0,3
+stem,1002,Neutral,100.0,3
+stem,1002,Rude,100.0,3
+stem,1002,Very Rude,100.0,3
+stem,1004,Very Friendly,0.0,3
+stem,1004,Friendly,0.0,3
+stem,1004,Neutral,0.0,3
+stem,1004,Rude,0.0,3
+stem,1004,Very Rude,0.0,3
+stem,1024,Very Friendly,100.0,3
+stem,1024,Friendly,100.0,3
+stem,1024,Neutral,100.0,3
+stem,1024,Rude,100.0,3
+stem,1024,Very Rude,100.0,3
+stem,1026,Very Friendly,0.0,3
+stem,1026,Friendly,0.0,3
+stem,1026,Neutral,0.0,3
+stem,1026,Rude,0.0,3
+stem,1026,Very Rude,0.0,3
+stem,1030,Very Friendly,100.0,3
+stem,1030,Friendly,100.0,3
+stem,1030,Neutral,100.0,3
+stem,1030,Rude,100.0,3
+stem,1030,Very Rude,100.0,3
+stem,1035,Very Friendly,100.0,3
+stem,1035,Friendly,100.0,3
+stem,1035,Neutral,100.0,3
+stem,1035,Rude,100.0,3
+stem,1035,Very Rude,100.0,3
+stem,1038,Very Friendly,100.0,3
+stem,1038,Friendly,100.0,3
+stem,1038,Neutral,100.0,3
+stem,1038,Rude,100.0,3
+stem,1038,Very Rude,100.0,3
+stem,1042,Very Friendly,100.0,3
+stem,1042,Friendly,100.0,3
+stem,1042,Neutral,100.0,3
+stem,1042,Rude,100.0,3
+stem,1042,Very Rude,100.0,3
+stem,1045,Very Friendly,100.0,3
+stem,1045,Friendly,100.0,3
+stem,1045,Neutral,100.0,3
+stem,1045,Rude,100.0,3
+stem,1045,Very Rude,100.0,3
+stem,1056,Very Friendly,100.0,3
+stem,1056,Friendly,100.0,3
+stem,1056,Neutral,100.0,3
+stem,1056,Rude,100.0,3
+stem,1056,Very Rude,100.0,3
+stem,1065,Very Friendly,100.0,3
+stem,1065,Friendly,100.0,3
+stem,1065,Neutral,100.0,3
+stem,1065,Rude,100.0,3
+stem,1065,Very Rude,100.0,3
+stem,1069,Very Friendly,100.0,3
+stem,1069,Friendly,100.0,3
+stem,1069,Neutral,100.0,3
+stem,1069,Rude,100.0,3
+stem,1069,Very Rude,100.0,3
+stem,1072,Very Friendly,100.0,3
+stem,1072,Friendly,100.0,3
+stem,1072,Neutral,100.0,3
+stem,1072,Rude,100.0,3
+stem,1072,Very Rude,100.0,3
+stem,1076,Very Friendly,100.0,3
+stem,1076,Friendly,100.0,3
+stem,1076,Neutral,100.0,3
+stem,1076,Rude,100.0,3
+stem,1076,Very Rude,100.0,3
+stem,1090,Very Friendly,100.0,3
+stem,1090,Friendly,100.0,3
+stem,1090,Neutral,100.0,3
+stem,1090,Rude,100.0,3
+stem,1090,Very Rude,100.0,3
+stem,1101,Very Friendly,100.0,3
+stem,1101,Friendly,100.0,3
+stem,1101,Neutral,100.0,3
+stem,1101,Rude,100.0,3
+stem,1101,Very Rude,100.0,3
+stem,1103,Very Friendly,0.0,3
+stem,1103,Friendly,0.0,3
+stem,1103,Neutral,100.0,3
+stem,1103,Rude,0.0,3
+stem,1103,Very Rude,0.0,3
+stem,1106,Very Friendly,100.0,3
+stem,1106,Friendly,100.0,3
+stem,1106,Neutral,100.0,3
+stem,1106,Rude,100.0,3
+stem,1106,Very Rude,100.0,3
+stem,1114,Very Friendly,100.0,3
+stem,1114,Friendly,100.0,3
+stem,1114,Neutral,100.0,3
+stem,1114,Rude,100.0,3
+stem,1114,Very Rude,100.0,3
+stem,1115,Very Friendly,0.0,3
+stem,1115,Friendly,0.0,3
+stem,1115,Neutral,0.0,3
+stem,1115,Rude,0.0,3
+stem,1115,Very Rude,0.0,3
+stem,1126,Very Friendly,100.0,3
+stem,1126,Friendly,100.0,3
+stem,1126,Neutral,100.0,3
+stem,1126,Rude,100.0,3
+stem,1126,Very Rude,100.0,3
+stem,1135,Very Friendly,100.0,3
+stem,1135,Friendly,100.0,3
+stem,1135,Neutral,100.0,3
+stem,1135,Rude,100.0,3
+stem,1135,Very Rude,100.0,3
+stem,1147,Very Friendly,100.0,3
+stem,1147,Friendly,100.0,3
+stem,1147,Neutral,100.0,3
+stem,1147,Rude,100.0,3
+stem,1147,Very Rude,100.0,3
+stem,1150,Very Friendly,100.0,3
+stem,1150,Friendly,100.0,3
+stem,1150,Neutral,100.0,3
+stem,1150,Rude,100.0,3
+stem,1150,Very Rude,100.0,3
+stem,1158,Very Friendly,100.0,3
+stem,1158,Friendly,100.0,3
+stem,1158,Neutral,100.0,3
+stem,1158,Rude,100.0,3
+stem,1158,Very Rude,100.0,3
+stem,1174,Very Friendly,100.0,3
+stem,1174,Friendly,100.0,3
+stem,1174,Neutral,100.0,3
+stem,1174,Rude,100.0,3
+stem,1174,Very Rude,100.0,3
+stem,1175,Very Friendly,0.0,3
+stem,1175,Friendly,0.0,3
+stem,1175,Neutral,0.0,3
+stem,1175,Rude,0.0,3
+stem,1175,Very Rude,0.0,3
+stem,1178,Very Friendly,100.0,3
+stem,1178,Friendly,100.0,3
+stem,1178,Neutral,100.0,3
+stem,1178,Rude,100.0,3
+stem,1178,Very Rude,100.0,3
+stem,1193,Very Friendly,100.0,3
+stem,1193,Friendly,100.0,3
+stem,1193,Neutral,100.0,3
+stem,1193,Rude,100.0,3
+stem,1193,Very Rude,100.0,3
+stem,1196,Very Friendly,100.0,3
+stem,1196,Friendly,100.0,3
+stem,1196,Neutral,100.0,3
+stem,1196,Rude,100.0,3
+stem,1196,Very Rude,100.0,3
+stem,1205,Very Friendly,100.0,3
+stem,1205,Friendly,100.0,3
+stem,1205,Neutral,100.0,3
+stem,1205,Rude,100.0,3
+stem,1205,Very Rude,100.0,3
+stem,1207,Very Friendly,100.0,3
+stem,1207,Friendly,0.0,3
+stem,1207,Neutral,100.0,3
+stem,1207,Rude,33.33,3
+stem,1207,Very Rude,0.0,3
+stem,1208,Very Friendly,100.0,3
+stem,1208,Friendly,100.0,3
+stem,1208,Neutral,100.0,3
+stem,1208,Rude,100.0,3
+stem,1208,Very Rude,100.0,3
+stem,1217,Very Friendly,100.0,3
+stem,1217,Friendly,100.0,3
+stem,1217,Neutral,100.0,3
+stem,1217,Rude,100.0,3
+stem,1217,Very Rude,100.0,3
+stem,1221,Very Friendly,100.0,3
+stem,1221,Friendly,100.0,3
+stem,1221,Neutral,100.0,3
+stem,1221,Rude,100.0,3
+stem,1221,Very Rude,100.0,3
+stem,1226,Very Friendly,100.0,3
+stem,1226,Friendly,100.0,3
+stem,1226,Neutral,100.0,3
+stem,1226,Rude,100.0,3
+stem,1226,Very Rude,100.0,3
+stem,1232,Very Friendly,100.0,3
+stem,1232,Friendly,100.0,3
+stem,1232,Neutral,100.0,3
+stem,1232,Rude,100.0,3
+stem,1232,Very Rude,100.0,3
+stem,1238,Very Friendly,100.0,3
+stem,1238,Friendly,100.0,3
+stem,1238,Neutral,100.0,3
+stem,1238,Rude,100.0,3
+stem,1238,Very Rude,100.0,3
+stem,1243,Very Friendly,0.0,3
+stem,1243,Friendly,0.0,3
+stem,1243,Neutral,0.0,3
+stem,1243,Rude,0.0,3
+stem,1243,Very Rude,0.0,3
+stem,1252,Very Friendly,100.0,3
+stem,1252,Friendly,100.0,3
+stem,1252,Neutral,100.0,3
+stem,1252,Rude,100.0,3
+stem,1252,Very Rude,100.0,3
+stem,1256,Very Friendly,100.0,3
+stem,1256,Friendly,100.0,3
+stem,1256,Neutral,100.0,3
+stem,1256,Rude,100.0,3
+stem,1256,Very Rude,100.0,3
+stem,1261,Very Friendly,0.0,3
+stem,1261,Friendly,0.0,3
+stem,1261,Neutral,0.0,3
+stem,1261,Rude,0.0,3
+stem,1261,Very Rude,0.0,3
+stem,1265,Very Friendly,100.0,3
+stem,1265,Friendly,100.0,3
+stem,1265,Neutral,100.0,3
+stem,1265,Rude,100.0,3
+stem,1265,Very Rude,100.0,3
+stem,1269,Very Friendly,100.0,3
+stem,1269,Friendly,100.0,3
+stem,1269,Neutral,100.0,3
+stem,1269,Rude,100.0,3
+stem,1269,Very Rude,100.0,3
+stem,1270,Very Friendly,100.0,3
+stem,1270,Friendly,100.0,3
+stem,1270,Neutral,100.0,3
+stem,1270,Rude,100.0,3
+stem,1270,Very Rude,100.0,3
+stem,1271,Very Friendly,100.0,3
+stem,1271,Friendly,100.0,3
+stem,1271,Neutral,100.0,3
+stem,1271,Rude,100.0,3
+stem,1271,Very Rude,100.0,3
+stem,1296,Very Friendly,100.0,3
+stem,1296,Friendly,100.0,3
+stem,1296,Neutral,100.0,3
+stem,1296,Rude,100.0,3
+stem,1296,Very Rude,100.0,3
+stem,1299,Very Friendly,100.0,3
+stem,1299,Friendly,100.0,3
+stem,1299,Neutral,100.0,3
+stem,1299,Rude,100.0,3
+stem,1299,Very Rude,100.0,3
+stem,1308,Very Friendly,100.0,3
+stem,1308,Friendly,100.0,3
+stem,1308,Neutral,100.0,3
+stem,1308,Rude,100.0,3
+stem,1308,Very Rude,100.0,3
+stem,1314,Very Friendly,100.0,3
+stem,1314,Friendly,100.0,3
+stem,1314,Neutral,100.0,3
+stem,1314,Rude,100.0,3
+stem,1314,Very Rude,100.0,3
+stem,1317,Very Friendly,100.0,3
+stem,1317,Friendly,100.0,3
+stem,1317,Neutral,100.0,3
+stem,1317,Rude,100.0,3
+stem,1317,Very Rude,100.0,3
+stem,1318,Very Friendly,100.0,3
+stem,1318,Friendly,100.0,3
+stem,1318,Neutral,100.0,3
+stem,1318,Rude,100.0,3
+stem,1318,Very Rude,33.33,3
+stem,1322,Very Friendly,100.0,3
+stem,1322,Friendly,100.0,3
+stem,1322,Neutral,100.0,3
+stem,1322,Rude,100.0,3
+stem,1322,Very Rude,100.0,3
+stem,1323,Very Friendly,100.0,3
+stem,1323,Friendly,100.0,3
+stem,1323,Neutral,100.0,3
+stem,1323,Rude,100.0,3
+stem,1323,Very Rude,100.0,3
+stem,1324,Very Friendly,100.0,3
+stem,1324,Friendly,100.0,3
+stem,1324,Neutral,100.0,3
+stem,1324,Rude,100.0,3
+stem,1324,Very Rude,100.0,3
+stem,1327,Very Friendly,100.0,3
+stem,1327,Friendly,100.0,3
+stem,1327,Neutral,100.0,3
+stem,1327,Rude,100.0,3
+stem,1327,Very Rude,100.0,3
+stem,1335,Very Friendly,33.33,3
+stem,1335,Friendly,0.0,3
+stem,1335,Neutral,33.33,3
+stem,1335,Rude,0.0,3
+stem,1335,Very Rude,0.0,3
+stem,1352,Very Friendly,100.0,3
+stem,1352,Friendly,100.0,3
+stem,1352,Neutral,100.0,3
+stem,1352,Rude,100.0,3
+stem,1352,Very Rude,100.0,3
+stem,1353,Very Friendly,100.0,3
+stem,1353,Friendly,100.0,3
+stem,1353,Neutral,100.0,3
+stem,1353,Rude,100.0,3
+stem,1353,Very Rude,100.0,3
+stem,1360,Very Friendly,100.0,3
+stem,1360,Friendly,100.0,3
+stem,1360,Neutral,100.0,3
+stem,1360,Rude,100.0,3
+stem,1360,Very Rude,100.0,3
+stem,1361,Very Friendly,100.0,3
+stem,1361,Friendly,100.0,3
+stem,1361,Neutral,100.0,3
+stem,1361,Rude,100.0,3
+stem,1361,Very Rude,100.0,3
+stem,1362,Very Friendly,100.0,3
+stem,1362,Friendly,100.0,3
+stem,1362,Neutral,100.0,3
+stem,1362,Rude,100.0,3
+stem,1362,Very Rude,100.0,3
+stem,1378,Very Friendly,100.0,3
+stem,1378,Friendly,100.0,3
+stem,1378,Neutral,100.0,3
+stem,1378,Rude,100.0,3
+stem,1378,Very Rude,100.0,3
+stem,1379,Very Friendly,0.0,3
+stem,1379,Friendly,0.0,3
+stem,1379,Neutral,0.0,3
+stem,1379,Rude,0.0,3
+stem,1379,Very Rude,0.0,3
+stem,1386,Very Friendly,100.0,3
+stem,1386,Friendly,100.0,3
+stem,1386,Neutral,100.0,3
+stem,1386,Rude,100.0,3
+stem,1386,Very Rude,100.0,3
+stem,1403,Very Friendly,100.0,3
+stem,1403,Friendly,100.0,3
+stem,1403,Neutral,100.0,3
+stem,1403,Rude,100.0,3
+stem,1403,Very Rude,100.0,3
+stem,1408,Very Friendly,100.0,3
+stem,1408,Friendly,100.0,3
+stem,1408,Neutral,100.0,3
+stem,1408,Rude,100.0,3
+stem,1408,Very Rude,100.0,3
+stem,1412,Very Friendly,100.0,3
+stem,1412,Friendly,100.0,3
+stem,1412,Neutral,100.0,3
+stem,1412,Rude,100.0,3
+stem,1412,Very Rude,100.0,3
+stem,1426,Very Friendly,100.0,3
+stem,1426,Friendly,100.0,3
+stem,1426,Neutral,100.0,3
+stem,1426,Rude,100.0,3
+stem,1426,Very Rude,100.0,3
+stem,1433,Very Friendly,0.0,3
+stem,1433,Friendly,0.0,3
+stem,1433,Neutral,0.0,3
+stem,1433,Rude,0.0,3
+stem,1433,Very Rude,0.0,3
+stem,1452,Very Friendly,100.0,3
+stem,1452,Friendly,100.0,3
+stem,1452,Neutral,100.0,3
+stem,1452,Rude,100.0,3
+stem,1452,Very Rude,100.0,3
+stem,1455,Very Friendly,0.0,3
+stem,1455,Friendly,0.0,3
+stem,1455,Neutral,66.67,3
+stem,1455,Rude,33.33,3
+stem,1455,Very Rude,0.0,3
+stem,1466,Very Friendly,100.0,3
+stem,1466,Friendly,100.0,3
+stem,1466,Neutral,100.0,3
+stem,1466,Rude,100.0,3
+stem,1466,Very Rude,100.0,3
+stem,1468,Very Friendly,100.0,3
+stem,1468,Friendly,100.0,3
+stem,1468,Neutral,100.0,3
+stem,1468,Rude,100.0,3
+stem,1468,Very Rude,100.0,3
+stem,1473,Very Friendly,100.0,3
+stem,1473,Friendly,100.0,3
+stem,1473,Neutral,100.0,3
+stem,1473,Rude,100.0,3
+stem,1473,Very Rude,100.0,3
+stem,1475,Very Friendly,100.0,3
+stem,1475,Friendly,100.0,3
+stem,1475,Neutral,100.0,3
+stem,1475,Rude,100.0,3
+stem,1475,Very Rude,100.0,3
+stem,1476,Very Friendly,100.0,3
+stem,1476,Friendly,100.0,3
+stem,1476,Neutral,100.0,3
+stem,1476,Rude,100.0,3
+stem,1476,Very Rude,100.0,3
+stem,1481,Very Friendly,100.0,3
+stem,1481,Friendly,100.0,3
+stem,1481,Neutral,100.0,3
+stem,1481,Rude,100.0,3
+stem,1481,Very Rude,100.0,3
+stem,1484,Very Friendly,0.0,3
+stem,1484,Friendly,0.0,3
+stem,1484,Neutral,0.0,3
+stem,1484,Rude,0.0,3
+stem,1484,Very Rude,0.0,3
+stem,1489,Very Friendly,0.0,3
+stem,1489,Friendly,0.0,3
+stem,1489,Neutral,0.0,3
+stem,1489,Rude,0.0,3
+stem,1489,Very Rude,33.33,3
+stem,1492,Very Friendly,100.0,3
+stem,1492,Friendly,100.0,3
+stem,1492,Neutral,100.0,3
+stem,1492,Rude,100.0,3
+stem,1492,Very Rude,100.0,3
+stem,1498,Very Friendly,100.0,3
+stem,1498,Friendly,100.0,3
+stem,1498,Neutral,100.0,3
+stem,1498,Rude,100.0,3
+stem,1498,Very Rude,100.0,3
+stem,1506,Very Friendly,100.0,3
+stem,1506,Friendly,100.0,3
+stem,1506,Neutral,100.0,3
+stem,1506,Rude,100.0,3
+stem,1506,Very Rude,100.0,3
+stem,1508,Very Friendly,0.0,3
+stem,1508,Friendly,0.0,3
+stem,1508,Neutral,0.0,3
+stem,1508,Rude,0.0,3
+stem,1508,Very Rude,0.0,3
+stem,1510,Very Friendly,100.0,3
+stem,1510,Friendly,100.0,3
+stem,1510,Neutral,100.0,3
+stem,1510,Rude,100.0,3
+stem,1510,Very Rude,100.0,3
+stem,1526,Very Friendly,100.0,3
+stem,1526,Friendly,100.0,3
+stem,1526,Neutral,100.0,3
+stem,1526,Rude,100.0,3
+stem,1526,Very Rude,100.0,3
+stem,1552,Very Friendly,100.0,3
+stem,1552,Friendly,100.0,3
+stem,1552,Neutral,100.0,3
+stem,1552,Rude,100.0,3
+stem,1552,Very Rude,100.0,3
+stem,1563,Very Friendly,100.0,3
+stem,1563,Friendly,100.0,3
+stem,1563,Neutral,100.0,3
+stem,1563,Rude,100.0,3
+stem,1563,Very Rude,100.0,3
+stem,1564,Very Friendly,100.0,3
+stem,1564,Friendly,100.0,3
+stem,1564,Neutral,100.0,3
+stem,1564,Rude,100.0,3
+stem,1564,Very Rude,100.0,3
+stem,1566,Very Friendly,0.0,3
+stem,1566,Friendly,0.0,3
+stem,1566,Neutral,0.0,3
+stem,1566,Rude,0.0,3
+stem,1566,Very Rude,0.0,3
+stem,1570,Very Friendly,100.0,3
+stem,1570,Friendly,100.0,3
+stem,1570,Neutral,100.0,3
+stem,1570,Rude,100.0,3
+stem,1570,Very Rude,100.0,3
+stem,1573,Very Friendly,100.0,3
+stem,1573,Friendly,100.0,3
+stem,1573,Neutral,100.0,3
+stem,1573,Rude,100.0,3
+stem,1573,Very Rude,100.0,3
+stem,1583,Very Friendly,100.0,3
+stem,1583,Friendly,100.0,3
+stem,1583,Neutral,100.0,3
+stem,1583,Rude,100.0,3
+stem,1583,Very Rude,100.0,3
+stem,1589,Very Friendly,100.0,3
+stem,1589,Friendly,100.0,3
+stem,1589,Neutral,100.0,3
+stem,1589,Rude,100.0,3
+stem,1589,Very Rude,100.0,3
+stem,1592,Very Friendly,0.0,3
+stem,1592,Friendly,0.0,3
+stem,1592,Neutral,0.0,3
+stem,1592,Rude,0.0,3
+stem,1592,Very Rude,0.0,3
+stem,1594,Very Friendly,100.0,3
+stem,1594,Friendly,100.0,3
+stem,1594,Neutral,100.0,3
+stem,1594,Rude,100.0,3
+stem,1594,Very Rude,100.0,3
+stem,1601,Very Friendly,100.0,3
+stem,1601,Friendly,100.0,3
+stem,1601,Neutral,100.0,3
+stem,1601,Rude,100.0,3
+stem,1601,Very Rude,100.0,3
+stem,1608,Very Friendly,100.0,3
+stem,1608,Friendly,100.0,3
+stem,1608,Neutral,100.0,3
+stem,1608,Rude,100.0,3
+stem,1608,Very Rude,100.0,3
+stem,1611,Very Friendly,100.0,3
+stem,1611,Friendly,100.0,3
+stem,1611,Neutral,100.0,3
+stem,1611,Rude,100.0,3
+stem,1611,Very Rude,100.0,3
+stem,1612,Very Friendly,0.0,3
+stem,1612,Friendly,0.0,3
+stem,1612,Neutral,0.0,3
+stem,1612,Rude,0.0,3
+stem,1612,Very Rude,0.0,3
+stem,1613,Very Friendly,0.0,3
+stem,1613,Friendly,0.0,3
+stem,1613,Neutral,0.0,3
+stem,1613,Rude,100.0,3
+stem,1613,Very Rude,100.0,3
+stem,1621,Very Friendly,100.0,3
+stem,1621,Friendly,100.0,3
+stem,1621,Neutral,100.0,3
+stem,1621,Rude,100.0,3
+stem,1621,Very Rude,100.0,3
+stem,1622,Very Friendly,0.0,3
+stem,1622,Friendly,0.0,3
+stem,1622,Neutral,0.0,3
+stem,1622,Rude,0.0,3
+stem,1622,Very Rude,0.0,3
+stem,1624,Very Friendly,0.0,3
+stem,1624,Friendly,0.0,3
+stem,1624,Neutral,0.0,3
+stem,1624,Rude,0.0,3
+stem,1624,Very Rude,0.0,3
+stem,1642,Very Friendly,0.0,3
+stem,1642,Friendly,0.0,3
+stem,1642,Neutral,0.0,3
+stem,1642,Rude,0.0,3
+stem,1642,Very Rude,0.0,3
+stem,1643,Very Friendly,100.0,3
+stem,1643,Friendly,0.0,3
+stem,1643,Neutral,0.0,3
+stem,1643,Rude,0.0,3
+stem,1643,Very Rude,0.0,3
+stem,1651,Very Friendly,100.0,3
+stem,1651,Friendly,100.0,3
+stem,1651,Neutral,100.0,3
+stem,1651,Rude,100.0,3
+stem,1651,Very Rude,100.0,3
+stem,1652,Very Friendly,0.0,3
+stem,1652,Friendly,0.0,3
+stem,1652,Neutral,0.0,3
+stem,1652,Rude,0.0,3
+stem,1652,Very Rude,0.0,3
+stem,1658,Very Friendly,100.0,3
+stem,1658,Friendly,100.0,3
+stem,1658,Neutral,100.0,3
+stem,1658,Rude,100.0,3
+stem,1658,Very Rude,100.0,3
+stem,1666,Very Friendly,100.0,3
+stem,1666,Friendly,100.0,3
+stem,1666,Neutral,100.0,3
+stem,1666,Rude,100.0,3
+stem,1666,Very Rude,100.0,3
+stem,1685,Very Friendly,100.0,3
+stem,1685,Friendly,100.0,3
+stem,1685,Neutral,100.0,3
+stem,1685,Rude,100.0,3
+stem,1685,Very Rude,100.0,3
+stem,1689,Very Friendly,100.0,3
+stem,1689,Friendly,100.0,3
+stem,1689,Neutral,100.0,3
+stem,1689,Rude,100.0,3
+stem,1689,Very Rude,100.0,3
+stem,1703,Very Friendly,0.0,3
+stem,1703,Friendly,0.0,3
+stem,1703,Neutral,0.0,3
+stem,1703,Rude,0.0,3
+stem,1703,Very Rude,0.0,3
+stem,1715,Very Friendly,100.0,3
+stem,1715,Friendly,100.0,3
+stem,1715,Neutral,100.0,3
+stem,1715,Rude,100.0,3
+stem,1715,Very Rude,100.0,3
+stem,1718,Very Friendly,100.0,3
+stem,1718,Friendly,100.0,3
+stem,1718,Neutral,100.0,3
+stem,1718,Rude,100.0,3
+stem,1718,Very Rude,100.0,3
+stem,1721,Very Friendly,100.0,3
+stem,1721,Friendly,100.0,3
+stem,1721,Neutral,100.0,3
+stem,1721,Rude,100.0,3
+stem,1721,Very Rude,100.0,3
+stem,1724,Very Friendly,100.0,3
+stem,1724,Friendly,100.0,3
+stem,1724,Neutral,100.0,3
+stem,1724,Rude,100.0,3
+stem,1724,Very Rude,100.0,3
+stem,1731,Very Friendly,100.0,3
+stem,1731,Friendly,100.0,3
+stem,1731,Neutral,100.0,3
+stem,1731,Rude,100.0,3
+stem,1731,Very Rude,100.0,3
+stem,1739,Very Friendly,100.0,3
+stem,1739,Friendly,100.0,3
+stem,1739,Neutral,100.0,3
+stem,1739,Rude,100.0,3
+stem,1739,Very Rude,100.0,3
+stem,1748,Very Friendly,100.0,3
+stem,1748,Friendly,100.0,3
+stem,1748,Neutral,100.0,3
+stem,1748,Rude,100.0,3
+stem,1748,Very Rude,100.0,3
+stem,1757,Very Friendly,0.0,3
+stem,1757,Friendly,0.0,3
+stem,1757,Neutral,0.0,3
+stem,1757,Rude,0.0,3
+stem,1757,Very Rude,0.0,3
+stem,1766,Very Friendly,0.0,3
+stem,1766,Friendly,0.0,3
+stem,1766,Neutral,0.0,3
+stem,1766,Rude,0.0,3
+stem,1766,Very Rude,0.0,3
+stem,1771,Very Friendly,100.0,3
+stem,1771,Friendly,100.0,3
+stem,1771,Neutral,100.0,3
+stem,1771,Rude,100.0,3
+stem,1771,Very Rude,100.0,3
+stem,1777,Very Friendly,100.0,3
+stem,1777,Friendly,0.0,3
+stem,1777,Neutral,0.0,3
+stem,1777,Rude,100.0,3
+stem,1777,Very Rude,33.33,3
+stem,1785,Very Friendly,100.0,3
+stem,1785,Friendly,100.0,3
+stem,1785,Neutral,100.0,3
+stem,1785,Rude,100.0,3
+stem,1785,Very Rude,100.0,3
+stem,1792,Very Friendly,100.0,3
+stem,1792,Friendly,100.0,3
+stem,1792,Neutral,100.0,3
+stem,1792,Rude,100.0,3
+stem,1792,Very Rude,100.0,3
+stem,1794,Very Friendly,100.0,3
+stem,1794,Friendly,100.0,3
+stem,1794,Neutral,100.0,3
+stem,1794,Rude,100.0,3
+stem,1794,Very Rude,100.0,3
+stem,1796,Very Friendly,100.0,3
+stem,1796,Friendly,100.0,3
+stem,1796,Neutral,100.0,3
+stem,1796,Rude,100.0,3
+stem,1796,Very Rude,100.0,3
+stem,1801,Very Friendly,100.0,3
+stem,1801,Friendly,100.0,3
+stem,1801,Neutral,100.0,3
+stem,1801,Rude,100.0,3
+stem,1801,Very Rude,100.0,3
+stem,1806,Very Friendly,100.0,3
+stem,1806,Friendly,100.0,3
+stem,1806,Neutral,100.0,3
+stem,1806,Rude,100.0,3
+stem,1806,Very Rude,100.0,3
+stem,1812,Very Friendly,100.0,3
+stem,1812,Friendly,100.0,3
+stem,1812,Neutral,100.0,3
+stem,1812,Rude,100.0,3
+stem,1812,Very Rude,100.0,3
+stem,1813,Very Friendly,100.0,3
+stem,1813,Friendly,100.0,3
+stem,1813,Neutral,100.0,3
+stem,1813,Rude,100.0,3
+stem,1813,Very Rude,100.0,3
+stem,1814,Very Friendly,100.0,3
+stem,1814,Friendly,100.0,3
+stem,1814,Neutral,100.0,3
+stem,1814,Rude,100.0,3
+stem,1814,Very Rude,100.0,3
+stem,1816,Very Friendly,100.0,3
+stem,1816,Friendly,100.0,3
+stem,1816,Neutral,100.0,3
+stem,1816,Rude,100.0,3
+stem,1816,Very Rude,100.0,3
+stem,1818,Very Friendly,100.0,3
+stem,1818,Friendly,100.0,3
+stem,1818,Neutral,100.0,3
+stem,1818,Rude,100.0,3
+stem,1818,Very Rude,100.0,3
+stem,1831,Very Friendly,100.0,3
+stem,1831,Friendly,100.0,3
+stem,1831,Neutral,100.0,3
+stem,1831,Rude,100.0,3
+stem,1831,Very Rude,100.0,3
+stem,1834,Very Friendly,100.0,3
+stem,1834,Friendly,100.0,3
+stem,1834,Neutral,100.0,3
+stem,1834,Rude,100.0,3
+stem,1834,Very Rude,100.0,3
+stem,1836,Very Friendly,100.0,3
+stem,1836,Friendly,100.0,3
+stem,1836,Neutral,100.0,3
+stem,1836,Rude,100.0,3
+stem,1836,Very Rude,100.0,3
+stem,1838,Very Friendly,100.0,3
+stem,1838,Friendly,100.0,3
+stem,1838,Neutral,100.0,3
+stem,1838,Rude,100.0,3
+stem,1838,Very Rude,100.0,3
+stem,1840,Very Friendly,100.0,3
+stem,1840,Friendly,100.0,3
+stem,1840,Neutral,100.0,3
+stem,1840,Rude,100.0,3
+stem,1840,Very Rude,100.0,3
+stem,1862,Very Friendly,100.0,3
+stem,1862,Friendly,100.0,3
+stem,1862,Neutral,100.0,3
+stem,1862,Rude,100.0,3
+stem,1862,Very Rude,100.0,3
+stem,1863,Very Friendly,0.0,3
+stem,1863,Friendly,0.0,3
+stem,1863,Neutral,0.0,3
+stem,1863,Rude,0.0,3
+stem,1863,Very Rude,0.0,3
+stem,1867,Very Friendly,100.0,3
+stem,1867,Friendly,100.0,3
+stem,1867,Neutral,100.0,3
+stem,1867,Rude,100.0,3
+stem,1867,Very Rude,100.0,3
+stem,1883,Very Friendly,100.0,3
+stem,1883,Friendly,100.0,3
+stem,1883,Neutral,100.0,3
+stem,1883,Rude,100.0,3
+stem,1883,Very Rude,100.0,3
+stem,1887,Very Friendly,100.0,3
+stem,1887,Friendly,100.0,3
+stem,1887,Neutral,100.0,3
+stem,1887,Rude,100.0,3
+stem,1887,Very Rude,100.0,3
+stem,1890,Very Friendly,100.0,3
+stem,1890,Friendly,100.0,3
+stem,1890,Neutral,100.0,3
+stem,1890,Rude,100.0,3
+stem,1890,Very Rude,100.0,3
+stem,1892,Very Friendly,0.0,3
+stem,1892,Friendly,0.0,3
+stem,1892,Neutral,0.0,3
+stem,1892,Rude,0.0,3
+stem,1892,Very Rude,0.0,3
+stem,1911,Very Friendly,100.0,3
+stem,1911,Friendly,100.0,3
+stem,1911,Neutral,100.0,3
+stem,1911,Rude,100.0,3
+stem,1911,Very Rude,100.0,3
+stem,1912,Very Friendly,100.0,3
+stem,1912,Friendly,100.0,3
+stem,1912,Neutral,100.0,3
+stem,1912,Rude,100.0,3
+stem,1912,Very Rude,100.0,3
+stem,1922,Very Friendly,100.0,3
+stem,1922,Friendly,100.0,3
+stem,1922,Neutral,100.0,3
+stem,1922,Rude,100.0,3
+stem,1922,Very Rude,100.0,3
+stem,1925,Very Friendly,100.0,3
+stem,1925,Friendly,100.0,3
+stem,1925,Neutral,100.0,3
+stem,1925,Rude,100.0,3
+stem,1925,Very Rude,100.0,3
+stem,1926,Very Friendly,100.0,3
+stem,1926,Friendly,100.0,3
+stem,1926,Neutral,100.0,3
+stem,1926,Rude,100.0,3
+stem,1926,Very Rude,100.0,3
+stem,1928,Very Friendly,0.0,3
+stem,1928,Friendly,0.0,3
+stem,1928,Neutral,0.0,3
+stem,1928,Rude,0.0,3
+stem,1928,Very Rude,0.0,3
+stem,1937,Very Friendly,100.0,3
+stem,1937,Friendly,100.0,3
+stem,1937,Neutral,100.0,3
+stem,1937,Rude,100.0,3
+stem,1937,Very Rude,100.0,3
+stem,1941,Very Friendly,100.0,3
+stem,1941,Friendly,100.0,3
+stem,1941,Neutral,100.0,3
+stem,1941,Rude,100.0,3
+stem,1941,Very Rude,100.0,3
+stem,1951,Very Friendly,100.0,3
+stem,1951,Friendly,100.0,3
+stem,1951,Neutral,100.0,3
+stem,1951,Rude,100.0,3
+stem,1951,Very Rude,100.0,3
+stem,1962,Very Friendly,100.0,3
+stem,1962,Friendly,100.0,3
+stem,1962,Neutral,100.0,3
+stem,1962,Rude,100.0,3
+stem,1962,Very Rude,100.0,3
+stem,1963,Very Friendly,100.0,3
+stem,1963,Friendly,100.0,3
+stem,1963,Neutral,100.0,3
+stem,1963,Rude,100.0,3
+stem,1963,Very Rude,100.0,3
+stem,1965,Very Friendly,100.0,3
+stem,1965,Friendly,100.0,3
+stem,1965,Neutral,100.0,3
+stem,1965,Rude,100.0,3
+stem,1965,Very Rude,100.0,3
+stem,1980,Very Friendly,100.0,3
+stem,1980,Friendly,100.0,3
+stem,1980,Neutral,100.0,3
+stem,1980,Rude,100.0,3
+stem,1980,Very Rude,100.0,3
+stem,1984,Very Friendly,100.0,3
+stem,1984,Friendly,100.0,3
+stem,1984,Neutral,100.0,3
+stem,1984,Rude,100.0,3
+stem,1984,Very Rude,100.0,3
+stem,1993,Very Friendly,100.0,3
+stem,1993,Friendly,100.0,3
+stem,1993,Neutral,100.0,3
+stem,1993,Rude,100.0,3
+stem,1993,Very Rude,100.0,3
+stem,1996,Very Friendly,100.0,3
+stem,1996,Friendly,100.0,3
+stem,1996,Neutral,100.0,3
+stem,1996,Rude,100.0,3
+stem,1996,Very Rude,100.0,3
+stem,2000,Very Friendly,100.0,3
+stem,2000,Friendly,100.0,3
+stem,2000,Neutral,100.0,3
+stem,2000,Rude,100.0,3
+stem,2000,Very Rude,100.0,3
+stem,2003,Very Friendly,100.0,3
+stem,2003,Friendly,100.0,3
+stem,2003,Neutral,100.0,3
+stem,2003,Rude,100.0,3
+stem,2003,Very Rude,100.0,3
+stem,2012,Very Friendly,100.0,3
+stem,2012,Friendly,100.0,3
+stem,2012,Neutral,100.0,3
+stem,2012,Rude,100.0,3
+stem,2012,Very Rude,100.0,3
+stem,2021,Very Friendly,100.0,3
+stem,2021,Friendly,100.0,3
+stem,2021,Neutral,100.0,3
+stem,2021,Rude,100.0,3
+stem,2021,Very Rude,100.0,3
+stem,2033,Very Friendly,100.0,3
+stem,2033,Friendly,100.0,3
+stem,2033,Neutral,100.0,3
+stem,2033,Rude,100.0,3
+stem,2033,Very Rude,100.0,3
+stem,2038,Very Friendly,100.0,3
+stem,2038,Friendly,100.0,3
+stem,2038,Neutral,100.0,3
+stem,2038,Rude,100.0,3
+stem,2038,Very Rude,100.0,3
+stem,2044,Very Friendly,100.0,3
+stem,2044,Friendly,100.0,3
+stem,2044,Neutral,100.0,3
+stem,2044,Rude,100.0,3
+stem,2044,Very Rude,100.0,3
+stem,2059,Very Friendly,100.0,3
+stem,2059,Friendly,100.0,3
+stem,2059,Neutral,100.0,3
+stem,2059,Rude,100.0,3
+stem,2059,Very Rude,100.0,3
+stem,2067,Very Friendly,100.0,3
+stem,2067,Friendly,100.0,3
+stem,2067,Neutral,100.0,3
+stem,2067,Rude,100.0,3
+stem,2067,Very Rude,100.0,3
+stem,2088,Very Friendly,100.0,3
+stem,2088,Friendly,100.0,3
+stem,2088,Neutral,100.0,3
+stem,2088,Rude,100.0,3
+stem,2088,Very Rude,100.0,3
+stem,2096,Very Friendly,100.0,3
+stem,2096,Friendly,100.0,3
+stem,2096,Neutral,100.0,3
+stem,2096,Rude,100.0,3
+stem,2096,Very Rude,100.0,3
+stem,2098,Very Friendly,100.0,3
+stem,2098,Friendly,100.0,3
+stem,2098,Neutral,100.0,3
+stem,2098,Rude,100.0,3
+stem,2098,Very Rude,100.0,3
+stem,2103,Very Friendly,0.0,3
+stem,2103,Friendly,0.0,3
+stem,2103,Neutral,0.0,3
+stem,2103,Rude,0.0,3
+stem,2103,Very Rude,0.0,3
+stem,2107,Very Friendly,0.0,3
+stem,2107,Friendly,0.0,3
+stem,2107,Neutral,0.0,3
+stem,2107,Rude,0.0,3
+stem,2107,Very Rude,0.0,3
+stem,2113,Very Friendly,100.0,3
+stem,2113,Friendly,100.0,3
+stem,2113,Neutral,100.0,3
+stem,2113,Rude,100.0,3
+stem,2113,Very Rude,100.0,3
+stem,2114,Very Friendly,100.0,3
+stem,2114,Friendly,100.0,3
+stem,2114,Neutral,100.0,3
+stem,2114,Rude,100.0,3
+stem,2114,Very Rude,100.0,3
+stem,2116,Very Friendly,100.0,3
+stem,2116,Friendly,100.0,3
+stem,2116,Neutral,100.0,3
+stem,2116,Rude,100.0,3
+stem,2116,Very Rude,100.0,3
+stem,2118,Very Friendly,100.0,3
+stem,2118,Friendly,100.0,3
+stem,2118,Neutral,100.0,3
+stem,2118,Rude,100.0,3
+stem,2118,Very Rude,100.0,3
+stem,2120,Very Friendly,100.0,3
+stem,2120,Friendly,100.0,3
+stem,2120,Neutral,100.0,3
+stem,2120,Rude,100.0,3
+stem,2120,Very Rude,100.0,3
+stem,2121,Very Friendly,0.0,3
+stem,2121,Friendly,0.0,3
+stem,2121,Neutral,0.0,3
+stem,2121,Rude,0.0,3
+stem,2121,Very Rude,0.0,3
+stem,2125,Very Friendly,0.0,3
+stem,2125,Friendly,0.0,3
+stem,2125,Neutral,0.0,3
+stem,2125,Rude,0.0,3
+stem,2125,Very Rude,0.0,3
+stem,2127,Very Friendly,100.0,3
+stem,2127,Friendly,100.0,3
+stem,2127,Neutral,100.0,3
+stem,2127,Rude,100.0,3
+stem,2127,Very Rude,100.0,3
+stem,2163,Very Friendly,0.0,3
+stem,2163,Friendly,0.0,3
+stem,2163,Neutral,0.0,3
+stem,2163,Rude,0.0,3
+stem,2163,Very Rude,0.0,3
+stem,2175,Very Friendly,0.0,3
+stem,2175,Friendly,0.0,3
+stem,2175,Neutral,0.0,3
+stem,2175,Rude,0.0,3
+stem,2175,Very Rude,0.0,3
+stem,2176,Very Friendly,0.0,3
+stem,2176,Friendly,0.0,3
+stem,2176,Neutral,0.0,3
+stem,2176,Rude,0.0,3
+stem,2176,Very Rude,0.0,3
+stem,2179,Very Friendly,100.0,3
+stem,2179,Friendly,100.0,3
+stem,2179,Neutral,100.0,3
+stem,2179,Rude,100.0,3
+stem,2179,Very Rude,100.0,3
+stem,2184,Very Friendly,0.0,3
+stem,2184,Friendly,0.0,3
+stem,2184,Neutral,0.0,3
+stem,2184,Rude,0.0,3
+stem,2184,Very Rude,0.0,3
+stem,2190,Very Friendly,100.0,3
+stem,2190,Friendly,100.0,3
+stem,2190,Neutral,100.0,3
+stem,2190,Rude,100.0,3
+stem,2190,Very Rude,100.0,3
+stem,2195,Very Friendly,0.0,3
+stem,2195,Friendly,0.0,3
+stem,2195,Neutral,0.0,3
+stem,2195,Rude,0.0,3
+stem,2195,Very Rude,0.0,3
+stem,2197,Very Friendly,100.0,3
+stem,2197,Friendly,100.0,3
+stem,2197,Neutral,100.0,3
+stem,2197,Rude,100.0,3
+stem,2197,Very Rude,100.0,3
+stem,2203,Very Friendly,100.0,3
+stem,2203,Friendly,100.0,3
+stem,2203,Neutral,100.0,3
+stem,2203,Rude,100.0,3
+stem,2203,Very Rude,100.0,3
+stem,2204,Very Friendly,100.0,3
+stem,2204,Friendly,100.0,3
+stem,2204,Neutral,100.0,3
+stem,2204,Rude,100.0,3
+stem,2204,Very Rude,100.0,3
+stem,2211,Very Friendly,0.0,3
+stem,2211,Friendly,100.0,3
+stem,2211,Neutral,0.0,3
+stem,2211,Rude,33.33,3
+stem,2211,Very Rude,0.0,3
+stem,2219,Very Friendly,0.0,3
+stem,2219,Friendly,0.0,3
+stem,2219,Neutral,0.0,3
+stem,2219,Rude,0.0,3
+stem,2219,Very Rude,0.0,3
+stem,2241,Very Friendly,100.0,3
+stem,2241,Friendly,100.0,3
+stem,2241,Neutral,100.0,3
+stem,2241,Rude,100.0,3
+stem,2241,Very Rude,100.0,3
+stem,2250,Very Friendly,100.0,3
+stem,2250,Friendly,100.0,3
+stem,2250,Neutral,100.0,3
+stem,2250,Rude,100.0,3
+stem,2250,Very Rude,100.0,3
+stem,2258,Very Friendly,100.0,3
+stem,2258,Friendly,100.0,3
+stem,2258,Neutral,100.0,3
+stem,2258,Rude,100.0,3
+stem,2258,Very Rude,100.0,3
+stem,2259,Very Friendly,100.0,3
+stem,2259,Friendly,100.0,3
+stem,2259,Neutral,100.0,3
+stem,2259,Rude,100.0,3
+stem,2259,Very Rude,100.0,3
+stem,2267,Very Friendly,100.0,3
+stem,2267,Friendly,100.0,3
+stem,2267,Neutral,100.0,3
+stem,2267,Rude,100.0,3
+stem,2267,Very Rude,100.0,3
+stem,2269,Very Friendly,0.0,3
+stem,2269,Friendly,0.0,3
+stem,2269,Neutral,0.0,3
+stem,2269,Rude,0.0,3
+stem,2269,Very Rude,0.0,3
+stem,2273,Very Friendly,0.0,3
+stem,2273,Friendly,0.0,3
+stem,2273,Neutral,0.0,3
+stem,2273,Rude,0.0,3
+stem,2273,Very Rude,0.0,3
+stem,2281,Very Friendly,66.67,3
+stem,2281,Friendly,0.0,3
+stem,2281,Neutral,66.67,3
+stem,2281,Rude,33.33,3
+stem,2281,Very Rude,33.33,3
+stem,2286,Very Friendly,100.0,3
+stem,2286,Friendly,100.0,3
+stem,2286,Neutral,100.0,3
+stem,2286,Rude,100.0,3
+stem,2286,Very Rude,100.0,3
+stem,2300,Very Friendly,100.0,3
+stem,2300,Friendly,100.0,3
+stem,2300,Neutral,100.0,3
+stem,2300,Rude,100.0,3
+stem,2300,Very Rude,100.0,3
+stem,2309,Very Friendly,100.0,3
+stem,2309,Friendly,100.0,3
+stem,2309,Neutral,100.0,3
+stem,2309,Rude,100.0,3
+stem,2309,Very Rude,100.0,3
+stem,2316,Very Friendly,100.0,3
+stem,2316,Friendly,100.0,3
+stem,2316,Neutral,100.0,3
+stem,2316,Rude,100.0,3
+stem,2316,Very Rude,100.0,3
+stem,2321,Very Friendly,100.0,3
+stem,2321,Friendly,100.0,3
+stem,2321,Neutral,100.0,3
+stem,2321,Rude,100.0,3
+stem,2321,Very Rude,100.0,3
+stem,2339,Very Friendly,100.0,3
+stem,2339,Friendly,100.0,3
+stem,2339,Neutral,100.0,3
+stem,2339,Rude,100.0,3
+stem,2339,Very Rude,100.0,3
+stem,2348,Very Friendly,0.0,3
+stem,2348,Friendly,0.0,3
+stem,2348,Neutral,0.0,3
+stem,2348,Rude,0.0,3
+stem,2348,Very Rude,0.0,3
+stem,2351,Very Friendly,100.0,3
+stem,2351,Friendly,100.0,3
+stem,2351,Neutral,100.0,3
+stem,2351,Rude,100.0,3
+stem,2351,Very Rude,100.0,3
+stem,2375,Very Friendly,100.0,3
+stem,2375,Friendly,100.0,3
+stem,2375,Neutral,100.0,3
+stem,2375,Rude,100.0,3
+stem,2375,Very Rude,100.0,3
+stem,2379,Very Friendly,100.0,3
+stem,2379,Friendly,100.0,3
+stem,2379,Neutral,100.0,3
+stem,2379,Rude,100.0,3
+stem,2379,Very Rude,100.0,3
+stem,2382,Very Friendly,100.0,3
+stem,2382,Friendly,100.0,3
+stem,2382,Neutral,100.0,3
+stem,2382,Rude,100.0,3
+stem,2382,Very Rude,100.0,3
+stem,2391,Very Friendly,100.0,3
+stem,2391,Friendly,100.0,3
+stem,2391,Neutral,100.0,3
+stem,2391,Rude,100.0,3
+stem,2391,Very Rude,100.0,3
+stem,2395,Very Friendly,100.0,3
+stem,2395,Friendly,100.0,3
+stem,2395,Neutral,100.0,3
+stem,2395,Rude,100.0,3
+stem,2395,Very Rude,100.0,3
+stem,2404,Very Friendly,100.0,3
+stem,2404,Friendly,100.0,3
+stem,2404,Neutral,100.0,3
+stem,2404,Rude,100.0,3
+stem,2404,Very Rude,100.0,3
+stem,2408,Very Friendly,0.0,3
+stem,2408,Friendly,0.0,3
+stem,2408,Neutral,0.0,3
+stem,2408,Rude,0.0,3
+stem,2408,Very Rude,0.0,3
+stem,2409,Very Friendly,100.0,3
+stem,2409,Friendly,100.0,3
+stem,2409,Neutral,100.0,3
+stem,2409,Rude,100.0,3
+stem,2409,Very Rude,100.0,3
+stem,2426,Very Friendly,0.0,3
+stem,2426,Friendly,0.0,3
+stem,2426,Neutral,0.0,3
+stem,2426,Rude,0.0,3
+stem,2426,Very Rude,0.0,3
+stem,2431,Very Friendly,0.0,3
+stem,2431,Friendly,0.0,3
+stem,2431,Neutral,0.0,3
+stem,2431,Rude,0.0,3
+stem,2431,Very Rude,0.0,3
+stem,2444,Very Friendly,0.0,3
+stem,2444,Friendly,0.0,3
+stem,2444,Neutral,0.0,3
+stem,2444,Rude,0.0,3
+stem,2444,Very Rude,0.0,3
+stem,2447,Very Friendly,0.0,3
+stem,2447,Friendly,0.0,3
+stem,2447,Neutral,0.0,3
+stem,2447,Rude,0.0,3
+stem,2447,Very Rude,0.0,3
+stem,2458,Very Friendly,100.0,3
+stem,2458,Friendly,100.0,3
+stem,2458,Neutral,100.0,3
+stem,2458,Rude,100.0,3
+stem,2458,Very Rude,100.0,3
+stem,2462,Very Friendly,0.0,3
+stem,2462,Friendly,0.0,3
+stem,2462,Neutral,0.0,3
+stem,2462,Rude,0.0,3
+stem,2462,Very Rude,0.0,3
+stem,2463,Very Friendly,100.0,3
+stem,2463,Friendly,100.0,3
+stem,2463,Neutral,100.0,3
+stem,2463,Rude,100.0,3
+stem,2463,Very Rude,100.0,3
+stem,2469,Very Friendly,33.33,3
+stem,2469,Friendly,66.67,3
+stem,2469,Neutral,33.33,3
+stem,2469,Rude,0.0,3
+stem,2469,Very Rude,66.67,3
+stem,2472,Very Friendly,0.0,3
+stem,2472,Friendly,0.0,3
+stem,2472,Neutral,0.0,3
+stem,2472,Rude,0.0,3
+stem,2472,Very Rude,0.0,3
+stem,2477,Very Friendly,0.0,3
+stem,2477,Friendly,0.0,3
+stem,2477,Neutral,0.0,3
+stem,2477,Rude,0.0,3
+stem,2477,Very Rude,0.0,3
+stem,2478,Very Friendly,0.0,3
+stem,2478,Friendly,0.0,3
+stem,2478,Neutral,33.33,3
+stem,2478,Rude,0.0,3
+stem,2478,Very Rude,0.0,3
+stem,2488,Very Friendly,0.0,3
+stem,2488,Friendly,0.0,3
+stem,2488,Neutral,0.0,3
+stem,2488,Rude,0.0,3
+stem,2488,Very Rude,0.0,3
+stem,2489,Very Friendly,100.0,3
+stem,2489,Friendly,100.0,3
+stem,2489,Neutral,100.0,3
+stem,2489,Rude,100.0,3
+stem,2489,Very Rude,100.0,3
+stem,2500,Very Friendly,0.0,3
+stem,2500,Friendly,0.0,3
+stem,2500,Neutral,0.0,3
+stem,2500,Rude,0.0,3
+stem,2500,Very Rude,0.0,3
+stem,2506,Very Friendly,0.0,3
+stem,2506,Friendly,0.0,3
+stem,2506,Neutral,0.0,3
+stem,2506,Rude,0.0,3
+stem,2506,Very Rude,0.0,3
+stem,2507,Very Friendly,0.0,3
+stem,2507,Friendly,0.0,3
+stem,2507,Neutral,0.0,3
+stem,2507,Rude,0.0,3
+stem,2507,Very Rude,0.0,3
+stem,2517,Very Friendly,100.0,3
+stem,2517,Friendly,33.33,3
+stem,2517,Neutral,0.0,3
+stem,2517,Rude,100.0,3
+stem,2517,Very Rude,66.67,3
+stem,2541,Very Friendly,100.0,3
+stem,2541,Friendly,100.0,3
+stem,2541,Neutral,100.0,3
+stem,2541,Rude,100.0,3
+stem,2541,Very Rude,100.0,3
+stem,2564,Very Friendly,100.0,3
+stem,2564,Friendly,100.0,3
+stem,2564,Neutral,100.0,3
+stem,2564,Rude,100.0,3
+stem,2564,Very Rude,100.0,3
+stem,2568,Very Friendly,100.0,3
+stem,2568,Friendly,100.0,3
+stem,2568,Neutral,100.0,3
+stem,2568,Rude,100.0,3
+stem,2568,Very Rude,100.0,3
+stem,2574,Very Friendly,100.0,3
+stem,2574,Friendly,100.0,3
+stem,2574,Neutral,100.0,3
+stem,2574,Rude,100.0,3
+stem,2574,Very Rude,100.0,3
+stem,2580,Very Friendly,100.0,3
+stem,2580,Friendly,100.0,3
+stem,2580,Neutral,100.0,3
+stem,2580,Rude,100.0,3
+stem,2580,Very Rude,100.0,3
+stem,2584,Very Friendly,0.0,3
+stem,2584,Friendly,0.0,3
+stem,2584,Neutral,100.0,3
+stem,2584,Rude,0.0,3
+stem,2584,Very Rude,0.0,3
+stem,2588,Very Friendly,100.0,3
+stem,2588,Friendly,100.0,3
+stem,2588,Neutral,100.0,3
+stem,2588,Rude,100.0,3
+stem,2588,Very Rude,100.0,3
+stem,2589,Very Friendly,0.0,3
+stem,2589,Friendly,0.0,3
+stem,2589,Neutral,0.0,3
+stem,2589,Rude,0.0,3
+stem,2589,Very Rude,0.0,3
+stem,2593,Very Friendly,100.0,3
+stem,2593,Friendly,100.0,3
+stem,2593,Neutral,100.0,3
+stem,2593,Rude,100.0,3
+stem,2593,Very Rude,100.0,3
+stem,2597,Very Friendly,100.0,3
+stem,2597,Friendly,66.67,3
+stem,2597,Neutral,0.0,3
+stem,2597,Rude,100.0,3
+stem,2597,Very Rude,66.67,3
+stem,2602,Very Friendly,100.0,3
+stem,2602,Friendly,100.0,3
+stem,2602,Neutral,100.0,3
+stem,2602,Rude,100.0,3
+stem,2602,Very Rude,100.0,3
+stem,2628,Very Friendly,100.0,3
+stem,2628,Friendly,100.0,3
+stem,2628,Neutral,100.0,3
+stem,2628,Rude,100.0,3
+stem,2628,Very Rude,100.0,3
+stem,2630,Very Friendly,0.0,3
+stem,2630,Friendly,0.0,3
+stem,2630,Neutral,0.0,3
+stem,2630,Rude,0.0,3
+stem,2630,Very Rude,0.0,3
+stem,2632,Very Friendly,100.0,3
+stem,2632,Friendly,100.0,3
+stem,2632,Neutral,100.0,3
+stem,2632,Rude,100.0,3
+stem,2632,Very Rude,100.0,3
+stem,2639,Very Friendly,0.0,3
+stem,2639,Friendly,0.0,3
+stem,2639,Neutral,0.0,3
+stem,2639,Rude,0.0,3
+stem,2639,Very Rude,0.0,3
+stem,2649,Very Friendly,0.0,3
+stem,2649,Friendly,0.0,3
+stem,2649,Neutral,0.0,3
+stem,2649,Rude,0.0,3
+stem,2649,Very Rude,0.0,3
+stem,2651,Very Friendly,100.0,3
+stem,2651,Friendly,33.33,3
+stem,2651,Neutral,100.0,3
+stem,2651,Rude,100.0,3
+stem,2651,Very Rude,0.0,3
+stem,2657,Very Friendly,100.0,3
+stem,2657,Friendly,100.0,3
+stem,2657,Neutral,100.0,3
+stem,2657,Rude,100.0,3
+stem,2657,Very Rude,100.0,3
+stem,2665,Very Friendly,0.0,3
+stem,2665,Friendly,0.0,3
+stem,2665,Neutral,0.0,3
+stem,2665,Rude,0.0,3
+stem,2665,Very Rude,0.0,3
+stem,2666,Very Friendly,0.0,3
+stem,2666,Friendly,0.0,3
+stem,2666,Neutral,66.67,3
+stem,2666,Rude,0.0,3
+stem,2666,Very Rude,0.0,3
+stem,2670,Very Friendly,0.0,3
+stem,2670,Friendly,0.0,3
+stem,2670,Neutral,0.0,3
+stem,2670,Rude,0.0,3
+stem,2670,Very Rude,0.0,3
+stem,2671,Very Friendly,0.0,3
+stem,2671,Friendly,100.0,3
+stem,2671,Neutral,0.0,3
+stem,2671,Rude,0.0,3
+stem,2671,Very Rude,0.0,3
+stem,2675,Very Friendly,100.0,3
+stem,2675,Friendly,100.0,3
+stem,2675,Neutral,100.0,3
+stem,2675,Rude,100.0,3
+stem,2675,Very Rude,100.0,3
+stem,2679,Very Friendly,0.0,3
+stem,2679,Friendly,0.0,3
+stem,2679,Neutral,0.0,3
+stem,2679,Rude,0.0,3
+stem,2679,Very Rude,0.0,3
+stem,2684,Very Friendly,100.0,3
+stem,2684,Friendly,100.0,3
+stem,2684,Neutral,100.0,3
+stem,2684,Rude,100.0,3
+stem,2684,Very Rude,100.0,3
+stem,2688,Very Friendly,100.0,3
+stem,2688,Friendly,100.0,3
+stem,2688,Neutral,100.0,3
+stem,2688,Rude,100.0,3
+stem,2688,Very Rude,100.0,3
+stem,2698,Very Friendly,100.0,3
+stem,2698,Friendly,100.0,3
+stem,2698,Neutral,100.0,3
+stem,2698,Rude,100.0,3
+stem,2698,Very Rude,100.0,3
+stem,2702,Very Friendly,0.0,3
+stem,2702,Friendly,0.0,3
+stem,2702,Neutral,0.0,3
+stem,2702,Rude,0.0,3
+stem,2702,Very Rude,0.0,3
+stem,2706,Very Friendly,100.0,3
+stem,2706,Friendly,100.0,3
+stem,2706,Neutral,100.0,3
+stem,2706,Rude,100.0,3
+stem,2706,Very Rude,100.0,3
+stem,2709,Very Friendly,0.0,3
+stem,2709,Friendly,0.0,3
+stem,2709,Neutral,0.0,3
+stem,2709,Rude,0.0,3
+stem,2709,Very Rude,0.0,3
+stem,2716,Very Friendly,100.0,3
+stem,2716,Friendly,100.0,3
+stem,2716,Neutral,100.0,3
+stem,2716,Rude,100.0,3
+stem,2716,Very Rude,100.0,3
+stem,2717,Very Friendly,100.0,3
+stem,2717,Friendly,100.0,3
+stem,2717,Neutral,100.0,3
+stem,2717,Rude,100.0,3
+stem,2717,Very Rude,100.0,3
+stem,2725,Very Friendly,100.0,3
+stem,2725,Friendly,100.0,3
+stem,2725,Neutral,100.0,3
+stem,2725,Rude,100.0,3
+stem,2725,Very Rude,100.0,3
+stem,2740,Very Friendly,0.0,3
+stem,2740,Friendly,0.0,3
+stem,2740,Neutral,0.0,3
+stem,2740,Rude,0.0,3
+stem,2740,Very Rude,0.0,3
+stem,2746,Very Friendly,100.0,3
+stem,2746,Friendly,100.0,3
+stem,2746,Neutral,100.0,3
+stem,2746,Rude,100.0,3
+stem,2746,Very Rude,100.0,3
+stem,2754,Very Friendly,100.0,3
+stem,2754,Friendly,100.0,3
+stem,2754,Neutral,100.0,3
+stem,2754,Rude,100.0,3
+stem,2754,Very Rude,100.0,3
+stem,2762,Very Friendly,0.0,3
+stem,2762,Friendly,0.0,3
+stem,2762,Neutral,0.0,3
+stem,2762,Rude,0.0,3
+stem,2762,Very Rude,0.0,3
+stem,2764,Very Friendly,100.0,3
+stem,2764,Friendly,100.0,3
+stem,2764,Neutral,100.0,3
+stem,2764,Rude,100.0,3
+stem,2764,Very Rude,100.0,3
+stem,2770,Very Friendly,0.0,3
+stem,2770,Friendly,0.0,3
+stem,2770,Neutral,0.0,3
+stem,2770,Rude,0.0,3
+stem,2770,Very Rude,0.0,3
+stem,2777,Very Friendly,100.0,3
+stem,2777,Friendly,100.0,3
+stem,2777,Neutral,100.0,3
+stem,2777,Rude,100.0,3
+stem,2777,Very Rude,100.0,3
+stem,2792,Very Friendly,100.0,3
+stem,2792,Friendly,100.0,3
+stem,2792,Neutral,100.0,3
+stem,2792,Rude,100.0,3
+stem,2792,Very Rude,100.0,3
+stem,2795,Very Friendly,0.0,3
+stem,2795,Friendly,0.0,3
+stem,2795,Neutral,0.0,3
+stem,2795,Rude,0.0,3
+stem,2795,Very Rude,0.0,3
+stem,2798,Very Friendly,0.0,3
+stem,2798,Friendly,0.0,3
+stem,2798,Neutral,0.0,3
+stem,2798,Rude,0.0,3
+stem,2798,Very Rude,0.0,3
+stem,2799,Very Friendly,100.0,3
+stem,2799,Friendly,100.0,3
+stem,2799,Neutral,100.0,3
+stem,2799,Rude,100.0,3
+stem,2799,Very Rude,100.0,3
+stem,2802,Very Friendly,0.0,3
+stem,2802,Friendly,0.0,3
+stem,2802,Neutral,0.0,3
+stem,2802,Rude,0.0,3
+stem,2802,Very Rude,0.0,3
+stem,2806,Very Friendly,100.0,3
+stem,2806,Friendly,100.0,3
+stem,2806,Neutral,100.0,3
+stem,2806,Rude,100.0,3
+stem,2806,Very Rude,100.0,3
+stem,2817,Very Friendly,100.0,3
+stem,2817,Friendly,100.0,3
+stem,2817,Neutral,100.0,3
+stem,2817,Rude,100.0,3
+stem,2817,Very Rude,100.0,3
+stem,2818,Very Friendly,0.0,3
+stem,2818,Friendly,0.0,3
+stem,2818,Neutral,0.0,3
+stem,2818,Rude,0.0,3
+stem,2818,Very Rude,0.0,3
+stem,2820,Very Friendly,100.0,3
+stem,2820,Friendly,33.33,3
+stem,2820,Neutral,100.0,3
+stem,2820,Rude,100.0,3
+stem,2820,Very Rude,100.0,3
+stem,2822,Very Friendly,100.0,3
+stem,2822,Friendly,100.0,3
+stem,2822,Neutral,100.0,3
+stem,2822,Rude,33.33,3
+stem,2822,Very Rude,100.0,3
+stem,2831,Very Friendly,100.0,3
+stem,2831,Friendly,100.0,3
+stem,2831,Neutral,100.0,3
+stem,2831,Rude,100.0,3
+stem,2831,Very Rude,100.0,3
+stem,2834,Very Friendly,100.0,3
+stem,2834,Friendly,100.0,3
+stem,2834,Neutral,100.0,3
+stem,2834,Rude,100.0,3
+stem,2834,Very Rude,100.0,3
+stem,2835,Very Friendly,100.0,3
+stem,2835,Friendly,100.0,3
+stem,2835,Neutral,100.0,3
+stem,2835,Rude,100.0,3
+stem,2835,Very Rude,100.0,3
+stem,2848,Very Friendly,0.0,3
+stem,2848,Friendly,0.0,3
+stem,2848,Neutral,0.0,3
+stem,2848,Rude,0.0,3
+stem,2848,Very Rude,0.0,3
+stem,2862,Very Friendly,100.0,3
+stem,2862,Friendly,100.0,3
+stem,2862,Neutral,100.0,3
+stem,2862,Rude,100.0,3
+stem,2862,Very Rude,100.0,3
+stem,2867,Very Friendly,100.0,3
+stem,2867,Friendly,100.0,3
+stem,2867,Neutral,100.0,3
+stem,2867,Rude,100.0,3
+stem,2867,Very Rude,100.0,3
+stem,2872,Very Friendly,100.0,3
+stem,2872,Friendly,100.0,3
+stem,2872,Neutral,100.0,3
+stem,2872,Rude,100.0,3
+stem,2872,Very Rude,100.0,3
+stem,2874,Very Friendly,100.0,3
+stem,2874,Friendly,100.0,3
+stem,2874,Neutral,100.0,3
+stem,2874,Rude,100.0,3
+stem,2874,Very Rude,100.0,3
+stem,2875,Very Friendly,100.0,3
+stem,2875,Friendly,100.0,3
+stem,2875,Neutral,100.0,3
+stem,2875,Rude,100.0,3
+stem,2875,Very Rude,100.0,3
+stem,2876,Very Friendly,100.0,3
+stem,2876,Friendly,100.0,3
+stem,2876,Neutral,100.0,3
+stem,2876,Rude,100.0,3
+stem,2876,Very Rude,100.0,3
+stem,2887,Very Friendly,0.0,3
+stem,2887,Friendly,0.0,3
+stem,2887,Neutral,0.0,3
+stem,2887,Rude,0.0,3
+stem,2887,Very Rude,0.0,3
+stem,2892,Very Friendly,100.0,3
+stem,2892,Friendly,100.0,3
+stem,2892,Neutral,100.0,3
+stem,2892,Rude,100.0,3
+stem,2892,Very Rude,100.0,3
+stem,2896,Very Friendly,100.0,3
+stem,2896,Friendly,100.0,3
+stem,2896,Neutral,100.0,3
+stem,2896,Rude,100.0,3
+stem,2896,Very Rude,100.0,3
+stem,2899,Very Friendly,100.0,3
+stem,2899,Friendly,100.0,3
+stem,2899,Neutral,100.0,3
+stem,2899,Rude,100.0,3
+stem,2899,Very Rude,100.0,3
+stem,2903,Very Friendly,100.0,3
+stem,2903,Friendly,100.0,3
+stem,2903,Neutral,100.0,3
+stem,2903,Rude,100.0,3
+stem,2903,Very Rude,100.0,3
+stem,2914,Very Friendly,100.0,3
+stem,2914,Friendly,100.0,3
+stem,2914,Neutral,100.0,3
+stem,2914,Rude,100.0,3
+stem,2914,Very Rude,100.0,3
+stem,2916,Very Friendly,0.0,3
+stem,2916,Friendly,0.0,3
+stem,2916,Neutral,0.0,3
+stem,2916,Rude,0.0,3
+stem,2916,Very Rude,0.0,3
+stem,2921,Very Friendly,0.0,3
+stem,2921,Friendly,0.0,3
+stem,2921,Neutral,0.0,3
+stem,2921,Rude,0.0,3
+stem,2921,Very Rude,0.0,3
+stem,2924,Very Friendly,100.0,3
+stem,2924,Friendly,100.0,3
+stem,2924,Neutral,100.0,3
+stem,2924,Rude,100.0,3
+stem,2924,Very Rude,100.0,3
+stem,2930,Very Friendly,100.0,3
+stem,2930,Friendly,100.0,3
+stem,2930,Neutral,100.0,3
+stem,2930,Rude,100.0,3
+stem,2930,Very Rude,100.0,3
+stem,2931,Very Friendly,100.0,3
+stem,2931,Friendly,100.0,3
+stem,2931,Neutral,100.0,3
+stem,2931,Rude,100.0,3
+stem,2931,Very Rude,100.0,3
+stem,2932,Very Friendly,100.0,3
+stem,2932,Friendly,100.0,3
+stem,2932,Neutral,100.0,3
+stem,2932,Rude,100.0,3
+stem,2932,Very Rude,100.0,3
+stem,2938,Very Friendly,100.0,3
+stem,2938,Friendly,100.0,3
+stem,2938,Neutral,100.0,3
+stem,2938,Rude,100.0,3
+stem,2938,Very Rude,100.0,3
+stem,2942,Very Friendly,0.0,3
+stem,2942,Friendly,0.0,3
+stem,2942,Neutral,0.0,3
+stem,2942,Rude,0.0,3
+stem,2942,Very Rude,0.0,3
+stem,2947,Very Friendly,100.0,3
+stem,2947,Friendly,100.0,3
+stem,2947,Neutral,100.0,3
+stem,2947,Rude,100.0,3
+stem,2947,Very Rude,100.0,3
+stem,2957,Very Friendly,100.0,3
+stem,2957,Friendly,100.0,3
+stem,2957,Neutral,100.0,3
+stem,2957,Rude,100.0,3
+stem,2957,Very Rude,100.0,3
+stem,2963,Very Friendly,100.0,3
+stem,2963,Friendly,100.0,3
+stem,2963,Neutral,100.0,3
+stem,2963,Rude,100.0,3
+stem,2963,Very Rude,100.0,3
+stem,2964,Very Friendly,66.67,3
+stem,2964,Friendly,100.0,3
+stem,2964,Neutral,66.67,3
+stem,2964,Rude,100.0,3
+stem,2964,Very Rude,100.0,3
+stem,2970,Very Friendly,100.0,3
+stem,2970,Friendly,100.0,3
+stem,2970,Neutral,100.0,3
+stem,2970,Rude,100.0,3
+stem,2970,Very Rude,100.0,3
+stem,2984,Very Friendly,0.0,3
+stem,2984,Friendly,0.0,3
+stem,2984,Neutral,0.0,3
+stem,2984,Rude,0.0,3
+stem,2984,Very Rude,0.0,3
+stem,2991,Very Friendly,100.0,3
+stem,2991,Friendly,100.0,3
+stem,2991,Neutral,100.0,3
+stem,2991,Rude,100.0,3
+stem,2991,Very Rude,100.0,3
+stem,2992,Very Friendly,100.0,3
+stem,2992,Friendly,100.0,3
+stem,2992,Neutral,100.0,3
+stem,2992,Rude,100.0,3
+stem,2992,Very Rude,100.0,3
+stem,2994,Very Friendly,100.0,3
+stem,2994,Friendly,100.0,3
+stem,2994,Neutral,100.0,3
+stem,2994,Rude,100.0,3
+stem,2994,Very Rude,100.0,3
+stem,2999,Very Friendly,0.0,3
+stem,2999,Friendly,0.0,3
+stem,2999,Neutral,0.0,3
+stem,2999,Rude,0.0,3
+stem,2999,Very Rude,0.0,3
+stem,3001,Very Friendly,100.0,3
+stem,3001,Friendly,100.0,3
+stem,3001,Neutral,100.0,3
+stem,3001,Rude,100.0,3
+stem,3001,Very Rude,100.0,3
+stem,3003,Very Friendly,100.0,3
+stem,3003,Friendly,100.0,3
+stem,3003,Neutral,100.0,3
+stem,3003,Rude,100.0,3
+stem,3003,Very Rude,100.0,3
+stem,3033,Very Friendly,100.0,3
+stem,3033,Friendly,100.0,3
+stem,3033,Neutral,100.0,3
+stem,3033,Rude,100.0,3
+stem,3033,Very Rude,100.0,3
+stem,3037,Very Friendly,100.0,3
+stem,3037,Friendly,100.0,3
+stem,3037,Neutral,100.0,3
+stem,3037,Rude,100.0,3
+stem,3037,Very Rude,100.0,3

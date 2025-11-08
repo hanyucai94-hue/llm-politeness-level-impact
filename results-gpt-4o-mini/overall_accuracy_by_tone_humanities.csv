@@ -1,0 +1,6 @@
+Domain,Tone,Overall Accuracy (%),Correct_Answer_Count
+Formal Logic,Very Friendly,68.8,344
+Formal Logic,Friendly,67.4,337
+Formal Logic,Neutral,69.0,345
+Formal Logic,Rude,68.6,343
+Formal Logic,Very Rude,67.6,338

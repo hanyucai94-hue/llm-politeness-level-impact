@@ -1,0 +1,2501 @@
+Domain,QID,Tone,Average Accuracy (%),Runs Counted
+Formal Logic,9,Very Friendly,100,1
+Formal Logic,9,Friendly,100,1
+Formal Logic,9,Neutral,100,1
+Formal Logic,9,Rude,100,1
+Formal Logic,9,Very Rude,100,1
+Formal Logic,13,Very Friendly,100,1
+Formal Logic,13,Friendly,100,1
+Formal Logic,13,Neutral,100,1
+Formal Logic,13,Rude,100,1
+Formal Logic,13,Very Rude,100,1
+Formal Logic,18,Very Friendly,0,1
+Formal Logic,18,Friendly,100,1
+Formal Logic,18,Neutral,0,1
+Formal Logic,18,Rude,0,1
+Formal Logic,18,Very Rude,100,1
+Formal Logic,24,Very Friendly,100,1
+Formal Logic,24,Friendly,100,1
+Formal Logic,24,Neutral,100,1
+Formal Logic,24,Rude,100,1
+Formal Logic,24,Very Rude,0,1
+Formal Logic,27,Very Friendly,0,1
+Formal Logic,27,Friendly,0,1
+Formal Logic,27,Neutral,0,1
+Formal Logic,27,Rude,0,1
+Formal Logic,27,Very Rude,0,1
+Formal Logic,30,Very Friendly,0,1
+Formal Logic,30,Friendly,0,1
+Formal Logic,30,Neutral,0,1
+Formal Logic,30,Rude,0,1
+Formal Logic,30,Very Rude,0,1
+Formal Logic,34,Very Friendly,100,1
+Formal Logic,34,Friendly,100,1
+Formal Logic,34,Neutral,100,1
+Formal Logic,34,Rude,100,1
+Formal Logic,34,Very Rude,100,1
+Formal Logic,52,Very Friendly,0,1
+Formal Logic,52,Friendly,0,1
+Formal Logic,52,Neutral,0,1
+Formal Logic,52,Rude,0,1
+Formal Logic,52,Very Rude,0,1
+Formal Logic,62,Very Friendly,100,1
+Formal Logic,62,Friendly,100,1
+Formal Logic,62,Neutral,100,1
+Formal Logic,62,Rude,100,1
+Formal Logic,62,Very Rude,100,1
+Formal Logic,70,Very Friendly,0,1
+Formal Logic,70,Friendly,0,1
+Formal Logic,70,Neutral,100,1
+Formal Logic,70,Rude,0,1
+Formal Logic,70,Very Rude,0,1
+Formal Logic,71,Very Friendly,100,1
+Formal Logic,71,Friendly,100,1
+Formal Logic,71,Neutral,100,1
+Formal Logic,71,Rude,100,1
+Formal Logic,71,Very Rude,100,1
+Formal Logic,80,Very Friendly,100,1
+Formal Logic,80,Friendly,100,1
+Formal Logic,80,Neutral,100,1
+Formal Logic,80,Rude,100,1
+Formal Logic,80,Very Rude,100,1
+Formal Logic,94,Very Friendly,100,1
+Formal Logic,94,Friendly,100,1
+Formal Logic,94,Neutral,100,1
+Formal Logic,94,Rude,100,1
+Formal Logic,94,Very Rude,100,1
+Formal Logic,101,Very Friendly,0,1
+Formal Logic,101,Friendly,0,1
+Formal Logic,101,Neutral,0,1
+Formal Logic,101,Rude,0,1
+Formal Logic,101,Very Rude,0,1
+Formal Logic,110,Very Friendly,0,1
+Formal Logic,110,Friendly,0,1
+Formal Logic,110,Neutral,0,1
+Formal Logic,110,Rude,0,1
+Formal Logic,110,Very Rude,0,1
+Formal Logic,121,Very Friendly,100,1
+Formal Logic,121,Friendly,100,1
+Formal Logic,121,Neutral,100,1
+Formal Logic,121,Rude,100,1
+Formal Logic,121,Very Rude,100,1
+Formal Logic,123,Very Friendly,0,1
+Formal Logic,123,Friendly,0,1
+Formal Logic,123,Neutral,0,1
+Formal Logic,123,Rude,0,1
+Formal Logic,123,Very Rude,0,1
+Formal Logic,133,Very Friendly,100,1
+Formal Logic,133,Friendly,100,1
+Formal Logic,133,Neutral,100,1
+Formal Logic,133,Rude,100,1
+Formal Logic,133,Very Rude,100,1
+Formal Logic,135,Very Friendly,100,1
+Formal Logic,135,Friendly,100,1
+Formal Logic,135,Neutral,100,1
+Formal Logic,135,Rude,100,1
+Formal Logic,135,Very Rude,100,1
+Formal Logic,136,Very Friendly,100,1
+Formal Logic,136,Friendly,100,1
+Formal Logic,136,Neutral,100,1
+Formal Logic,136,Rude,100,1
+Formal Logic,136,Very Rude,100,1
+Formal Logic,145,Very Friendly,0,1
+Formal Logic,145,Friendly,0,1
+Formal Logic,145,Neutral,0,1
+Formal Logic,145,Rude,0,1
+Formal Logic,145,Very Rude,0,1
+Formal Logic,150,Very Friendly,100,1
+Formal Logic,150,Friendly,100,1
+Formal Logic,150,Neutral,100,1
+Formal Logic,150,Rude,100,1
+Formal Logic,150,Very Rude,100,1
+Formal Logic,152,Very Friendly,100,1
+Formal Logic,152,Friendly,100,1
+Formal Logic,152,Neutral,100,1
+Formal Logic,152,Rude,100,1
+Formal Logic,152,Very Rude,100,1
+Formal Logic,158,Very Friendly,100,1
+Formal Logic,158,Friendly,100,1
+Formal Logic,158,Neutral,100,1
+Formal Logic,158,Rude,100,1
+Formal Logic,158,Very Rude,100,1
+Formal Logic,178,Very Friendly,100,1
+Formal Logic,178,Friendly,100,1
+Formal Logic,178,Neutral,100,1
+Formal Logic,178,Rude,100,1
+Formal Logic,178,Very Rude,100,1
+Formal Logic,180,Very Friendly,100,1
+Formal Logic,180,Friendly,100,1
+Formal Logic,180,Neutral,100,1
+Formal Logic,180,Rude,100,1
+Formal Logic,180,Very Rude,100,1
+Formal Logic,200,Very Friendly,100,1
+Formal Logic,200,Friendly,100,1
+Formal Logic,200,Neutral,100,1
+Formal Logic,200,Rude,100,1
+Formal Logic,200,Very Rude,100,1
+Formal Logic,228,Very Friendly,100,1
+Formal Logic,228,Friendly,100,1
+Formal Logic,228,Neutral,100,1
+Formal Logic,228,Rude,100,1
+Formal Logic,228,Very Rude,100,1
+Formal Logic,231,Very Friendly,0,1
+Formal Logic,231,Friendly,0,1
+Formal Logic,231,Neutral,0,1
+Formal Logic,231,Rude,0,1
+Formal Logic,231,Very Rude,0,1
+Formal Logic,234,Very Friendly,100,1
+Formal Logic,234,Friendly,100,1
+Formal Logic,234,Neutral,100,1
+Formal Logic,234,Rude,100,1
+Formal Logic,234,Very Rude,100,1
+Formal Logic,239,Very Friendly,100,1
+Formal Logic,239,Friendly,100,1
+Formal Logic,239,Neutral,100,1
+Formal Logic,239,Rude,100,1
+Formal Logic,239,Very Rude,100,1
+Formal Logic,241,Very Friendly,100,1
+Formal Logic,241,Friendly,100,1
+Formal Logic,241,Neutral,100,1
+Formal Logic,241,Rude,100,1
+Formal Logic,241,Very Rude,100,1
+Formal Logic,249,Very Friendly,100,1
+Formal Logic,249,Friendly,100,1
+Formal Logic,249,Neutral,100,1
+Formal Logic,249,Rude,100,1
+Formal Logic,249,Very Rude,100,1
+Formal Logic,253,Very Friendly,100,1
+Formal Logic,253,Friendly,100,1
+Formal Logic,253,Neutral,100,1
+Formal Logic,253,Rude,100,1
+Formal Logic,253,Very Rude,100,1
+Formal Logic,275,Very Friendly,100,1
+Formal Logic,275,Friendly,100,1
+Formal Logic,275,Neutral,100,1
+Formal Logic,275,Rude,100,1
+Formal Logic,275,Very Rude,100,1
+Formal Logic,288,Very Friendly,100,1
+Formal Logic,288,Friendly,100,1
+Formal Logic,288,Neutral,100,1
+Formal Logic,288,Rude,100,1
+Formal Logic,288,Very Rude,100,1
+Formal Logic,291,Very Friendly,100,1
+Formal Logic,291,Friendly,100,1
+Formal Logic,291,Neutral,100,1
+Formal Logic,291,Rude,100,1
+Formal Logic,291,Very Rude,100,1
+Formal Logic,292,Very Friendly,100,1
+Formal Logic,292,Friendly,0,1
+Formal Logic,292,Neutral,0,1
+Formal Logic,292,Rude,0,1
+Formal Logic,292,Very Rude,0,1
+Formal Logic,297,Very Friendly,100,1
+Formal Logic,297,Friendly,100,1
+Formal Logic,297,Neutral,100,1
+Formal Logic,297,Rude,100,1
+Formal Logic,297,Very Rude,100,1
+Formal Logic,298,Very Friendly,0,1
+Formal Logic,298,Friendly,0,1
+Formal Logic,298,Neutral,0,1
+Formal Logic,298,Rude,0,1
+Formal Logic,298,Very Rude,0,1
+Formal Logic,299,Very Friendly,100,1
+Formal Logic,299,Friendly,100,1
+Formal Logic,299,Neutral,100,1
+Formal Logic,299,Rude,100,1
+Formal Logic,299,Very Rude,100,1
+Formal Logic,316,Very Friendly,100,1
+Formal Logic,316,Friendly,100,1
+Formal Logic,316,Neutral,100,1
+Formal Logic,316,Rude,100,1
+Formal Logic,316,Very Rude,100,1
+Formal Logic,319,Very Friendly,100,1
+Formal Logic,319,Friendly,100,1
+Formal Logic,319,Neutral,100,1
+Formal Logic,319,Rude,100,1
+Formal Logic,319,Very Rude,100,1
+Formal Logic,323,Very Friendly,100,1
+Formal Logic,323,Friendly,100,1
+Formal Logic,323,Neutral,100,1
+Formal Logic,323,Rude,100,1
+Formal Logic,323,Very Rude,100,1
+Formal Logic,351,Very Friendly,100,1
+Formal Logic,351,Friendly,100,1
+Formal Logic,351,Neutral,100,1
+Formal Logic,351,Rude,100,1
+Formal Logic,351,Very Rude,100,1
+Formal Logic,355,Very Friendly,100,1
+Formal Logic,355,Friendly,100,1
+Formal Logic,355,Neutral,100,1
+Formal Logic,355,Rude,100,1
+Formal Logic,355,Very Rude,100,1
+Formal Logic,372,Very Friendly,100,1
+Formal Logic,372,Friendly,100,1
+Formal Logic,372,Neutral,100,1
+Formal Logic,372,Rude,100,1
+Formal Logic,372,Very Rude,100,1
+Formal Logic,374,Very Friendly,100,1
+Formal Logic,374,Friendly,100,1
+Formal Logic,374,Neutral,100,1
+Formal Logic,374,Rude,100,1
+Formal Logic,374,Very Rude,100,1
+Formal Logic,388,Very Friendly,100,1
+Formal Logic,388,Friendly,100,1
+Formal Logic,388,Neutral,100,1
+Formal Logic,388,Rude,100,1
+Formal Logic,388,Very Rude,100,1
+Formal Logic,394,Very Friendly,100,1
+Formal Logic,394,Friendly,100,1
+Formal Logic,394,Neutral,100,1
+Formal Logic,394,Rude,100,1
+Formal Logic,394,Very Rude,100,1
+Formal Logic,415,Very Friendly,100,1
+Formal Logic,415,Friendly,100,1
+Formal Logic,415,Neutral,100,1
+Formal Logic,415,Rude,100,1
+Formal Logic,415,Very Rude,100,1
+Formal Logic,416,Very Friendly,100,1
+Formal Logic,416,Friendly,100,1
+Formal Logic,416,Neutral,100,1
+Formal Logic,416,Rude,100,1
+Formal Logic,416,Very Rude,100,1
+Formal Logic,417,Very Friendly,100,1
+Formal Logic,417,Friendly,100,1
+Formal Logic,417,Neutral,100,1
+Formal Logic,417,Rude,100,1
+Formal Logic,417,Very Rude,100,1
+Formal Logic,430,Very Friendly,100,1
+Formal Logic,430,Friendly,100,1
+Formal Logic,430,Neutral,100,1
+Formal Logic,430,Rude,100,1
+Formal Logic,430,Very Rude,100,1
+Formal Logic,444,Very Friendly,100,1
+Formal Logic,444,Friendly,100,1
+Formal Logic,444,Neutral,100,1
+Formal Logic,444,Rude,100,1
+Formal Logic,444,Very Rude,100,1
+Formal Logic,466,Very Friendly,100,1
+Formal Logic,466,Friendly,100,1
+Formal Logic,466,Neutral,100,1
+Formal Logic,466,Rude,100,1
+Formal Logic,466,Very Rude,100,1
+Formal Logic,469,Very Friendly,100,1
+Formal Logic,469,Friendly,100,1
+Formal Logic,469,Neutral,100,1
+Formal Logic,469,Rude,100,1
+Formal Logic,469,Very Rude,100,1
+Formal Logic,472,Very Friendly,0,1
+Formal Logic,472,Friendly,0,1
+Formal Logic,472,Neutral,0,1
+Formal Logic,472,Rude,0,1
+Formal Logic,472,Very Rude,0,1
+Formal Logic,473,Very Friendly,100,1
+Formal Logic,473,Friendly,100,1
+Formal Logic,473,Neutral,100,1
+Formal Logic,473,Rude,100,1
+Formal Logic,473,Very Rude,100,1
+Formal Logic,479,Very Friendly,0,1
+Formal Logic,479,Friendly,0,1
+Formal Logic,479,Neutral,0,1
+Formal Logic,479,Rude,0,1
+Formal Logic,479,Very Rude,0,1
+Formal Logic,487,Very Friendly,100,1
+Formal Logic,487,Friendly,100,1
+Formal Logic,487,Neutral,100,1
+Formal Logic,487,Rude,100,1
+Formal Logic,487,Very Rude,100,1
+Formal Logic,498,Very Friendly,0,1
+Formal Logic,498,Friendly,100,1
+Formal Logic,498,Neutral,100,1
+Formal Logic,498,Rude,100,1
+Formal Logic,498,Very Rude,0,1
+Formal Logic,502,Very Friendly,100,1
+Formal Logic,502,Friendly,100,1
+Formal Logic,502,Neutral,100,1
+Formal Logic,502,Rude,100,1
+Formal Logic,502,Very Rude,100,1
+Formal Logic,506,Very Friendly,100,1
+Formal Logic,506,Friendly,100,1
+Formal Logic,506,Neutral,100,1
+Formal Logic,506,Rude,100,1
+Formal Logic,506,Very Rude,100,1
+Formal Logic,531,Very Friendly,100,1
+Formal Logic,531,Friendly,100,1
+Formal Logic,531,Neutral,100,1
+Formal Logic,531,Rude,100,1
+Formal Logic,531,Very Rude,100,1
+Formal Logic,534,Very Friendly,0,1
+Formal Logic,534,Friendly,0,1
+Formal Logic,534,Neutral,0,1
+Formal Logic,534,Rude,0,1
+Formal Logic,534,Very Rude,0,1
+Formal Logic,535,Very Friendly,100,1
+Formal Logic,535,Friendly,100,1
+Formal Logic,535,Neutral,100,1
+Formal Logic,535,Rude,100,1
+Formal Logic,535,Very Rude,100,1
+Formal Logic,539,Very Friendly,100,1
+Formal Logic,539,Friendly,100,1
+Formal Logic,539,Neutral,100,1
+Formal Logic,539,Rude,100,1
+Formal Logic,539,Very Rude,100,1
+Formal Logic,545,Very Friendly,100,1
+Formal Logic,545,Friendly,100,1
+Formal Logic,545,Neutral,100,1
+Formal Logic,545,Rude,100,1
+Formal Logic,545,Very Rude,100,1
+Formal Logic,556,Very Friendly,100,1
+Formal Logic,556,Friendly,100,1
+Formal Logic,556,Neutral,0,1
+Formal Logic,556,Rude,0,1
+Formal Logic,556,Very Rude,0,1
+Formal Logic,562,Very Friendly,100,1
+Formal Logic,562,Friendly,100,1
+Formal Logic,562,Neutral,100,1
+Formal Logic,562,Rude,100,1
+Formal Logic,562,Very Rude,100,1
+Formal Logic,568,Very Friendly,100,1
+Formal Logic,568,Friendly,100,1
+Formal Logic,568,Neutral,100,1
+Formal Logic,568,Rude,100,1
+Formal Logic,568,Very Rude,100,1
+Formal Logic,578,Very Friendly,100,1
+Formal Logic,578,Friendly,100,1
+Formal Logic,578,Neutral,100,1
+Formal Logic,578,Rude,100,1
+Formal Logic,578,Very Rude,100,1
+Formal Logic,585,Very Friendly,100,1
+Formal Logic,585,Friendly,100,1
+Formal Logic,585,Neutral,100,1
+Formal Logic,585,Rude,100,1
+Formal Logic,585,Very Rude,100,1
+Formal Logic,587,Very Friendly,0,1
+Formal Logic,587,Friendly,0,1
+Formal Logic,587,Neutral,0,1
+Formal Logic,587,Rude,0,1
+Formal Logic,587,Very Rude,0,1
+Formal Logic,597,Very Friendly,100,1
+Formal Logic,597,Friendly,100,1
+Formal Logic,597,Neutral,100,1
+Formal Logic,597,Rude,100,1
+Formal Logic,597,Very Rude,100,1
+Formal Logic,622,Very Friendly,0,1
+Formal Logic,622,Friendly,0,1
+Formal Logic,622,Neutral,0,1
+Formal Logic,622,Rude,0,1
+Formal Logic,622,Very Rude,0,1
+Formal Logic,627,Very Friendly,100,1
+Formal Logic,627,Friendly,100,1
+Formal Logic,627,Neutral,100,1
+Formal Logic,627,Rude,100,1
+Formal Logic,627,Very Rude,100,1
+Formal Logic,634,Very Friendly,100,1
+Formal Logic,634,Friendly,100,1
+Formal Logic,634,Neutral,100,1
+Formal Logic,634,Rude,100,1
+Formal Logic,634,Very Rude,100,1
+Formal Logic,643,Very Friendly,100,1
+Formal Logic,643,Friendly,100,1
+Formal Logic,643,Neutral,100,1
+Formal Logic,643,Rude,100,1
+Formal Logic,643,Very Rude,100,1
+Formal Logic,656,Very Friendly,100,1
+Formal Logic,656,Friendly,100,1
+Formal Logic,656,Neutral,100,1
+Formal Logic,656,Rude,100,1
+Formal Logic,656,Very Rude,100,1
+Formal Logic,669,Very Friendly,100,1
+Formal Logic,669,Friendly,100,1
+Formal Logic,669,Neutral,100,1
+Formal Logic,669,Rude,100,1
+Formal Logic,669,Very Rude,100,1
+Formal Logic,677,Very Friendly,100,1
+Formal Logic,677,Friendly,100,1
+Formal Logic,677,Neutral,100,1
+Formal Logic,677,Rude,100,1
+Formal Logic,677,Very Rude,100,1
+Formal Logic,678,Very Friendly,100,1
+Formal Logic,678,Friendly,100,1
+Formal Logic,678,Neutral,100,1
+Formal Logic,678,Rude,100,1
+Formal Logic,678,Very Rude,100,1
+Formal Logic,684,Very Friendly,100,1
+Formal Logic,684,Friendly,100,1
+Formal Logic,684,Neutral,100,1
+Formal Logic,684,Rude,100,1
+Formal Logic,684,Very Rude,100,1
+Formal Logic,706,Very Friendly,100,1
+Formal Logic,706,Friendly,100,1
+Formal Logic,706,Neutral,100,1
+Formal Logic,706,Rude,100,1
+Formal Logic,706,Very Rude,100,1
+Formal Logic,719,Very Friendly,100,1
+Formal Logic,719,Friendly,100,1
+Formal Logic,719,Neutral,100,1
+Formal Logic,719,Rude,100,1
+Formal Logic,719,Very Rude,100,1
+Formal Logic,722,Very Friendly,100,1
+Formal Logic,722,Friendly,100,1
+Formal Logic,722,Neutral,100,1
+Formal Logic,722,Rude,100,1
+Formal Logic,722,Very Rude,100,1
+Formal Logic,732,Very Friendly,100,1
+Formal Logic,732,Friendly,100,1
+Formal Logic,732,Neutral,100,1
+Formal Logic,732,Rude,100,1
+Formal Logic,732,Very Rude,100,1
+Formal Logic,735,Very Friendly,100,1
+Formal Logic,735,Friendly,100,1
+Formal Logic,735,Neutral,100,1
+Formal Logic,735,Rude,100,1
+Formal Logic,735,Very Rude,100,1
+Formal Logic,743,Very Friendly,100,1
+Formal Logic,743,Friendly,100,1
+Formal Logic,743,Neutral,100,1
+Formal Logic,743,Rude,100,1
+Formal Logic,743,Very Rude,100,1
+Formal Logic,757,Very Friendly,100,1
+Formal Logic,757,Friendly,100,1
+Formal Logic,757,Neutral,100,1
+Formal Logic,757,Rude,100,1
+Formal Logic,757,Very Rude,100,1
+Formal Logic,766,Very Friendly,100,1
+Formal Logic,766,Friendly,100,1
+Formal Logic,766,Neutral,100,1
+Formal Logic,766,Rude,100,1
+Formal Logic,766,Very Rude,100,1
+Formal Logic,777,Very Friendly,100,1
+Formal Logic,777,Friendly,100,1
+Formal Logic,777,Neutral,100,1
+Formal Logic,777,Rude,100,1
+Formal Logic,777,Very Rude,100,1
+Formal Logic,788,Very Friendly,100,1
+Formal Logic,788,Friendly,100,1
+Formal Logic,788,Neutral,100,1
+Formal Logic,788,Rude,100,1
+Formal Logic,788,Very Rude,100,1
+Formal Logic,799,Very Friendly,100,1
+Formal Logic,799,Friendly,100,1
+Formal Logic,799,Neutral,100,1
+Formal Logic,799,Rude,100,1
+Formal Logic,799,Very Rude,100,1
+Formal Logic,803,Very Friendly,100,1
+Formal Logic,803,Friendly,100,1
+Formal Logic,803,Neutral,100,1
+Formal Logic,803,Rude,100,1
+Formal Logic,803,Very Rude,100,1
+Formal Logic,804,Very Friendly,0,1
+Formal Logic,804,Friendly,0,1
+Formal Logic,804,Neutral,0,1
+Formal Logic,804,Rude,0,1
+Formal Logic,804,Very Rude,0,1
+Formal Logic,806,Very Friendly,100,1
+Formal Logic,806,Friendly,100,1
+Formal Logic,806,Neutral,100,1
+Formal Logic,806,Rude,100,1
+Formal Logic,806,Very Rude,100,1
+Formal Logic,813,Very Friendly,100,1
+Formal Logic,813,Friendly,100,1
+Formal Logic,813,Neutral,100,1
+Formal Logic,813,Rude,100,1
+Formal Logic,813,Very Rude,100,1
+Formal Logic,830,Very Friendly,100,1
+Formal Logic,830,Friendly,100,1
+Formal Logic,830,Neutral,100,1
+Formal Logic,830,Rude,100,1
+Formal Logic,830,Very Rude,100,1
+Formal Logic,834,Very Friendly,100,1
+Formal Logic,834,Friendly,100,1
+Formal Logic,834,Neutral,100,1
+Formal Logic,834,Rude,100,1
+Formal Logic,834,Very Rude,100,1
+Formal Logic,857,Very Friendly,100,1
+Formal Logic,857,Friendly,100,1
+Formal Logic,857,Neutral,100,1
+Formal Logic,857,Rude,100,1
+Formal Logic,857,Very Rude,100,1
+Formal Logic,878,Very Friendly,100,1
+Formal Logic,878,Friendly,100,1
+Formal Logic,878,Neutral,100,1
+Formal Logic,878,Rude,100,1
+Formal Logic,878,Very Rude,100,1
+Formal Logic,880,Very Friendly,100,1
+Formal Logic,880,Friendly,100,1
+Formal Logic,880,Neutral,100,1
+Formal Logic,880,Rude,100,1
+Formal Logic,880,Very Rude,100,1
+Formal Logic,882,Very Friendly,100,1
+Formal Logic,882,Friendly,100,1
+Formal Logic,882,Neutral,100,1
+Formal Logic,882,Rude,100,1
+Formal Logic,882,Very Rude,100,1
+Formal Logic,890,Very Friendly,0,1
+Formal Logic,890,Friendly,0,1
+Formal Logic,890,Neutral,0,1
+Formal Logic,890,Rude,0,1
+Formal Logic,890,Very Rude,0,1
+Formal Logic,897,Very Friendly,100,1
+Formal Logic,897,Friendly,100,1
+Formal Logic,897,Neutral,100,1
+Formal Logic,897,Rude,100,1
+Formal Logic,897,Very Rude,100,1
+Formal Logic,908,Very Friendly,100,1
+Formal Logic,908,Friendly,100,1
+Formal Logic,908,Neutral,100,1
+Formal Logic,908,Rude,100,1
+Formal Logic,908,Very Rude,100,1
+Formal Logic,912,Very Friendly,100,1
+Formal Logic,912,Friendly,100,1
+Formal Logic,912,Neutral,100,1
+Formal Logic,912,Rude,100,1
+Formal Logic,912,Very Rude,100,1
+Formal Logic,927,Very Friendly,100,1
+Formal Logic,927,Friendly,100,1
+Formal Logic,927,Neutral,100,1
+Formal Logic,927,Rude,100,1
+Formal Logic,927,Very Rude,100,1
+Formal Logic,945,Very Friendly,100,1
+Formal Logic,945,Friendly,100,1
+Formal Logic,945,Neutral,100,1
+Formal Logic,945,Rude,100,1
+Formal Logic,945,Very Rude,100,1
+Formal Logic,950,Very Friendly,100,1
+Formal Logic,950,Friendly,100,1
+Formal Logic,950,Neutral,100,1
+Formal Logic,950,Rude,100,1
+Formal Logic,950,Very Rude,100,1
+Formal Logic,961,Very Friendly,100,1
+Formal Logic,961,Friendly,100,1
+Formal Logic,961,Neutral,100,1
+Formal Logic,961,Rude,100,1
+Formal Logic,961,Very Rude,100,1
+Formal Logic,978,Very Friendly,100,1
+Formal Logic,978,Friendly,100,1
+Formal Logic,978,Neutral,100,1
+Formal Logic,978,Rude,100,1
+Formal Logic,978,Very Rude,100,1
+Formal Logic,995,Very Friendly,100,1
+Formal Logic,995,Friendly,100,1
+Formal Logic,995,Neutral,100,1
+Formal Logic,995,Rude,100,1
+Formal Logic,995,Very Rude,100,1
+Formal Logic,997,Very Friendly,0,1
+Formal Logic,997,Friendly,0,1
+Formal Logic,997,Neutral,0,1
+Formal Logic,997,Rude,0,1
+Formal Logic,997,Very Rude,0,1
+Formal Logic,1000,Very Friendly,100,1
+Formal Logic,1000,Friendly,100,1
+Formal Logic,1000,Neutral,100,1
+Formal Logic,1000,Rude,100,1
+Formal Logic,1000,Very Rude,100,1
+Formal Logic,1019,Very Friendly,100,1
+Formal Logic,1019,Friendly,100,1
+Formal Logic,1019,Neutral,100,1
+Formal Logic,1019,Rude,100,1
+Formal Logic,1019,Very Rude,0,1
+Formal Logic,1021,Very Friendly,100,1
+Formal Logic,1021,Friendly,100,1
+Formal Logic,1021,Neutral,100,1
+Formal Logic,1021,Rude,100,1
+Formal Logic,1021,Very Rude,100,1
+Formal Logic,1025,Very Friendly,100,1
+Formal Logic,1025,Friendly,100,1
+Formal Logic,1025,Neutral,100,1
+Formal Logic,1025,Rude,100,1
+Formal Logic,1025,Very Rude,100,1
+Formal Logic,1028,Very Friendly,100,1
+Formal Logic,1028,Friendly,100,1
+Formal Logic,1028,Neutral,100,1
+Formal Logic,1028,Rude,100,1
+Formal Logic,1028,Very Rude,100,1
+Formal Logic,1033,Very Friendly,100,1
+Formal Logic,1033,Friendly,100,1
+Formal Logic,1033,Neutral,100,1
+Formal Logic,1033,Rude,100,1
+Formal Logic,1033,Very Rude,100,1
+Formal Logic,1039,Very Friendly,100,1
+Formal Logic,1039,Friendly,100,1
+Formal Logic,1039,Neutral,100,1
+Formal Logic,1039,Rude,100,1
+Formal Logic,1039,Very Rude,100,1
+Formal Logic,1045,Very Friendly,0,1
+Formal Logic,1045,Friendly,0,1
+Formal Logic,1045,Neutral,0,1
+Formal Logic,1045,Rude,0,1
+Formal Logic,1045,Very Rude,0,1
+Formal Logic,1048,Very Friendly,100,1
+Formal Logic,1048,Friendly,100,1
+Formal Logic,1048,Neutral,100,1
+Formal Logic,1048,Rude,100,1
+Formal Logic,1048,Very Rude,100,1
+Formal Logic,1053,Very Friendly,100,1
+Formal Logic,1053,Friendly,100,1
+Formal Logic,1053,Neutral,100,1
+Formal Logic,1053,Rude,100,1
+Formal Logic,1053,Very Rude,100,1
+Formal Logic,1056,Very Friendly,100,1
+Formal Logic,1056,Friendly,100,1
+Formal Logic,1056,Neutral,100,1
+Formal Logic,1056,Rude,100,1
+Formal Logic,1056,Very Rude,100,1
+Formal Logic,1057,Very Friendly,100,1
+Formal Logic,1057,Friendly,100,1
+Formal Logic,1057,Neutral,100,1
+Formal Logic,1057,Rude,100,1
+Formal Logic,1057,Very Rude,100,1
+Formal Logic,1058,Very Friendly,100,1
+Formal Logic,1058,Friendly,100,1
+Formal Logic,1058,Neutral,100,1
+Formal Logic,1058,Rude,100,1
+Formal Logic,1058,Very Rude,100,1
+Formal Logic,1062,Very Friendly,100,1
+Formal Logic,1062,Friendly,100,1
+Formal Logic,1062,Neutral,100,1
+Formal Logic,1062,Rude,100,1
+Formal Logic,1062,Very Rude,100,1
+Formal Logic,1074,Very Friendly,100,1
+Formal Logic,1074,Friendly,100,1
+Formal Logic,1074,Neutral,100,1
+Formal Logic,1074,Rude,100,1
+Formal Logic,1074,Very Rude,100,1
+Formal Logic,1076,Very Friendly,100,1
+Formal Logic,1076,Friendly,100,1
+Formal Logic,1076,Neutral,100,1
+Formal Logic,1076,Rude,100,1
+Formal Logic,1076,Very Rude,100,1
+Formal Logic,1091,Very Friendly,100,1
+Formal Logic,1091,Friendly,100,1
+Formal Logic,1091,Neutral,100,1
+Formal Logic,1091,Rude,100,1
+Formal Logic,1091,Very Rude,100,1
+Formal Logic,1109,Very Friendly,100,1
+Formal Logic,1109,Friendly,100,1
+Formal Logic,1109,Neutral,100,1
+Formal Logic,1109,Rude,100,1
+Formal Logic,1109,Very Rude,100,1
+Formal Logic,1114,Very Friendly,0,1
+Formal Logic,1114,Friendly,0,1
+Formal Logic,1114,Neutral,0,1
+Formal Logic,1114,Rude,0,1
+Formal Logic,1114,Very Rude,0,1
+Formal Logic,1117,Very Friendly,100,1
+Formal Logic,1117,Friendly,100,1
+Formal Logic,1117,Neutral,100,1
+Formal Logic,1117,Rude,100,1
+Formal Logic,1117,Very Rude,100,1
+Formal Logic,1118,Very Friendly,100,1
+Formal Logic,1118,Friendly,100,1
+Formal Logic,1118,Neutral,100,1
+Formal Logic,1118,Rude,100,1
+Formal Logic,1118,Very Rude,100,1
+Formal Logic,1129,Very Friendly,0,1
+Formal Logic,1129,Friendly,0,1
+Formal Logic,1129,Neutral,0,1
+Formal Logic,1129,Rude,0,1
+Formal Logic,1129,Very Rude,0,1
+Formal Logic,1130,Very Friendly,100,1
+Formal Logic,1130,Friendly,100,1
+Formal Logic,1130,Neutral,100,1
+Formal Logic,1130,Rude,100,1
+Formal Logic,1130,Very Rude,100,1
+Formal Logic,1150,Very Friendly,100,1
+Formal Logic,1150,Friendly,100,1
+Formal Logic,1150,Neutral,100,1
+Formal Logic,1150,Rude,100,1
+Formal Logic,1150,Very Rude,100,1
+Formal Logic,1159,Very Friendly,100,1
+Formal Logic,1159,Friendly,100,1
+Formal Logic,1159,Neutral,100,1
+Formal Logic,1159,Rude,100,1
+Formal Logic,1159,Very Rude,100,1
+Formal Logic,1162,Very Friendly,0,1
+Formal Logic,1162,Friendly,0,1
+Formal Logic,1162,Neutral,0,1
+Formal Logic,1162,Rude,0,1
+Formal Logic,1162,Very Rude,0,1
+Formal Logic,1169,Very Friendly,100,1
+Formal Logic,1169,Friendly,100,1
+Formal Logic,1169,Neutral,100,1
+Formal Logic,1169,Rude,100,1
+Formal Logic,1169,Very Rude,100,1
+Formal Logic,1171,Very Friendly,100,1
+Formal Logic,1171,Friendly,0,1
+Formal Logic,1171,Neutral,100,1
+Formal Logic,1171,Rude,100,1
+Formal Logic,1171,Very Rude,0,1
+Formal Logic,1176,Very Friendly,0,1
+Formal Logic,1176,Friendly,0,1
+Formal Logic,1176,Neutral,0,1
+Formal Logic,1176,Rude,0,1
+Formal Logic,1176,Very Rude,0,1
+Formal Logic,1198,Very Friendly,100,1
+Formal Logic,1198,Friendly,100,1
+Formal Logic,1198,Neutral,100,1
+Formal Logic,1198,Rude,100,1
+Formal Logic,1198,Very Rude,100,1
+Formal Logic,1205,Very Friendly,100,1
+Formal Logic,1205,Friendly,100,1
+Formal Logic,1205,Neutral,100,1
+Formal Logic,1205,Rude,100,1
+Formal Logic,1205,Very Rude,100,1
+Formal Logic,1223,Very Friendly,100,1
+Formal Logic,1223,Friendly,100,1
+Formal Logic,1223,Neutral,100,1
+Formal Logic,1223,Rude,100,1
+Formal Logic,1223,Very Rude,100,1
+Formal Logic,1232,Very Friendly,100,1
+Formal Logic,1232,Friendly,100,1
+Formal Logic,1232,Neutral,0,1
+Formal Logic,1232,Rude,0,1
+Formal Logic,1232,Very Rude,0,1
+Formal Logic,1236,Very Friendly,0,1
+Formal Logic,1236,Friendly,0,1
+Formal Logic,1236,Neutral,0,1
+Formal Logic,1236,Rude,0,1
+Formal Logic,1236,Very Rude,0,1
+Formal Logic,1243,Very Friendly,100,1
+Formal Logic,1243,Friendly,100,1
+Formal Logic,1243,Neutral,100,1
+Formal Logic,1243,Rude,100,1
+Formal Logic,1243,Very Rude,100,1
+Formal Logic,1245,Very Friendly,0,1
+Formal Logic,1245,Friendly,0,1
+Formal Logic,1245,Neutral,0,1
+Formal Logic,1245,Rude,0,1
+Formal Logic,1245,Very Rude,0,1
+Formal Logic,1259,Very Friendly,100,1
+Formal Logic,1259,Friendly,100,1
+Formal Logic,1259,Neutral,100,1
+Formal Logic,1259,Rude,100,1
+Formal Logic,1259,Very Rude,100,1
+Formal Logic,1261,Very Friendly,100,1
+Formal Logic,1261,Friendly,100,1
+Formal Logic,1261,Neutral,100,1
+Formal Logic,1261,Rude,100,1
+Formal Logic,1261,Very Rude,100,1
+Formal Logic,1271,Very Friendly,100,1
+Formal Logic,1271,Friendly,100,1
+Formal Logic,1271,Neutral,100,1
+Formal Logic,1271,Rude,100,1
+Formal Logic,1271,Very Rude,100,1
+Formal Logic,1289,Very Friendly,0,1
+Formal Logic,1289,Friendly,0,1
+Formal Logic,1289,Neutral,0,1
+Formal Logic,1289,Rude,0,1
+Formal Logic,1289,Very Rude,0,1
+Formal Logic,1294,Very Friendly,100,1
+Formal Logic,1294,Friendly,100,1
+Formal Logic,1294,Neutral,100,1
+Formal Logic,1294,Rude,100,1
+Formal Logic,1294,Very Rude,100,1
+Formal Logic,1341,Very Friendly,100,1
+Formal Logic,1341,Friendly,100,1
+Formal Logic,1341,Neutral,100,1
+Formal Logic,1341,Rude,100,1
+Formal Logic,1341,Very Rude,100,1
+Formal Logic,1345,Very Friendly,0,1
+Formal Logic,1345,Friendly,0,1
+Formal Logic,1345,Neutral,100,1
+Formal Logic,1345,Rude,100,1
+Formal Logic,1345,Very Rude,0,1
+Formal Logic,1352,Very Friendly,100,1
+Formal Logic,1352,Friendly,100,1
+Formal Logic,1352,Neutral,100,1
+Formal Logic,1352,Rude,100,1
+Formal Logic,1352,Very Rude,100,1
+Formal Logic,1361,Very Friendly,100,1
+Formal Logic,1361,Friendly,100,1
+Formal Logic,1361,Neutral,100,1
+Formal Logic,1361,Rude,100,1
+Formal Logic,1361,Very Rude,100,1
+Formal Logic,1362,Very Friendly,100,1
+Formal Logic,1362,Friendly,100,1
+Formal Logic,1362,Neutral,100,1
+Formal Logic,1362,Rude,100,1
+Formal Logic,1362,Very Rude,100,1
+Formal Logic,1371,Very Friendly,0,1
+Formal Logic,1371,Friendly,0,1
+Formal Logic,1371,Neutral,0,1
+Formal Logic,1371,Rude,0,1
+Formal Logic,1371,Very Rude,0,1
+Formal Logic,1375,Very Friendly,0,1
+Formal Logic,1375,Friendly,0,1
+Formal Logic,1375,Neutral,0,1
+Formal Logic,1375,Rude,0,1
+Formal Logic,1375,Very Rude,0,1
+Formal Logic,1376,Very Friendly,100,1
+Formal Logic,1376,Friendly,100,1
+Formal Logic,1376,Neutral,100,1
+Formal Logic,1376,Rude,100,1
+Formal Logic,1376,Very Rude,100,1
+Formal Logic,1379,Very Friendly,0,1
+Formal Logic,1379,Friendly,0,1
+Formal Logic,1379,Neutral,100,1
+Formal Logic,1379,Rude,100,1
+Formal Logic,1379,Very Rude,100,1
+Formal Logic,1392,Very Friendly,100,1
+Formal Logic,1392,Friendly,100,1
+Formal Logic,1392,Neutral,100,1
+Formal Logic,1392,Rude,100,1
+Formal Logic,1392,Very Rude,100,1
+Formal Logic,1403,Very Friendly,0,1
+Formal Logic,1403,Friendly,0,1
+Formal Logic,1403,Neutral,0,1
+Formal Logic,1403,Rude,0,1
+Formal Logic,1403,Very Rude,0,1
+Formal Logic,1413,Very Friendly,100,1
+Formal Logic,1413,Friendly,0,1
+Formal Logic,1413,Neutral,0,1
+Formal Logic,1413,Rude,0,1
+Formal Logic,1413,Very Rude,0,1
+Formal Logic,1414,Very Friendly,100,1
+Formal Logic,1414,Friendly,100,1
+Formal Logic,1414,Neutral,100,1
+Formal Logic,1414,Rude,100,1
+Formal Logic,1414,Very Rude,100,1
+Formal Logic,1421,Very Friendly,100,1
+Formal Logic,1421,Friendly,100,1
+Formal Logic,1421,Neutral,100,1
+Formal Logic,1421,Rude,100,1
+Formal Logic,1421,Very Rude,100,1
+Formal Logic,1422,Very Friendly,100,1
+Formal Logic,1422,Friendly,100,1
+Formal Logic,1422,Neutral,100,1
+Formal Logic,1422,Rude,100,1
+Formal Logic,1422,Very Rude,100,1
+Formal Logic,1428,Very Friendly,100,1
+Formal Logic,1428,Friendly,100,1
+Formal Logic,1428,Neutral,100,1
+Formal Logic,1428,Rude,100,1
+Formal Logic,1428,Very Rude,100,1
+Formal Logic,1452,Very Friendly,100,1
+Formal Logic,1452,Friendly,100,1
+Formal Logic,1452,Neutral,100,1
+Formal Logic,1452,Rude,100,1
+Formal Logic,1452,Very Rude,100,1
+Formal Logic,1457,Very Friendly,100,1
+Formal Logic,1457,Friendly,100,1
+Formal Logic,1457,Neutral,100,1
+Formal Logic,1457,Rude,100,1
+Formal Logic,1457,Very Rude,100,1
+Formal Logic,1481,Very Friendly,0,1
+Formal Logic,1481,Friendly,0,1
+Formal Logic,1481,Neutral,0,1
+Formal Logic,1481,Rude,0,1
+Formal Logic,1481,Very Rude,0,1
+Formal Logic,1488,Very Friendly,0,1
+Formal Logic,1488,Friendly,0,1
+Formal Logic,1488,Neutral,0,1
+Formal Logic,1488,Rude,0,1
+Formal Logic,1488,Very Rude,0,1
+Formal Logic,1506,Very Friendly,100,1
+Formal Logic,1506,Friendly,100,1
+Formal Logic,1506,Neutral,100,1
+Formal Logic,1506,Rude,100,1
+Formal Logic,1506,Very Rude,100,1
+Formal Logic,1508,Very Friendly,100,1
+Formal Logic,1508,Friendly,100,1
+Formal Logic,1508,Neutral,100,1
+Formal Logic,1508,Rude,100,1
+Formal Logic,1508,Very Rude,100,1
+Formal Logic,1511,Very Friendly,100,1
+Formal Logic,1511,Friendly,0,1
+Formal Logic,1511,Neutral,0,1
+Formal Logic,1511,Rude,0,1
+Formal Logic,1511,Very Rude,0,1
+Formal Logic,1533,Very Friendly,0,1
+Formal Logic,1533,Friendly,100,1
+Formal Logic,1533,Neutral,0,1
+Formal Logic,1533,Rude,0,1
+Formal Logic,1533,Very Rude,0,1
+Formal Logic,1534,Very Friendly,0,1
+Formal Logic,1534,Friendly,0,1
+Formal Logic,1534,Neutral,0,1
+Formal Logic,1534,Rude,0,1
+Formal Logic,1534,Very Rude,0,1
+Formal Logic,1535,Very Friendly,0,1
+Formal Logic,1535,Friendly,0,1
+Formal Logic,1535,Neutral,0,1
+Formal Logic,1535,Rude,0,1
+Formal Logic,1535,Very Rude,0,1
+Formal Logic,1537,Very Friendly,0,1
+Formal Logic,1537,Friendly,0,1
+Formal Logic,1537,Neutral,0,1
+Formal Logic,1537,Rude,0,1
+Formal Logic,1537,Very Rude,0,1
+Formal Logic,1540,Very Friendly,100,1
+Formal Logic,1540,Friendly,100,1
+Formal Logic,1540,Neutral,100,1
+Formal Logic,1540,Rude,100,1
+Formal Logic,1540,Very Rude,100,1
+Formal Logic,1551,Very Friendly,0,1
+Formal Logic,1551,Friendly,0,1
+Formal Logic,1551,Neutral,0,1
+Formal Logic,1551,Rude,0,1
+Formal Logic,1551,Very Rude,0,1
+Formal Logic,1564,Very Friendly,0,1
+Formal Logic,1564,Friendly,0,1
+Formal Logic,1564,Neutral,0,1
+Formal Logic,1564,Rude,0,1
+Formal Logic,1564,Very Rude,0,1
+Formal Logic,1579,Very Friendly,100,1
+Formal Logic,1579,Friendly,100,1
+Formal Logic,1579,Neutral,100,1
+Formal Logic,1579,Rude,100,1
+Formal Logic,1579,Very Rude,100,1
+Formal Logic,1584,Very Friendly,100,1
+Formal Logic,1584,Friendly,100,1
+Formal Logic,1584,Neutral,100,1
+Formal Logic,1584,Rude,100,1
+Formal Logic,1584,Very Rude,100,1
+Formal Logic,1589,Very Friendly,0,1
+Formal Logic,1589,Friendly,0,1
+Formal Logic,1589,Neutral,0,1
+Formal Logic,1589,Rude,0,1
+Formal Logic,1589,Very Rude,0,1
+Formal Logic,1599,Very Friendly,100,1
+Formal Logic,1599,Friendly,100,1
+Formal Logic,1599,Neutral,100,1
+Formal Logic,1599,Rude,100,1
+Formal Logic,1599,Very Rude,100,1
+Formal Logic,1607,Very Friendly,0,1
+Formal Logic,1607,Friendly,0,1
+Formal Logic,1607,Neutral,0,1
+Formal Logic,1607,Rude,0,1
+Formal Logic,1607,Very Rude,0,1
+Formal Logic,1663,Very Friendly,100,1
+Formal Logic,1663,Friendly,100,1
+Formal Logic,1663,Neutral,0,1
+Formal Logic,1663,Rude,0,1
+Formal Logic,1663,Very Rude,0,1
+Formal Logic,1676,Very Friendly,100,1
+Formal Logic,1676,Friendly,100,1
+Formal Logic,1676,Neutral,100,1
+Formal Logic,1676,Rude,100,1
+Formal Logic,1676,Very Rude,100,1
+Formal Logic,1692,Very Friendly,0,1
+Formal Logic,1692,Friendly,0,1
+Formal Logic,1692,Neutral,0,1
+Formal Logic,1692,Rude,0,1
+Formal Logic,1692,Very Rude,0,1
+Formal Logic,1715,Very Friendly,0,1
+Formal Logic,1715,Friendly,0,1
+Formal Logic,1715,Neutral,100,1
+Formal Logic,1715,Rude,100,1
+Formal Logic,1715,Very Rude,0,1
+Formal Logic,1721,Very Friendly,100,1
+Formal Logic,1721,Friendly,100,1
+Formal Logic,1721,Neutral,100,1
+Formal Logic,1721,Rude,100,1
+Formal Logic,1721,Very Rude,100,1
+Formal Logic,1729,Very Friendly,100,1
+Formal Logic,1729,Friendly,0,1
+Formal Logic,1729,Neutral,100,1
+Formal Logic,1729,Rude,100,1
+Formal Logic,1729,Very Rude,100,1
+Formal Logic,1740,Very Friendly,0,1
+Formal Logic,1740,Friendly,0,1
+Formal Logic,1740,Neutral,0,1
+Formal Logic,1740,Rude,0,1
+Formal Logic,1740,Very Rude,0,1
+Formal Logic,1768,Very Friendly,0,1
+Formal Logic,1768,Friendly,0,1
+Formal Logic,1768,Neutral,0,1
+Formal Logic,1768,Rude,0,1
+Formal Logic,1768,Very Rude,0,1
+Formal Logic,1778,Very Friendly,0,1
+Formal Logic,1778,Friendly,0,1
+Formal Logic,1778,Neutral,0,1
+Formal Logic,1778,Rude,0,1
+Formal Logic,1778,Very Rude,0,1
+Formal Logic,1781,Very Friendly,100,1
+Formal Logic,1781,Friendly,100,1
+Formal Logic,1781,Neutral,100,1
+Formal Logic,1781,Rude,100,1
+Formal Logic,1781,Very Rude,100,1
+Formal Logic,1783,Very Friendly,100,1
+Formal Logic,1783,Friendly,100,1
+Formal Logic,1783,Neutral,100,1
+Formal Logic,1783,Rude,100,1
+Formal Logic,1783,Very Rude,100,1
+Formal Logic,1788,Very Friendly,100,1
+Formal Logic,1788,Friendly,100,1
+Formal Logic,1788,Neutral,100,1
+Formal Logic,1788,Rude,100,1
+Formal Logic,1788,Very Rude,100,1
+Formal Logic,1801,Very Friendly,100,1
+Formal Logic,1801,Friendly,100,1
+Formal Logic,1801,Neutral,100,1
+Formal Logic,1801,Rude,100,1
+Formal Logic,1801,Very Rude,100,1
+Formal Logic,1814,Very Friendly,0,1
+Formal Logic,1814,Friendly,0,1
+Formal Logic,1814,Neutral,0,1
+Formal Logic,1814,Rude,0,1
+Formal Logic,1814,Very Rude,0,1
+Formal Logic,1823,Very Friendly,100,1
+Formal Logic,1823,Friendly,100,1
+Formal Logic,1823,Neutral,100,1
+Formal Logic,1823,Rude,100,1
+Formal Logic,1823,Very Rude,100,1
+Formal Logic,1840,Very Friendly,100,1
+Formal Logic,1840,Friendly,100,1
+Formal Logic,1840,Neutral,100,1
+Formal Logic,1840,Rude,100,1
+Formal Logic,1840,Very Rude,100,1
+Formal Logic,1841,Very Friendly,100,1
+Formal Logic,1841,Friendly,100,1
+Formal Logic,1841,Neutral,100,1
+Formal Logic,1841,Rude,100,1
+Formal Logic,1841,Very Rude,100,1
+Formal Logic,1843,Very Friendly,0,1
+Formal Logic,1843,Friendly,0,1
+Formal Logic,1843,Neutral,0,1
+Formal Logic,1843,Rude,0,1
+Formal Logic,1843,Very Rude,0,1
+Formal Logic,1847,Very Friendly,100,1
+Formal Logic,1847,Friendly,100,1
+Formal Logic,1847,Neutral,100,1
+Formal Logic,1847,Rude,100,1
+Formal Logic,1847,Very Rude,100,1
+Formal Logic,1868,Very Friendly,0,1
+Formal Logic,1868,Friendly,0,1
+Formal Logic,1868,Neutral,0,1
+Formal Logic,1868,Rude,0,1
+Formal Logic,1868,Very Rude,0,1
+Formal Logic,1874,Very Friendly,100,1
+Formal Logic,1874,Friendly,100,1
+Formal Logic,1874,Neutral,100,1
+Formal Logic,1874,Rude,100,1
+Formal Logic,1874,Very Rude,100,1
+Formal Logic,1878,Very Friendly,0,1
+Formal Logic,1878,Friendly,0,1
+Formal Logic,1878,Neutral,0,1
+Formal Logic,1878,Rude,0,1
+Formal Logic,1878,Very Rude,0,1
+Formal Logic,1882,Very Friendly,100,1
+Formal Logic,1882,Friendly,100,1
+Formal Logic,1882,Neutral,100,1
+Formal Logic,1882,Rude,100,1
+Formal Logic,1882,Very Rude,100,1
+Formal Logic,1887,Very Friendly,100,1
+Formal Logic,1887,Friendly,100,1
+Formal Logic,1887,Neutral,100,1
+Formal Logic,1887,Rude,100,1
+Formal Logic,1887,Very Rude,100,1
+Formal Logic,1899,Very Friendly,0,1
+Formal Logic,1899,Friendly,0,1
+Formal Logic,1899,Neutral,0,1
+Formal Logic,1899,Rude,0,1
+Formal Logic,1899,Very Rude,0,1
+Formal Logic,1937,Very Friendly,100,1
+Formal Logic,1937,Friendly,0,1
+Formal Logic,1937,Neutral,100,1
+Formal Logic,1937,Rude,100,1
+Formal Logic,1937,Very Rude,100,1
+Formal Logic,2005,Very Friendly,0,1
+Formal Logic,2005,Friendly,0,1
+Formal Logic,2005,Neutral,0,1
+Formal Logic,2005,Rude,0,1
+Formal Logic,2005,Very Rude,0,1
+Formal Logic,2025,Very Friendly,0,1
+Formal Logic,2025,Friendly,0,1
+Formal Logic,2025,Neutral,0,1
+Formal Logic,2025,Rude,0,1
+Formal Logic,2025,Very Rude,0,1
+Formal Logic,2030,Very Friendly,0,1
+Formal Logic,2030,Friendly,0,1
+Formal Logic,2030,Neutral,0,1
+Formal Logic,2030,Rude,0,1
+Formal Logic,2030,Very Rude,0,1
+Formal Logic,2035,Very Friendly,0,1
+Formal Logic,2035,Friendly,0,1
+Formal Logic,2035,Neutral,0,1
+Formal Logic,2035,Rude,0,1
+Formal Logic,2035,Very Rude,0,1
+Formal Logic,2089,Very Friendly,100,1
+Formal Logic,2089,Friendly,100,1
+Formal Logic,2089,Neutral,100,1
+Formal Logic,2089,Rude,100,1
+Formal Logic,2089,Very Rude,100,1
+Formal Logic,2097,Very Friendly,0,1
+Formal Logic,2097,Friendly,0,1
+Formal Logic,2097,Neutral,0,1
+Formal Logic,2097,Rude,0,1
+Formal Logic,2097,Very Rude,0,1
+Formal Logic,2100,Very Friendly,100,1
+Formal Logic,2100,Friendly,100,1
+Formal Logic,2100,Neutral,100,1
+Formal Logic,2100,Rude,100,1
+Formal Logic,2100,Very Rude,100,1
+Formal Logic,2101,Very Friendly,0,1
+Formal Logic,2101,Friendly,0,1
+Formal Logic,2101,Neutral,100,1
+Formal Logic,2101,Rude,0,1
+Formal Logic,2101,Very Rude,100,1
+Formal Logic,2102,Very Friendly,0,1
+Formal Logic,2102,Friendly,0,1
+Formal Logic,2102,Neutral,0,1
+Formal Logic,2102,Rude,0,1
+Formal Logic,2102,Very Rude,0,1
+Formal Logic,2115,Very Friendly,100,1
+Formal Logic,2115,Friendly,100,1
+Formal Logic,2115,Neutral,100,1
+Formal Logic,2115,Rude,100,1
+Formal Logic,2115,Very Rude,100,1
+Formal Logic,2128,Very Friendly,0,1
+Formal Logic,2128,Friendly,0,1
+Formal Logic,2128,Neutral,0,1
+Formal Logic,2128,Rude,0,1
+Formal Logic,2128,Very Rude,0,1
+Formal Logic,2132,Very Friendly,100,1
+Formal Logic,2132,Friendly,100,1
+Formal Logic,2132,Neutral,100,1
+Formal Logic,2132,Rude,100,1
+Formal Logic,2132,Very Rude,100,1
+Formal Logic,2139,Very Friendly,0,1
+Formal Logic,2139,Friendly,0,1
+Formal Logic,2139,Neutral,0,1
+Formal Logic,2139,Rude,0,1
+Formal Logic,2139,Very Rude,0,1
+Formal Logic,2145,Very Friendly,0,1
+Formal Logic,2145,Friendly,0,1
+Formal Logic,2145,Neutral,0,1
+Formal Logic,2145,Rude,0,1
+Formal Logic,2145,Very Rude,0,1
+Formal Logic,2147,Very Friendly,0,1
+Formal Logic,2147,Friendly,0,1
+Formal Logic,2147,Neutral,0,1
+Formal Logic,2147,Rude,0,1
+Formal Logic,2147,Very Rude,0,1
+Formal Logic,2168,Very Friendly,0,1
+Formal Logic,2168,Friendly,0,1
+Formal Logic,2168,Neutral,0,1
+Formal Logic,2168,Rude,0,1
+Formal Logic,2168,Very Rude,0,1
+Formal Logic,2190,Very Friendly,0,1
+Formal Logic,2190,Friendly,0,1
+Formal Logic,2190,Neutral,0,1
+Formal Logic,2190,Rude,0,1
+Formal Logic,2190,Very Rude,0,1
+Formal Logic,2192,Very Friendly,100,1
+Formal Logic,2192,Friendly,100,1
+Formal Logic,2192,Neutral,100,1
+Formal Logic,2192,Rude,100,1
+Formal Logic,2192,Very Rude,100,1
+Formal Logic,2218,Very Friendly,0,1
+Formal Logic,2218,Friendly,0,1
+Formal Logic,2218,Neutral,0,1
+Formal Logic,2218,Rude,0,1
+Formal Logic,2218,Very Rude,0,1
+Formal Logic,2243,Very Friendly,0,1
+Formal Logic,2243,Friendly,0,1
+Formal Logic,2243,Neutral,0,1
+Formal Logic,2243,Rude,0,1
+Formal Logic,2243,Very Rude,0,1
+Formal Logic,2250,Very Friendly,100,1
+Formal Logic,2250,Friendly,100,1
+Formal Logic,2250,Neutral,100,1
+Formal Logic,2250,Rude,100,1
+Formal Logic,2250,Very Rude,100,1
+Formal Logic,2260,Very Friendly,100,1
+Formal Logic,2260,Friendly,100,1
+Formal Logic,2260,Neutral,100,1
+Formal Logic,2260,Rude,100,1
+Formal Logic,2260,Very Rude,100,1
+Formal Logic,2267,Very Friendly,100,1
+Formal Logic,2267,Friendly,100,1
+Formal Logic,2267,Neutral,100,1
+Formal Logic,2267,Rude,100,1
+Formal Logic,2267,Very Rude,100,1
+Formal Logic,2269,Very Friendly,0,1
+Formal Logic,2269,Friendly,0,1
+Formal Logic,2269,Neutral,0,1
+Formal Logic,2269,Rude,0,1
+Formal Logic,2269,Very Rude,0,1
+Formal Logic,2270,Very Friendly,0,1
+Formal Logic,2270,Friendly,0,1
+Formal Logic,2270,Neutral,0,1
+Formal Logic,2270,Rude,0,1
+Formal Logic,2270,Very Rude,0,1
+Formal Logic,2284,Very Friendly,0,1
+Formal Logic,2284,Friendly,0,1
+Formal Logic,2284,Neutral,0,1
+Formal Logic,2284,Rude,0,1
+Formal Logic,2284,Very Rude,0,1
+Formal Logic,2293,Very Friendly,100,1
+Formal Logic,2293,Friendly,100,1
+Formal Logic,2293,Neutral,100,1
+Formal Logic,2293,Rude,100,1
+Formal Logic,2293,Very Rude,100,1
+Formal Logic,2296,Very Friendly,0,1
+Formal Logic,2296,Friendly,0,1
+Formal Logic,2296,Neutral,0,1
+Formal Logic,2296,Rude,0,1
+Formal Logic,2296,Very Rude,0,1
+Formal Logic,2306,Very Friendly,0,1
+Formal Logic,2306,Friendly,0,1
+Formal Logic,2306,Neutral,0,1
+Formal Logic,2306,Rude,0,1
+Formal Logic,2306,Very Rude,0,1
+Formal Logic,2308,Very Friendly,100,1
+Formal Logic,2308,Friendly,100,1
+Formal Logic,2308,Neutral,100,1
+Formal Logic,2308,Rude,100,1
+Formal Logic,2308,Very Rude,100,1
+Formal Logic,2310,Very Friendly,100,1
+Formal Logic,2310,Friendly,0,1
+Formal Logic,2310,Neutral,100,1
+Formal Logic,2310,Rude,100,1
+Formal Logic,2310,Very Rude,100,1
+Formal Logic,2313,Very Friendly,100,1
+Formal Logic,2313,Friendly,100,1
+Formal Logic,2313,Neutral,100,1
+Formal Logic,2313,Rude,100,1
+Formal Logic,2313,Very Rude,100,1
+Formal Logic,2347,Very Friendly,100,1
+Formal Logic,2347,Friendly,100,1
+Formal Logic,2347,Neutral,100,1
+Formal Logic,2347,Rude,100,1
+Formal Logic,2347,Very Rude,100,1
+Formal Logic,2356,Very Friendly,0,1
+Formal Logic,2356,Friendly,0,1
+Formal Logic,2356,Neutral,100,1
+Formal Logic,2356,Rude,0,1
+Formal Logic,2356,Very Rude,100,1
+Formal Logic,2370,Very Friendly,100,1
+Formal Logic,2370,Friendly,100,1
+Formal Logic,2370,Neutral,100,1
+Formal Logic,2370,Rude,100,1
+Formal Logic,2370,Very Rude,100,1
+Formal Logic,2375,Very Friendly,100,1
+Formal Logic,2375,Friendly,100,1
+Formal Logic,2375,Neutral,100,1
+Formal Logic,2375,Rude,100,1
+Formal Logic,2375,Very Rude,100,1
+Formal Logic,2388,Very Friendly,100,1
+Formal Logic,2388,Friendly,100,1
+Formal Logic,2388,Neutral,100,1
+Formal Logic,2388,Rude,100,1
+Formal Logic,2388,Very Rude,100,1
+Formal Logic,2390,Very Friendly,100,1
+Formal Logic,2390,Friendly,100,1
+Formal Logic,2390,Neutral,100,1
+Formal Logic,2390,Rude,100,1
+Formal Logic,2390,Very Rude,100,1
+Formal Logic,2405,Very Friendly,100,1
+Formal Logic,2405,Friendly,100,1
+Formal Logic,2405,Neutral,100,1
+Formal Logic,2405,Rude,100,1
+Formal Logic,2405,Very Rude,100,1
+Formal Logic,2406,Very Friendly,100,1
+Formal Logic,2406,Friendly,100,1
+Formal Logic,2406,Neutral,100,1
+Formal Logic,2406,Rude,100,1
+Formal Logic,2406,Very Rude,100,1
+Formal Logic,2408,Very Friendly,0,1
+Formal Logic,2408,Friendly,0,1
+Formal Logic,2408,Neutral,0,1
+Formal Logic,2408,Rude,0,1
+Formal Logic,2408,Very Rude,0,1
+Formal Logic,2414,Very Friendly,100,1
+Formal Logic,2414,Friendly,100,1
+Formal Logic,2414,Neutral,100,1
+Formal Logic,2414,Rude,100,1
+Formal Logic,2414,Very Rude,100,1
+Formal Logic,2417,Very Friendly,100,1
+Formal Logic,2417,Friendly,0,1
+Formal Logic,2417,Neutral,100,1
+Formal Logic,2417,Rude,0,1
+Formal Logic,2417,Very Rude,0,1
+Formal Logic,2418,Very Friendly,0,1
+Formal Logic,2418,Friendly,0,1
+Formal Logic,2418,Neutral,0,1
+Formal Logic,2418,Rude,0,1
+Formal Logic,2418,Very Rude,0,1
+Formal Logic,2430,Very Friendly,100,1
+Formal Logic,2430,Friendly,100,1
+Formal Logic,2430,Neutral,100,1
+Formal Logic,2430,Rude,100,1
+Formal Logic,2430,Very Rude,100,1
+Formal Logic,2440,Very Friendly,0,1
+Formal Logic,2440,Friendly,0,1
+Formal Logic,2440,Neutral,0,1
+Formal Logic,2440,Rude,0,1
+Formal Logic,2440,Very Rude,0,1
+Formal Logic,2459,Very Friendly,100,1
+Formal Logic,2459,Friendly,100,1
+Formal Logic,2459,Neutral,100,1
+Formal Logic,2459,Rude,100,1
+Formal Logic,2459,Very Rude,100,1
+Formal Logic,2497,Very Friendly,100,1
+Formal Logic,2497,Friendly,100,1
+Formal Logic,2497,Neutral,100,1
+Formal Logic,2497,Rude,100,1
+Formal Logic,2497,Very Rude,100,1
+Formal Logic,2504,Very Friendly,0,1
+Formal Logic,2504,Friendly,0,1
+Formal Logic,2504,Neutral,100,1
+Formal Logic,2504,Rude,0,1
+Formal Logic,2504,Very Rude,0,1
+Formal Logic,2523,Very Friendly,100,1
+Formal Logic,2523,Friendly,100,1
+Formal Logic,2523,Neutral,100,1
+Formal Logic,2523,Rude,100,1
+Formal Logic,2523,Very Rude,100,1
+Formal Logic,2526,Very Friendly,100,1
+Formal Logic,2526,Friendly,100,1
+Formal Logic,2526,Neutral,100,1
+Formal Logic,2526,Rude,100,1
+Formal Logic,2526,Very Rude,100,1
+Formal Logic,2535,Very Friendly,100,1
+Formal Logic,2535,Friendly,100,1
+Formal Logic,2535,Neutral,100,1
+Formal Logic,2535,Rude,100,1
+Formal Logic,2535,Very Rude,100,1
+Formal Logic,2556,Very Friendly,100,1
+Formal Logic,2556,Friendly,100,1
+Formal Logic,2556,Neutral,100,1
+Formal Logic,2556,Rude,100,1
+Formal Logic,2556,Very Rude,100,1
+Formal Logic,2562,Very Friendly,100,1
+Formal Logic,2562,Friendly,100,1
+Formal Logic,2562,Neutral,100,1
+Formal Logic,2562,Rude,100,1
+Formal Logic,2562,Very Rude,100,1
+Formal Logic,2570,Very Friendly,100,1
+Formal Logic,2570,Friendly,100,1
+Formal Logic,2570,Neutral,100,1
+Formal Logic,2570,Rude,100,1
+Formal Logic,2570,Very Rude,100,1
+Formal Logic,2586,Very Friendly,100,1
+Formal Logic,2586,Friendly,100,1
+Formal Logic,2586,Neutral,100,1
+Formal Logic,2586,Rude,100,1
+Formal Logic,2586,Very Rude,100,1
+Formal Logic,2592,Very Friendly,0,1
+Formal Logic,2592,Friendly,0,1
+Formal Logic,2592,Neutral,0,1
+Formal Logic,2592,Rude,0,1
+Formal Logic,2592,Very Rude,0,1
+Formal Logic,2597,Very Friendly,100,1
+Formal Logic,2597,Friendly,100,1
+Formal Logic,2597,Neutral,100,1
+Formal Logic,2597,Rude,100,1
+Formal Logic,2597,Very Rude,100,1
+Formal Logic,2606,Very Friendly,0,1
+Formal Logic,2606,Friendly,0,1
+Formal Logic,2606,Neutral,0,1
+Formal Logic,2606,Rude,0,1
+Formal Logic,2606,Very Rude,0,1
+Formal Logic,2618,Very Friendly,100,1
+Formal Logic,2618,Friendly,100,1
+Formal Logic,2618,Neutral,100,1
+Formal Logic,2618,Rude,100,1
+Formal Logic,2618,Very Rude,100,1
+Formal Logic,2624,Very Friendly,0,1
+Formal Logic,2624,Friendly,0,1
+Formal Logic,2624,Neutral,100,1
+Formal Logic,2624,Rude,0,1
+Formal Logic,2624,Very Rude,0,1
+Formal Logic,2628,Very Friendly,100,1
+Formal Logic,2628,Friendly,100,1
+Formal Logic,2628,Neutral,100,1
+Formal Logic,2628,Rude,100,1
+Formal Logic,2628,Very Rude,100,1
+Formal Logic,2641,Very Friendly,100,1
+Formal Logic,2641,Friendly,100,1
+Formal Logic,2641,Neutral,100,1
+Formal Logic,2641,Rude,100,1
+Formal Logic,2641,Very Rude,100,1
+Formal Logic,2647,Very Friendly,0,1
+Formal Logic,2647,Friendly,0,1
+Formal Logic,2647,Neutral,0,1
+Formal Logic,2647,Rude,0,1
+Formal Logic,2647,Very Rude,0,1
+Formal Logic,2652,Very Friendly,100,1
+Formal Logic,2652,Friendly,100,1
+Formal Logic,2652,Neutral,100,1
+Formal Logic,2652,Rude,100,1
+Formal Logic,2652,Very Rude,100,1
+Formal Logic,2657,Very Friendly,0,1
+Formal Logic,2657,Friendly,100,1
+Formal Logic,2657,Neutral,100,1
+Formal Logic,2657,Rude,100,1
+Formal Logic,2657,Very Rude,100,1
+Formal Logic,2664,Very Friendly,100,1
+Formal Logic,2664,Friendly,100,1
+Formal Logic,2664,Neutral,100,1
+Formal Logic,2664,Rude,100,1
+Formal Logic,2664,Very Rude,100,1
+Formal Logic,2667,Very Friendly,0,1
+Formal Logic,2667,Friendly,0,1
+Formal Logic,2667,Neutral,0,1
+Formal Logic,2667,Rude,0,1
+Formal Logic,2667,Very Rude,0,1
+Formal Logic,2701,Very Friendly,100,1
+Formal Logic,2701,Friendly,100,1
+Formal Logic,2701,Neutral,100,1
+Formal Logic,2701,Rude,100,1
+Formal Logic,2701,Very Rude,100,1
+Formal Logic,2705,Very Friendly,100,1
+Formal Logic,2705,Friendly,100,1
+Formal Logic,2705,Neutral,100,1
+Formal Logic,2705,Rude,100,1
+Formal Logic,2705,Very Rude,100,1
+Formal Logic,2706,Very Friendly,100,1
+Formal Logic,2706,Friendly,100,1
+Formal Logic,2706,Neutral,100,1
+Formal Logic,2706,Rude,100,1
+Formal Logic,2706,Very Rude,100,1
+Formal Logic,2716,Very Friendly,100,1
+Formal Logic,2716,Friendly,100,1
+Formal Logic,2716,Neutral,100,1
+Formal Logic,2716,Rude,100,1
+Formal Logic,2716,Very Rude,100,1
+Formal Logic,2726,Very Friendly,0,1
+Formal Logic,2726,Friendly,0,1
+Formal Logic,2726,Neutral,0,1
+Formal Logic,2726,Rude,0,1
+Formal Logic,2726,Very Rude,0,1
+Formal Logic,2733,Very Friendly,100,1
+Formal Logic,2733,Friendly,100,1
+Formal Logic,2733,Neutral,100,1
+Formal Logic,2733,Rude,100,1
+Formal Logic,2733,Very Rude,100,1
+Formal Logic,2742,Very Friendly,100,1
+Formal Logic,2742,Friendly,100,1
+Formal Logic,2742,Neutral,100,1
+Formal Logic,2742,Rude,100,1
+Formal Logic,2742,Very Rude,100,1
+Formal Logic,2781,Very Friendly,100,1
+Formal Logic,2781,Friendly,100,1
+Formal Logic,2781,Neutral,100,1
+Formal Logic,2781,Rude,100,1
+Formal Logic,2781,Very Rude,100,1
+Formal Logic,2793,Very Friendly,100,1
+Formal Logic,2793,Friendly,100,1
+Formal Logic,2793,Neutral,100,1
+Formal Logic,2793,Rude,100,1
+Formal Logic,2793,Very Rude,100,1
+Formal Logic,2795,Very Friendly,100,1
+Formal Logic,2795,Friendly,100,1
+Formal Logic,2795,Neutral,100,1
+Formal Logic,2795,Rude,100,1
+Formal Logic,2795,Very Rude,100,1
+Formal Logic,2810,Very Friendly,100,1
+Formal Logic,2810,Friendly,100,1
+Formal Logic,2810,Neutral,100,1
+Formal Logic,2810,Rude,100,1
+Formal Logic,2810,Very Rude,100,1
+Formal Logic,2813,Very Friendly,100,1
+Formal Logic,2813,Friendly,100,1
+Formal Logic,2813,Neutral,100,1
+Formal Logic,2813,Rude,100,1
+Formal Logic,2813,Very Rude,100,1
+Formal Logic,2814,Very Friendly,0,1
+Formal Logic,2814,Friendly,0,1
+Formal Logic,2814,Neutral,0,1
+Formal Logic,2814,Rude,0,1
+Formal Logic,2814,Very Rude,0,1
+Formal Logic,2821,Very Friendly,100,1
+Formal Logic,2821,Friendly,100,1
+Formal Logic,2821,Neutral,100,1
+Formal Logic,2821,Rude,100,1
+Formal Logic,2821,Very Rude,100,1
+Formal Logic,2831,Very Friendly,100,1
+Formal Logic,2831,Friendly,100,1
+Formal Logic,2831,Neutral,100,1
+Formal Logic,2831,Rude,100,1
+Formal Logic,2831,Very Rude,100,1
+Formal Logic,2851,Very Friendly,100,1
+Formal Logic,2851,Friendly,100,1
+Formal Logic,2851,Neutral,100,1
+Formal Logic,2851,Rude,100,1
+Formal Logic,2851,Very Rude,100,1
+Formal Logic,2857,Very Friendly,100,1
+Formal Logic,2857,Friendly,100,1
+Formal Logic,2857,Neutral,100,1
+Formal Logic,2857,Rude,100,1
+Formal Logic,2857,Very Rude,100,1
+Formal Logic,2874,Very Friendly,100,1
+Formal Logic,2874,Friendly,100,1
+Formal Logic,2874,Neutral,100,1
+Formal Logic,2874,Rude,100,1
+Formal Logic,2874,Very Rude,100,1
+Formal Logic,2880,Very Friendly,100,1
+Formal Logic,2880,Friendly,100,1
+Formal Logic,2880,Neutral,100,1
+Formal Logic,2880,Rude,100,1
+Formal Logic,2880,Very Rude,100,1
+Formal Logic,2882,Very Friendly,100,1
+Formal Logic,2882,Friendly,100,1
+Formal Logic,2882,Neutral,100,1
+Formal Logic,2882,Rude,100,1
+Formal Logic,2882,Very Rude,100,1
+Formal Logic,2887,Very Friendly,100,1
+Formal Logic,2887,Friendly,100,1
+Formal Logic,2887,Neutral,100,1
+Formal Logic,2887,Rude,100,1
+Formal Logic,2887,Very Rude,100,1
+Formal Logic,2898,Very Friendly,100,1
+Formal Logic,2898,Friendly,100,1
+Formal Logic,2898,Neutral,100,1
+Formal Logic,2898,Rude,100,1
+Formal Logic,2898,Very Rude,100,1
+Formal Logic,2901,Very Friendly,100,1
+Formal Logic,2901,Friendly,0,1
+Formal Logic,2901,Neutral,0,1
+Formal Logic,2901,Rude,100,1
+Formal Logic,2901,Very Rude,100,1
+Formal Logic,2908,Very Friendly,100,1
+Formal Logic,2908,Friendly,100,1
+Formal Logic,2908,Neutral,100,1
+Formal Logic,2908,Rude,100,1
+Formal Logic,2908,Very Rude,100,1
+Formal Logic,2911,Very Friendly,100,1
+Formal Logic,2911,Friendly,100,1
+Formal Logic,2911,Neutral,100,1
+Formal Logic,2911,Rude,100,1
+Formal Logic,2911,Very Rude,100,1
+Formal Logic,2955,Very Friendly,100,1
+Formal Logic,2955,Friendly,100,1
+Formal Logic,2955,Neutral,100,1
+Formal Logic,2955,Rude,100,1
+Formal Logic,2955,Very Rude,100,1
+Formal Logic,2969,Very Friendly,100,1
+Formal Logic,2969,Friendly,100,1
+Formal Logic,2969,Neutral,100,1
+Formal Logic,2969,Rude,100,1
+Formal Logic,2969,Very Rude,100,1
+Formal Logic,2978,Very Friendly,100,1
+Formal Logic,2978,Friendly,100,1
+Formal Logic,2978,Neutral,100,1
+Formal Logic,2978,Rude,100,1
+Formal Logic,2978,Very Rude,100,1
+Formal Logic,2979,Very Friendly,100,1
+Formal Logic,2979,Friendly,100,1
+Formal Logic,2979,Neutral,100,1
+Formal Logic,2979,Rude,100,1
+Formal Logic,2979,Very Rude,100,1
+Formal Logic,2993,Very Friendly,100,1
+Formal Logic,2993,Friendly,100,1
+Formal Logic,2993,Neutral,100,1
+Formal Logic,2993,Rude,100,1
+Formal Logic,2993,Very Rude,0,1
+Formal Logic,3001,Very Friendly,100,1
+Formal Logic,3001,Friendly,100,1
+Formal Logic,3001,Neutral,100,1
+Formal Logic,3001,Rude,100,1
+Formal Logic,3001,Very Rude,100,1
+Formal Logic,3009,Very Friendly,100,1
+Formal Logic,3009,Friendly,100,1
+Formal Logic,3009,Neutral,100,1
+Formal Logic,3009,Rude,100,1
+Formal Logic,3009,Very Rude,100,1
+Formal Logic,3033,Very Friendly,100,1
+Formal Logic,3033,Friendly,100,1
+Formal Logic,3033,Neutral,100,1
+Formal Logic,3033,Rude,100,1
+Formal Logic,3033,Very Rude,100,1
+Formal Logic,3040,Very Friendly,0,1
+Formal Logic,3040,Friendly,0,1
+Formal Logic,3040,Neutral,100,1
+Formal Logic,3040,Rude,0,1
+Formal Logic,3040,Very Rude,0,1
+Formal Logic,3054,Very Friendly,100,1
+Formal Logic,3054,Friendly,100,1
+Formal Logic,3054,Neutral,100,1
+Formal Logic,3054,Rude,100,1
+Formal Logic,3054,Very Rude,100,1
+Formal Logic,3082,Very Friendly,0,1
+Formal Logic,3082,Friendly,0,1
+Formal Logic,3082,Neutral,0,1
+Formal Logic,3082,Rude,100,1
+Formal Logic,3082,Very Rude,0,1
+Formal Logic,3092,Very Friendly,0,1
+Formal Logic,3092,Friendly,0,1
+Formal Logic,3092,Neutral,0,1
+Formal Logic,3092,Rude,0,1
+Formal Logic,3092,Very Rude,100,1
+Formal Logic,3097,Very Friendly,100,1
+Formal Logic,3097,Friendly,100,1
+Formal Logic,3097,Neutral,100,1
+Formal Logic,3097,Rude,100,1
+Formal Logic,3097,Very Rude,100,1
+Formal Logic,3107,Very Friendly,0,1
+Formal Logic,3107,Friendly,0,1
+Formal Logic,3107,Neutral,0,1
+Formal Logic,3107,Rude,0,1
+Formal Logic,3107,Very Rude,0,1
+Formal Logic,3114,Very Friendly,100,1
+Formal Logic,3114,Friendly,100,1
+Formal Logic,3114,Neutral,100,1
+Formal Logic,3114,Rude,100,1
+Formal Logic,3114,Very Rude,100,1
+Formal Logic,3130,Very Friendly,100,1
+Formal Logic,3130,Friendly,100,1
+Formal Logic,3130,Neutral,100,1
+Formal Logic,3130,Rude,100,1
+Formal Logic,3130,Very Rude,100,1
+Formal Logic,3133,Very Friendly,100,1
+Formal Logic,3133,Friendly,100,1
+Formal Logic,3133,Neutral,100,1
+Formal Logic,3133,Rude,100,1
+Formal Logic,3133,Very Rude,100,1
+Formal Logic,3135,Very Friendly,100,1
+Formal Logic,3135,Friendly,100,1
+Formal Logic,3135,Neutral,100,1
+Formal Logic,3135,Rude,100,1
+Formal Logic,3135,Very Rude,100,1
+Formal Logic,3144,Very Friendly,100,1
+Formal Logic,3144,Friendly,100,1
+Formal Logic,3144,Neutral,100,1
+Formal Logic,3144,Rude,100,1
+Formal Logic,3144,Very Rude,100,1
+Formal Logic,3162,Very Friendly,100,1
+Formal Logic,3162,Friendly,100,1
+Formal Logic,3162,Neutral,100,1
+Formal Logic,3162,Rude,100,1
+Formal Logic,3162,Very Rude,100,1
+Formal Logic,3169,Very Friendly,100,1
+Formal Logic,3169,Friendly,100,1
+Formal Logic,3169,Neutral,0,1
+Formal Logic,3169,Rude,100,1
+Formal Logic,3169,Very Rude,100,1
+Formal Logic,3190,Very Friendly,100,1
+Formal Logic,3190,Friendly,100,1
+Formal Logic,3190,Neutral,100,1
+Formal Logic,3190,Rude,100,1
+Formal Logic,3190,Very Rude,100,1
+Formal Logic,3201,Very Friendly,0,1
+Formal Logic,3201,Friendly,0,1
+Formal Logic,3201,Neutral,0,1
+Formal Logic,3201,Rude,0,1
+Formal Logic,3201,Very Rude,0,1
+Formal Logic,3204,Very Friendly,100,1
+Formal Logic,3204,Friendly,100,1
+Formal Logic,3204,Neutral,100,1
+Formal Logic,3204,Rude,100,1
+Formal Logic,3204,Very Rude,100,1
+Formal Logic,3207,Very Friendly,100,1
+Formal Logic,3207,Friendly,100,1
+Formal Logic,3207,Neutral,100,1
+Formal Logic,3207,Rude,100,1
+Formal Logic,3207,Very Rude,100,1
+Formal Logic,3221,Very Friendly,0,1
+Formal Logic,3221,Friendly,0,1
+Formal Logic,3221,Neutral,0,1
+Formal Logic,3221,Rude,0,1
+Formal Logic,3221,Very Rude,0,1
+Formal Logic,3244,Very Friendly,100,1
+Formal Logic,3244,Friendly,100,1
+Formal Logic,3244,Neutral,100,1
+Formal Logic,3244,Rude,100,1
+Formal Logic,3244,Very Rude,100,1
+Formal Logic,3253,Very Friendly,100,1
+Formal Logic,3253,Friendly,100,1
+Formal Logic,3253,Neutral,100,1
+Formal Logic,3253,Rude,100,1
+Formal Logic,3253,Very Rude,100,1
+Formal Logic,3254,Very Friendly,100,1
+Formal Logic,3254,Friendly,100,1
+Formal Logic,3254,Neutral,100,1
+Formal Logic,3254,Rude,100,1
+Formal Logic,3254,Very Rude,100,1
+Formal Logic,3276,Very Friendly,0,1
+Formal Logic,3276,Friendly,0,1
+Formal Logic,3276,Neutral,0,1
+Formal Logic,3276,Rude,0,1
+Formal Logic,3276,Very Rude,0,1
+Formal Logic,3280,Very Friendly,0,1
+Formal Logic,3280,Friendly,0,1
+Formal Logic,3280,Neutral,0,1
+Formal Logic,3280,Rude,0,1
+Formal Logic,3280,Very Rude,0,1
+Formal Logic,3304,Very Friendly,100,1
+Formal Logic,3304,Friendly,100,1
+Formal Logic,3304,Neutral,100,1
+Formal Logic,3304,Rude,100,1
+Formal Logic,3304,Very Rude,100,1
+Formal Logic,3306,Very Friendly,100,1
+Formal Logic,3306,Friendly,100,1
+Formal Logic,3306,Neutral,100,1
+Formal Logic,3306,Rude,100,1
+Formal Logic,3306,Very Rude,100,1
+Formal Logic,3309,Very Friendly,0,1
+Formal Logic,3309,Friendly,0,1
+Formal Logic,3309,Neutral,0,1
+Formal Logic,3309,Rude,0,1
+Formal Logic,3309,Very Rude,0,1
+Formal Logic,3313,Very Friendly,100,1
+Formal Logic,3313,Friendly,100,1
+Formal Logic,3313,Neutral,100,1
+Formal Logic,3313,Rude,100,1
+Formal Logic,3313,Very Rude,100,1
+Formal Logic,3314,Very Friendly,100,1
+Formal Logic,3314,Friendly,100,1
+Formal Logic,3314,Neutral,100,1
+Formal Logic,3314,Rude,100,1
+Formal Logic,3314,Very Rude,100,1
+Formal Logic,3319,Very Friendly,100,1
+Formal Logic,3319,Friendly,100,1
+Formal Logic,3319,Neutral,100,1
+Formal Logic,3319,Rude,100,1
+Formal Logic,3319,Very Rude,100,1
+Formal Logic,3321,Very Friendly,100,1
+Formal Logic,3321,Friendly,100,1
+Formal Logic,3321,Neutral,100,1
+Formal Logic,3321,Rude,100,1
+Formal Logic,3321,Very Rude,100,1
+Formal Logic,3323,Very Friendly,100,1
+Formal Logic,3323,Friendly,100,1
+Formal Logic,3323,Neutral,100,1
+Formal Logic,3323,Rude,100,1
+Formal Logic,3323,Very Rude,100,1
+Formal Logic,3337,Very Friendly,100,1
+Formal Logic,3337,Friendly,100,1
+Formal Logic,3337,Neutral,100,1
+Formal Logic,3337,Rude,100,1
+Formal Logic,3337,Very Rude,100,1
+Formal Logic,3351,Very Friendly,100,1
+Formal Logic,3351,Friendly,100,1
+Formal Logic,3351,Neutral,100,1
+Formal Logic,3351,Rude,100,1
+Formal Logic,3351,Very Rude,100,1
+Formal Logic,3360,Very Friendly,100,1
+Formal Logic,3360,Friendly,100,1
+Formal Logic,3360,Neutral,100,1
+Formal Logic,3360,Rude,100,1
+Formal Logic,3360,Very Rude,100,1
+Formal Logic,3378,Very Friendly,100,1
+Formal Logic,3378,Friendly,100,1
+Formal Logic,3378,Neutral,100,1
+Formal Logic,3378,Rude,100,1
+Formal Logic,3378,Very Rude,100,1
+Formal Logic,3399,Very Friendly,0,1
+Formal Logic,3399,Friendly,0,1
+Formal Logic,3399,Neutral,0,1
+Formal Logic,3399,Rude,0,1
+Formal Logic,3399,Very Rude,0,1
+Formal Logic,3434,Very Friendly,0,1
+Formal Logic,3434,Friendly,0,1
+Formal Logic,3434,Neutral,0,1
+Formal Logic,3434,Rude,0,1
+Formal Logic,3434,Very Rude,0,1
+Formal Logic,3440,Very Friendly,100,1
+Formal Logic,3440,Friendly,100,1
+Formal Logic,3440,Neutral,100,1
+Formal Logic,3440,Rude,100,1
+Formal Logic,3440,Very Rude,100,1
+Formal Logic,3478,Very Friendly,0,1
+Formal Logic,3478,Friendly,0,1
+Formal Logic,3478,Neutral,0,1
+Formal Logic,3478,Rude,0,1
+Formal Logic,3478,Very Rude,0,1
+Formal Logic,3484,Very Friendly,100,1
+Formal Logic,3484,Friendly,100,1
+Formal Logic,3484,Neutral,100,1
+Formal Logic,3484,Rude,100,1
+Formal Logic,3484,Very Rude,100,1
+Formal Logic,3489,Very Friendly,100,1
+Formal Logic,3489,Friendly,100,1
+Formal Logic,3489,Neutral,100,1
+Formal Logic,3489,Rude,100,1
+Formal Logic,3489,Very Rude,100,1
+Formal Logic,3495,Very Friendly,100,1
+Formal Logic,3495,Friendly,100,1
+Formal Logic,3495,Neutral,100,1
+Formal Logic,3495,Rude,100,1
+Formal Logic,3495,Very Rude,100,1
+Formal Logic,3500,Very Friendly,0,1
+Formal Logic,3500,Friendly,0,1
+Formal Logic,3500,Neutral,0,1
+Formal Logic,3500,Rude,0,1
+Formal Logic,3500,Very Rude,0,1
+Formal Logic,3501,Very Friendly,100,1
+Formal Logic,3501,Friendly,0,1
+Formal Logic,3501,Neutral,100,1
+Formal Logic,3501,Rude,0,1
+Formal Logic,3501,Very Rude,100,1
+Formal Logic,3505,Very Friendly,0,1
+Formal Logic,3505,Friendly,0,1
+Formal Logic,3505,Neutral,0,1
+Formal Logic,3505,Rude,0,1
+Formal Logic,3505,Very Rude,0,1
+Formal Logic,3509,Very Friendly,0,1
+Formal Logic,3509,Friendly,0,1
+Formal Logic,3509,Neutral,0,1
+Formal Logic,3509,Rude,0,1
+Formal Logic,3509,Very Rude,0,1
+Formal Logic,3525,Very Friendly,0,1
+Formal Logic,3525,Friendly,0,1
+Formal Logic,3525,Neutral,0,1
+Formal Logic,3525,Rude,0,1
+Formal Logic,3525,Very Rude,0,1
+Formal Logic,3540,Very Friendly,0,1
+Formal Logic,3540,Friendly,0,1
+Formal Logic,3540,Neutral,0,1
+Formal Logic,3540,Rude,0,1
+Formal Logic,3540,Very Rude,0,1
+Formal Logic,3541,Very Friendly,0,1
+Formal Logic,3541,Friendly,0,1
+Formal Logic,3541,Neutral,0,1
+Formal Logic,3541,Rude,0,1
+Formal Logic,3541,Very Rude,0,1
+Formal Logic,3544,Very Friendly,0,1
+Formal Logic,3544,Friendly,0,1
+Formal Logic,3544,Neutral,100,1
+Formal Logic,3544,Rude,0,1
+Formal Logic,3544,Very Rude,0,1
+Formal Logic,3545,Very Friendly,0,1
+Formal Logic,3545,Friendly,0,1
+Formal Logic,3545,Neutral,0,1
+Formal Logic,3545,Rude,0,1
+Formal Logic,3545,Very Rude,0,1
+Formal Logic,3550,Very Friendly,0,1
+Formal Logic,3550,Friendly,0,1
+Formal Logic,3550,Neutral,0,1
+Formal Logic,3550,Rude,0,1
+Formal Logic,3550,Very Rude,0,1
+Formal Logic,3556,Very Friendly,0,1
+Formal Logic,3556,Friendly,0,1
+Formal Logic,3556,Neutral,0,1
+Formal Logic,3556,Rude,0,1
+Formal Logic,3556,Very Rude,0,1
+Formal Logic,3565,Very Friendly,0,1
+Formal Logic,3565,Friendly,0,1
+Formal Logic,3565,Neutral,0,1
+Formal Logic,3565,Rude,0,1
+Formal Logic,3565,Very Rude,0,1
+Formal Logic,3584,Very Friendly,100,1
+Formal Logic,3584,Friendly,100,1
+Formal Logic,3584,Neutral,100,1
+Formal Logic,3584,Rude,100,1
+Formal Logic,3584,Very Rude,100,1
+Formal Logic,3587,Very Friendly,100,1
+Formal Logic,3587,Friendly,100,1
+Formal Logic,3587,Neutral,100,1
+Formal Logic,3587,Rude,100,1
+Formal Logic,3587,Very Rude,100,1
+Formal Logic,3589,Very Friendly,100,1
+Formal Logic,3589,Friendly,100,1
+Formal Logic,3589,Neutral,100,1
+Formal Logic,3589,Rude,100,1
+Formal Logic,3589,Very Rude,100,1
+Formal Logic,3607,Very Friendly,100,1
+Formal Logic,3607,Friendly,100,1
+Formal Logic,3607,Neutral,100,1
+Formal Logic,3607,Rude,100,1
+Formal Logic,3607,Very Rude,100,1
+Formal Logic,3608,Very Friendly,100,1
+Formal Logic,3608,Friendly,100,1
+Formal Logic,3608,Neutral,100,1
+Formal Logic,3608,Rude,100,1
+Formal Logic,3608,Very Rude,100,1
+Formal Logic,3618,Very Friendly,0,1
+Formal Logic,3618,Friendly,0,1
+Formal Logic,3618,Neutral,0,1
+Formal Logic,3618,Rude,0,1
+Formal Logic,3618,Very Rude,0,1
+Formal Logic,3624,Very Friendly,0,1
+Formal Logic,3624,Friendly,0,1
+Formal Logic,3624,Neutral,0,1
+Formal Logic,3624,Rude,0,1
+Formal Logic,3624,Very Rude,0,1
+Formal Logic,3629,Very Friendly,0,1
+Formal Logic,3629,Friendly,100,1
+Formal Logic,3629,Neutral,100,1
+Formal Logic,3629,Rude,100,1
+Formal Logic,3629,Very Rude,0,1
+Formal Logic,3682,Very Friendly,100,1
+Formal Logic,3682,Friendly,100,1
+Formal Logic,3682,Neutral,100,1
+Formal Logic,3682,Rude,100,1
+Formal Logic,3682,Very Rude,100,1
+Formal Logic,3700,Very Friendly,100,1
+Formal Logic,3700,Friendly,100,1
+Formal Logic,3700,Neutral,100,1
+Formal Logic,3700,Rude,100,1
+Formal Logic,3700,Very Rude,100,1
+Formal Logic,3713,Very Friendly,0,1
+Formal Logic,3713,Friendly,0,1
+Formal Logic,3713,Neutral,0,1
+Formal Logic,3713,Rude,0,1
+Formal Logic,3713,Very Rude,0,1
+Formal Logic,3716,Very Friendly,0,1
+Formal Logic,3716,Friendly,0,1
+Formal Logic,3716,Neutral,0,1
+Formal Logic,3716,Rude,0,1
+Formal Logic,3716,Very Rude,0,1
+Formal Logic,3718,Very Friendly,100,1
+Formal Logic,3718,Friendly,100,1
+Formal Logic,3718,Neutral,100,1
+Formal Logic,3718,Rude,100,1
+Formal Logic,3718,Very Rude,100,1
+Formal Logic,3738,Very Friendly,100,1
+Formal Logic,3738,Friendly,100,1
+Formal Logic,3738,Neutral,100,1
+Formal Logic,3738,Rude,100,1
+Formal Logic,3738,Very Rude,100,1
+Formal Logic,3752,Very Friendly,0,1
+Formal Logic,3752,Friendly,0,1
+Formal Logic,3752,Neutral,0,1
+Formal Logic,3752,Rude,0,1
+Formal Logic,3752,Very Rude,0,1
+Formal Logic,3757,Very Friendly,0,1
+Formal Logic,3757,Friendly,0,1
+Formal Logic,3757,Neutral,0,1
+Formal Logic,3757,Rude,0,1
+Formal Logic,3757,Very Rude,0,1
+Formal Logic,3761,Very Friendly,100,1
+Formal Logic,3761,Friendly,100,1
+Formal Logic,3761,Neutral,100,1
+Formal Logic,3761,Rude,100,1
+Formal Logic,3761,Very Rude,100,1
+Formal Logic,3762,Very Friendly,0,1
+Formal Logic,3762,Friendly,0,1
+Formal Logic,3762,Neutral,0,1
+Formal Logic,3762,Rude,0,1
+Formal Logic,3762,Very Rude,0,1
+Formal Logic,3790,Very Friendly,100,1
+Formal Logic,3790,Friendly,100,1
+Formal Logic,3790,Neutral,100,1
+Formal Logic,3790,Rude,100,1
+Formal Logic,3790,Very Rude,100,1
+Formal Logic,3796,Very Friendly,100,1
+Formal Logic,3796,Friendly,100,1
+Formal Logic,3796,Neutral,100,1
+Formal Logic,3796,Rude,100,1
+Formal Logic,3796,Very Rude,100,1
+Formal Logic,3798,Very Friendly,100,1
+Formal Logic,3798,Friendly,100,1
+Formal Logic,3798,Neutral,100,1
+Formal Logic,3798,Rude,100,1
+Formal Logic,3798,Very Rude,100,1
+Formal Logic,3801,Very Friendly,0,1
+Formal Logic,3801,Friendly,0,1
+Formal Logic,3801,Neutral,0,1
+Formal Logic,3801,Rude,0,1
+Formal Logic,3801,Very Rude,0,1
+Formal Logic,3810,Very Friendly,100,1
+Formal Logic,3810,Friendly,100,1
+Formal Logic,3810,Neutral,0,1
+Formal Logic,3810,Rude,100,1
+Formal Logic,3810,Very Rude,100,1
+Formal Logic,3817,Very Friendly,100,1
+Formal Logic,3817,Friendly,100,1
+Formal Logic,3817,Neutral,100,1
+Formal Logic,3817,Rude,100,1
+Formal Logic,3817,Very Rude,100,1
+Formal Logic,3830,Very Friendly,100,1
+Formal Logic,3830,Friendly,100,1
+Formal Logic,3830,Neutral,100,1
+Formal Logic,3830,Rude,100,1
+Formal Logic,3830,Very Rude,100,1
+Formal Logic,3832,Very Friendly,0,1
+Formal Logic,3832,Friendly,0,1
+Formal Logic,3832,Neutral,0,1
+Formal Logic,3832,Rude,0,1
+Formal Logic,3832,Very Rude,0,1
+Formal Logic,3839,Very Friendly,100,1
+Formal Logic,3839,Friendly,100,1
+Formal Logic,3839,Neutral,100,1
+Formal Logic,3839,Rude,100,1
+Formal Logic,3839,Very Rude,100,1
+Formal Logic,3850,Very Friendly,100,1
+Formal Logic,3850,Friendly,100,1
+Formal Logic,3850,Neutral,100,1
+Formal Logic,3850,Rude,100,1
+Formal Logic,3850,Very Rude,100,1
+Formal Logic,3871,Very Friendly,0,1
+Formal Logic,3871,Friendly,0,1
+Formal Logic,3871,Neutral,0,1
+Formal Logic,3871,Rude,0,1
+Formal Logic,3871,Very Rude,0,1
+Formal Logic,3872,Very Friendly,100,1
+Formal Logic,3872,Friendly,100,1
+Formal Logic,3872,Neutral,100,1
+Formal Logic,3872,Rude,100,1
+Formal Logic,3872,Very Rude,100,1
+Formal Logic,3879,Very Friendly,100,1
+Formal Logic,3879,Friendly,100,1
+Formal Logic,3879,Neutral,100,1
+Formal Logic,3879,Rude,100,1
+Formal Logic,3879,Very Rude,100,1
+Formal Logic,3890,Very Friendly,0,1
+Formal Logic,3890,Friendly,0,1
+Formal Logic,3890,Neutral,0,1
+Formal Logic,3890,Rude,0,1
+Formal Logic,3890,Very Rude,0,1
+Formal Logic,3906,Very Friendly,100,1
+Formal Logic,3906,Friendly,100,1
+Formal Logic,3906,Neutral,100,1
+Formal Logic,3906,Rude,100,1
+Formal Logic,3906,Very Rude,100,1
+Formal Logic,3908,Very Friendly,0,1
+Formal Logic,3908,Friendly,0,1
+Formal Logic,3908,Neutral,0,1
+Formal Logic,3908,Rude,0,1
+Formal Logic,3908,Very Rude,0,1
+Formal Logic,3917,Very Friendly,100,1
+Formal Logic,3917,Friendly,100,1
+Formal Logic,3917,Neutral,100,1
+Formal Logic,3917,Rude,100,1
+Formal Logic,3917,Very Rude,100,1
+Formal Logic,3928,Very Friendly,100,1
+Formal Logic,3928,Friendly,100,1
+Formal Logic,3928,Neutral,100,1
+Formal Logic,3928,Rude,100,1
+Formal Logic,3928,Very Rude,100,1
+Formal Logic,3931,Very Friendly,0,1
+Formal Logic,3931,Friendly,0,1
+Formal Logic,3931,Neutral,0,1
+Formal Logic,3931,Rude,0,1
+Formal Logic,3931,Very Rude,0,1
+Formal Logic,3932,Very Friendly,100,1
+Formal Logic,3932,Friendly,100,1
+Formal Logic,3932,Neutral,100,1
+Formal Logic,3932,Rude,100,1
+Formal Logic,3932,Very Rude,100,1
+Formal Logic,3933,Very Friendly,0,1
+Formal Logic,3933,Friendly,0,1
+Formal Logic,3933,Neutral,0,1
+Formal Logic,3933,Rude,0,1
+Formal Logic,3933,Very Rude,0,1
+Formal Logic,3943,Very Friendly,100,1
+Formal Logic,3943,Friendly,0,1
+Formal Logic,3943,Neutral,0,1
+Formal Logic,3943,Rude,100,1
+Formal Logic,3943,Very Rude,0,1
+Formal Logic,3945,Very Friendly,100,1
+Formal Logic,3945,Friendly,100,1
+Formal Logic,3945,Neutral,100,1
+Formal Logic,3945,Rude,100,1
+Formal Logic,3945,Very Rude,100,1
+Formal Logic,3948,Very Friendly,100,1
+Formal Logic,3948,Friendly,100,1
+Formal Logic,3948,Neutral,100,1
+Formal Logic,3948,Rude,100,1
+Formal Logic,3948,Very Rude,100,1
+Formal Logic,3965,Very Friendly,100,1
+Formal Logic,3965,Friendly,100,1
+Formal Logic,3965,Neutral,100,1
+Formal Logic,3965,Rude,100,1
+Formal Logic,3965,Very Rude,100,1
+Formal Logic,4003,Very Friendly,100,1
+Formal Logic,4003,Friendly,100,1
+Formal Logic,4003,Neutral,0,1
+Formal Logic,4003,Rude,100,1
+Formal Logic,4003,Very Rude,100,1
+Formal Logic,4006,Very Friendly,100,1
+Formal Logic,4006,Friendly,100,1
+Formal Logic,4006,Neutral,100,1
+Formal Logic,4006,Rude,100,1
+Formal Logic,4006,Very Rude,100,1
+Formal Logic,4020,Very Friendly,100,1
+Formal Logic,4020,Friendly,100,1
+Formal Logic,4020,Neutral,100,1
+Formal Logic,4020,Rude,100,1
+Formal Logic,4020,Very Rude,100,1
+Formal Logic,4025,Very Friendly,100,1
+Formal Logic,4025,Friendly,100,1
+Formal Logic,4025,Neutral,100,1
+Formal Logic,4025,Rude,100,1
+Formal Logic,4025,Very Rude,100,1
+Formal Logic,4032,Very Friendly,0,1
+Formal Logic,4032,Friendly,0,1
+Formal Logic,4032,Neutral,0,1
+Formal Logic,4032,Rude,0,1
+Formal Logic,4032,Very Rude,0,1
+Formal Logic,4048,Very Friendly,0,1
+Formal Logic,4048,Friendly,0,1
+Formal Logic,4048,Neutral,0,1
+Formal Logic,4048,Rude,0,1
+Formal Logic,4048,Very Rude,0,1
+Formal Logic,4063,Very Friendly,0,1
+Formal Logic,4063,Friendly,0,1
+Formal Logic,4063,Neutral,0,1
+Formal Logic,4063,Rude,100,1
+Formal Logic,4063,Very Rude,0,1
+Formal Logic,4065,Very Friendly,100,1
+Formal Logic,4065,Friendly,100,1
+Formal Logic,4065,Neutral,0,1
+Formal Logic,4065,Rude,100,1
+Formal Logic,4065,Very Rude,100,1
+Formal Logic,4066,Very Friendly,100,1
+Formal Logic,4066,Friendly,100,1
+Formal Logic,4066,Neutral,100,1
+Formal Logic,4066,Rude,100,1
+Formal Logic,4066,Very Rude,100,1
+Formal Logic,4067,Very Friendly,0,1
+Formal Logic,4067,Friendly,0,1
+Formal Logic,4067,Neutral,0,1
+Formal Logic,4067,Rude,0,1
+Formal Logic,4067,Very Rude,0,1
+Formal Logic,4074,Very Friendly,0,1
+Formal Logic,4074,Friendly,0,1
+Formal Logic,4074,Neutral,0,1
+Formal Logic,4074,Rude,0,1
+Formal Logic,4074,Very Rude,0,1
+Formal Logic,4079,Very Friendly,100,1
+Formal Logic,4079,Friendly,100,1
+Formal Logic,4079,Neutral,100,1
+Formal Logic,4079,Rude,100,1
+Formal Logic,4079,Very Rude,100,1
+Formal Logic,4092,Very Friendly,100,1
+Formal Logic,4092,Friendly,100,1
+Formal Logic,4092,Neutral,100,1
+Formal Logic,4092,Rude,100,1
+Formal Logic,4092,Very Rude,100,1
+Formal Logic,4095,Very Friendly,0,1
+Formal Logic,4095,Friendly,0,1
+Formal Logic,4095,Neutral,0,1
+Formal Logic,4095,Rude,0,1
+Formal Logic,4095,Very Rude,0,1
+Formal Logic,4096,Very Friendly,0,1
+Formal Logic,4096,Friendly,0,1
+Formal Logic,4096,Neutral,0,1
+Formal Logic,4096,Rude,0,1
+Formal Logic,4096,Very Rude,0,1
+Formal Logic,4122,Very Friendly,0,1
+Formal Logic,4122,Friendly,0,1
+Formal Logic,4122,Neutral,0,1
+Formal Logic,4122,Rude,0,1
+Formal Logic,4122,Very Rude,0,1
+Formal Logic,4129,Very Friendly,100,1
+Formal Logic,4129,Friendly,100,1
+Formal Logic,4129,Neutral,100,1
+Formal Logic,4129,Rude,100,1
+Formal Logic,4129,Very Rude,100,1
+Formal Logic,4140,Very Friendly,0,1
+Formal Logic,4140,Friendly,0,1
+Formal Logic,4140,Neutral,0,1
+Formal Logic,4140,Rude,0,1
+Formal Logic,4140,Very Rude,0,1
+Formal Logic,4149,Very Friendly,100,1
+Formal Logic,4149,Friendly,100,1
+Formal Logic,4149,Neutral,100,1
+Formal Logic,4149,Rude,100,1
+Formal Logic,4149,Very Rude,100,1
+Formal Logic,4155,Very Friendly,0,1
+Formal Logic,4155,Friendly,0,1
+Formal Logic,4155,Neutral,0,1
+Formal Logic,4155,Rude,0,1
+Formal Logic,4155,Very Rude,0,1
+Formal Logic,4158,Very Friendly,100,1
+Formal Logic,4158,Friendly,100,1
+Formal Logic,4158,Neutral,100,1
+Formal Logic,4158,Rude,100,1
+Formal Logic,4158,Very Rude,100,1
+Formal Logic,4159,Very Friendly,100,1
+Formal Logic,4159,Friendly,100,1
+Formal Logic,4159,Neutral,100,1
+Formal Logic,4159,Rude,100,1
+Formal Logic,4159,Very Rude,100,1
+Formal Logic,4160,Very Friendly,0,1
+Formal Logic,4160,Friendly,0,1
+Formal Logic,4160,Neutral,0,1
+Formal Logic,4160,Rude,0,1
+Formal Logic,4160,Very Rude,100,1
+Formal Logic,4161,Very Friendly,100,1
+Formal Logic,4161,Friendly,100,1
+Formal Logic,4161,Neutral,100,1
+Formal Logic,4161,Rude,100,1
+Formal Logic,4161,Very Rude,100,1
+Formal Logic,4169,Very Friendly,0,1
+Formal Logic,4169,Friendly,0,1
+Formal Logic,4169,Neutral,0,1
+Formal Logic,4169,Rude,0,1
+Formal Logic,4169,Very Rude,0,1
+Formal Logic,4178,Very Friendly,100,1
+Formal Logic,4178,Friendly,100,1
+Formal Logic,4178,Neutral,100,1
+Formal Logic,4178,Rude,100,1
+Formal Logic,4178,Very Rude,100,1
+Formal Logic,4189,Very Friendly,100,1
+Formal Logic,4189,Friendly,100,1
+Formal Logic,4189,Neutral,100,1
+Formal Logic,4189,Rude,100,1
+Formal Logic,4189,Very Rude,100,1
+Formal Logic,4191,Very Friendly,100,1
+Formal Logic,4191,Friendly,100,1
+Formal Logic,4191,Neutral,100,1
+Formal Logic,4191,Rude,100,1
+Formal Logic,4191,Very Rude,100,1
+Formal Logic,4216,Very Friendly,0,1
+Formal Logic,4216,Friendly,0,1
+Formal Logic,4216,Neutral,0,1
+Formal Logic,4216,Rude,0,1
+Formal Logic,4216,Very Rude,0,1
+Formal Logic,4257,Very Friendly,0,1
+Formal Logic,4257,Friendly,0,1
+Formal Logic,4257,Neutral,0,1
+Formal Logic,4257,Rude,0,1
+Formal Logic,4257,Very Rude,0,1
+Formal Logic,4261,Very Friendly,100,1
+Formal Logic,4261,Friendly,100,1
+Formal Logic,4261,Neutral,100,1
+Formal Logic,4261,Rude,100,1
+Formal Logic,4261,Very Rude,100,1
+Formal Logic,4262,Very Friendly,0,1
+Formal Logic,4262,Friendly,0,1
+Formal Logic,4262,Neutral,0,1
+Formal Logic,4262,Rude,0,1
+Formal Logic,4262,Very Rude,0,1
+Formal Logic,4263,Very Friendly,0,1
+Formal Logic,4263,Friendly,0,1
+Formal Logic,4263,Neutral,0,1
+Formal Logic,4263,Rude,0,1
+Formal Logic,4263,Very Rude,0,1
+Formal Logic,4289,Very Friendly,100,1
+Formal Logic,4289,Friendly,100,1
+Formal Logic,4289,Neutral,100,1
+Formal Logic,4289,Rude,100,1
+Formal Logic,4289,Very Rude,100,1
+Formal Logic,4293,Very Friendly,100,1
+Formal Logic,4293,Friendly,100,1
+Formal Logic,4293,Neutral,100,1
+Formal Logic,4293,Rude,100,1
+Formal Logic,4293,Very Rude,100,1
+Formal Logic,4302,Very Friendly,0,1
+Formal Logic,4302,Friendly,0,1
+Formal Logic,4302,Neutral,0,1
+Formal Logic,4302,Rude,0,1
+Formal Logic,4302,Very Rude,0,1
+Formal Logic,4304,Very Friendly,100,1
+Formal Logic,4304,Friendly,100,1
+Formal Logic,4304,Neutral,100,1
+Formal Logic,4304,Rude,100,1
+Formal Logic,4304,Very Rude,100,1
+Formal Logic,4319,Very Friendly,0,1
+Formal Logic,4319,Friendly,0,1
+Formal Logic,4319,Neutral,0,1
+Formal Logic,4319,Rude,0,1
+Formal Logic,4319,Very Rude,0,1
+Formal Logic,4327,Very Friendly,100,1
+Formal Logic,4327,Friendly,100,1
+Formal Logic,4327,Neutral,100,1
+Formal Logic,4327,Rude,100,1
+Formal Logic,4327,Very Rude,100,1
+Formal Logic,4340,Very Friendly,100,1
+Formal Logic,4340,Friendly,100,1
+Formal Logic,4340,Neutral,100,1
+Formal Logic,4340,Rude,100,1
+Formal Logic,4340,Very Rude,100,1
+Formal Logic,4346,Very Friendly,100,1
+Formal Logic,4346,Friendly,100,1
+Formal Logic,4346,Neutral,100,1
+Formal Logic,4346,Rude,100,1
+Formal Logic,4346,Very Rude,100,1
+Formal Logic,4351,Very Friendly,0,1
+Formal Logic,4351,Friendly,0,1
+Formal Logic,4351,Neutral,0,1
+Formal Logic,4351,Rude,0,1
+Formal Logic,4351,Very Rude,0,1
+Formal Logic,4366,Very Friendly,0,1
+Formal Logic,4366,Friendly,0,1
+Formal Logic,4366,Neutral,0,1
+Formal Logic,4366,Rude,0,1
+Formal Logic,4366,Very Rude,0,1
+Formal Logic,4378,Very Friendly,0,1
+Formal Logic,4378,Friendly,0,1
+Formal Logic,4378,Neutral,0,1
+Formal Logic,4378,Rude,0,1
+Formal Logic,4378,Very Rude,0,1
+Formal Logic,4381,Very Friendly,0,1
+Formal Logic,4381,Friendly,0,1
+Formal Logic,4381,Neutral,0,1
+Formal Logic,4381,Rude,0,1
+Formal Logic,4381,Very Rude,100,1
+Formal Logic,4383,Very Friendly,0,1
+Formal Logic,4383,Friendly,0,1
+Formal Logic,4383,Neutral,0,1
+Formal Logic,4383,Rude,0,1
+Formal Logic,4383,Very Rude,0,1
+Formal Logic,4393,Very Friendly,0,1
+Formal Logic,4393,Friendly,0,1
+Formal Logic,4393,Neutral,0,1
+Formal Logic,4393,Rude,0,1
+Formal Logic,4393,Very Rude,0,1
+Formal Logic,4403,Very Friendly,100,1
+Formal Logic,4403,Friendly,100,1
+Formal Logic,4403,Neutral,100,1
+Formal Logic,4403,Rude,100,1
+Formal Logic,4403,Very Rude,100,1
+Formal Logic,4413,Very Friendly,0,1
+Formal Logic,4413,Friendly,0,1
+Formal Logic,4413,Neutral,0,1
+Formal Logic,4413,Rude,0,1
+Formal Logic,4413,Very Rude,0,1
+Formal Logic,4417,Very Friendly,100,1
+Formal Logic,4417,Friendly,100,1
+Formal Logic,4417,Neutral,100,1
+Formal Logic,4417,Rude,100,1
+Formal Logic,4417,Very Rude,100,1
+Formal Logic,4418,Very Friendly,100,1
+Formal Logic,4418,Friendly,100,1
+Formal Logic,4418,Neutral,100,1
+Formal Logic,4418,Rude,100,1
+Formal Logic,4418,Very Rude,100,1
+Formal Logic,4440,Very Friendly,100,1
+Formal Logic,4440,Friendly,100,1
+Formal Logic,4440,Neutral,100,1
+Formal Logic,4440,Rude,100,1
+Formal Logic,4440,Very Rude,100,1
+Formal Logic,4448,Very Friendly,0,1
+Formal Logic,4448,Friendly,0,1
+Formal Logic,4448,Neutral,0,1
+Formal Logic,4448,Rude,0,1
+Formal Logic,4448,Very Rude,0,1
+Formal Logic,4451,Very Friendly,100,1
+Formal Logic,4451,Friendly,100,1
+Formal Logic,4451,Neutral,100,1
+Formal Logic,4451,Rude,100,1
+Formal Logic,4451,Very Rude,100,1
+Formal Logic,4457,Very Friendly,100,1
+Formal Logic,4457,Friendly,100,1
+Formal Logic,4457,Neutral,100,1
+Formal Logic,4457,Rude,100,1
+Formal Logic,4457,Very Rude,100,1
+Formal Logic,4476,Very Friendly,100,1
+Formal Logic,4476,Friendly,100,1
+Formal Logic,4476,Neutral,100,1
+Formal Logic,4476,Rude,100,1
+Formal Logic,4476,Very Rude,100,1
+Formal Logic,4479,Very Friendly,100,1
+Formal Logic,4479,Friendly,100,1
+Formal Logic,4479,Neutral,100,1
+Formal Logic,4479,Rude,100,1
+Formal Logic,4479,Very Rude,100,1
+Formal Logic,4482,Very Friendly,0,1
+Formal Logic,4482,Friendly,0,1
+Formal Logic,4482,Neutral,0,1
+Formal Logic,4482,Rude,0,1
+Formal Logic,4482,Very Rude,0,1
+Formal Logic,4484,Very Friendly,100,1
+Formal Logic,4484,Friendly,100,1
+Formal Logic,4484,Neutral,100,1
+Formal Logic,4484,Rude,100,1
+Formal Logic,4484,Very Rude,100,1
+Formal Logic,4490,Very Friendly,0,1
+Formal Logic,4490,Friendly,0,1
+Formal Logic,4490,Neutral,0,1
+Formal Logic,4490,Rude,0,1
+Formal Logic,4490,Very Rude,0,1
+Formal Logic,4491,Very Friendly,0,1
+Formal Logic,4491,Friendly,0,1
+Formal Logic,4491,Neutral,0,1
+Formal Logic,4491,Rude,0,1
+Formal Logic,4491,Very Rude,0,1
+Formal Logic,4493,Very Friendly,100,1
+Formal Logic,4493,Friendly,100,1
+Formal Logic,4493,Neutral,100,1
+Formal Logic,4493,Rude,100,1
+Formal Logic,4493,Very Rude,100,1
+Formal Logic,4511,Very Friendly,100,1
+Formal Logic,4511,Friendly,100,1
+Formal Logic,4511,Neutral,100,1
+Formal Logic,4511,Rude,100,1
+Formal Logic,4511,Very Rude,100,1
+Formal Logic,4534,Very Friendly,100,1
+Formal Logic,4534,Friendly,0,1
+Formal Logic,4534,Neutral,100,1
+Formal Logic,4534,Rude,0,1
+Formal Logic,4534,Very Rude,0,1
+Formal Logic,4539,Very Friendly,100,1
+Formal Logic,4539,Friendly,100,1
+Formal Logic,4539,Neutral,100,1
+Formal Logic,4539,Rude,100,1
+Formal Logic,4539,Very Rude,100,1
+Formal Logic,4543,Very Friendly,100,1
+Formal Logic,4543,Friendly,100,1
+Formal Logic,4543,Neutral,100,1
+Formal Logic,4543,Rude,100,1
+Formal Logic,4543,Very Rude,100,1
+Formal Logic,4554,Very Friendly,100,1
+Formal Logic,4554,Friendly,100,1
+Formal Logic,4554,Neutral,100,1
+Formal Logic,4554,Rude,100,1
+Formal Logic,4554,Very Rude,100,1
+Formal Logic,4560,Very Friendly,100,1
+Formal Logic,4560,Friendly,100,1
+Formal Logic,4560,Neutral,100,1
+Formal Logic,4560,Rude,100,1
+Formal Logic,4560,Very Rude,100,1
+Formal Logic,4568,Very Friendly,100,1
+Formal Logic,4568,Friendly,100,1
+Formal Logic,4568,Neutral,100,1
+Formal Logic,4568,Rude,100,1
+Formal Logic,4568,Very Rude,100,1
+Formal Logic,4575,Very Friendly,100,1
+Formal Logic,4575,Friendly,100,1
+Formal Logic,4575,Neutral,100,1
+Formal Logic,4575,Rude,100,1
+Formal Logic,4575,Very Rude,100,1
+Formal Logic,4597,Very Friendly,100,1
+Formal Logic,4597,Friendly,100,1
+Formal Logic,4597,Neutral,100,1
+Formal Logic,4597,Rude,100,1
+Formal Logic,4597,Very Rude,100,1
+Formal Logic,4600,Very Friendly,100,1
+Formal Logic,4600,Friendly,100,1
+Formal Logic,4600,Neutral,100,1
+Formal Logic,4600,Rude,100,1
+Formal Logic,4600,Very Rude,0,1
+Formal Logic,4614,Very Friendly,100,1
+Formal Logic,4614,Friendly,100,1
+Formal Logic,4614,Neutral,100,1
+Formal Logic,4614,Rude,100,1
+Formal Logic,4614,Very Rude,100,1
+Formal Logic,4619,Very Friendly,0,1
+Formal Logic,4619,Friendly,0,1
+Formal Logic,4619,Neutral,0,1
+Formal Logic,4619,Rude,0,1
+Formal Logic,4619,Very Rude,0,1
+Formal Logic,4625,Very Friendly,100,1
+Formal Logic,4625,Friendly,100,1
+Formal Logic,4625,Neutral,100,1
+Formal Logic,4625,Rude,100,1
+Formal Logic,4625,Very Rude,100,1
+Formal Logic,4631,Very Friendly,100,1
+Formal Logic,4631,Friendly,100,1
+Formal Logic,4631,Neutral,100,1
+Formal Logic,4631,Rude,100,1
+Formal Logic,4631,Very Rude,100,1
+Formal Logic,4632,Very Friendly,0,1
+Formal Logic,4632,Friendly,0,1
+Formal Logic,4632,Neutral,0,1
+Formal Logic,4632,Rude,0,1
+Formal Logic,4632,Very Rude,0,1
+Formal Logic,4634,Very Friendly,0,1
+Formal Logic,4634,Friendly,0,1
+Formal Logic,4634,Neutral,0,1
+Formal Logic,4634,Rude,0,1
+Formal Logic,4634,Very Rude,0,1
+Formal Logic,4658,Very Friendly,100,1
+Formal Logic,4658,Friendly,100,1
+Formal Logic,4658,Neutral,100,1
+Formal Logic,4658,Rude,100,1
+Formal Logic,4658,Very Rude,100,1
+Formal Logic,4661,Very Friendly,100,1
+Formal Logic,4661,Friendly,100,1
+Formal Logic,4661,Neutral,100,1
+Formal Logic,4661,Rude,100,1
+Formal Logic,4661,Very Rude,100,1
+Formal Logic,4665,Very Friendly,100,1
+Formal Logic,4665,Friendly,100,1
+Formal Logic,4665,Neutral,100,1
+Formal Logic,4665,Rude,100,1
+Formal Logic,4665,Very Rude,100,1
+Formal Logic,4673,Very Friendly,100,1
+Formal Logic,4673,Friendly,100,1
+Formal Logic,4673,Neutral,100,1
+Formal Logic,4673,Rude,100,1
+Formal Logic,4673,Very Rude,100,1
+Formal Logic,4702,Very Friendly,100,1
+Formal Logic,4702,Friendly,100,1
+Formal Logic,4702,Neutral,100,1
+Formal Logic,4702,Rude,100,1
+Formal Logic,4702,Very Rude,100,1

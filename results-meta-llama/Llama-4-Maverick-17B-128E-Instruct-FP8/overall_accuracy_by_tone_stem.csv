@@ -1,0 +1,6 @@
+Domain,Tone,Overall Accuracy (%),Correct_Answer_Count
+stem,Very Friendly,86.0,1290
+stem,Friendly,86.53,1298
+stem,Neutral,86.8,1302
+stem,Rude,86.2,1293
+stem,Very Rude,85.8,1287

@@ -1,0 +1,11 @@
+Comparison,Cohen's d,Absolute |d|,Effect Size
+Friendly vs Very Friendly,0.01620150780743182,0.01620150780743182,Negligible
+Friendly vs Rude,0.01613153486421925,0.01613153486421925,Negligible
+Friendly vs Very Rude,0.01027827018053601,0.01027827018053601,Negligible
+Neutral vs Rude,0.008790377645448317,0.008790377645448317,Negligible
+Neutral vs Very Friendly,0.008828424916348502,0.008828424916348502,Negligible
+Friendly vs Neutral,0.007361632631211392,0.007361632631211392,Negligible
+Rude vs Very Rude,-0.005843696290384042,0.005843696290384042,Negligible
+Very Friendly vs Very Rude,-0.005868848382471816,0.005868848382471816,Negligible
+Neutral vs Very Rude,0.002934118558670233,0.002934118558670233,Negligible
+Rude vs Very Friendly,0.0,0.0,Negligible

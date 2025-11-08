@@ -1,0 +1,2501 @@
+Domain,QID,Tone,Run 1,Run 2,Run 3
+humanities,9,Very Friendly,0,0,0
+humanities,9,Friendly,0,0,0
+humanities,9,Neutral,0,0,0
+humanities,9,Rude,0,0,0
+humanities,9,Very Rude,0,0,0
+humanities,13,Very Friendly,0,0,0
+humanities,13,Friendly,0,0,0
+humanities,13,Neutral,0,0,0
+humanities,13,Rude,0,0,0
+humanities,13,Very Rude,0,0,0
+humanities,18,Very Friendly,0,0,0
+humanities,18,Friendly,0,0,0
+humanities,18,Neutral,0,0,0
+humanities,18,Rude,0,0,0
+humanities,18,Very Rude,0,0,0
+humanities,24,Very Friendly,0,0,0
+humanities,24,Friendly,0,0,0
+humanities,24,Neutral,0,0,0
+humanities,24,Rude,0,0,0
+humanities,24,Very Rude,0,0,0
+humanities,27,Very Friendly,0,0,0
+humanities,27,Friendly,0,0,0
+humanities,27,Neutral,0,0,0
+humanities,27,Rude,0,0,0
+humanities,27,Very Rude,0,0,0
+humanities,30,Very Friendly,0,0,0
+humanities,30,Friendly,0,0,0
+humanities,30,Neutral,0,0,0
+humanities,30,Rude,0,0,0
+humanities,30,Very Rude,0,0,0
+humanities,34,Very Friendly,100,100,100
+humanities,34,Friendly,100,100,100
+humanities,34,Neutral,100,100,100
+humanities,34,Rude,100,100,100
+humanities,34,Very Rude,100,100,100
+humanities,52,Very Friendly,0,0,0
+humanities,52,Friendly,0,0,0
+humanities,52,Neutral,0,0,0
+humanities,52,Rude,0,0,0
+humanities,52,Very Rude,0,0,0
+humanities,62,Very Friendly,100,100,100
+humanities,62,Friendly,100,100,100
+humanities,62,Neutral,100,100,100
+humanities,62,Rude,100,100,100
+humanities,62,Very Rude,100,100,100
+humanities,70,Very Friendly,0,0,0
+humanities,70,Friendly,0,0,0
+humanities,70,Neutral,0,0,0
+humanities,70,Rude,0,0,0
+humanities,70,Very Rude,0,0,0
+humanities,71,Very Friendly,100,100,100
+humanities,71,Friendly,100,100,100
+humanities,71,Neutral,100,100,100
+humanities,71,Rude,100,100,100
+humanities,71,Very Rude,100,100,100
+humanities,80,Very Friendly,0,0,0
+humanities,80,Friendly,0,0,0
+humanities,80,Neutral,0,0,0
+humanities,80,Rude,0,0,0
+humanities,80,Very Rude,0,0,0
+humanities,94,Very Friendly,100,100,100
+humanities,94,Friendly,100,100,100
+humanities,94,Neutral,100,100,100
+humanities,94,Rude,100,100,100
+humanities,94,Very Rude,100,100,100
+humanities,101,Very Friendly,0,0,0
+humanities,101,Friendly,0,0,0
+humanities,101,Neutral,0,0,0
+humanities,101,Rude,0,0,0
+humanities,101,Very Rude,0,0,0
+humanities,110,Very Friendly,100,100,100
+humanities,110,Friendly,0,0,0
+humanities,110,Neutral,0,0,0
+humanities,110,Rude,0,0,0
+humanities,110,Very Rude,0,0,0
+humanities,121,Very Friendly,100,100,100
+humanities,121,Friendly,0,0,0
+humanities,121,Neutral,100,100,100
+humanities,121,Rude,100,100,100
+humanities,121,Very Rude,100,100,100
+humanities,123,Very Friendly,0,0,0
+humanities,123,Friendly,0,0,0
+humanities,123,Neutral,0,0,0
+humanities,123,Rude,0,0,0
+humanities,123,Very Rude,0,0,0
+humanities,133,Very Friendly,100,100,100
+humanities,133,Friendly,100,100,100
+humanities,133,Neutral,100,100,100
+humanities,133,Rude,100,100,100
+humanities,133,Very Rude,100,100,100
+humanities,135,Very Friendly,100,100,100
+humanities,135,Friendly,100,100,100
+humanities,135,Neutral,100,100,100
+humanities,135,Rude,100,100,100
+humanities,135,Very Rude,100,100,100
+humanities,136,Very Friendly,100,100,100
+humanities,136,Friendly,100,100,100
+humanities,136,Neutral,100,100,100
+humanities,136,Rude,100,100,100
+humanities,136,Very Rude,100,100,100
+humanities,145,Very Friendly,0,0,0
+humanities,145,Friendly,0,0,0
+humanities,145,Neutral,0,0,0
+humanities,145,Rude,0,0,0
+humanities,145,Very Rude,0,0,0
+humanities,150,Very Friendly,100,100,100
+humanities,150,Friendly,100,100,100
+humanities,150,Neutral,100,100,100
+humanities,150,Rude,100,100,100
+humanities,150,Very Rude,100,100,100
+humanities,152,Very Friendly,0,0,0
+humanities,152,Friendly,0,0,0
+humanities,152,Neutral,0,0,0
+humanities,152,Rude,0,0,0
+humanities,152,Very Rude,0,0,0
+humanities,158,Very Friendly,0,0,0
+humanities,158,Friendly,0,0,0
+humanities,158,Neutral,0,0,0
+humanities,158,Rude,0,0,0
+humanities,158,Very Rude,0,0,0
+humanities,178,Very Friendly,0,0,0
+humanities,178,Friendly,0,0,0
+humanities,178,Neutral,0,0,0
+humanities,178,Rude,0,0,0
+humanities,178,Very Rude,0,0,0
+humanities,180,Very Friendly,100,100,100
+humanities,180,Friendly,100,100,100
+humanities,180,Neutral,100,100,100
+humanities,180,Rude,100,100,100
+humanities,180,Very Rude,100,100,100
+humanities,200,Very Friendly,100,100,100
+humanities,200,Friendly,100,100,100
+humanities,200,Neutral,100,100,100
+humanities,200,Rude,100,100,100
+humanities,200,Very Rude,100,100,100
+humanities,228,Very Friendly,100,100,100
+humanities,228,Friendly,100,100,100
+humanities,228,Neutral,100,100,100
+humanities,228,Rude,100,100,100
+humanities,228,Very Rude,100,100,100
+humanities,231,Very Friendly,0,0,0
+humanities,231,Friendly,0,0,0
+humanities,231,Neutral,0,0,0
+humanities,231,Rude,0,0,0
+humanities,231,Very Rude,0,0,0
+humanities,234,Very Friendly,0,0,0
+humanities,234,Friendly,0,0,0
+humanities,234,Neutral,0,0,0
+humanities,234,Rude,0,0,0
+humanities,234,Very Rude,0,0,0
+humanities,239,Very Friendly,100,100,100
+humanities,239,Friendly,100,100,100
+humanities,239,Neutral,0,0,0
+humanities,239,Rude,100,100,100
+humanities,239,Very Rude,100,100,100
+humanities,241,Very Friendly,100,100,100
+humanities,241,Friendly,100,100,100
+humanities,241,Neutral,100,100,100
+humanities,241,Rude,100,100,100
+humanities,241,Very Rude,100,100,100
+humanities,249,Very Friendly,100,100,100
+humanities,249,Friendly,100,100,100
+humanities,249,Neutral,100,100,100
+humanities,249,Rude,100,100,100
+humanities,249,Very Rude,100,100,100
+humanities,253,Very Friendly,100,100,100
+humanities,253,Friendly,100,100,100
+humanities,253,Neutral,100,100,100
+humanities,253,Rude,100,100,100
+humanities,253,Very Rude,100,100,100
+humanities,275,Very Friendly,100,100,100
+humanities,275,Friendly,100,100,100
+humanities,275,Neutral,100,100,100
+humanities,275,Rude,100,100,100
+humanities,275,Very Rude,100,100,100
+humanities,288,Very Friendly,100,100,100
+humanities,288,Friendly,100,100,100
+humanities,288,Neutral,100,100,100
+humanities,288,Rude,100,100,100
+humanities,288,Very Rude,100,100,100
+humanities,291,Very Friendly,100,100,100
+humanities,291,Friendly,100,100,100
+humanities,291,Neutral,100,100,100
+humanities,291,Rude,100,100,100
+humanities,291,Very Rude,100,100,100
+humanities,292,Very Friendly,0,0,0
+humanities,292,Friendly,100,100,100
+humanities,292,Neutral,100,100,100
+humanities,292,Rude,100,100,100
+humanities,292,Very Rude,100,100,100
+humanities,297,Very Friendly,100,100,100
+humanities,297,Friendly,100,100,100
+humanities,297,Neutral,100,100,100
+humanities,297,Rude,100,100,100
+humanities,297,Very Rude,100,100,100
+humanities,298,Very Friendly,0,0,0
+humanities,298,Friendly,0,0,0
+humanities,298,Neutral,0,0,0
+humanities,298,Rude,0,0,0
+humanities,298,Very Rude,0,0,0
+humanities,299,Very Friendly,100,100,100
+humanities,299,Friendly,100,100,100
+humanities,299,Neutral,100,100,100
+humanities,299,Rude,100,100,100
+humanities,299,Very Rude,100,100,100
+humanities,316,Very Friendly,100,100,100
+humanities,316,Friendly,100,100,100
+humanities,316,Neutral,100,100,100
+humanities,316,Rude,100,100,100
+humanities,316,Very Rude,100,100,100
+humanities,319,Very Friendly,0,0,0
+humanities,319,Friendly,0,0,0
+humanities,319,Neutral,0,0,0
+humanities,319,Rude,0,0,0
+humanities,319,Very Rude,0,0,0
+humanities,323,Very Friendly,0,0,0
+humanities,323,Friendly,0,0,0
+humanities,323,Neutral,0,0,0
+humanities,323,Rude,0,0,0
+humanities,323,Very Rude,0,0,0
+humanities,351,Very Friendly,0,0,0
+humanities,351,Friendly,0,0,0
+humanities,351,Neutral,0,0,0
+humanities,351,Rude,0,0,0
+humanities,351,Very Rude,0,0,0
+humanities,355,Very Friendly,100,100,100
+humanities,355,Friendly,100,100,100
+humanities,355,Neutral,100,100,100
+humanities,355,Rude,100,100,100
+humanities,355,Very Rude,100,100,100
+humanities,372,Very Friendly,100,100,100
+humanities,372,Friendly,100,100,100
+humanities,372,Neutral,100,100,100
+humanities,372,Rude,100,100,100
+humanities,372,Very Rude,100,100,100
+humanities,374,Very Friendly,0,0,0
+humanities,374,Friendly,0,0,0
+humanities,374,Neutral,100,100,100
+humanities,374,Rude,100,100,100
+humanities,374,Very Rude,100,100,100
+humanities,388,Very Friendly,100,100,100
+humanities,388,Friendly,100,100,100
+humanities,388,Neutral,100,100,100
+humanities,388,Rude,100,100,100
+humanities,388,Very Rude,100,100,100
+humanities,394,Very Friendly,100,100,100
+humanities,394,Friendly,0,0,0
+humanities,394,Neutral,100,100,100
+humanities,394,Rude,100,100,100
+humanities,394,Very Rude,100,100,100
+humanities,415,Very Friendly,100,100,100
+humanities,415,Friendly,100,100,100
+humanities,415,Neutral,100,100,100
+humanities,415,Rude,100,100,100
+humanities,415,Very Rude,100,100,100
+humanities,416,Very Friendly,0,0,0
+humanities,416,Friendly,0,0,0
+humanities,416,Neutral,0,0,0
+humanities,416,Rude,0,0,0
+humanities,416,Very Rude,0,0,0
+humanities,417,Very Friendly,100,100,100
+humanities,417,Friendly,100,100,100
+humanities,417,Neutral,100,100,100
+humanities,417,Rude,100,100,100
+humanities,417,Very Rude,100,100,100
+humanities,430,Very Friendly,100,100,100
+humanities,430,Friendly,100,100,100
+humanities,430,Neutral,100,100,100
+humanities,430,Rude,100,100,100
+humanities,430,Very Rude,100,100,100
+humanities,444,Very Friendly,100,100,100
+humanities,444,Friendly,100,100,100
+humanities,444,Neutral,100,100,100
+humanities,444,Rude,100,100,100
+humanities,444,Very Rude,100,100,100
+humanities,466,Very Friendly,100,100,100
+humanities,466,Friendly,100,100,100
+humanities,466,Neutral,100,100,100
+humanities,466,Rude,100,100,100
+humanities,466,Very Rude,100,100,100
+humanities,469,Very Friendly,100,100,100
+humanities,469,Friendly,100,100,100
+humanities,469,Neutral,100,100,100
+humanities,469,Rude,100,100,100
+humanities,469,Very Rude,100,100,100
+humanities,472,Very Friendly,0,0,0
+humanities,472,Friendly,0,0,0
+humanities,472,Neutral,0,0,0
+humanities,472,Rude,0,0,0
+humanities,472,Very Rude,0,0,0
+humanities,473,Very Friendly,100,100,100
+humanities,473,Friendly,100,100,100
+humanities,473,Neutral,100,100,100
+humanities,473,Rude,100,100,100
+humanities,473,Very Rude,100,100,100
+humanities,479,Very Friendly,0,0,0
+humanities,479,Friendly,0,0,0
+humanities,479,Neutral,0,0,0
+humanities,479,Rude,0,0,0
+humanities,479,Very Rude,0,0,0
+humanities,487,Very Friendly,100,100,100
+humanities,487,Friendly,100,100,100
+humanities,487,Neutral,100,100,100
+humanities,487,Rude,100,100,100
+humanities,487,Very Rude,100,100,100
+humanities,498,Very Friendly,0,0,0
+humanities,498,Friendly,0,0,0
+humanities,498,Neutral,0,0,0
+humanities,498,Rude,0,0,0
+humanities,498,Very Rude,0,0,0
+humanities,502,Very Friendly,100,100,100
+humanities,502,Friendly,100,100,100
+humanities,502,Neutral,100,100,100
+humanities,502,Rude,100,100,100
+humanities,502,Very Rude,100,100,100
+humanities,506,Very Friendly,100,100,100
+humanities,506,Friendly,100,100,100
+humanities,506,Neutral,100,100,100
+humanities,506,Rude,100,100,100
+humanities,506,Very Rude,100,100,100
+humanities,531,Very Friendly,0,0,0
+humanities,531,Friendly,0,0,0
+humanities,531,Neutral,0,0,0
+humanities,531,Rude,0,0,0
+humanities,531,Very Rude,0,0,0
+humanities,534,Very Friendly,0,0,0
+humanities,534,Friendly,0,0,0
+humanities,534,Neutral,0,0,0
+humanities,534,Rude,0,0,0
+humanities,534,Very Rude,0,0,0
+humanities,535,Very Friendly,100,100,100
+humanities,535,Friendly,100,100,100
+humanities,535,Neutral,100,100,100
+humanities,535,Rude,100,100,100
+humanities,535,Very Rude,100,100,100
+humanities,539,Very Friendly,0,0,0
+humanities,539,Friendly,100,100,100
+humanities,539,Neutral,100,100,100
+humanities,539,Rude,0,0,0
+humanities,539,Very Rude,0,0,0
+humanities,545,Very Friendly,100,100,100
+humanities,545,Friendly,100,100,100
+humanities,545,Neutral,100,100,100
+humanities,545,Rude,100,100,100
+humanities,545,Very Rude,100,100,100
+humanities,556,Very Friendly,0,0,0
+humanities,556,Friendly,0,0,0
+humanities,556,Neutral,0,0,0
+humanities,556,Rude,0,0,0
+humanities,556,Very Rude,0,0,0
+humanities,562,Very Friendly,100,100,100
+humanities,562,Friendly,100,100,100
+humanities,562,Neutral,100,100,100
+humanities,562,Rude,100,100,100
+humanities,562,Very Rude,100,100,100
+humanities,568,Very Friendly,100,100,100
+humanities,568,Friendly,100,100,100
+humanities,568,Neutral,100,100,100
+humanities,568,Rude,100,100,100
+humanities,568,Very Rude,100,100,100
+humanities,578,Very Friendly,0,0,0
+humanities,578,Friendly,0,0,0
+humanities,578,Neutral,0,0,0
+humanities,578,Rude,0,0,0
+humanities,578,Very Rude,0,0,0
+humanities,585,Very Friendly,100,100,100
+humanities,585,Friendly,100,100,100
+humanities,585,Neutral,100,100,100
+humanities,585,Rude,100,100,100
+humanities,585,Very Rude,100,100,100
+humanities,587,Very Friendly,0,0,0
+humanities,587,Friendly,0,0,0
+humanities,587,Neutral,0,0,0
+humanities,587,Rude,0,0,0
+humanities,587,Very Rude,0,0,0
+humanities,597,Very Friendly,0,0,0
+humanities,597,Friendly,0,0,0
+humanities,597,Neutral,0,0,0
+humanities,597,Rude,0,0,0
+humanities,597,Very Rude,0,0,0
+humanities,622,Very Friendly,100,100,100
+humanities,622,Friendly,100,100,100
+humanities,622,Neutral,100,100,100
+humanities,622,Rude,100,100,100
+humanities,622,Very Rude,100,100,100
+humanities,627,Very Friendly,100,100,100
+humanities,627,Friendly,100,100,100
+humanities,627,Neutral,100,100,100
+humanities,627,Rude,100,100,100
+humanities,627,Very Rude,100,100,100
+humanities,634,Very Friendly,100,100,100
+humanities,634,Friendly,100,100,100
+humanities,634,Neutral,100,100,100
+humanities,634,Rude,100,100,100
+humanities,634,Very Rude,100,100,100
+humanities,643,Very Friendly,100,100,100
+humanities,643,Friendly,100,100,100
+humanities,643,Neutral,100,100,100
+humanities,643,Rude,100,100,100
+humanities,643,Very Rude,100,100,100
+humanities,656,Very Friendly,100,100,100
+humanities,656,Friendly,100,100,100
+humanities,656,Neutral,100,100,100
+humanities,656,Rude,100,100,100
+humanities,656,Very Rude,100,100,100
+humanities,669,Very Friendly,100,100,100
+humanities,669,Friendly,100,100,100
+humanities,669,Neutral,100,100,100
+humanities,669,Rude,100,100,100
+humanities,669,Very Rude,100,100,100
+humanities,677,Very Friendly,100,100,100
+humanities,677,Friendly,100,100,100
+humanities,677,Neutral,100,100,100
+humanities,677,Rude,100,100,100
+humanities,677,Very Rude,100,100,100
+humanities,678,Very Friendly,100,100,100
+humanities,678,Friendly,100,100,100
+humanities,678,Neutral,100,100,100
+humanities,678,Rude,100,100,100
+humanities,678,Very Rude,100,100,100
+humanities,684,Very Friendly,100,100,100
+humanities,684,Friendly,100,100,100
+humanities,684,Neutral,100,100,100
+humanities,684,Rude,100,100,100
+humanities,684,Very Rude,100,100,100
+humanities,706,Very Friendly,100,100,100
+humanities,706,Friendly,100,100,100
+humanities,706,Neutral,100,100,100
+humanities,706,Rude,100,100,100
+humanities,706,Very Rude,100,100,100
+humanities,719,Very Friendly,100,100,100
+humanities,719,Friendly,100,100,100
+humanities,719,Neutral,100,100,100
+humanities,719,Rude,100,100,100
+humanities,719,Very Rude,100,100,100
+humanities,722,Very Friendly,100,100,100
+humanities,722,Friendly,100,100,100
+humanities,722,Neutral,100,100,100
+humanities,722,Rude,100,100,100
+humanities,722,Very Rude,100,100,100
+humanities,732,Very Friendly,100,100,100
+humanities,732,Friendly,100,100,100
+humanities,732,Neutral,100,100,100
+humanities,732,Rude,100,100,100
+humanities,732,Very Rude,100,100,100
+humanities,735,Very Friendly,100,100,100
+humanities,735,Friendly,100,100,100
+humanities,735,Neutral,100,100,100
+humanities,735,Rude,100,100,100
+humanities,735,Very Rude,100,100,100
+humanities,743,Very Friendly,100,100,100
+humanities,743,Friendly,100,100,100
+humanities,743,Neutral,100,100,100
+humanities,743,Rude,100,100,100
+humanities,743,Very Rude,100,100,100
+humanities,757,Very Friendly,100,100,100
+humanities,757,Friendly,100,100,100
+humanities,757,Neutral,100,100,100
+humanities,757,Rude,100,100,100
+humanities,757,Very Rude,100,100,100
+humanities,766,Very Friendly,100,100,100
+humanities,766,Friendly,100,100,100
+humanities,766,Neutral,100,100,100
+humanities,766,Rude,100,100,100
+humanities,766,Very Rude,100,100,100
+humanities,777,Very Friendly,100,100,100
+humanities,777,Friendly,100,100,100
+humanities,777,Neutral,100,100,100
+humanities,777,Rude,100,100,100
+humanities,777,Very Rude,100,100,100
+humanities,788,Very Friendly,100,100,100
+humanities,788,Friendly,100,100,100
+humanities,788,Neutral,100,100,100
+humanities,788,Rude,100,100,100
+humanities,788,Very Rude,100,100,100
+humanities,799,Very Friendly,0,0,0
+humanities,799,Friendly,0,0,0
+humanities,799,Neutral,0,0,0
+humanities,799,Rude,100,100,100
+humanities,799,Very Rude,0,0,0
+humanities,803,Very Friendly,100,100,100
+humanities,803,Friendly,100,100,100
+humanities,803,Neutral,100,100,100
+humanities,803,Rude,100,100,100
+humanities,803,Very Rude,100,100,100
+humanities,804,Very Friendly,0,0,0
+humanities,804,Friendly,0,0,0
+humanities,804,Neutral,0,0,0
+humanities,804,Rude,0,0,0
+humanities,804,Very Rude,0,0,0
+humanities,806,Very Friendly,100,100,100
+humanities,806,Friendly,100,100,100
+humanities,806,Neutral,100,100,100
+humanities,806,Rude,100,100,100
+humanities,806,Very Rude,100,100,100
+humanities,813,Very Friendly,0,0,0
+humanities,813,Friendly,0,0,0
+humanities,813,Neutral,0,0,0
+humanities,813,Rude,0,0,0
+humanities,813,Very Rude,0,0,0
+humanities,830,Very Friendly,100,100,100
+humanities,830,Friendly,100,100,100
+humanities,830,Neutral,100,100,100
+humanities,830,Rude,100,100,100
+humanities,830,Very Rude,100,100,100
+humanities,834,Very Friendly,100,100,100
+humanities,834,Friendly,100,100,100
+humanities,834,Neutral,100,100,100
+humanities,834,Rude,100,100,100
+humanities,834,Very Rude,100,100,100
+humanities,857,Very Friendly,100,100,100
+humanities,857,Friendly,100,100,100
+humanities,857,Neutral,100,100,100
+humanities,857,Rude,100,100,100
+humanities,857,Very Rude,100,100,100
+humanities,878,Very Friendly,100,100,100
+humanities,878,Friendly,100,100,100
+humanities,878,Neutral,100,100,100
+humanities,878,Rude,100,100,100
+humanities,878,Very Rude,100,100,100
+humanities,880,Very Friendly,100,100,100
+humanities,880,Friendly,100,100,100
+humanities,880,Neutral,100,100,100
+humanities,880,Rude,100,100,100
+humanities,880,Very Rude,100,100,100
+humanities,882,Very Friendly,100,100,100
+humanities,882,Friendly,100,100,100
+humanities,882,Neutral,100,100,100
+humanities,882,Rude,100,100,100
+humanities,882,Very Rude,100,100,100
+humanities,890,Very Friendly,0,0,0
+humanities,890,Friendly,0,0,0
+humanities,890,Neutral,0,0,0
+humanities,890,Rude,0,0,0
+humanities,890,Very Rude,0,0,0
+humanities,897,Very Friendly,100,100,100
+humanities,897,Friendly,100,100,100
+humanities,897,Neutral,100,100,100
+humanities,897,Rude,100,100,100
+humanities,897,Very Rude,100,100,100
+humanities,908,Very Friendly,0,0,0
+humanities,908,Friendly,100,100,100
+humanities,908,Neutral,100,100,100
+humanities,908,Rude,0,0,0
+humanities,908,Very Rude,0,0,0
+humanities,912,Very Friendly,0,0,0
+humanities,912,Friendly,100,100,100
+humanities,912,Neutral,100,100,100
+humanities,912,Rude,0,0,0
+humanities,912,Very Rude,0,0,0
+humanities,927,Very Friendly,100,100,100
+humanities,927,Friendly,100,100,100
+humanities,927,Neutral,100,100,100
+humanities,927,Rude,100,100,100
+humanities,927,Very Rude,100,100,100
+humanities,945,Very Friendly,100,100,100
+humanities,945,Friendly,100,100,100
+humanities,945,Neutral,100,100,100
+humanities,945,Rude,100,100,100
+humanities,945,Very Rude,100,100,100
+humanities,950,Very Friendly,0,0,0
+humanities,950,Friendly,0,0,0
+humanities,950,Neutral,0,0,0
+humanities,950,Rude,0,0,0
+humanities,950,Very Rude,0,0,0
+humanities,961,Very Friendly,0,0,0
+humanities,961,Friendly,100,100,100
+humanities,961,Neutral,0,0,0
+humanities,961,Rude,0,0,0
+humanities,961,Very Rude,0,0,0
+humanities,978,Very Friendly,100,100,100
+humanities,978,Friendly,100,100,100
+humanities,978,Neutral,100,100,100
+humanities,978,Rude,100,100,100
+humanities,978,Very Rude,100,100,100
+humanities,995,Very Friendly,0,0,0
+humanities,995,Friendly,0,0,0
+humanities,995,Neutral,0,0,0
+humanities,995,Rude,0,0,0
+humanities,995,Very Rude,0,0,0
+humanities,997,Very Friendly,100,100,100
+humanities,997,Friendly,100,100,100
+humanities,997,Neutral,100,100,100
+humanities,997,Rude,100,100,100
+humanities,997,Very Rude,100,100,100
+humanities,1000,Very Friendly,100,100,100
+humanities,1000,Friendly,0,0,0
+humanities,1000,Neutral,0,0,0
+humanities,1000,Rude,100,100,100
+humanities,1000,Very Rude,0,0,0
+humanities,1019,Very Friendly,100,100,100
+humanities,1019,Friendly,100,100,100
+humanities,1019,Neutral,100,100,100
+humanities,1019,Rude,100,100,100
+humanities,1019,Very Rude,100,100,100
+humanities,1021,Very Friendly,100,100,100
+humanities,1021,Friendly,100,100,100
+humanities,1021,Neutral,100,100,100
+humanities,1021,Rude,100,100,100
+humanities,1021,Very Rude,100,100,100
+humanities,1025,Very Friendly,100,100,100
+humanities,1025,Friendly,100,100,100
+humanities,1025,Neutral,100,100,100
+humanities,1025,Rude,100,100,100
+humanities,1025,Very Rude,100,100,100
+humanities,1028,Very Friendly,100,100,100
+humanities,1028,Friendly,100,100,100
+humanities,1028,Neutral,100,100,100
+humanities,1028,Rude,100,100,100
+humanities,1028,Very Rude,100,100,100
+humanities,1033,Very Friendly,0,0,0
+humanities,1033,Friendly,0,0,0
+humanities,1033,Neutral,0,0,0
+humanities,1033,Rude,0,0,0
+humanities,1033,Very Rude,0,0,0
+humanities,1039,Very Friendly,100,100,100
+humanities,1039,Friendly,100,100,100
+humanities,1039,Neutral,100,100,100
+humanities,1039,Rude,100,100,100
+humanities,1039,Very Rude,100,100,100
+humanities,1045,Very Friendly,0,0,0
+humanities,1045,Friendly,0,0,0
+humanities,1045,Neutral,0,0,0
+humanities,1045,Rude,0,0,0
+humanities,1045,Very Rude,0,0,0
+humanities,1048,Very Friendly,100,100,100
+humanities,1048,Friendly,100,100,100
+humanities,1048,Neutral,100,100,100
+humanities,1048,Rude,100,100,100
+humanities,1048,Very Rude,100,100,100
+humanities,1053,Very Friendly,100,100,100
+humanities,1053,Friendly,100,100,100
+humanities,1053,Neutral,100,100,100
+humanities,1053,Rude,100,100,100
+humanities,1053,Very Rude,100,100,100
+humanities,1056,Very Friendly,100,100,100
+humanities,1056,Friendly,100,100,100
+humanities,1056,Neutral,100,100,100
+humanities,1056,Rude,100,100,100
+humanities,1056,Very Rude,100,100,100
+humanities,1057,Very Friendly,100,100,100
+humanities,1057,Friendly,100,100,100
+humanities,1057,Neutral,100,100,100
+humanities,1057,Rude,100,100,100
+humanities,1057,Very Rude,100,100,100
+humanities,1058,Very Friendly,100,100,100
+humanities,1058,Friendly,100,100,100
+humanities,1058,Neutral,100,100,100
+humanities,1058,Rude,100,100,100
+humanities,1058,Very Rude,100,100,100
+humanities,1062,Very Friendly,0,0,0
+humanities,1062,Friendly,0,0,0
+humanities,1062,Neutral,0,0,0
+humanities,1062,Rude,0,0,0
+humanities,1062,Very Rude,0,0,0
+humanities,1074,Very Friendly,100,100,100
+humanities,1074,Friendly,100,100,100
+humanities,1074,Neutral,100,100,100
+humanities,1074,Rude,100,100,100
+humanities,1074,Very Rude,100,100,100
+humanities,1076,Very Friendly,100,100,100
+humanities,1076,Friendly,0,0,0
+humanities,1076,Neutral,100,100,100
+humanities,1076,Rude,100,100,100
+humanities,1076,Very Rude,100,100,100
+humanities,1091,Very Friendly,100,100,100
+humanities,1091,Friendly,100,100,100
+humanities,1091,Neutral,100,100,100
+humanities,1091,Rude,100,100,100
+humanities,1091,Very Rude,0,0,0
+humanities,1109,Very Friendly,100,100,100
+humanities,1109,Friendly,100,100,100
+humanities,1109,Neutral,100,100,100
+humanities,1109,Rude,100,100,100
+humanities,1109,Very Rude,100,100,100
+humanities,1114,Very Friendly,0,0,0
+humanities,1114,Friendly,0,0,0
+humanities,1114,Neutral,0,0,0
+humanities,1114,Rude,0,0,0
+humanities,1114,Very Rude,0,0,0
+humanities,1117,Very Friendly,0,0,0
+humanities,1117,Friendly,0,0,0
+humanities,1117,Neutral,0,0,0
+humanities,1117,Rude,0,0,0
+humanities,1117,Very Rude,100,100,100
+humanities,1118,Very Friendly,100,100,100
+humanities,1118,Friendly,100,100,100
+humanities,1118,Neutral,100,100,100
+humanities,1118,Rude,100,100,100
+humanities,1118,Very Rude,100,100,100
+humanities,1129,Very Friendly,0,0,0
+humanities,1129,Friendly,0,0,0
+humanities,1129,Neutral,0,0,0
+humanities,1129,Rude,0,0,0
+humanities,1129,Very Rude,0,0,0
+humanities,1130,Very Friendly,100,100,100
+humanities,1130,Friendly,100,100,100
+humanities,1130,Neutral,100,100,100
+humanities,1130,Rude,100,100,100
+humanities,1130,Very Rude,100,100,100
+humanities,1150,Very Friendly,100,100,100
+humanities,1150,Friendly,100,100,100
+humanities,1150,Neutral,100,100,100
+humanities,1150,Rude,100,100,100
+humanities,1150,Very Rude,100,100,100
+humanities,1159,Very Friendly,100,100,100
+humanities,1159,Friendly,100,100,100
+humanities,1159,Neutral,100,100,100
+humanities,1159,Rude,100,100,100
+humanities,1159,Very Rude,100,100,100
+humanities,1162,Very Friendly,0,0,0
+humanities,1162,Friendly,0,0,0
+humanities,1162,Neutral,0,0,0
+humanities,1162,Rude,0,0,0
+humanities,1162,Very Rude,0,0,0
+humanities,1169,Very Friendly,100,100,100
+humanities,1169,Friendly,100,100,100
+humanities,1169,Neutral,100,100,100
+humanities,1169,Rude,100,100,100
+humanities,1169,Very Rude,100,100,100
+humanities,1171,Very Friendly,0,0,0
+humanities,1171,Friendly,0,0,0
+humanities,1171,Neutral,0,0,0
+humanities,1171,Rude,0,0,0
+humanities,1171,Very Rude,0,0,0
+humanities,1176,Very Friendly,0,0,0
+humanities,1176,Friendly,0,0,0
+humanities,1176,Neutral,0,0,0
+humanities,1176,Rude,0,0,0
+humanities,1176,Very Rude,0,0,0
+humanities,1198,Very Friendly,100,100,100
+humanities,1198,Friendly,100,100,100
+humanities,1198,Neutral,100,100,100
+humanities,1198,Rude,100,100,100
+humanities,1198,Very Rude,100,100,100
+humanities,1205,Very Friendly,100,100,100
+humanities,1205,Friendly,100,100,100
+humanities,1205,Neutral,100,100,100
+humanities,1205,Rude,100,100,100
+humanities,1205,Very Rude,100,100,100
+humanities,1223,Very Friendly,0,0,0
+humanities,1223,Friendly,100,100,100
+humanities,1223,Neutral,0,0,0
+humanities,1223,Rude,0,0,0
+humanities,1223,Very Rude,0,0,0
+humanities,1232,Very Friendly,0,0,0
+humanities,1232,Friendly,0,0,0
+humanities,1232,Neutral,0,0,0
+humanities,1232,Rude,0,0,0
+humanities,1232,Very Rude,0,0,0
+humanities,1236,Very Friendly,0,0,0
+humanities,1236,Friendly,0,0,0
+humanities,1236,Neutral,0,0,0
+humanities,1236,Rude,0,0,0
+humanities,1236,Very Rude,0,0,0
+humanities,1243,Very Friendly,100,100,100
+humanities,1243,Friendly,100,100,100
+humanities,1243,Neutral,100,100,100
+humanities,1243,Rude,100,100,100
+humanities,1243,Very Rude,100,100,100
+humanities,1245,Very Friendly,0,0,0
+humanities,1245,Friendly,0,0,0
+humanities,1245,Neutral,0,0,0
+humanities,1245,Rude,0,0,0
+humanities,1245,Very Rude,0,0,0
+humanities,1259,Very Friendly,100,100,100
+humanities,1259,Friendly,100,100,100
+humanities,1259,Neutral,100,100,100
+humanities,1259,Rude,100,100,100
+humanities,1259,Very Rude,100,100,100
+humanities,1261,Very Friendly,100,100,100
+humanities,1261,Friendly,100,100,100
+humanities,1261,Neutral,100,100,100
+humanities,1261,Rude,100,100,100
+humanities,1261,Very Rude,100,100,100
+humanities,1271,Very Friendly,0,0,0
+humanities,1271,Friendly,0,0,0
+humanities,1271,Neutral,0,0,0
+humanities,1271,Rude,0,0,0
+humanities,1271,Very Rude,0,0,0
+humanities,1289,Very Friendly,0,0,0
+humanities,1289,Friendly,0,0,0
+humanities,1289,Neutral,0,0,0
+humanities,1289,Rude,0,0,0
+humanities,1289,Very Rude,0,0,0
+humanities,1294,Very Friendly,0,0,0
+humanities,1294,Friendly,0,0,0
+humanities,1294,Neutral,0,0,0
+humanities,1294,Rude,0,0,0
+humanities,1294,Very Rude,0,0,0
+humanities,1341,Very Friendly,0,0,0
+humanities,1341,Friendly,0,0,0
+humanities,1341,Neutral,100,100,100
+humanities,1341,Rude,0,0,0
+humanities,1341,Very Rude,0,0,0
+humanities,1345,Very Friendly,0,0,0
+humanities,1345,Friendly,0,0,0
+humanities,1345,Neutral,0,0,0
+humanities,1345,Rude,0,0,0
+humanities,1345,Very Rude,0,0,0
+humanities,1352,Very Friendly,0,0,0
+humanities,1352,Friendly,0,0,0
+humanities,1352,Neutral,0,0,0
+humanities,1352,Rude,0,0,0
+humanities,1352,Very Rude,0,0,0
+humanities,1361,Very Friendly,0,0,0
+humanities,1361,Friendly,0,0,0
+humanities,1361,Neutral,0,0,0
+humanities,1361,Rude,0,0,0
+humanities,1361,Very Rude,0,0,0
+humanities,1362,Very Friendly,100,100,100
+humanities,1362,Friendly,100,100,100
+humanities,1362,Neutral,100,100,100
+humanities,1362,Rude,100,100,100
+humanities,1362,Very Rude,100,100,100
+humanities,1371,Very Friendly,0,0,0
+humanities,1371,Friendly,0,0,0
+humanities,1371,Neutral,0,0,0
+humanities,1371,Rude,0,0,0
+humanities,1371,Very Rude,0,0,0
+humanities,1375,Very Friendly,0,0,0
+humanities,1375,Friendly,0,0,0
+humanities,1375,Neutral,0,0,0
+humanities,1375,Rude,0,0,0
+humanities,1375,Very Rude,0,0,0
+humanities,1376,Very Friendly,100,100,100
+humanities,1376,Friendly,100,100,100
+humanities,1376,Neutral,100,100,100
+humanities,1376,Rude,100,100,100
+humanities,1376,Very Rude,100,100,100
+humanities,1379,Very Friendly,100,100,100
+humanities,1379,Friendly,100,100,100
+humanities,1379,Neutral,100,100,100
+humanities,1379,Rude,100,100,100
+humanities,1379,Very Rude,100,100,100
+humanities,1392,Very Friendly,100,100,100
+humanities,1392,Friendly,100,100,100
+humanities,1392,Neutral,100,100,100
+humanities,1392,Rude,100,100,100
+humanities,1392,Very Rude,100,100,100
+humanities,1403,Very Friendly,0,0,0
+humanities,1403,Friendly,0,0,0
+humanities,1403,Neutral,0,0,0
+humanities,1403,Rude,0,0,0
+humanities,1403,Very Rude,0,0,0
+humanities,1413,Very Friendly,0,0,0
+humanities,1413,Friendly,0,0,0
+humanities,1413,Neutral,0,0,0
+humanities,1413,Rude,0,0,0
+humanities,1413,Very Rude,0,0,0
+humanities,1414,Very Friendly,100,100,100
+humanities,1414,Friendly,100,100,100
+humanities,1414,Neutral,100,100,100
+humanities,1414,Rude,100,100,100
+humanities,1414,Very Rude,100,100,100
+humanities,1421,Very Friendly,100,100,100
+humanities,1421,Friendly,100,100,100
+humanities,1421,Neutral,100,100,100
+humanities,1421,Rude,100,100,100
+humanities,1421,Very Rude,100,100,100
+humanities,1422,Very Friendly,100,100,100
+humanities,1422,Friendly,100,100,100
+humanities,1422,Neutral,100,100,100
+humanities,1422,Rude,100,100,100
+humanities,1422,Very Rude,100,100,100
+humanities,1428,Very Friendly,0,0,0
+humanities,1428,Friendly,0,0,0
+humanities,1428,Neutral,0,0,0
+humanities,1428,Rude,100,100,100
+humanities,1428,Very Rude,100,100,100
+humanities,1452,Very Friendly,100,100,100
+humanities,1452,Friendly,100,100,100
+humanities,1452,Neutral,100,100,100
+humanities,1452,Rude,100,100,100
+humanities,1452,Very Rude,100,100,100
+humanities,1457,Very Friendly,0,0,0
+humanities,1457,Friendly,0,0,0
+humanities,1457,Neutral,0,0,0
+humanities,1457,Rude,0,0,0
+humanities,1457,Very Rude,0,0,0
+humanities,1481,Very Friendly,0,0,0
+humanities,1481,Friendly,0,0,0
+humanities,1481,Neutral,0,0,0
+humanities,1481,Rude,0,0,0
+humanities,1481,Very Rude,0,0,0
+humanities,1488,Very Friendly,0,0,0
+humanities,1488,Friendly,0,0,0
+humanities,1488,Neutral,0,0,0
+humanities,1488,Rude,0,0,0
+humanities,1488,Very Rude,0,0,0
+humanities,1506,Very Friendly,100,100,100
+humanities,1506,Friendly,100,100,100
+humanities,1506,Neutral,100,100,100
+humanities,1506,Rude,100,100,100
+humanities,1506,Very Rude,100,100,100
+humanities,1508,Very Friendly,100,100,100
+humanities,1508,Friendly,100,100,100
+humanities,1508,Neutral,100,100,100
+humanities,1508,Rude,100,100,100
+humanities,1508,Very Rude,100,100,100
+humanities,1511,Very Friendly,0,0,0
+humanities,1511,Friendly,0,0,0
+humanities,1511,Neutral,0,0,0
+humanities,1511,Rude,0,0,0
+humanities,1511,Very Rude,0,0,0
+humanities,1533,Very Friendly,0,0,0
+humanities,1533,Friendly,0,0,0
+humanities,1533,Neutral,0,0,0
+humanities,1533,Rude,0,0,0
+humanities,1533,Very Rude,0,0,0
+humanities,1534,Very Friendly,100,100,100
+humanities,1534,Friendly,100,100,100
+humanities,1534,Neutral,100,100,100
+humanities,1534,Rude,100,100,100
+humanities,1534,Very Rude,100,100,100
+humanities,1535,Very Friendly,0,0,0
+humanities,1535,Friendly,0,0,0
+humanities,1535,Neutral,0,0,0
+humanities,1535,Rude,0,0,0
+humanities,1535,Very Rude,0,0,0
+humanities,1537,Very Friendly,0,0,0
+humanities,1537,Friendly,0,0,0
+humanities,1537,Neutral,0,0,0
+humanities,1537,Rude,0,0,0
+humanities,1537,Very Rude,0,0,0
+humanities,1540,Very Friendly,100,100,100
+humanities,1540,Friendly,100,100,100
+humanities,1540,Neutral,100,100,100
+humanities,1540,Rude,100,100,100
+humanities,1540,Very Rude,100,100,100
+humanities,1551,Very Friendly,0,0,0
+humanities,1551,Friendly,0,0,0
+humanities,1551,Neutral,0,0,0
+humanities,1551,Rude,0,0,0
+humanities,1551,Very Rude,0,0,0
+humanities,1564,Very Friendly,0,0,0
+humanities,1564,Friendly,0,0,0
+humanities,1564,Neutral,0,0,0
+humanities,1564,Rude,0,0,0
+humanities,1564,Very Rude,0,0,0
+humanities,1579,Very Friendly,0,0,0
+humanities,1579,Friendly,0,0,0
+humanities,1579,Neutral,0,0,0
+humanities,1579,Rude,0,0,0
+humanities,1579,Very Rude,0,0,0
+humanities,1584,Very Friendly,0,0,0
+humanities,1584,Friendly,0,0,0
+humanities,1584,Neutral,0,0,0
+humanities,1584,Rude,0,0,0
+humanities,1584,Very Rude,0,0,0
+humanities,1589,Very Friendly,0,0,0
+humanities,1589,Friendly,0,0,0
+humanities,1589,Neutral,0,0,0
+humanities,1589,Rude,0,0,0
+humanities,1589,Very Rude,0,0,0
+humanities,1599,Very Friendly,100,100,100
+humanities,1599,Friendly,0,0,0
+humanities,1599,Neutral,0,0,0
+humanities,1599,Rude,0,0,0
+humanities,1599,Very Rude,100,100,100
+humanities,1607,Very Friendly,0,0,0
+humanities,1607,Friendly,0,0,0
+humanities,1607,Neutral,0,0,0
+humanities,1607,Rude,0,0,0
+humanities,1607,Very Rude,0,0,0
+humanities,1663,Very Friendly,0,0,0
+humanities,1663,Friendly,0,0,0
+humanities,1663,Neutral,0,0,0
+humanities,1663,Rude,0,0,0
+humanities,1663,Very Rude,0,0,0
+humanities,1676,Very Friendly,0,0,0
+humanities,1676,Friendly,0,0,0
+humanities,1676,Neutral,0,0,0
+humanities,1676,Rude,0,0,0
+humanities,1676,Very Rude,0,0,0
+humanities,1692,Very Friendly,0,0,0
+humanities,1692,Friendly,0,0,0
+humanities,1692,Neutral,0,0,0
+humanities,1692,Rude,0,0,0
+humanities,1692,Very Rude,0,0,0
+humanities,1715,Very Friendly,0,0,0
+humanities,1715,Friendly,0,0,0
+humanities,1715,Neutral,0,0,0
+humanities,1715,Rude,0,0,0
+humanities,1715,Very Rude,0,0,0
+humanities,1721,Very Friendly,100,100,100
+humanities,1721,Friendly,100,100,100
+humanities,1721,Neutral,100,100,100
+humanities,1721,Rude,100,100,100
+humanities,1721,Very Rude,100,100,100
+humanities,1729,Very Friendly,0,0,0
+humanities,1729,Friendly,0,0,0
+humanities,1729,Neutral,0,0,0
+humanities,1729,Rude,0,0,0
+humanities,1729,Very Rude,0,0,0
+humanities,1740,Very Friendly,0,0,0
+humanities,1740,Friendly,0,0,0
+humanities,1740,Neutral,0,0,0
+humanities,1740,Rude,0,0,0
+humanities,1740,Very Rude,0,0,0
+humanities,1768,Very Friendly,0,0,0
+humanities,1768,Friendly,0,0,0
+humanities,1768,Neutral,0,0,0
+humanities,1768,Rude,0,0,0
+humanities,1768,Very Rude,0,0,0
+humanities,1778,Very Friendly,0,0,0
+humanities,1778,Friendly,0,0,0
+humanities,1778,Neutral,0,0,0
+humanities,1778,Rude,0,0,0
+humanities,1778,Very Rude,0,0,0
+humanities,1781,Very Friendly,0,0,0
+humanities,1781,Friendly,0,0,0
+humanities,1781,Neutral,0,0,0
+humanities,1781,Rude,0,0,0
+humanities,1781,Very Rude,0,0,0
+humanities,1783,Very Friendly,0,0,0
+humanities,1783,Friendly,0,0,0
+humanities,1783,Neutral,0,0,0
+humanities,1783,Rude,0,0,0
+humanities,1783,Very Rude,0,0,0
+humanities,1788,Very Friendly,0,0,0
+humanities,1788,Friendly,0,0,0
+humanities,1788,Neutral,0,0,0
+humanities,1788,Rude,0,0,0
+humanities,1788,Very Rude,0,0,0
+humanities,1801,Very Friendly,100,100,100
+humanities,1801,Friendly,100,100,100
+humanities,1801,Neutral,100,100,100
+humanities,1801,Rude,100,100,100
+humanities,1801,Very Rude,100,100,100
+humanities,1814,Very Friendly,0,0,0
+humanities,1814,Friendly,0,0,0
+humanities,1814,Neutral,0,0,0
+humanities,1814,Rude,0,0,0
+humanities,1814,Very Rude,0,0,0
+humanities,1823,Very Friendly,0,0,0
+humanities,1823,Friendly,0,0,0
+humanities,1823,Neutral,0,0,0
+humanities,1823,Rude,0,0,0
+humanities,1823,Very Rude,0,0,0
+humanities,1840,Very Friendly,100,100,100
+humanities,1840,Friendly,100,100,100
+humanities,1840,Neutral,100,100,100
+humanities,1840,Rude,100,100,100
+humanities,1840,Very Rude,100,100,100
+humanities,1841,Very Friendly,100,100,100
+humanities,1841,Friendly,100,100,100
+humanities,1841,Neutral,100,100,100
+humanities,1841,Rude,100,100,100
+humanities,1841,Very Rude,100,100,100
+humanities,1843,Very Friendly,0,0,0
+humanities,1843,Friendly,0,0,0
+humanities,1843,Neutral,0,0,0
+humanities,1843,Rude,0,0,0
+humanities,1843,Very Rude,0,0,0
+humanities,1847,Very Friendly,0,0,0
+humanities,1847,Friendly,0,0,0
+humanities,1847,Neutral,0,0,0
+humanities,1847,Rude,0,0,0
+humanities,1847,Very Rude,0,0,0
+humanities,1868,Very Friendly,0,0,0
+humanities,1868,Friendly,0,0,0
+humanities,1868,Neutral,0,0,0
+humanities,1868,Rude,0,0,0
+humanities,1868,Very Rude,0,0,0
+humanities,1874,Very Friendly,0,0,0
+humanities,1874,Friendly,0,0,0
+humanities,1874,Neutral,0,0,0
+humanities,1874,Rude,0,0,0
+humanities,1874,Very Rude,0,0,0
+humanities,1878,Very Friendly,0,0,0
+humanities,1878,Friendly,0,0,0
+humanities,1878,Neutral,0,0,0
+humanities,1878,Rude,0,0,0
+humanities,1878,Very Rude,0,0,0
+humanities,1882,Very Friendly,100,100,100
+humanities,1882,Friendly,100,100,100
+humanities,1882,Neutral,100,100,100
+humanities,1882,Rude,100,100,100
+humanities,1882,Very Rude,100,100,100
+humanities,1887,Very Friendly,0,0,0
+humanities,1887,Friendly,0,0,0
+humanities,1887,Neutral,0,0,0
+humanities,1887,Rude,0,0,0
+humanities,1887,Very Rude,0,0,0
+humanities,1899,Very Friendly,0,0,0
+humanities,1899,Friendly,0,0,0
+humanities,1899,Neutral,0,0,0
+humanities,1899,Rude,0,0,0
+humanities,1899,Very Rude,0,0,0
+humanities,1937,Very Friendly,0,0,0
+humanities,1937,Friendly,0,0,0
+humanities,1937,Neutral,0,0,0
+humanities,1937,Rude,0,0,0
+humanities,1937,Very Rude,0,0,0
+humanities,2005,Very Friendly,0,0,0
+humanities,2005,Friendly,0,0,0
+humanities,2005,Neutral,0,0,0
+humanities,2005,Rude,0,0,0
+humanities,2005,Very Rude,0,0,0
+humanities,2025,Very Friendly,0,0,0
+humanities,2025,Friendly,0,0,0
+humanities,2025,Neutral,0,0,0
+humanities,2025,Rude,0,0,0
+humanities,2025,Very Rude,0,0,0
+humanities,2030,Very Friendly,0,0,0
+humanities,2030,Friendly,0,0,0
+humanities,2030,Neutral,0,0,0
+humanities,2030,Rude,0,0,0
+humanities,2030,Very Rude,0,0,0
+humanities,2035,Very Friendly,0,0,0
+humanities,2035,Friendly,0,0,0
+humanities,2035,Neutral,0,0,0
+humanities,2035,Rude,0,0,0
+humanities,2035,Very Rude,0,0,0
+humanities,2089,Very Friendly,100,100,100
+humanities,2089,Friendly,100,100,100
+humanities,2089,Neutral,0,0,0
+humanities,2089,Rude,100,100,100
+humanities,2089,Very Rude,100,100,100
+humanities,2097,Very Friendly,0,0,0
+humanities,2097,Friendly,0,0,0
+humanities,2097,Neutral,0,0,0
+humanities,2097,Rude,0,0,0
+humanities,2097,Very Rude,0,0,0
+humanities,2100,Very Friendly,100,100,100
+humanities,2100,Friendly,100,100,100
+humanities,2100,Neutral,100,100,100
+humanities,2100,Rude,100,100,100
+humanities,2100,Very Rude,100,100,100
+humanities,2101,Very Friendly,100,100,100
+humanities,2101,Friendly,100,100,100
+humanities,2101,Neutral,100,100,100
+humanities,2101,Rude,100,100,100
+humanities,2101,Very Rude,100,100,100
+humanities,2102,Very Friendly,0,0,0
+humanities,2102,Friendly,0,0,0
+humanities,2102,Neutral,0,0,0
+humanities,2102,Rude,0,0,0
+humanities,2102,Very Rude,0,0,0
+humanities,2115,Very Friendly,0,0,0
+humanities,2115,Friendly,100,100,100
+humanities,2115,Neutral,100,100,100
+humanities,2115,Rude,100,100,100
+humanities,2115,Very Rude,100,100,100
+humanities,2128,Very Friendly,0,0,0
+humanities,2128,Friendly,0,0,0
+humanities,2128,Neutral,0,0,0
+humanities,2128,Rude,0,0,0
+humanities,2128,Very Rude,0,0,0
+humanities,2132,Very Friendly,100,100,100
+humanities,2132,Friendly,100,100,100
+humanities,2132,Neutral,0,0,0
+humanities,2132,Rude,100,100,100
+humanities,2132,Very Rude,100,100,100
+humanities,2139,Very Friendly,0,0,0
+humanities,2139,Friendly,0,0,0
+humanities,2139,Neutral,0,0,0
+humanities,2139,Rude,0,0,0
+humanities,2139,Very Rude,0,0,0
+humanities,2145,Very Friendly,0,0,0
+humanities,2145,Friendly,0,0,0
+humanities,2145,Neutral,0,0,0
+humanities,2145,Rude,0,0,0
+humanities,2145,Very Rude,0,0,0
+humanities,2147,Very Friendly,0,0,0
+humanities,2147,Friendly,0,0,0
+humanities,2147,Neutral,0,0,0
+humanities,2147,Rude,0,0,0
+humanities,2147,Very Rude,0,0,0
+humanities,2168,Very Friendly,0,0,0
+humanities,2168,Friendly,0,0,0
+humanities,2168,Neutral,0,0,0
+humanities,2168,Rude,0,0,0
+humanities,2168,Very Rude,0,0,0
+humanities,2190,Very Friendly,0,0,0
+humanities,2190,Friendly,0,0,0
+humanities,2190,Neutral,0,0,0
+humanities,2190,Rude,0,0,0
+humanities,2190,Very Rude,0,0,0
+humanities,2192,Very Friendly,0,0,0
+humanities,2192,Friendly,0,0,0
+humanities,2192,Neutral,0,0,0
+humanities,2192,Rude,0,0,0
+humanities,2192,Very Rude,0,0,0
+humanities,2218,Very Friendly,0,0,0
+humanities,2218,Friendly,0,0,0
+humanities,2218,Neutral,0,0,0
+humanities,2218,Rude,0,0,0
+humanities,2218,Very Rude,0,0,0
+humanities,2243,Very Friendly,0,0,0
+humanities,2243,Friendly,0,0,0
+humanities,2243,Neutral,0,0,0
+humanities,2243,Rude,0,0,0
+humanities,2243,Very Rude,0,0,0
+humanities,2250,Very Friendly,0,0,0
+humanities,2250,Friendly,0,0,0
+humanities,2250,Neutral,0,0,0
+humanities,2250,Rude,0,0,0
+humanities,2250,Very Rude,0,0,0
+humanities,2260,Very Friendly,100,100,100
+humanities,2260,Friendly,100,100,100
+humanities,2260,Neutral,100,100,100
+humanities,2260,Rude,100,100,100
+humanities,2260,Very Rude,100,100,100
+humanities,2267,Very Friendly,100,100,100
+humanities,2267,Friendly,100,100,100
+humanities,2267,Neutral,100,100,100
+humanities,2267,Rude,100,100,100
+humanities,2267,Very Rude,100,100,100
+humanities,2269,Very Friendly,0,0,0
+humanities,2269,Friendly,0,0,0
+humanities,2269,Neutral,0,0,0
+humanities,2269,Rude,0,0,0
+humanities,2269,Very Rude,0,0,0
+humanities,2270,Very Friendly,0,0,0
+humanities,2270,Friendly,0,0,0
+humanities,2270,Neutral,0,0,0
+humanities,2270,Rude,0,0,0
+humanities,2270,Very Rude,0,0,0
+humanities,2284,Very Friendly,0,0,0
+humanities,2284,Friendly,0,0,0
+humanities,2284,Neutral,0,0,0
+humanities,2284,Rude,0,0,0
+humanities,2284,Very Rude,0,0,0
+humanities,2293,Very Friendly,100,100,100
+humanities,2293,Friendly,100,100,100
+humanities,2293,Neutral,100,100,100
+humanities,2293,Rude,100,100,100
+humanities,2293,Very Rude,100,100,100
+humanities,2296,Very Friendly,0,0,0
+humanities,2296,Friendly,0,0,0
+humanities,2296,Neutral,0,0,0
+humanities,2296,Rude,0,0,0
+humanities,2296,Very Rude,0,0,0
+humanities,2306,Very Friendly,0,0,0
+humanities,2306,Friendly,0,0,0
+humanities,2306,Neutral,0,0,0
+humanities,2306,Rude,0,0,0
+humanities,2306,Very Rude,0,0,0
+humanities,2308,Very Friendly,0,0,0
+humanities,2308,Friendly,0,0,0
+humanities,2308,Neutral,0,0,0
+humanities,2308,Rude,0,0,0
+humanities,2308,Very Rude,0,0,0
+humanities,2310,Very Friendly,0,0,0
+humanities,2310,Friendly,0,0,0
+humanities,2310,Neutral,0,0,0
+humanities,2310,Rude,0,0,0
+humanities,2310,Very Rude,0,0,0
+humanities,2313,Very Friendly,100,100,100
+humanities,2313,Friendly,100,100,100
+humanities,2313,Neutral,100,100,100
+humanities,2313,Rude,100,100,100
+humanities,2313,Very Rude,100,100,100
+humanities,2347,Very Friendly,100,100,100
+humanities,2347,Friendly,100,100,100
+humanities,2347,Neutral,100,100,100
+humanities,2347,Rude,100,100,100
+humanities,2347,Very Rude,100,100,100
+humanities,2356,Very Friendly,0,0,0
+humanities,2356,Friendly,0,0,0
+humanities,2356,Neutral,0,0,0
+humanities,2356,Rude,0,0,0
+humanities,2356,Very Rude,0,0,0
+humanities,2370,Very Friendly,100,100,100
+humanities,2370,Friendly,100,100,100
+humanities,2370,Neutral,100,100,100
+humanities,2370,Rude,100,100,100
+humanities,2370,Very Rude,100,100,100
+humanities,2375,Very Friendly,100,100,100
+humanities,2375,Friendly,100,100,100
+humanities,2375,Neutral,100,100,100
+humanities,2375,Rude,100,100,100
+humanities,2375,Very Rude,100,100,100
+humanities,2388,Very Friendly,0,0,0
+humanities,2388,Friendly,0,0,0
+humanities,2388,Neutral,0,0,0
+humanities,2388,Rude,0,0,0
+humanities,2388,Very Rude,0,0,0
+humanities,2390,Very Friendly,100,100,100
+humanities,2390,Friendly,100,100,100
+humanities,2390,Neutral,100,100,100
+humanities,2390,Rude,100,100,100
+humanities,2390,Very Rude,100,100,100
+humanities,2405,Very Friendly,100,100,100
+humanities,2405,Friendly,100,100,100
+humanities,2405,Neutral,100,100,100
+humanities,2405,Rude,100,100,100
+humanities,2405,Very Rude,100,100,100
+humanities,2406,Very Friendly,100,100,100
+humanities,2406,Friendly,100,100,100
+humanities,2406,Neutral,100,100,100
+humanities,2406,Rude,100,100,100
+humanities,2406,Very Rude,100,100,100
+humanities,2408,Very Friendly,0,0,0
+humanities,2408,Friendly,0,0,0
+humanities,2408,Neutral,0,0,0
+humanities,2408,Rude,0,0,0
+humanities,2408,Very Rude,0,0,0
+humanities,2414,Very Friendly,100,100,100
+humanities,2414,Friendly,100,100,100
+humanities,2414,Neutral,100,100,100
+humanities,2414,Rude,100,100,100
+humanities,2414,Very Rude,100,100,100
+humanities,2417,Very Friendly,0,0,0
+humanities,2417,Friendly,0,0,0
+humanities,2417,Neutral,0,0,0
+humanities,2417,Rude,0,0,0
+humanities,2417,Very Rude,0,0,0
+humanities,2418,Very Friendly,0,0,0
+humanities,2418,Friendly,0,0,0
+humanities,2418,Neutral,0,0,0
+humanities,2418,Rude,0,0,0
+humanities,2418,Very Rude,0,0,0
+humanities,2430,Very Friendly,100,100,100
+humanities,2430,Friendly,100,100,100
+humanities,2430,Neutral,100,100,100
+humanities,2430,Rude,100,100,100
+humanities,2430,Very Rude,100,100,100
+humanities,2440,Very Friendly,0,0,0
+humanities,2440,Friendly,0,0,0
+humanities,2440,Neutral,0,0,0
+humanities,2440,Rude,0,0,0
+humanities,2440,Very Rude,0,0,0
+humanities,2459,Very Friendly,100,100,100
+humanities,2459,Friendly,100,100,100
+humanities,2459,Neutral,100,100,100
+humanities,2459,Rude,100,100,100
+humanities,2459,Very Rude,100,100,100
+humanities,2497,Very Friendly,0,0,0
+humanities,2497,Friendly,0,0,0
+humanities,2497,Neutral,0,0,0
+humanities,2497,Rude,0,0,0
+humanities,2497,Very Rude,0,0,0
+humanities,2504,Very Friendly,0,0,0
+humanities,2504,Friendly,0,0,0
+humanities,2504,Neutral,0,0,0
+humanities,2504,Rude,0,0,0
+humanities,2504,Very Rude,0,0,0
+humanities,2523,Very Friendly,100,100,100
+humanities,2523,Friendly,100,100,100
+humanities,2523,Neutral,100,100,100
+humanities,2523,Rude,100,100,100
+humanities,2523,Very Rude,100,100,100
+humanities,2526,Very Friendly,100,100,100
+humanities,2526,Friendly,0,0,0
+humanities,2526,Neutral,100,100,100
+humanities,2526,Rude,100,100,100
+humanities,2526,Very Rude,100,100,100
+humanities,2535,Very Friendly,100,100,100
+humanities,2535,Friendly,100,100,100
+humanities,2535,Neutral,100,100,100
+humanities,2535,Rude,100,100,100
+humanities,2535,Very Rude,100,100,100
+humanities,2556,Very Friendly,100,100,100
+humanities,2556,Friendly,100,100,100
+humanities,2556,Neutral,100,100,100
+humanities,2556,Rude,100,100,100
+humanities,2556,Very Rude,100,100,100
+humanities,2562,Very Friendly,0,0,0
+humanities,2562,Friendly,0,0,0
+humanities,2562,Neutral,0,0,0
+humanities,2562,Rude,0,0,0
+humanities,2562,Very Rude,0,0,0
+humanities,2570,Very Friendly,100,100,100
+humanities,2570,Friendly,100,100,100
+humanities,2570,Neutral,100,100,100
+humanities,2570,Rude,100,100,100
+humanities,2570,Very Rude,100,100,100
+humanities,2586,Very Friendly,0,0,0
+humanities,2586,Friendly,0,0,0
+humanities,2586,Neutral,0,0,0
+humanities,2586,Rude,0,0,0
+humanities,2586,Very Rude,0,0,0
+humanities,2592,Very Friendly,0,0,0
+humanities,2592,Friendly,0,0,0
+humanities,2592,Neutral,0,0,0
+humanities,2592,Rude,0,0,0
+humanities,2592,Very Rude,0,0,0
+humanities,2597,Very Friendly,100,100,100
+humanities,2597,Friendly,100,100,100
+humanities,2597,Neutral,100,100,100
+humanities,2597,Rude,100,100,100
+humanities,2597,Very Rude,100,100,100
+humanities,2606,Very Friendly,0,0,0
+humanities,2606,Friendly,0,0,0
+humanities,2606,Neutral,0,0,0
+humanities,2606,Rude,0,0,0
+humanities,2606,Very Rude,0,0,0
+humanities,2618,Very Friendly,100,100,100
+humanities,2618,Friendly,100,100,100
+humanities,2618,Neutral,100,100,100
+humanities,2618,Rude,100,100,100
+humanities,2618,Very Rude,100,100,100
+humanities,2624,Very Friendly,100,100,100
+humanities,2624,Friendly,100,100,100
+humanities,2624,Neutral,100,100,100
+humanities,2624,Rude,0,0,0
+humanities,2624,Very Rude,0,0,0
+humanities,2628,Very Friendly,0,0,0
+humanities,2628,Friendly,0,0,0
+humanities,2628,Neutral,0,0,0
+humanities,2628,Rude,0,0,0
+humanities,2628,Very Rude,0,0,0
+humanities,2641,Very Friendly,100,100,100
+humanities,2641,Friendly,100,100,100
+humanities,2641,Neutral,100,100,100
+humanities,2641,Rude,100,100,100
+humanities,2641,Very Rude,100,100,100
+humanities,2647,Very Friendly,0,0,0
+humanities,2647,Friendly,0,0,0
+humanities,2647,Neutral,0,0,0
+humanities,2647,Rude,0,0,0
+humanities,2647,Very Rude,0,0,0
+humanities,2652,Very Friendly,0,0,0
+humanities,2652,Friendly,100,100,100
+humanities,2652,Neutral,100,100,100
+humanities,2652,Rude,0,0,0
+humanities,2652,Very Rude,0,0,0
+humanities,2657,Very Friendly,100,100,100
+humanities,2657,Friendly,100,100,100
+humanities,2657,Neutral,100,100,100
+humanities,2657,Rude,100,100,100
+humanities,2657,Very Rude,100,100,100
+humanities,2664,Very Friendly,100,100,100
+humanities,2664,Friendly,100,100,100
+humanities,2664,Neutral,100,100,100
+humanities,2664,Rude,0,0,0
+humanities,2664,Very Rude,100,100,100
+humanities,2667,Very Friendly,0,0,0
+humanities,2667,Friendly,0,0,0
+humanities,2667,Neutral,0,0,0
+humanities,2667,Rude,0,0,0
+humanities,2667,Very Rude,100,100,100
+humanities,2701,Very Friendly,100,100,100
+humanities,2701,Friendly,100,100,100
+humanities,2701,Neutral,100,100,100
+humanities,2701,Rude,100,100,100
+humanities,2701,Very Rude,100,100,100
+humanities,2705,Very Friendly,100,100,100
+humanities,2705,Friendly,100,100,100
+humanities,2705,Neutral,100,100,100
+humanities,2705,Rude,100,100,100
+humanities,2705,Very Rude,100,100,100
+humanities,2706,Very Friendly,0,0,0
+humanities,2706,Friendly,0,0,0
+humanities,2706,Neutral,0,0,0
+humanities,2706,Rude,0,0,0
+humanities,2706,Very Rude,0,0,0
+humanities,2716,Very Friendly,100,100,100
+humanities,2716,Friendly,100,100,100
+humanities,2716,Neutral,100,100,100
+humanities,2716,Rude,100,100,100
+humanities,2716,Very Rude,100,100,100
+humanities,2726,Very Friendly,0,0,0
+humanities,2726,Friendly,0,0,0
+humanities,2726,Neutral,0,0,0
+humanities,2726,Rude,0,0,0
+humanities,2726,Very Rude,0,0,0
+humanities,2733,Very Friendly,100,100,100
+humanities,2733,Friendly,100,100,100
+humanities,2733,Neutral,100,100,100
+humanities,2733,Rude,100,100,100
+humanities,2733,Very Rude,0,0,0
+humanities,2742,Very Friendly,0,0,0
+humanities,2742,Friendly,100,100,100
+humanities,2742,Neutral,0,0,0
+humanities,2742,Rude,0,0,0
+humanities,2742,Very Rude,0,0,0
+humanities,2781,Very Friendly,100,100,100
+humanities,2781,Friendly,100,100,100
+humanities,2781,Neutral,100,100,100
+humanities,2781,Rude,100,100,100
+humanities,2781,Very Rude,100,100,100
+humanities,2793,Very Friendly,0,0,0
+humanities,2793,Friendly,0,0,0
+humanities,2793,Neutral,0,0,0
+humanities,2793,Rude,0,0,0
+humanities,2793,Very Rude,0,0,0
+humanities,2795,Very Friendly,100,100,100
+humanities,2795,Friendly,100,100,100
+humanities,2795,Neutral,100,100,100
+humanities,2795,Rude,100,100,100
+humanities,2795,Very Rude,100,100,100
+humanities,2810,Very Friendly,100,100,100
+humanities,2810,Friendly,100,100,100
+humanities,2810,Neutral,100,100,100
+humanities,2810,Rude,100,100,100
+humanities,2810,Very Rude,100,100,100
+humanities,2813,Very Friendly,100,100,100
+humanities,2813,Friendly,100,100,100
+humanities,2813,Neutral,100,100,100
+humanities,2813,Rude,100,100,100
+humanities,2813,Very Rude,100,100,100
+humanities,2814,Very Friendly,100,100,100
+humanities,2814,Friendly,100,100,100
+humanities,2814,Neutral,100,100,100
+humanities,2814,Rude,100,100,100
+humanities,2814,Very Rude,100,100,100
+humanities,2821,Very Friendly,100,100,100
+humanities,2821,Friendly,100,100,100
+humanities,2821,Neutral,100,100,100
+humanities,2821,Rude,100,100,100
+humanities,2821,Very Rude,100,100,100
+humanities,2831,Very Friendly,100,100,100
+humanities,2831,Friendly,100,100,100
+humanities,2831,Neutral,100,100,100
+humanities,2831,Rude,100,100,100
+humanities,2831,Very Rude,100,100,100
+humanities,2851,Very Friendly,100,100,100
+humanities,2851,Friendly,100,100,100
+humanities,2851,Neutral,100,100,100
+humanities,2851,Rude,100,100,100
+humanities,2851,Very Rude,100,100,100
+humanities,2857,Very Friendly,100,100,100
+humanities,2857,Friendly,100,100,100
+humanities,2857,Neutral,100,100,100
+humanities,2857,Rude,100,100,100
+humanities,2857,Very Rude,100,100,100
+humanities,2874,Very Friendly,100,100,100
+humanities,2874,Friendly,100,100,100
+humanities,2874,Neutral,100,100,100
+humanities,2874,Rude,100,100,100
+humanities,2874,Very Rude,100,100,100
+humanities,2880,Very Friendly,100,100,100
+humanities,2880,Friendly,100,100,100
+humanities,2880,Neutral,100,100,100
+humanities,2880,Rude,100,100,100
+humanities,2880,Very Rude,100,100,100
+humanities,2882,Very Friendly,100,100,100
+humanities,2882,Friendly,100,100,100
+humanities,2882,Neutral,100,100,100
+humanities,2882,Rude,100,100,100
+humanities,2882,Very Rude,100,100,100
+humanities,2887,Very Friendly,0,0,0
+humanities,2887,Friendly,0,0,0
+humanities,2887,Neutral,0,0,0
+humanities,2887,Rude,0,0,0
+humanities,2887,Very Rude,0,0,0
+humanities,2898,Very Friendly,100,100,100
+humanities,2898,Friendly,100,100,100
+humanities,2898,Neutral,100,100,100
+humanities,2898,Rude,100,100,100
+humanities,2898,Very Rude,100,100,100
+humanities,2901,Very Friendly,100,100,100
+humanities,2901,Friendly,100,100,100
+humanities,2901,Neutral,0,0,0
+humanities,2901,Rude,100,100,100
+humanities,2901,Very Rude,100,100,100
+humanities,2908,Very Friendly,100,100,100
+humanities,2908,Friendly,100,100,100
+humanities,2908,Neutral,100,100,100
+humanities,2908,Rude,100,100,100
+humanities,2908,Very Rude,100,100,100
+humanities,2911,Very Friendly,100,100,100
+humanities,2911,Friendly,100,100,100
+humanities,2911,Neutral,100,100,100
+humanities,2911,Rude,100,100,100
+humanities,2911,Very Rude,100,100,100
+humanities,2955,Very Friendly,0,0,0
+humanities,2955,Friendly,0,0,0
+humanities,2955,Neutral,0,0,0
+humanities,2955,Rude,0,0,0
+humanities,2955,Very Rude,0,0,0
+humanities,2969,Very Friendly,100,100,100
+humanities,2969,Friendly,100,100,100
+humanities,2969,Neutral,100,100,100
+humanities,2969,Rude,100,100,100
+humanities,2969,Very Rude,100,100,100
+humanities,2978,Very Friendly,0,0,0
+humanities,2978,Friendly,0,0,0
+humanities,2978,Neutral,0,0,0
+humanities,2978,Rude,100,100,100
+humanities,2978,Very Rude,0,0,0
+humanities,2979,Very Friendly,100,100,100
+humanities,2979,Friendly,100,100,100
+humanities,2979,Neutral,100,100,100
+humanities,2979,Rude,100,100,100
+humanities,2979,Very Rude,100,100,100
+humanities,2993,Very Friendly,100,100,100
+humanities,2993,Friendly,100,100,100
+humanities,2993,Neutral,100,100,100
+humanities,2993,Rude,100,100,100
+humanities,2993,Very Rude,100,100,100
+humanities,3001,Very Friendly,100,100,100
+humanities,3001,Friendly,100,100,100
+humanities,3001,Neutral,100,100,100
+humanities,3001,Rude,100,100,100
+humanities,3001,Very Rude,100,100,100
+humanities,3009,Very Friendly,0,0,0
+humanities,3009,Friendly,0,0,0
+humanities,3009,Neutral,0,0,0
+humanities,3009,Rude,0,0,0
+humanities,3009,Very Rude,0,0,0
+humanities,3033,Very Friendly,0,0,0
+humanities,3033,Friendly,0,0,0
+humanities,3033,Neutral,0,0,0
+humanities,3033,Rude,0,0,0
+humanities,3033,Very Rude,0,0,0
+humanities,3040,Very Friendly,0,0,0
+humanities,3040,Friendly,0,0,0
+humanities,3040,Neutral,0,0,0
+humanities,3040,Rude,0,0,0
+humanities,3040,Very Rude,0,0,0
+humanities,3054,Very Friendly,0,0,0
+humanities,3054,Friendly,0,0,0
+humanities,3054,Neutral,0,0,0
+humanities,3054,Rude,0,0,0
+humanities,3054,Very Rude,0,0,0
+humanities,3082,Very Friendly,0,0,0
+humanities,3082,Friendly,0,0,0
+humanities,3082,Neutral,0,0,0
+humanities,3082,Rude,0,0,0
+humanities,3082,Very Rude,0,0,0
+humanities,3092,Very Friendly,0,0,0
+humanities,3092,Friendly,0,0,0
+humanities,3092,Neutral,0,0,0
+humanities,3092,Rude,0,0,0
+humanities,3092,Very Rude,0,0,0
+humanities,3097,Very Friendly,0,100,100
+humanities,3097,Friendly,100,100,100
+humanities,3097,Neutral,100,100,100
+humanities,3097,Rude,100,100,100
+humanities,3097,Very Rude,0,0,0
+humanities,3107,Very Friendly,0,0,0
+humanities,3107,Friendly,0,0,0
+humanities,3107,Neutral,0,0,0
+humanities,3107,Rude,0,0,0
+humanities,3107,Very Rude,0,0,0
+humanities,3114,Very Friendly,0,0,0
+humanities,3114,Friendly,0,0,0
+humanities,3114,Neutral,0,0,0
+humanities,3114,Rude,0,0,0
+humanities,3114,Very Rude,0,0,0
+humanities,3130,Very Friendly,0,0,0
+humanities,3130,Friendly,0,0,0
+humanities,3130,Neutral,0,0,0
+humanities,3130,Rude,0,0,0
+humanities,3130,Very Rude,0,0,0
+humanities,3133,Very Friendly,100,100,100
+humanities,3133,Friendly,100,100,100
+humanities,3133,Neutral,100,100,100
+humanities,3133,Rude,100,100,100
+humanities,3133,Very Rude,100,100,100
+humanities,3135,Very Friendly,100,100,100
+humanities,3135,Friendly,100,100,100
+humanities,3135,Neutral,100,100,100
+humanities,3135,Rude,100,100,100
+humanities,3135,Very Rude,100,100,100
+humanities,3144,Very Friendly,0,0,0
+humanities,3144,Friendly,0,0,0
+humanities,3144,Neutral,0,0,0
+humanities,3144,Rude,0,0,0
+humanities,3144,Very Rude,0,0,0
+humanities,3162,Very Friendly,100,100,100
+humanities,3162,Friendly,100,100,100
+humanities,3162,Neutral,100,100,100
+humanities,3162,Rude,100,100,100
+humanities,3162,Very Rude,100,100,100
+humanities,3169,Very Friendly,0,0,0
+humanities,3169,Friendly,0,0,0
+humanities,3169,Neutral,0,0,0
+humanities,3169,Rude,0,0,0
+humanities,3169,Very Rude,0,0,0
+humanities,3190,Very Friendly,100,100,100
+humanities,3190,Friendly,100,100,100
+humanities,3190,Neutral,100,100,100
+humanities,3190,Rude,100,100,100
+humanities,3190,Very Rude,100,100,100
+humanities,3201,Very Friendly,0,0,0
+humanities,3201,Friendly,0,0,0
+humanities,3201,Neutral,0,0,0
+humanities,3201,Rude,0,0,0
+humanities,3201,Very Rude,0,0,0
+humanities,3204,Very Friendly,100,100,100
+humanities,3204,Friendly,100,100,100
+humanities,3204,Neutral,100,100,100
+humanities,3204,Rude,100,100,100
+humanities,3204,Very Rude,100,100,100
+humanities,3207,Very Friendly,0,0,0
+humanities,3207,Friendly,0,0,0
+humanities,3207,Neutral,0,0,0
+humanities,3207,Rude,0,0,0
+humanities,3207,Very Rude,0,0,0
+humanities,3221,Very Friendly,0,0,0
+humanities,3221,Friendly,0,0,0
+humanities,3221,Neutral,0,0,0
+humanities,3221,Rude,0,0,0
+humanities,3221,Very Rude,0,0,0
+humanities,3244,Very Friendly,100,100,100
+humanities,3244,Friendly,100,100,100
+humanities,3244,Neutral,100,100,100
+humanities,3244,Rude,100,100,100
+humanities,3244,Very Rude,100,100,100
+humanities,3253,Very Friendly,100,100,100
+humanities,3253,Friendly,100,100,100
+humanities,3253,Neutral,100,100,100
+humanities,3253,Rude,100,100,100
+humanities,3253,Very Rude,100,100,100
+humanities,3254,Very Friendly,0,0,0
+humanities,3254,Friendly,0,0,0
+humanities,3254,Neutral,0,0,0
+humanities,3254,Rude,0,0,0
+humanities,3254,Very Rude,0,0,0
+humanities,3276,Very Friendly,100,100,100
+humanities,3276,Friendly,100,100,100
+humanities,3276,Neutral,100,100,100
+humanities,3276,Rude,100,100,100
+humanities,3276,Very Rude,100,100,100
+humanities,3280,Very Friendly,0,0,0
+humanities,3280,Friendly,0,0,0
+humanities,3280,Neutral,0,0,0
+humanities,3280,Rude,0,0,0
+humanities,3280,Very Rude,0,0,0
+humanities,3304,Very Friendly,0,0,0
+humanities,3304,Friendly,0,0,0
+humanities,3304,Neutral,0,0,0
+humanities,3304,Rude,0,0,0
+humanities,3304,Very Rude,0,0,0
+humanities,3306,Very Friendly,0,0,0
+humanities,3306,Friendly,0,0,0
+humanities,3306,Neutral,0,0,0
+humanities,3306,Rude,0,0,0
+humanities,3306,Very Rude,0,0,0
+humanities,3309,Very Friendly,0,0,0
+humanities,3309,Friendly,0,0,0
+humanities,3309,Neutral,0,0,0
+humanities,3309,Rude,0,0,0
+humanities,3309,Very Rude,0,0,0
+humanities,3313,Very Friendly,100,100,100
+humanities,3313,Friendly,100,100,100
+humanities,3313,Neutral,100,100,100
+humanities,3313,Rude,100,100,100
+humanities,3313,Very Rude,100,100,100
+humanities,3314,Very Friendly,0,0,0
+humanities,3314,Friendly,0,0,0
+humanities,3314,Neutral,0,0,0
+humanities,3314,Rude,0,0,0
+humanities,3314,Very Rude,0,0,0
+humanities,3319,Very Friendly,0,0,0
+humanities,3319,Friendly,0,0,0
+humanities,3319,Neutral,0,0,0
+humanities,3319,Rude,0,0,0
+humanities,3319,Very Rude,0,0,0
+humanities,3321,Very Friendly,0,0,0
+humanities,3321,Friendly,0,0,0
+humanities,3321,Neutral,0,0,0
+humanities,3321,Rude,0,0,0
+humanities,3321,Very Rude,0,0,0
+humanities,3323,Very Friendly,0,0,0
+humanities,3323,Friendly,0,0,0
+humanities,3323,Neutral,0,0,0
+humanities,3323,Rude,100,100,100
+humanities,3323,Very Rude,0,0,0
+humanities,3337,Very Friendly,100,100,100
+humanities,3337,Friendly,0,0,0
+humanities,3337,Neutral,100,100,100
+humanities,3337,Rude,0,0,0
+humanities,3337,Very Rude,100,100,100
+humanities,3351,Very Friendly,100,100,100
+humanities,3351,Friendly,100,100,100
+humanities,3351,Neutral,100,100,100
+humanities,3351,Rude,100,100,100
+humanities,3351,Very Rude,100,100,100
+humanities,3360,Very Friendly,100,100,100
+humanities,3360,Friendly,100,100,100
+humanities,3360,Neutral,100,100,100
+humanities,3360,Rude,100,100,100
+humanities,3360,Very Rude,100,100,100
+humanities,3378,Very Friendly,0,0,0
+humanities,3378,Friendly,0,0,0
+humanities,3378,Neutral,0,0,0
+humanities,3378,Rude,0,0,0
+humanities,3378,Very Rude,0,0,0
+humanities,3399,Very Friendly,100,100,100
+humanities,3399,Friendly,100,100,100
+humanities,3399,Neutral,0,0,0
+humanities,3399,Rude,100,100,100
+humanities,3399,Very Rude,100,100,100
+humanities,3434,Very Friendly,0,0,0
+humanities,3434,Friendly,0,0,0
+humanities,3434,Neutral,0,0,0
+humanities,3434,Rude,0,0,0
+humanities,3434,Very Rude,0,0,0
+humanities,3440,Very Friendly,100,100,100
+humanities,3440,Friendly,100,100,100
+humanities,3440,Neutral,100,100,100
+humanities,3440,Rude,100,100,100
+humanities,3440,Very Rude,100,100,100
+humanities,3478,Very Friendly,0,0,0
+humanities,3478,Friendly,0,0,0
+humanities,3478,Neutral,0,0,0
+humanities,3478,Rude,0,0,0
+humanities,3478,Very Rude,0,0,0
+humanities,3484,Very Friendly,100,100,100
+humanities,3484,Friendly,100,100,100
+humanities,3484,Neutral,100,100,100
+humanities,3484,Rude,100,100,100
+humanities,3484,Very Rude,100,100,100
+humanities,3489,Very Friendly,100,100,100
+humanities,3489,Friendly,100,100,100
+humanities,3489,Neutral,100,100,100
+humanities,3489,Rude,100,100,100
+humanities,3489,Very Rude,100,100,100
+humanities,3495,Very Friendly,0,0,0
+humanities,3495,Friendly,0,0,0
+humanities,3495,Neutral,0,0,0
+humanities,3495,Rude,0,0,0
+humanities,3495,Very Rude,0,0,0
+humanities,3500,Very Friendly,0,0,0
+humanities,3500,Friendly,0,0,0
+humanities,3500,Neutral,0,0,0
+humanities,3500,Rude,0,0,0
+humanities,3500,Very Rude,0,0,0
+humanities,3501,Very Friendly,100,100,100
+humanities,3501,Friendly,100,100,100
+humanities,3501,Neutral,100,100,100
+humanities,3501,Rude,100,100,100
+humanities,3501,Very Rude,100,100,100
+humanities,3505,Very Friendly,0,0,0
+humanities,3505,Friendly,0,0,0
+humanities,3505,Neutral,0,0,0
+humanities,3505,Rude,0,0,0
+humanities,3505,Very Rude,0,0,0
+humanities,3509,Very Friendly,0,0,0
+humanities,3509,Friendly,0,0,0
+humanities,3509,Neutral,0,0,0
+humanities,3509,Rude,0,0,0
+humanities,3509,Very Rude,0,0,0
+humanities,3525,Very Friendly,100,100,100
+humanities,3525,Friendly,100,100,100
+humanities,3525,Neutral,100,100,100
+humanities,3525,Rude,100,100,100
+humanities,3525,Very Rude,100,100,100
+humanities,3540,Very Friendly,0,0,0
+humanities,3540,Friendly,0,0,0
+humanities,3540,Neutral,0,0,0
+humanities,3540,Rude,0,0,0
+humanities,3540,Very Rude,0,0,0
+humanities,3541,Very Friendly,0,0,0
+humanities,3541,Friendly,0,0,0
+humanities,3541,Neutral,0,0,0
+humanities,3541,Rude,0,0,0
+humanities,3541,Very Rude,0,0,0
+humanities,3544,Very Friendly,0,0,0
+humanities,3544,Friendly,0,0,0
+humanities,3544,Neutral,100,100,100
+humanities,3544,Rude,100,100,100
+humanities,3544,Very Rude,0,0,0
+humanities,3545,Very Friendly,100,100,100
+humanities,3545,Friendly,100,100,100
+humanities,3545,Neutral,100,100,100
+humanities,3545,Rude,100,100,100
+humanities,3545,Very Rude,100,100,100
+humanities,3550,Very Friendly,0,0,0
+humanities,3550,Friendly,0,0,0
+humanities,3550,Neutral,0,0,0
+humanities,3550,Rude,0,0,0
+humanities,3550,Very Rude,0,0,0
+humanities,3556,Very Friendly,0,0,0
+humanities,3556,Friendly,0,0,0
+humanities,3556,Neutral,0,0,0
+humanities,3556,Rude,0,0,0
+humanities,3556,Very Rude,0,0,0
+humanities,3565,Very Friendly,0,0,0
+humanities,3565,Friendly,0,0,0
+humanities,3565,Neutral,0,0,0
+humanities,3565,Rude,0,0,0
+humanities,3565,Very Rude,0,0,0
+humanities,3584,Very Friendly,0,0,0
+humanities,3584,Friendly,0,0,0
+humanities,3584,Neutral,0,0,0
+humanities,3584,Rude,0,0,0
+humanities,3584,Very Rude,0,0,0
+humanities,3587,Very Friendly,100,100,100
+humanities,3587,Friendly,100,100,100
+humanities,3587,Neutral,100,100,100
+humanities,3587,Rude,100,100,100
+humanities,3587,Very Rude,100,100,100
+humanities,3589,Very Friendly,0,0,0
+humanities,3589,Friendly,0,0,0
+humanities,3589,Neutral,0,0,0
+humanities,3589,Rude,0,0,0
+humanities,3589,Very Rude,0,0,0
+humanities,3607,Very Friendly,0,0,0
+humanities,3607,Friendly,0,0,0
+humanities,3607,Neutral,0,0,0
+humanities,3607,Rude,0,0,0
+humanities,3607,Very Rude,0,0,0
+humanities,3608,Very Friendly,100,100,100
+humanities,3608,Friendly,100,100,100
+humanities,3608,Neutral,100,100,100
+humanities,3608,Rude,100,100,100
+humanities,3608,Very Rude,100,100,100
+humanities,3618,Very Friendly,0,0,0
+humanities,3618,Friendly,0,0,0
+humanities,3618,Neutral,0,0,0
+humanities,3618,Rude,0,0,0
+humanities,3618,Very Rude,0,0,0
+humanities,3624,Very Friendly,0,0,0
+humanities,3624,Friendly,0,0,0
+humanities,3624,Neutral,0,0,0
+humanities,3624,Rude,0,0,0
+humanities,3624,Very Rude,0,0,0
+humanities,3629,Very Friendly,100,100,100
+humanities,3629,Friendly,100,100,100
+humanities,3629,Neutral,100,100,100
+humanities,3629,Rude,100,100,100
+humanities,3629,Very Rude,100,100,100
+humanities,3682,Very Friendly,0,0,0
+humanities,3682,Friendly,0,0,0
+humanities,3682,Neutral,0,0,0
+humanities,3682,Rude,0,0,0
+humanities,3682,Very Rude,0,0,0
+humanities,3700,Very Friendly,100,100,100
+humanities,3700,Friendly,100,100,100
+humanities,3700,Neutral,100,100,100
+humanities,3700,Rude,100,100,100
+humanities,3700,Very Rude,100,100,100
+humanities,3713,Very Friendly,0,0,0
+humanities,3713,Friendly,0,0,0
+humanities,3713,Neutral,0,0,0
+humanities,3713,Rude,0,0,0
+humanities,3713,Very Rude,0,0,0
+humanities,3716,Very Friendly,100,100,100
+humanities,3716,Friendly,100,100,100
+humanities,3716,Neutral,100,100,100
+humanities,3716,Rude,0,0,0
+humanities,3716,Very Rude,0,0,0
+humanities,3718,Very Friendly,0,0,0
+humanities,3718,Friendly,0,0,0
+humanities,3718,Neutral,0,0,0
+humanities,3718,Rude,0,0,0
+humanities,3718,Very Rude,0,0,0
+humanities,3738,Very Friendly,0,0,0
+humanities,3738,Friendly,0,0,0
+humanities,3738,Neutral,0,0,0
+humanities,3738,Rude,0,0,0
+humanities,3738,Very Rude,0,0,0
+humanities,3752,Very Friendly,0,0,0
+humanities,3752,Friendly,0,0,0
+humanities,3752,Neutral,0,0,0
+humanities,3752,Rude,0,0,0
+humanities,3752,Very Rude,0,0,0
+humanities,3757,Very Friendly,100,100,100
+humanities,3757,Friendly,100,100,100
+humanities,3757,Neutral,100,100,100
+humanities,3757,Rude,100,100,100
+humanities,3757,Very Rude,100,100,100
+humanities,3761,Very Friendly,0,0,0
+humanities,3761,Friendly,0,0,0
+humanities,3761,Neutral,0,0,0
+humanities,3761,Rude,0,0,0
+humanities,3761,Very Rude,0,0,0
+humanities,3762,Very Friendly,0,0,0
+humanities,3762,Friendly,0,0,0
+humanities,3762,Neutral,0,0,0
+humanities,3762,Rude,0,0,0
+humanities,3762,Very Rude,0,0,0
+humanities,3790,Very Friendly,100,100,100
+humanities,3790,Friendly,100,100,100
+humanities,3790,Neutral,100,100,100
+humanities,3790,Rude,100,100,100
+humanities,3790,Very Rude,100,100,100
+humanities,3796,Very Friendly,0,0,0
+humanities,3796,Friendly,0,0,0
+humanities,3796,Neutral,0,0,0
+humanities,3796,Rude,0,0,0
+humanities,3796,Very Rude,0,0,0
+humanities,3798,Very Friendly,0,0,0
+humanities,3798,Friendly,0,0,0
+humanities,3798,Neutral,0,0,0
+humanities,3798,Rude,0,0,0
+humanities,3798,Very Rude,0,0,0
+humanities,3801,Very Friendly,0,0,0
+humanities,3801,Friendly,0,0,0
+humanities,3801,Neutral,0,0,0
+humanities,3801,Rude,0,0,0
+humanities,3801,Very Rude,0,0,0
+humanities,3810,Very Friendly,0,0,0
+humanities,3810,Friendly,0,0,0
+humanities,3810,Neutral,0,0,0
+humanities,3810,Rude,0,0,0
+humanities,3810,Very Rude,0,0,0
+humanities,3817,Very Friendly,0,0,0
+humanities,3817,Friendly,0,0,0
+humanities,3817,Neutral,0,0,0
+humanities,3817,Rude,0,0,0
+humanities,3817,Very Rude,0,0,0
+humanities,3830,Very Friendly,100,100,100
+humanities,3830,Friendly,100,100,100
+humanities,3830,Neutral,100,100,100
+humanities,3830,Rude,100,100,100
+humanities,3830,Very Rude,100,100,100
+humanities,3832,Very Friendly,0,0,0
+humanities,3832,Friendly,0,0,0
+humanities,3832,Neutral,0,0,0
+humanities,3832,Rude,0,0,0
+humanities,3832,Very Rude,0,0,0
+humanities,3839,Very Friendly,0,0,0
+humanities,3839,Friendly,0,0,0
+humanities,3839,Neutral,0,0,0
+humanities,3839,Rude,0,0,0
+humanities,3839,Very Rude,0,0,0
+humanities,3850,Very Friendly,0,0,0
+humanities,3850,Friendly,0,0,0
+humanities,3850,Neutral,0,0,0
+humanities,3850,Rude,0,0,0
+humanities,3850,Very Rude,0,0,0
+humanities,3871,Very Friendly,0,0,0
+humanities,3871,Friendly,0,0,0
+humanities,3871,Neutral,0,0,0
+humanities,3871,Rude,0,0,0
+humanities,3871,Very Rude,0,0,0
+humanities,3872,Very Friendly,100,100,100
+humanities,3872,Friendly,100,100,100
+humanities,3872,Neutral,100,100,100
+humanities,3872,Rude,100,100,100
+humanities,3872,Very Rude,100,100,100
+humanities,3879,Very Friendly,100,100,100
+humanities,3879,Friendly,0,0,0
+humanities,3879,Neutral,0,0,0
+humanities,3879,Rude,0,0,0
+humanities,3879,Very Rude,100,100,100
+humanities,3890,Very Friendly,0,0,0
+humanities,3890,Friendly,0,0,0
+humanities,3890,Neutral,0,0,0
+humanities,3890,Rude,0,0,0
+humanities,3890,Very Rude,0,0,0
+humanities,3906,Very Friendly,0,0,0
+humanities,3906,Friendly,0,0,0
+humanities,3906,Neutral,0,0,0
+humanities,3906,Rude,0,0,0
+humanities,3906,Very Rude,0,0,0
+humanities,3908,Very Friendly,0,0,0
+humanities,3908,Friendly,0,0,0
+humanities,3908,Neutral,0,0,0
+humanities,3908,Rude,0,0,0
+humanities,3908,Very Rude,0,0,0
+humanities,3917,Very Friendly,100,100,100
+humanities,3917,Friendly,100,100,100
+humanities,3917,Neutral,100,100,100
+humanities,3917,Rude,100,100,100
+humanities,3917,Very Rude,100,100,100
+humanities,3928,Very Friendly,0,0,0
+humanities,3928,Friendly,0,0,0
+humanities,3928,Neutral,0,0,0
+humanities,3928,Rude,0,0,0
+humanities,3928,Very Rude,0,0,0
+humanities,3931,Very Friendly,0,0,0
+humanities,3931,Friendly,0,0,0
+humanities,3931,Neutral,0,0,0
+humanities,3931,Rude,0,0,0
+humanities,3931,Very Rude,0,0,0
+humanities,3932,Very Friendly,0,0,0
+humanities,3932,Friendly,0,0,0
+humanities,3932,Neutral,100,100,100
+humanities,3932,Rude,0,0,0
+humanities,3932,Very Rude,0,0,0
+humanities,3933,Very Friendly,0,0,0
+humanities,3933,Friendly,0,0,0
+humanities,3933,Neutral,0,0,0
+humanities,3933,Rude,0,0,0
+humanities,3933,Very Rude,0,0,0
+humanities,3943,Very Friendly,0,0,0
+humanities,3943,Friendly,0,0,0
+humanities,3943,Neutral,0,0,0
+humanities,3943,Rude,0,0,0
+humanities,3943,Very Rude,0,0,0
+humanities,3945,Very Friendly,0,0,0
+humanities,3945,Friendly,0,0,0
+humanities,3945,Neutral,0,0,0
+humanities,3945,Rude,0,0,0
+humanities,3945,Very Rude,0,0,0
+humanities,3948,Very Friendly,100,100,100
+humanities,3948,Friendly,100,100,100
+humanities,3948,Neutral,100,100,100
+humanities,3948,Rude,100,100,100
+humanities,3948,Very Rude,100,100,100
+humanities,3965,Very Friendly,0,0,0
+humanities,3965,Friendly,0,0,0
+humanities,3965,Neutral,0,0,0
+humanities,3965,Rude,0,0,0
+humanities,3965,Very Rude,0,0,0
+humanities,4003,Very Friendly,100,100,100
+humanities,4003,Friendly,100,100,100
+humanities,4003,Neutral,100,100,100
+humanities,4003,Rude,100,100,100
+humanities,4003,Very Rude,100,100,100
+humanities,4006,Very Friendly,100,100,100
+humanities,4006,Friendly,100,100,100
+humanities,4006,Neutral,100,100,100
+humanities,4006,Rude,100,100,100
+humanities,4006,Very Rude,100,100,100
+humanities,4020,Very Friendly,0,0,0
+humanities,4020,Friendly,0,0,0
+humanities,4020,Neutral,0,0,0
+humanities,4020,Rude,0,0,0
+humanities,4020,Very Rude,0,0,0
+humanities,4025,Very Friendly,100,100,100
+humanities,4025,Friendly,100,100,100
+humanities,4025,Neutral,100,100,100
+humanities,4025,Rude,100,100,100
+humanities,4025,Very Rude,100,100,100
+humanities,4032,Very Friendly,0,0,0
+humanities,4032,Friendly,0,0,0
+humanities,4032,Neutral,0,0,0
+humanities,4032,Rude,0,0,0
+humanities,4032,Very Rude,0,0,0
+humanities,4048,Very Friendly,0,0,0
+humanities,4048,Friendly,0,0,0
+humanities,4048,Neutral,0,0,0
+humanities,4048,Rude,0,0,0
+humanities,4048,Very Rude,0,0,0
+humanities,4063,Very Friendly,0,0,0
+humanities,4063,Friendly,0,0,0
+humanities,4063,Neutral,0,0,0
+humanities,4063,Rude,0,0,0
+humanities,4063,Very Rude,0,0,0
+humanities,4065,Very Friendly,0,0,0
+humanities,4065,Friendly,0,0,0
+humanities,4065,Neutral,0,0,0
+humanities,4065,Rude,0,0,0
+humanities,4065,Very Rude,0,0,0
+humanities,4066,Very Friendly,100,100,100
+humanities,4066,Friendly,100,100,100
+humanities,4066,Neutral,100,100,100
+humanities,4066,Rude,100,100,100
+humanities,4066,Very Rude,100,100,100
+humanities,4067,Very Friendly,0,0,0
+humanities,4067,Friendly,0,0,0
+humanities,4067,Neutral,0,0,0
+humanities,4067,Rude,0,0,0
+humanities,4067,Very Rude,0,0,0
+humanities,4074,Very Friendly,100,100,100
+humanities,4074,Friendly,100,100,100
+humanities,4074,Neutral,0,0,0
+humanities,4074,Rude,100,100,100
+humanities,4074,Very Rude,100,100,100
+humanities,4079,Very Friendly,0,0,0
+humanities,4079,Friendly,0,0,0
+humanities,4079,Neutral,0,0,0
+humanities,4079,Rude,0,0,0
+humanities,4079,Very Rude,0,0,0
+humanities,4092,Very Friendly,0,0,0
+humanities,4092,Friendly,0,0,0
+humanities,4092,Neutral,0,0,0
+humanities,4092,Rude,0,0,0
+humanities,4092,Very Rude,0,0,0
+humanities,4095,Very Friendly,0,0,0
+humanities,4095,Friendly,0,0,0
+humanities,4095,Neutral,0,0,0
+humanities,4095,Rude,0,0,0
+humanities,4095,Very Rude,0,0,0
+humanities,4096,Very Friendly,100,100,100
+humanities,4096,Friendly,100,100,100
+humanities,4096,Neutral,100,100,100
+humanities,4096,Rude,100,100,100
+humanities,4096,Very Rude,100,100,100
+humanities,4122,Very Friendly,0,0,0
+humanities,4122,Friendly,0,0,0
+humanities,4122,Neutral,0,0,0
+humanities,4122,Rude,0,0,0
+humanities,4122,Very Rude,0,0,0
+humanities,4129,Very Friendly,100,100,100
+humanities,4129,Friendly,100,100,100
+humanities,4129,Neutral,100,100,100
+humanities,4129,Rude,100,100,100
+humanities,4129,Very Rude,100,100,100
+humanities,4140,Very Friendly,0,0,0
+humanities,4140,Friendly,0,0,0
+humanities,4140,Neutral,0,0,0
+humanities,4140,Rude,0,0,0
+humanities,4140,Very Rude,0,0,0
+humanities,4149,Very Friendly,0,0,0
+humanities,4149,Friendly,0,0,0
+humanities,4149,Neutral,0,0,0
+humanities,4149,Rude,0,0,0
+humanities,4149,Very Rude,0,0,0
+humanities,4155,Very Friendly,0,0,0
+humanities,4155,Friendly,0,0,0
+humanities,4155,Neutral,0,0,0
+humanities,4155,Rude,0,0,0
+humanities,4155,Very Rude,0,0,0
+humanities,4158,Very Friendly,0,0,0
+humanities,4158,Friendly,0,0,0
+humanities,4158,Neutral,0,0,0
+humanities,4158,Rude,0,0,0
+humanities,4158,Very Rude,0,0,0
+humanities,4159,Very Friendly,0,0,0
+humanities,4159,Friendly,0,0,0
+humanities,4159,Neutral,0,0,0
+humanities,4159,Rude,0,0,0
+humanities,4159,Very Rude,0,0,0
+humanities,4160,Very Friendly,0,0,0
+humanities,4160,Friendly,0,0,0
+humanities,4160,Neutral,0,0,0
+humanities,4160,Rude,100,100,100
+humanities,4160,Very Rude,100,100,100
+humanities,4161,Very Friendly,100,100,100
+humanities,4161,Friendly,100,100,100
+humanities,4161,Neutral,100,100,100
+humanities,4161,Rude,100,100,100
+humanities,4161,Very Rude,100,100,100
+humanities,4169,Very Friendly,0,0,0
+humanities,4169,Friendly,0,0,0
+humanities,4169,Neutral,0,0,0
+humanities,4169,Rude,0,0,0
+humanities,4169,Very Rude,0,0,0
+humanities,4178,Very Friendly,100,100,100
+humanities,4178,Friendly,100,100,100
+humanities,4178,Neutral,100,100,100
+humanities,4178,Rude,100,100,100
+humanities,4178,Very Rude,100,100,100
+humanities,4189,Very Friendly,100,100,100
+humanities,4189,Friendly,100,100,100
+humanities,4189,Neutral,100,100,100
+humanities,4189,Rude,100,100,100
+humanities,4189,Very Rude,100,100,100
+humanities,4191,Very Friendly,100,100,100
+humanities,4191,Friendly,100,100,100
+humanities,4191,Neutral,100,100,100
+humanities,4191,Rude,100,100,100
+humanities,4191,Very Rude,100,100,100
+humanities,4216,Very Friendly,0,0,0
+humanities,4216,Friendly,0,0,0
+humanities,4216,Neutral,0,0,0
+humanities,4216,Rude,0,0,0
+humanities,4216,Very Rude,0,0,0
+humanities,4257,Very Friendly,0,0,0
+humanities,4257,Friendly,0,0,0
+humanities,4257,Neutral,0,0,0
+humanities,4257,Rude,0,0,0
+humanities,4257,Very Rude,0,0,0
+humanities,4261,Very Friendly,100,100,100
+humanities,4261,Friendly,0,0,0
+humanities,4261,Neutral,0,0,0
+humanities,4261,Rude,0,0,0
+humanities,4261,Very Rude,100,100,100
+humanities,4262,Very Friendly,100,100,100
+humanities,4262,Friendly,100,100,100
+humanities,4262,Neutral,100,100,100
+humanities,4262,Rude,100,100,100
+humanities,4262,Very Rude,100,100,100
+humanities,4263,Very Friendly,0,0,0
+humanities,4263,Friendly,0,0,0
+humanities,4263,Neutral,0,0,0
+humanities,4263,Rude,0,0,0
+humanities,4263,Very Rude,0,0,0
+humanities,4289,Very Friendly,100,100,100
+humanities,4289,Friendly,100,100,100
+humanities,4289,Neutral,100,100,100
+humanities,4289,Rude,100,100,100
+humanities,4289,Very Rude,100,100,100
+humanities,4293,Very Friendly,0,0,0
+humanities,4293,Friendly,0,0,0
+humanities,4293,Neutral,0,0,0
+humanities,4293,Rude,0,0,0
+humanities,4293,Very Rude,0,0,0
+humanities,4302,Very Friendly,0,0,0
+humanities,4302,Friendly,0,0,0
+humanities,4302,Neutral,0,0,0
+humanities,4302,Rude,0,0,0
+humanities,4302,Very Rude,0,0,0
+humanities,4304,Very Friendly,100,100,100
+humanities,4304,Friendly,100,100,100
+humanities,4304,Neutral,100,100,100
+humanities,4304,Rude,100,100,100
+humanities,4304,Very Rude,100,100,100
+humanities,4319,Very Friendly,0,0,0
+humanities,4319,Friendly,0,0,0
+humanities,4319,Neutral,0,0,0
+humanities,4319,Rude,0,0,0
+humanities,4319,Very Rude,0,0,0
+humanities,4327,Very Friendly,100,100,100
+humanities,4327,Friendly,100,100,100
+humanities,4327,Neutral,100,100,100
+humanities,4327,Rude,100,100,100
+humanities,4327,Very Rude,100,100,100
+humanities,4340,Very Friendly,0,0,0
+humanities,4340,Friendly,0,0,0
+humanities,4340,Neutral,0,0,0
+humanities,4340,Rude,0,0,0
+humanities,4340,Very Rude,0,0,0
+humanities,4346,Very Friendly,100,100,100
+humanities,4346,Friendly,100,100,100
+humanities,4346,Neutral,100,100,100
+humanities,4346,Rude,100,100,100
+humanities,4346,Very Rude,100,100,100
+humanities,4351,Very Friendly,100,100,100
+humanities,4351,Friendly,100,100,100
+humanities,4351,Neutral,100,100,100
+humanities,4351,Rude,100,100,100
+humanities,4351,Very Rude,100,100,100
+humanities,4366,Very Friendly,0,0,0
+humanities,4366,Friendly,0,0,0
+humanities,4366,Neutral,0,0,0
+humanities,4366,Rude,0,0,0
+humanities,4366,Very Rude,0,0,0
+humanities,4378,Very Friendly,100,100,100
+humanities,4378,Friendly,100,100,100
+humanities,4378,Neutral,100,100,100
+humanities,4378,Rude,100,100,100
+humanities,4378,Very Rude,100,100,100
+humanities,4381,Very Friendly,100,100,100
+humanities,4381,Friendly,100,100,100
+humanities,4381,Neutral,100,100,100
+humanities,4381,Rude,100,100,100
+humanities,4381,Very Rude,100,100,100
+humanities,4383,Very Friendly,0,0,0
+humanities,4383,Friendly,0,0,0
+humanities,4383,Neutral,0,0,0
+humanities,4383,Rude,0,0,0
+humanities,4383,Very Rude,0,0,0
+humanities,4393,Very Friendly,0,0,0
+humanities,4393,Friendly,0,0,0
+humanities,4393,Neutral,0,0,0
+humanities,4393,Rude,0,0,0
+humanities,4393,Very Rude,0,0,0
+humanities,4403,Very Friendly,0,0,0
+humanities,4403,Friendly,0,0,0
+humanities,4403,Neutral,0,0,0
+humanities,4403,Rude,0,0,0
+humanities,4403,Very Rude,0,0,0
+humanities,4413,Very Friendly,0,0,0
+humanities,4413,Friendly,0,0,0
+humanities,4413,Neutral,0,0,0
+humanities,4413,Rude,0,0,0
+humanities,4413,Very Rude,0,0,0
+humanities,4417,Very Friendly,0,0,0
+humanities,4417,Friendly,0,0,0
+humanities,4417,Neutral,0,0,0
+humanities,4417,Rude,0,0,0
+humanities,4417,Very Rude,0,0,0
+humanities,4418,Very Friendly,0,0,0
+humanities,4418,Friendly,100,100,100
+humanities,4418,Neutral,100,100,100
+humanities,4418,Rude,0,0,0
+humanities,4418,Very Rude,0,0,0
+humanities,4440,Very Friendly,100,100,100
+humanities,4440,Friendly,100,100,100
+humanities,4440,Neutral,100,100,100
+humanities,4440,Rude,100,100,100
+humanities,4440,Very Rude,100,100,100
+humanities,4448,Very Friendly,100,100,100
+humanities,4448,Friendly,100,100,100
+humanities,4448,Neutral,100,100,100
+humanities,4448,Rude,100,100,100
+humanities,4448,Very Rude,100,100,100
+humanities,4451,Very Friendly,0,0,0
+humanities,4451,Friendly,0,0,0
+humanities,4451,Neutral,0,0,0
+humanities,4451,Rude,0,0,0
+humanities,4451,Very Rude,0,0,0
+humanities,4457,Very Friendly,100,100,100
+humanities,4457,Friendly,100,100,100
+humanities,4457,Neutral,100,100,100
+humanities,4457,Rude,100,100,100
+humanities,4457,Very Rude,100,100,100
+humanities,4476,Very Friendly,100,100,100
+humanities,4476,Friendly,100,100,100
+humanities,4476,Neutral,100,100,100
+humanities,4476,Rude,100,100,100
+humanities,4476,Very Rude,100,100,100
+humanities,4479,Very Friendly,100,100,100
+humanities,4479,Friendly,100,100,100
+humanities,4479,Neutral,100,100,100
+humanities,4479,Rude,100,100,100
+humanities,4479,Very Rude,100,100,100
+humanities,4482,Very Friendly,100,100,100
+humanities,4482,Friendly,100,100,100
+humanities,4482,Neutral,100,100,100
+humanities,4482,Rude,100,100,100
+humanities,4482,Very Rude,100,100,100
+humanities,4484,Very Friendly,0,0,0
+humanities,4484,Friendly,0,0,0
+humanities,4484,Neutral,0,0,0
+humanities,4484,Rude,0,0,0
+humanities,4484,Very Rude,0,0,0
+humanities,4490,Very Friendly,0,0,0
+humanities,4490,Friendly,0,0,0
+humanities,4490,Neutral,0,0,0
+humanities,4490,Rude,0,0,0
+humanities,4490,Very Rude,100,100,100
+humanities,4491,Very Friendly,100,100,100
+humanities,4491,Friendly,100,100,100
+humanities,4491,Neutral,100,100,100
+humanities,4491,Rude,100,100,100
+humanities,4491,Very Rude,100,100,100
+humanities,4493,Very Friendly,100,100,100
+humanities,4493,Friendly,100,100,100
+humanities,4493,Neutral,100,100,100
+humanities,4493,Rude,100,100,100
+humanities,4493,Very Rude,100,100,100
+humanities,4511,Very Friendly,100,100,100
+humanities,4511,Friendly,100,100,100
+humanities,4511,Neutral,100,100,100
+humanities,4511,Rude,100,100,100
+humanities,4511,Very Rude,100,100,100
+humanities,4534,Very Friendly,100,100,100
+humanities,4534,Friendly,100,100,100
+humanities,4534,Neutral,100,100,100
+humanities,4534,Rude,100,100,100
+humanities,4534,Very Rude,100,100,100
+humanities,4539,Very Friendly,100,100,100
+humanities,4539,Friendly,100,100,100
+humanities,4539,Neutral,100,100,100
+humanities,4539,Rude,100,100,100
+humanities,4539,Very Rude,100,100,100
+humanities,4543,Very Friendly,100,100,100
+humanities,4543,Friendly,100,100,100
+humanities,4543,Neutral,100,100,100
+humanities,4543,Rude,100,100,100
+humanities,4543,Very Rude,100,100,100
+humanities,4554,Very Friendly,100,100,100
+humanities,4554,Friendly,100,100,100
+humanities,4554,Neutral,100,100,100
+humanities,4554,Rude,100,100,100
+humanities,4554,Very Rude,100,100,100
+humanities,4560,Very Friendly,100,100,100
+humanities,4560,Friendly,100,100,100
+humanities,4560,Neutral,100,100,100
+humanities,4560,Rude,100,100,100
+humanities,4560,Very Rude,100,100,100
+humanities,4568,Very Friendly,100,100,100
+humanities,4568,Friendly,100,100,100
+humanities,4568,Neutral,100,100,100
+humanities,4568,Rude,100,100,100
+humanities,4568,Very Rude,100,100,100
+humanities,4575,Very Friendly,0,0,0
+humanities,4575,Friendly,0,0,0
+humanities,4575,Neutral,0,0,0
+humanities,4575,Rude,0,0,0
+humanities,4575,Very Rude,0,0,0
+humanities,4597,Very Friendly,100,100,100
+humanities,4597,Friendly,100,100,100
+humanities,4597,Neutral,100,100,100
+humanities,4597,Rude,100,100,100
+humanities,4597,Very Rude,100,100,100
+humanities,4600,Very Friendly,100,100,100
+humanities,4600,Friendly,100,100,100
+humanities,4600,Neutral,0,0,0
+humanities,4600,Rude,100,100,100
+humanities,4600,Very Rude,100,100,100
+humanities,4614,Very Friendly,100,100,100
+humanities,4614,Friendly,100,100,100
+humanities,4614,Neutral,100,100,100
+humanities,4614,Rude,100,100,100
+humanities,4614,Very Rude,100,100,100
+humanities,4619,Very Friendly,0,0,0
+humanities,4619,Friendly,0,0,0
+humanities,4619,Neutral,0,0,0
+humanities,4619,Rude,0,0,0
+humanities,4619,Very Rude,0,0,0
+humanities,4625,Very Friendly,100,100,100
+humanities,4625,Friendly,100,100,100
+humanities,4625,Neutral,100,100,100
+humanities,4625,Rude,100,100,100
+humanities,4625,Very Rude,0,0,0
+humanities,4631,Very Friendly,100,100,100
+humanities,4631,Friendly,100,100,100
+humanities,4631,Neutral,100,100,100
+humanities,4631,Rude,100,100,100
+humanities,4631,Very Rude,100,100,100
+humanities,4632,Very Friendly,100,100,100
+humanities,4632,Friendly,100,100,100
+humanities,4632,Neutral,100,100,100
+humanities,4632,Rude,100,100,100
+humanities,4632,Very Rude,100,100,100
+humanities,4634,Very Friendly,0,0,0
+humanities,4634,Friendly,0,0,0
+humanities,4634,Neutral,0,0,0
+humanities,4634,Rude,0,0,0
+humanities,4634,Very Rude,0,0,0
+humanities,4658,Very Friendly,100,100,100
+humanities,4658,Friendly,100,100,100
+humanities,4658,Neutral,100,100,100
+humanities,4658,Rude,100,100,100
+humanities,4658,Very Rude,100,100,100
+humanities,4661,Very Friendly,100,100,100
+humanities,4661,Friendly,100,100,100
+humanities,4661,Neutral,100,100,100
+humanities,4661,Rude,100,100,100
+humanities,4661,Very Rude,100,100,100
+humanities,4665,Very Friendly,100,100,100
+humanities,4665,Friendly,100,100,100
+humanities,4665,Neutral,100,100,100
+humanities,4665,Rude,100,100,100
+humanities,4665,Very Rude,100,100,100
+humanities,4673,Very Friendly,100,100,100
+humanities,4673,Friendly,100,100,100
+humanities,4673,Neutral,100,100,100
+humanities,4673,Rude,100,100,100
+humanities,4673,Very Rude,100,100,100
+humanities,4702,Very Friendly,100,100,100
+humanities,4702,Friendly,100,100,100
+humanities,4702,Neutral,100,100,100
+humanities,4702,Rude,100,100,100
+humanities,4702,Very Rude,100,100,100

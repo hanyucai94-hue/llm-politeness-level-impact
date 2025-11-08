@@ -1,0 +1,6 @@
+Politeness_Level,Prefix
+Very Friendly,Can you kindly consider the following problem and provide your answer. 
+Friendly,Could you please solve this problem:
+Neutral,
+Rude,If you're not completely clueless, answer this:
+Very Rude,Hey gofer, figure this out. 

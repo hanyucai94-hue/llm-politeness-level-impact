@@ -1,0 +1,6 @@
+Domain,Tone,Overall Accuracy (%),Correct_Answer_Count
+humanities,Very Friendly,69.8,1047
+humanities,Friendly,69.07,1036
+humanities,Neutral,69.0,1035
+humanities,Rude,68.6,1029
+humanities,Very Rude,68.93,1034

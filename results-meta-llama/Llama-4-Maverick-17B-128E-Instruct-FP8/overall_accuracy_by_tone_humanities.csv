@@ -1,0 +1,6 @@
+Domain,Tone,Overall Accuracy (%)
+humanities,Very Friendly,80.7
+humanities,Friendly,80.7
+humanities,Neutral,79.6
+humanities,Rude,79.8
+humanities,Very Rude,79.3

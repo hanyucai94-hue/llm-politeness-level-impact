@@ -1,0 +1,2 @@
+Test,F-statistic,p-value,Significant (α=0.05),Significance Level,Interpretation
+One-Way ANOVA,0.1226,0.974417,No,ns,No significant effect of politeness level on accuracy.
