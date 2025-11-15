@@ -1,0 +1,6 @@
+Domain,Tone,Overall Accuracy (%)
+moral_disputes,Very Friendly,78.23
+moral_disputes,Friendly,77.55
+moral_disputes,Neutral,79.38
+moral_disputes,Rude,79.48
+moral_disputes,Very Rude,77.75

@@ -1,0 +1,2501 @@
+Domain,QID,Tone,Average Accuracy (%),Runs Counted
+law,11,Very Friendly,100,10
+law,11,Friendly,100,10
+law,11,Neutral,100,10
+law,11,Rude,100,10
+law,11,Very Rude,100,10
+law,16,Very Friendly,100,10
+law,16,Friendly,100,10
+law,16,Neutral,100,10
+law,16,Rude,100,10
+law,16,Very Rude,100,10
+law,19,Very Friendly,100,10
+law,19,Friendly,100,10
+law,19,Neutral,100,10
+law,19,Rude,100,10
+law,19,Very Rude,100,10
+law,24,Very Friendly,0,10
+law,24,Friendly,0,10
+law,24,Neutral,0,10
+law,24,Rude,0,10
+law,24,Very Rude,0,10
+law,30,Very Friendly,100,10
+law,30,Friendly,100,10
+law,30,Neutral,100,10
+law,30,Rude,100,10
+law,30,Very Rude,0,10
+law,31,Very Friendly,100,10
+law,31,Friendly,100,10
+law,31,Neutral,100,10
+law,31,Rude,100,10
+law,31,Very Rude,100,10
+law,32,Very Friendly,0,10
+law,32,Friendly,0,10
+law,32,Neutral,0,10
+law,32,Rude,0,10
+law,32,Very Rude,0,10
+law,33,Very Friendly,100,10
+law,33,Friendly,100,10
+law,33,Neutral,100,10
+law,33,Rude,100,10
+law,33,Very Rude,100,10
+law,44,Very Friendly,100,10
+law,44,Friendly,100,10
+law,44,Neutral,100,10
+law,44,Rude,100,10
+law,44,Very Rude,100,10
+law,45,Very Friendly,0,10
+law,45,Friendly,0,10
+law,45,Neutral,0,10
+law,45,Rude,0,10
+law,45,Very Rude,0,10
+law,49,Very Friendly,100,10
+law,49,Friendly,100,10
+law,49,Neutral,100,10
+law,49,Rude,100,10
+law,49,Very Rude,100,10
+law,50,Very Friendly,100,10
+law,50,Friendly,100,10
+law,50,Neutral,100,10
+law,50,Rude,100,10
+law,50,Very Rude,100,10
+law,52,Very Friendly,100,10
+law,52,Friendly,100,10
+law,52,Neutral,100,10
+law,52,Rude,100,10
+law,52,Very Rude,100,10
+law,55,Very Friendly,0,10
+law,55,Friendly,0,10
+law,55,Neutral,0,10
+law,55,Rude,0,10
+law,55,Very Rude,0,10
+law,57,Very Friendly,100,10
+law,57,Friendly,100,10
+law,57,Neutral,100,10
+law,57,Rude,100,10
+law,57,Very Rude,100,10
+law,59,Very Friendly,0,10
+law,59,Friendly,0,10
+law,59,Neutral,0,10
+law,59,Rude,0,10
+law,59,Very Rude,0,10
+law,60,Very Friendly,100,10
+law,60,Friendly,100,10
+law,60,Neutral,100,10
+law,60,Rude,100,10
+law,60,Very Rude,100,10
+law,64,Very Friendly,100,10
+law,64,Friendly,100,10
+law,64,Neutral,100,10
+law,64,Rude,100,10
+law,64,Very Rude,100,10
+law,66,Very Friendly,100,10
+law,66,Friendly,100,10
+law,66,Neutral,100,10
+law,66,Rude,100,10
+law,66,Very Rude,100,10
+law,68,Very Friendly,100,10
+law,68,Friendly,100,10
+law,68,Neutral,100,10
+law,68,Rude,100,10
+law,68,Very Rude,100,10
+law,71,Very Friendly,100,10
+law,71,Friendly,100,10
+law,71,Neutral,100,10
+law,71,Rude,100,10
+law,71,Very Rude,100,10
+law,77,Very Friendly,0,10
+law,77,Friendly,0,10
+law,77,Neutral,0,10
+law,77,Rude,0,10
+law,77,Very Rude,0,10
+law,79,Very Friendly,0,10
+law,79,Friendly,0,10
+law,79,Neutral,0,10
+law,79,Rude,0,10
+law,79,Very Rude,0,10
+law,82,Very Friendly,100,10
+law,82,Friendly,100,10
+law,82,Neutral,100,10
+law,82,Rude,100,10
+law,82,Very Rude,100,10
+law,84,Very Friendly,0,10
+law,84,Friendly,0,10
+law,84,Neutral,0,10
+law,84,Rude,0,10
+law,84,Very Rude,0,10
+law,87,Very Friendly,100,10
+law,87,Friendly,100,10
+law,87,Neutral,100,10
+law,87,Rude,100,10
+law,87,Very Rude,100,10
+law,100,Very Friendly,100,10
+law,100,Friendly,100,10
+law,100,Neutral,100,10
+law,100,Rude,100,10
+law,100,Very Rude,100,10
+law,101,Very Friendly,100,10
+law,101,Friendly,100,10
+law,101,Neutral,100,10
+law,101,Rude,100,10
+law,101,Very Rude,100,10
+law,102,Very Friendly,100,10
+law,102,Friendly,100,10
+law,102,Neutral,100,10
+law,102,Rude,100,10
+law,102,Very Rude,100,10
+law,108,Very Friendly,100,10
+law,108,Friendly,100,10
+law,108,Neutral,100,10
+law,108,Rude,100,10
+law,108,Very Rude,0,10
+law,110,Very Friendly,100,10
+law,110,Friendly,100,10
+law,110,Neutral,100,10
+law,110,Rude,100,10
+law,110,Very Rude,100,10
+law,112,Very Friendly,0,10
+law,112,Friendly,0,10
+law,112,Neutral,0,10
+law,112,Rude,0,10
+law,112,Very Rude,0,10
+law,114,Very Friendly,100,10
+law,114,Friendly,100,10
+law,114,Neutral,100,10
+law,114,Rude,100,10
+law,114,Very Rude,100,10
+law,116,Very Friendly,0,10
+law,116,Friendly,0,10
+law,116,Neutral,0,10
+law,116,Rude,0,10
+law,116,Very Rude,0,10
+law,124,Very Friendly,100,10
+law,124,Friendly,100,10
+law,124,Neutral,100,10
+law,124,Rude,100,10
+law,124,Very Rude,100,10
+law,125,Very Friendly,0,10
+law,125,Friendly,0,10
+law,125,Neutral,70,10
+law,125,Rude,90,10
+law,125,Very Rude,0,10
+law,127,Very Friendly,100,10
+law,127,Friendly,100,10
+law,127,Neutral,100,10
+law,127,Rude,100,10
+law,127,Very Rude,100,10
+law,129,Very Friendly,100,10
+law,129,Friendly,100,10
+law,129,Neutral,100,10
+law,129,Rude,100,10
+law,129,Very Rude,100,10
+law,136,Very Friendly,100,10
+law,136,Friendly,100,10
+law,136,Neutral,100,10
+law,136,Rude,100,10
+law,136,Very Rude,100,10
+law,141,Very Friendly,100,10
+law,141,Friendly,100,10
+law,141,Neutral,100,10
+law,141,Rude,100,10
+law,141,Very Rude,0,10
+law,142,Very Friendly,100,10
+law,142,Friendly,100,10
+law,142,Neutral,100,10
+law,142,Rude,100,10
+law,142,Very Rude,100,10
+law,148,Very Friendly,50,10
+law,148,Friendly,0,10
+law,148,Neutral,10,10
+law,148,Rude,10,10
+law,148,Very Rude,0,10
+law,156,Very Friendly,0,10
+law,156,Friendly,0,10
+law,156,Neutral,0,10
+law,156,Rude,0,10
+law,156,Very Rude,0,10
+law,164,Very Friendly,100,10
+law,164,Friendly,100,10
+law,164,Neutral,100,10
+law,164,Rude,100,10
+law,164,Very Rude,100,10
+law,169,Very Friendly,0,10
+law,169,Friendly,0,10
+law,169,Neutral,0,10
+law,169,Rude,0,10
+law,169,Very Rude,0,10
+law,171,Very Friendly,0,10
+law,171,Friendly,0,10
+law,171,Neutral,0,10
+law,171,Rude,0,10
+law,171,Very Rude,0,10
+law,175,Very Friendly,0,10
+law,175,Friendly,0,10
+law,175,Neutral,0,10
+law,175,Rude,0,10
+law,175,Very Rude,0,10
+law,176,Very Friendly,100,10
+law,176,Friendly,100,10
+law,176,Neutral,100,10
+law,176,Rude,100,10
+law,176,Very Rude,100,10
+law,180,Very Friendly,100,10
+law,180,Friendly,100,10
+law,180,Neutral,100,10
+law,180,Rude,100,10
+law,180,Very Rude,100,10
+law,185,Very Friendly,100,10
+law,185,Friendly,100,10
+law,185,Neutral,100,10
+law,185,Rude,100,10
+law,185,Very Rude,100,10
+law,189,Very Friendly,40,10
+law,189,Friendly,100,10
+law,189,Neutral,100,10
+law,189,Rude,0,10
+law,189,Very Rude,0,10
+law,193,Very Friendly,0,10
+law,193,Friendly,0,10
+law,193,Neutral,100,10
+law,193,Rude,100,10
+law,193,Very Rude,100,10
+law,197,Very Friendly,100,10
+law,197,Friendly,100,10
+law,197,Neutral,100,10
+law,197,Rude,100,10
+law,197,Very Rude,100,10
+law,199,Very Friendly,100,10
+law,199,Friendly,100,10
+law,199,Neutral,100,10
+law,199,Rude,100,10
+law,199,Very Rude,100,10
+law,200,Very Friendly,100,10
+law,200,Friendly,0,10
+law,200,Neutral,0,10
+law,200,Rude,0,10
+law,200,Very Rude,0,10
+law,204,Very Friendly,100,10
+law,204,Friendly,100,10
+law,204,Neutral,100,10
+law,204,Rude,100,10
+law,204,Very Rude,100,10
+law,209,Very Friendly,100,10
+law,209,Friendly,100,10
+law,209,Neutral,100,10
+law,209,Rude,100,10
+law,209,Very Rude,100,10
+law,210,Very Friendly,0,10
+law,210,Friendly,0,10
+law,210,Neutral,0,10
+law,210,Rude,0,10
+law,210,Very Rude,0,10
+law,211,Very Friendly,100,10
+law,211,Friendly,100,10
+law,211,Neutral,100,10
+law,211,Rude,100,10
+law,211,Very Rude,100,10
+law,219,Very Friendly,100,10
+law,219,Friendly,100,10
+law,219,Neutral,100,10
+law,219,Rude,100,10
+law,219,Very Rude,100,10
+law,221,Very Friendly,100,10
+law,221,Friendly,100,10
+law,221,Neutral,100,10
+law,221,Rude,100,10
+law,221,Very Rude,100,10
+law,222,Very Friendly,0,10
+law,222,Friendly,0,10
+law,222,Neutral,0,10
+law,222,Rude,0,10
+law,222,Very Rude,0,10
+law,232,Very Friendly,100,10
+law,232,Friendly,100,10
+law,232,Neutral,100,10
+law,232,Rude,100,10
+law,232,Very Rude,100,10
+law,234,Very Friendly,100,10
+law,234,Friendly,100,10
+law,234,Neutral,100,10
+law,234,Rude,100,10
+law,234,Very Rude,100,10
+law,237,Very Friendly,100,10
+law,237,Friendly,100,10
+law,237,Neutral,100,10
+law,237,Rude,100,10
+law,237,Very Rude,100,10
+law,238,Very Friendly,100,10
+law,238,Friendly,100,10
+law,238,Neutral,100,10
+law,238,Rude,100,10
+law,238,Very Rude,100,10
+law,240,Very Friendly,100,10
+law,240,Friendly,100,10
+law,240,Neutral,100,10
+law,240,Rude,100,10
+law,240,Very Rude,100,10
+law,241,Very Friendly,100,10
+law,241,Friendly,100,10
+law,241,Neutral,100,10
+law,241,Rude,100,10
+law,241,Very Rude,100,10
+law,244,Very Friendly,0,10
+law,244,Friendly,0,10
+law,244,Neutral,0,10
+law,244,Rude,0,10
+law,244,Very Rude,0,10
+law,245,Very Friendly,100,10
+law,245,Friendly,100,10
+law,245,Neutral,100,10
+law,245,Rude,100,10
+law,245,Very Rude,100,10
+law,248,Very Friendly,100,10
+law,248,Friendly,100,10
+law,248,Neutral,100,10
+law,248,Rude,100,10
+law,248,Very Rude,100,10
+law,255,Very Friendly,100,10
+law,255,Friendly,100,10
+law,255,Neutral,100,10
+law,255,Rude,100,10
+law,255,Very Rude,100,10
+law,260,Very Friendly,100,10
+law,260,Friendly,100,10
+law,260,Neutral,100,10
+law,260,Rude,100,10
+law,260,Very Rude,100,10
+law,262,Very Friendly,0,10
+law,262,Friendly,0,10
+law,262,Neutral,0,10
+law,262,Rude,0,10
+law,262,Very Rude,0,10
+law,266,Very Friendly,0,10
+law,266,Friendly,0,10
+law,266,Neutral,0,10
+law,266,Rude,0,10
+law,266,Very Rude,0,10
+law,267,Very Friendly,100,10
+law,267,Friendly,100,10
+law,267,Neutral,100,10
+law,267,Rude,100,10
+law,267,Very Rude,100,10
+law,271,Very Friendly,0,10
+law,271,Friendly,0,10
+law,271,Neutral,0,10
+law,271,Rude,0,10
+law,271,Very Rude,0,10
+law,272,Very Friendly,100,10
+law,272,Friendly,100,10
+law,272,Neutral,100,10
+law,272,Rude,100,10
+law,272,Very Rude,100,10
+law,275,Very Friendly,0,10
+law,275,Friendly,0,10
+law,275,Neutral,0,10
+law,275,Rude,0,10
+law,275,Very Rude,0,10
+law,276,Very Friendly,100,10
+law,276,Friendly,100,10
+law,276,Neutral,100,10
+law,276,Rude,100,10
+law,276,Very Rude,100,10
+law,278,Very Friendly,100,10
+law,278,Friendly,100,10
+law,278,Neutral,100,10
+law,278,Rude,100,10
+law,278,Very Rude,100,10
+law,283,Very Friendly,100,10
+law,283,Friendly,100,10
+law,283,Neutral,100,10
+law,283,Rude,100,10
+law,283,Very Rude,100,10
+law,286,Very Friendly,0,10
+law,286,Friendly,0,10
+law,286,Neutral,0,10
+law,286,Rude,0,10
+law,286,Very Rude,0,10
+law,287,Very Friendly,0,10
+law,287,Friendly,0,10
+law,287,Neutral,0,10
+law,287,Rude,0,10
+law,287,Very Rude,0,10
+law,288,Very Friendly,100,10
+law,288,Friendly,100,10
+law,288,Neutral,100,10
+law,288,Rude,100,10
+law,288,Very Rude,100,10
+law,290,Very Friendly,100,10
+law,290,Friendly,100,10
+law,290,Neutral,100,10
+law,290,Rude,100,10
+law,290,Very Rude,100,10
+law,293,Very Friendly,100,10
+law,293,Friendly,100,10
+law,293,Neutral,100,10
+law,293,Rude,100,10
+law,293,Very Rude,100,10
+law,297,Very Friendly,100,10
+law,297,Friendly,100,10
+law,297,Neutral,100,10
+law,297,Rude,100,10
+law,297,Very Rude,100,10
+law,298,Very Friendly,100,10
+law,298,Friendly,100,10
+law,298,Neutral,100,10
+law,298,Rude,100,10
+law,298,Very Rude,100,10
+law,299,Very Friendly,0,10
+law,299,Friendly,0,10
+law,299,Neutral,0,10
+law,299,Rude,0,10
+law,299,Very Rude,0,10
+law,304,Very Friendly,100,10
+law,304,Friendly,100,10
+law,304,Neutral,100,10
+law,304,Rude,100,10
+law,304,Very Rude,100,10
+law,307,Very Friendly,0,10
+law,307,Friendly,0,10
+law,307,Neutral,0,10
+law,307,Rude,0,10
+law,307,Very Rude,0,10
+law,309,Very Friendly,100,10
+law,309,Friendly,100,10
+law,309,Neutral,100,10
+law,309,Rude,100,10
+law,309,Very Rude,100,10
+law,310,Very Friendly,100,10
+law,310,Friendly,100,10
+law,310,Neutral,100,10
+law,310,Rude,100,10
+law,310,Very Rude,100,10
+law,311,Very Friendly,0,10
+law,311,Friendly,0,10
+law,311,Neutral,0,10
+law,311,Rude,0,10
+law,311,Very Rude,0,10
+law,313,Very Friendly,100,10
+law,313,Friendly,100,10
+law,313,Neutral,100,10
+law,313,Rude,100,10
+law,313,Very Rude,100,10
+law,317,Very Friendly,100,10
+law,317,Friendly,100,10
+law,317,Neutral,100,10
+law,317,Rude,100,10
+law,317,Very Rude,100,10
+law,323,Very Friendly,100,10
+law,323,Friendly,100,10
+law,323,Neutral,100,10
+law,323,Rude,100,10
+law,323,Very Rude,100,10
+law,325,Very Friendly,100,10
+law,325,Friendly,100,10
+law,325,Neutral,100,10
+law,325,Rude,100,10
+law,325,Very Rude,100,10
+law,328,Very Friendly,100,10
+law,328,Friendly,100,10
+law,328,Neutral,100,10
+law,328,Rude,100,10
+law,328,Very Rude,100,10
+law,333,Very Friendly,100,10
+law,333,Friendly,100,10
+law,333,Neutral,100,10
+law,333,Rude,100,10
+law,333,Very Rude,100,10
+law,340,Very Friendly,100,10
+law,340,Friendly,100,10
+law,340,Neutral,100,10
+law,340,Rude,100,10
+law,340,Very Rude,100,10
+law,343,Very Friendly,100,10
+law,343,Friendly,100,10
+law,343,Neutral,100,10
+law,343,Rude,100,10
+law,343,Very Rude,100,10
+law,345,Very Friendly,100,10
+law,345,Friendly,100,10
+law,345,Neutral,100,10
+law,345,Rude,100,10
+law,345,Very Rude,100,10
+law,347,Very Friendly,0,10
+law,347,Friendly,0,10
+law,347,Neutral,0,10
+law,347,Rude,0,10
+law,347,Very Rude,0,10
+law,351,Very Friendly,100,10
+law,351,Friendly,100,10
+law,351,Neutral,100,10
+law,351,Rude,100,10
+law,351,Very Rude,100,10
+law,352,Very Friendly,100,10
+law,352,Friendly,100,10
+law,352,Neutral,100,10
+law,352,Rude,100,10
+law,352,Very Rude,100,10
+law,353,Very Friendly,100,10
+law,353,Friendly,100,10
+law,353,Neutral,100,10
+law,353,Rude,100,10
+law,353,Very Rude,100,10
+law,354,Very Friendly,0,10
+law,354,Friendly,0,10
+law,354,Neutral,0,10
+law,354,Rude,0,10
+law,354,Very Rude,0,10
+law,355,Very Friendly,100,10
+law,355,Friendly,100,10
+law,355,Neutral,100,10
+law,355,Rude,100,10
+law,355,Very Rude,100,10
+law,356,Very Friendly,100,10
+law,356,Friendly,100,10
+law,356,Neutral,100,10
+law,356,Rude,100,10
+law,356,Very Rude,100,10
+law,359,Very Friendly,0,10
+law,359,Friendly,0,10
+law,359,Neutral,0,10
+law,359,Rude,0,10
+law,359,Very Rude,0,10
+law,362,Very Friendly,0,10
+law,362,Friendly,0,10
+law,362,Neutral,0,10
+law,362,Rude,0,10
+law,362,Very Rude,0,10
+law,364,Very Friendly,0,10
+law,364,Friendly,0,10
+law,364,Neutral,0,10
+law,364,Rude,0,10
+law,364,Very Rude,0,10
+law,366,Very Friendly,100,10
+law,366,Friendly,100,10
+law,366,Neutral,100,10
+law,366,Rude,100,10
+law,366,Very Rude,100,10
+law,367,Very Friendly,100,10
+law,367,Friendly,100,10
+law,367,Neutral,100,10
+law,367,Rude,100,10
+law,367,Very Rude,100,10
+law,368,Very Friendly,100,10
+law,368,Friendly,100,10
+law,368,Neutral,100,10
+law,368,Rude,100,10
+law,368,Very Rude,100,10
+law,371,Very Friendly,0,10
+law,371,Friendly,0,10
+law,371,Neutral,0,10
+law,371,Rude,0,10
+law,371,Very Rude,0,10
+law,372,Very Friendly,100,10
+law,372,Friendly,100,10
+law,372,Neutral,100,10
+law,372,Rude,100,10
+law,372,Very Rude,100,10
+law,375,Very Friendly,0,10
+law,375,Friendly,0,10
+law,375,Neutral,0,10
+law,375,Rude,0,10
+law,375,Very Rude,0,10
+law,378,Very Friendly,100,10
+law,378,Friendly,100,10
+law,378,Neutral,100,10
+law,378,Rude,100,10
+law,378,Very Rude,100,10
+law,381,Very Friendly,100,10
+law,381,Friendly,100,10
+law,381,Neutral,100,10
+law,381,Rude,100,10
+law,381,Very Rude,100,10
+law,382,Very Friendly,100,10
+law,382,Friendly,100,10
+law,382,Neutral,100,10
+law,382,Rude,100,10
+law,382,Very Rude,100,10
+law,383,Very Friendly,0,10
+law,383,Friendly,0,10
+law,383,Neutral,0,10
+law,383,Rude,0,10
+law,383,Very Rude,0,10
+law,384,Very Friendly,0,10
+law,384,Friendly,0,10
+law,384,Neutral,0,10
+law,384,Rude,0,10
+law,384,Very Rude,0,10
+law,395,Very Friendly,0,10
+law,395,Friendly,0,10
+law,395,Neutral,0,10
+law,395,Rude,0,10
+law,395,Very Rude,0,10
+law,399,Very Friendly,0,10
+law,399,Friendly,0,10
+law,399,Neutral,0,10
+law,399,Rude,0,10
+law,399,Very Rude,0,10
+law,406,Very Friendly,100,10
+law,406,Friendly,100,10
+law,406,Neutral,100,10
+law,406,Rude,100,10
+law,406,Very Rude,100,10
+law,412,Very Friendly,100,10
+law,412,Friendly,100,10
+law,412,Neutral,100,10
+law,412,Rude,100,10
+law,412,Very Rude,100,10
+law,414,Very Friendly,100,10
+law,414,Friendly,100,10
+law,414,Neutral,100,10
+law,414,Rude,100,10
+law,414,Very Rude,100,10
+law,416,Very Friendly,0,10
+law,416,Friendly,0,10
+law,416,Neutral,0,10
+law,416,Rude,0,10
+law,416,Very Rude,0,10
+law,417,Very Friendly,100,10
+law,417,Friendly,100,10
+law,417,Neutral,100,10
+law,417,Rude,100,10
+law,417,Very Rude,100,10
+law,421,Very Friendly,100,10
+law,421,Friendly,100,10
+law,421,Neutral,100,10
+law,421,Rude,100,10
+law,421,Very Rude,100,10
+law,423,Very Friendly,100,10
+law,423,Friendly,100,10
+law,423,Neutral,100,10
+law,423,Rude,100,10
+law,423,Very Rude,100,10
+law,424,Very Friendly,0,10
+law,424,Friendly,0,10
+law,424,Neutral,0,10
+law,424,Rude,0,10
+law,424,Very Rude,0,10
+law,426,Very Friendly,0,10
+law,426,Friendly,0,10
+law,426,Neutral,0,10
+law,426,Rude,0,10
+law,426,Very Rude,0,10
+law,427,Very Friendly,0,10
+law,427,Friendly,0,10
+law,427,Neutral,0,10
+law,427,Rude,0,10
+law,427,Very Rude,0,10
+law,428,Very Friendly,0,10
+law,428,Friendly,0,10
+law,428,Neutral,0,10
+law,428,Rude,0,10
+law,428,Very Rude,0,10
+law,429,Very Friendly,0,10
+law,429,Friendly,0,10
+law,429,Neutral,0,10
+law,429,Rude,0,10
+law,429,Very Rude,0,10
+law,430,Very Friendly,100,10
+law,430,Friendly,100,10
+law,430,Neutral,100,10
+law,430,Rude,100,10
+law,430,Very Rude,100,10
+law,431,Very Friendly,0,10
+law,431,Friendly,0,10
+law,431,Neutral,0,10
+law,431,Rude,100,10
+law,431,Very Rude,100,10
+law,433,Very Friendly,0,10
+law,433,Friendly,0,10
+law,433,Neutral,0,10
+law,433,Rude,80,10
+law,433,Very Rude,0,10
+law,434,Very Friendly,0,10
+law,434,Friendly,0,10
+law,434,Neutral,0,10
+law,434,Rude,0,10
+law,434,Very Rude,0,10
+law,436,Very Friendly,0,10
+law,436,Friendly,0,10
+law,436,Neutral,0,10
+law,436,Rude,0,10
+law,436,Very Rude,0,10
+law,439,Very Friendly,0,10
+law,439,Friendly,0,10
+law,439,Neutral,0,10
+law,439,Rude,0,10
+law,439,Very Rude,0,10
+law,440,Very Friendly,100,10
+law,440,Friendly,100,10
+law,440,Neutral,100,10
+law,440,Rude,100,10
+law,440,Very Rude,100,10
+law,452,Very Friendly,100,10
+law,452,Friendly,100,10
+law,452,Neutral,100,10
+law,452,Rude,100,10
+law,452,Very Rude,100,10
+law,454,Very Friendly,100,10
+law,454,Friendly,100,10
+law,454,Neutral,100,10
+law,454,Rude,100,10
+law,454,Very Rude,100,10
+law,462,Very Friendly,0,10
+law,462,Friendly,0,10
+law,462,Neutral,0,10
+law,462,Rude,0,10
+law,462,Very Rude,80,10
+law,463,Very Friendly,0,10
+law,463,Friendly,0,10
+law,463,Neutral,0,10
+law,463,Rude,0,10
+law,463,Very Rude,0,10
+law,465,Very Friendly,100,10
+law,465,Friendly,100,10
+law,465,Neutral,100,10
+law,465,Rude,100,10
+law,465,Very Rude,100,10
+law,472,Very Friendly,100,10
+law,472,Friendly,100,10
+law,472,Neutral,100,10
+law,472,Rude,100,10
+law,472,Very Rude,100,10
+law,479,Very Friendly,0,10
+law,479,Friendly,0,10
+law,479,Neutral,0,10
+law,479,Rude,0,10
+law,479,Very Rude,100,10
+law,480,Very Friendly,100,10
+law,480,Friendly,100,10
+law,480,Neutral,100,10
+law,480,Rude,100,10
+law,480,Very Rude,100,10
+law,482,Very Friendly,0,10
+law,482,Friendly,0,10
+law,482,Neutral,0,10
+law,482,Rude,0,10
+law,482,Very Rude,0,10
+law,483,Very Friendly,0,10
+law,483,Friendly,0,10
+law,483,Neutral,0,10
+law,483,Rude,0,10
+law,483,Very Rude,0,10
+law,486,Very Friendly,0,10
+law,486,Friendly,0,10
+law,486,Neutral,0,10
+law,486,Rude,0,10
+law,486,Very Rude,0,10
+law,487,Very Friendly,100,10
+law,487,Friendly,100,10
+law,487,Neutral,100,10
+law,487,Rude,100,10
+law,487,Very Rude,100,10
+law,491,Very Friendly,100,10
+law,491,Friendly,100,10
+law,491,Neutral,100,10
+law,491,Rude,100,10
+law,491,Very Rude,100,10
+law,494,Very Friendly,100,10
+law,494,Friendly,100,10
+law,494,Neutral,100,10
+law,494,Rude,100,10
+law,494,Very Rude,100,10
+law,495,Very Friendly,100,10
+law,495,Friendly,100,10
+law,495,Neutral,100,10
+law,495,Rude,100,10
+law,495,Very Rude,100,10
+law,498,Very Friendly,0,10
+law,498,Friendly,0,10
+law,498,Neutral,0,10
+law,498,Rude,0,10
+law,498,Very Rude,0,10
+law,501,Very Friendly,100,10
+law,501,Friendly,100,10
+law,501,Neutral,100,10
+law,501,Rude,100,10
+law,501,Very Rude,100,10
+law,507,Very Friendly,0,10
+law,507,Friendly,0,10
+law,507,Neutral,0,10
+law,507,Rude,0,10
+law,507,Very Rude,0,10
+law,514,Very Friendly,0,10
+law,514,Friendly,0,10
+law,514,Neutral,0,10
+law,514,Rude,0,10
+law,514,Very Rude,0,10
+law,523,Very Friendly,0,10
+law,523,Friendly,0,10
+law,523,Neutral,0,10
+law,523,Rude,0,10
+law,523,Very Rude,0,10
+law,527,Very Friendly,0,10
+law,527,Friendly,0,10
+law,527,Neutral,0,10
+law,527,Rude,0,10
+law,527,Very Rude,0,10
+law,530,Very Friendly,100,10
+law,530,Friendly,100,10
+law,530,Neutral,100,10
+law,530,Rude,100,10
+law,530,Very Rude,100,10
+law,535,Very Friendly,100,10
+law,535,Friendly,100,10
+law,535,Neutral,100,10
+law,535,Rude,100,10
+law,535,Very Rude,100,10
+law,536,Very Friendly,0,10
+law,536,Friendly,0,10
+law,536,Neutral,0,10
+law,536,Rude,0,10
+law,536,Very Rude,0,10
+law,539,Very Friendly,0,10
+law,539,Friendly,0,10
+law,539,Neutral,0,10
+law,539,Rude,0,10
+law,539,Very Rude,0,10
+law,544,Very Friendly,100,10
+law,544,Friendly,100,10
+law,544,Neutral,100,10
+law,544,Rude,100,10
+law,544,Very Rude,100,10
+law,545,Very Friendly,0,10
+law,545,Friendly,0,10
+law,545,Neutral,0,10
+law,545,Rude,0,10
+law,545,Very Rude,0,10
+law,549,Very Friendly,0,10
+law,549,Friendly,0,10
+law,549,Neutral,0,10
+law,549,Rude,0,10
+law,549,Very Rude,0,10
+law,552,Very Friendly,100,10
+law,552,Friendly,100,10
+law,552,Neutral,100,10
+law,552,Rude,100,10
+law,552,Very Rude,100,10
+law,553,Very Friendly,100,10
+law,553,Friendly,0,10
+law,553,Neutral,0,10
+law,553,Rude,70,10
+law,553,Very Rude,100,10
+law,555,Very Friendly,100,10
+law,555,Friendly,100,10
+law,555,Neutral,100,10
+law,555,Rude,100,10
+law,555,Very Rude,100,10
+law,561,Very Friendly,100,10
+law,561,Friendly,100,10
+law,561,Neutral,100,10
+law,561,Rude,100,10
+law,561,Very Rude,100,10
+law,562,Very Friendly,100,10
+law,562,Friendly,100,10
+law,562,Neutral,100,10
+law,562,Rude,100,10
+law,562,Very Rude,100,10
+law,567,Very Friendly,100,10
+law,567,Friendly,100,10
+law,567,Neutral,100,10
+law,567,Rude,100,10
+law,567,Very Rude,100,10
+law,568,Very Friendly,100,10
+law,568,Friendly,100,10
+law,568,Neutral,100,10
+law,568,Rude,100,10
+law,568,Very Rude,100,10
+law,571,Very Friendly,0,10
+law,571,Friendly,0,10
+law,571,Neutral,0,10
+law,571,Rude,0,10
+law,571,Very Rude,0,10
+law,572,Very Friendly,0,10
+law,572,Friendly,0,10
+law,572,Neutral,0,10
+law,572,Rude,0,10
+law,572,Very Rude,0,10
+law,576,Very Friendly,100,10
+law,576,Friendly,100,10
+law,576,Neutral,100,10
+law,576,Rude,100,10
+law,576,Very Rude,100,10
+law,577,Very Friendly,0,10
+law,577,Friendly,30,10
+law,577,Neutral,100,10
+law,577,Rude,0,10
+law,577,Very Rude,20,10
+law,579,Very Friendly,100,10
+law,579,Friendly,100,10
+law,579,Neutral,100,10
+law,579,Rude,100,10
+law,579,Very Rude,100,10
+law,583,Very Friendly,100,10
+law,583,Friendly,100,10
+law,583,Neutral,100,10
+law,583,Rude,100,10
+law,583,Very Rude,100,10
+law,584,Very Friendly,100,10
+law,584,Friendly,100,10
+law,584,Neutral,100,10
+law,584,Rude,100,10
+law,584,Very Rude,100,10
+law,585,Very Friendly,100,10
+law,585,Friendly,100,10
+law,585,Neutral,100,10
+law,585,Rude,100,10
+law,585,Very Rude,100,10
+law,586,Very Friendly,0,10
+law,586,Friendly,0,10
+law,586,Neutral,100,10
+law,586,Rude,0,10
+law,586,Very Rude,0,10
+law,589,Very Friendly,50,10
+law,589,Friendly,100,10
+law,589,Neutral,100,10
+law,589,Rude,100,10
+law,589,Very Rude,100,10
+law,590,Very Friendly,0,10
+law,590,Friendly,0,10
+law,590,Neutral,0,10
+law,590,Rude,0,10
+law,590,Very Rude,0,10
+law,591,Very Friendly,0,10
+law,591,Friendly,0,10
+law,591,Neutral,0,10
+law,591,Rude,0,10
+law,591,Very Rude,0,10
+law,592,Very Friendly,0,10
+law,592,Friendly,0,10
+law,592,Neutral,0,10
+law,592,Rude,0,10
+law,592,Very Rude,0,10
+law,598,Very Friendly,100,10
+law,598,Friendly,100,10
+law,598,Neutral,100,10
+law,598,Rude,100,10
+law,598,Very Rude,100,10
+law,599,Very Friendly,100,10
+law,599,Friendly,100,10
+law,599,Neutral,100,10
+law,599,Rude,100,10
+law,599,Very Rude,100,10
+law,602,Very Friendly,0,10
+law,602,Friendly,0,10
+law,602,Neutral,0,10
+law,602,Rude,0,10
+law,602,Very Rude,0,10
+law,603,Very Friendly,0,10
+law,603,Friendly,0,10
+law,603,Neutral,0,10
+law,603,Rude,0,10
+law,603,Very Rude,0,10
+law,608,Very Friendly,0,10
+law,608,Friendly,0,10
+law,608,Neutral,0,10
+law,608,Rude,0,10
+law,608,Very Rude,0,10
+law,611,Very Friendly,0,10
+law,611,Friendly,0,10
+law,611,Neutral,0,10
+law,611,Rude,0,10
+law,611,Very Rude,0,10
+law,612,Very Friendly,100,10
+law,612,Friendly,100,10
+law,612,Neutral,100,10
+law,612,Rude,100,10
+law,612,Very Rude,100,10
+law,614,Very Friendly,100,10
+law,614,Friendly,100,10
+law,614,Neutral,100,10
+law,614,Rude,100,10
+law,614,Very Rude,100,10
+law,615,Very Friendly,0,10
+law,615,Friendly,0,10
+law,615,Neutral,0,10
+law,615,Rude,0,10
+law,615,Very Rude,0,10
+law,616,Very Friendly,100,10
+law,616,Friendly,100,10
+law,616,Neutral,100,10
+law,616,Rude,100,10
+law,616,Very Rude,100,10
+law,618,Very Friendly,0,10
+law,618,Friendly,0,10
+law,618,Neutral,0,10
+law,618,Rude,0,10
+law,618,Very Rude,0,10
+law,619,Very Friendly,0,10
+law,619,Friendly,0,10
+law,619,Neutral,0,10
+law,619,Rude,0,10
+law,619,Very Rude,0,10
+law,622,Very Friendly,100,10
+law,622,Friendly,100,10
+law,622,Neutral,100,10
+law,622,Rude,100,10
+law,622,Very Rude,100,10
+law,627,Very Friendly,100,10
+law,627,Friendly,100,10
+law,627,Neutral,100,10
+law,627,Rude,100,10
+law,627,Very Rude,100,10
+law,630,Very Friendly,100,10
+law,630,Friendly,100,10
+law,630,Neutral,100,10
+law,630,Rude,100,10
+law,630,Very Rude,100,10
+law,635,Very Friendly,100,10
+law,635,Friendly,100,10
+law,635,Neutral,100,10
+law,635,Rude,100,10
+law,635,Very Rude,100,10
+law,644,Very Friendly,100,10
+law,644,Friendly,100,10
+law,644,Neutral,100,10
+law,644,Rude,100,10
+law,644,Very Rude,100,10
+law,650,Very Friendly,100,10
+law,650,Friendly,100,10
+law,650,Neutral,100,10
+law,650,Rude,100,10
+law,650,Very Rude,100,10
+law,651,Very Friendly,100,10
+law,651,Friendly,90,10
+law,651,Neutral,100,10
+law,651,Rude,100,10
+law,651,Very Rude,30,10
+law,652,Very Friendly,100,10
+law,652,Friendly,100,10
+law,652,Neutral,100,10
+law,652,Rude,100,10
+law,652,Very Rude,100,10
+law,655,Very Friendly,100,10
+law,655,Friendly,100,10
+law,655,Neutral,100,10
+law,655,Rude,100,10
+law,655,Very Rude,100,10
+law,661,Very Friendly,0,10
+law,661,Friendly,0,10
+law,661,Neutral,0,10
+law,661,Rude,0,10
+law,661,Very Rude,0,10
+law,662,Very Friendly,100,10
+law,662,Friendly,100,10
+law,662,Neutral,100,10
+law,662,Rude,100,10
+law,662,Very Rude,100,10
+law,665,Very Friendly,100,10
+law,665,Friendly,100,10
+law,665,Neutral,100,10
+law,665,Rude,100,10
+law,665,Very Rude,100,10
+law,669,Very Friendly,100,10
+law,669,Friendly,100,10
+law,669,Neutral,100,10
+law,669,Rude,100,10
+law,669,Very Rude,90,10
+law,670,Very Friendly,100,10
+law,670,Friendly,10,10
+law,670,Neutral,40,10
+law,670,Rude,100,10
+law,670,Very Rude,100,10
+law,673,Very Friendly,100,10
+law,673,Friendly,100,10
+law,673,Neutral,100,10
+law,673,Rude,100,10
+law,673,Very Rude,100,10
+law,675,Very Friendly,0,10
+law,675,Friendly,0,10
+law,675,Neutral,0,10
+law,675,Rude,0,10
+law,675,Very Rude,0,10
+law,678,Very Friendly,0,10
+law,678,Friendly,0,10
+law,678,Neutral,0,10
+law,678,Rude,0,10
+law,678,Very Rude,0,10
+law,679,Very Friendly,100,10
+law,679,Friendly,100,10
+law,679,Neutral,100,10
+law,679,Rude,100,10
+law,679,Very Rude,100,10
+law,683,Very Friendly,100,10
+law,683,Friendly,0,10
+law,683,Neutral,0,10
+law,683,Rude,0,10
+law,683,Very Rude,0,10
+law,692,Very Friendly,10,10
+law,692,Friendly,50,10
+law,692,Neutral,100,10
+law,692,Rude,0,10
+law,692,Very Rude,0,10
+law,694,Very Friendly,0,10
+law,694,Friendly,0,10
+law,694,Neutral,0,10
+law,694,Rude,0,10
+law,694,Very Rude,0,10
+law,695,Very Friendly,0,10
+law,695,Friendly,0,10
+law,695,Neutral,0,10
+law,695,Rude,0,10
+law,695,Very Rude,0,10
+law,705,Very Friendly,100,10
+law,705,Friendly,100,10
+law,705,Neutral,100,10
+law,705,Rude,100,10
+law,705,Very Rude,100,10
+law,707,Very Friendly,100,10
+law,707,Friendly,100,10
+law,707,Neutral,100,10
+law,707,Rude,10,10
+law,707,Very Rude,100,10
+law,708,Very Friendly,100,10
+law,708,Friendly,100,10
+law,708,Neutral,100,10
+law,708,Rude,100,10
+law,708,Very Rude,100,10
+law,711,Very Friendly,0,10
+law,711,Friendly,0,10
+law,711,Neutral,0,10
+law,711,Rude,0,10
+law,711,Very Rude,0,10
+law,712,Very Friendly,100,10
+law,712,Friendly,100,10
+law,712,Neutral,100,10
+law,712,Rude,100,10
+law,712,Very Rude,100,10
+law,713,Very Friendly,0,10
+law,713,Friendly,0,10
+law,713,Neutral,0,10
+law,713,Rude,0,10
+law,713,Very Rude,0,10
+law,715,Very Friendly,100,10
+law,715,Friendly,100,10
+law,715,Neutral,100,10
+law,715,Rude,100,10
+law,715,Very Rude,100,10
+law,719,Very Friendly,100,10
+law,719,Friendly,100,10
+law,719,Neutral,100,10
+law,719,Rude,100,10
+law,719,Very Rude,100,10
+law,721,Very Friendly,100,10
+law,721,Friendly,100,10
+law,721,Neutral,100,10
+law,721,Rude,100,10
+law,721,Very Rude,100,10
+law,723,Very Friendly,0,10
+law,723,Friendly,0,10
+law,723,Neutral,0,10
+law,723,Rude,0,10
+law,723,Very Rude,0,10
+law,725,Very Friendly,100,10
+law,725,Friendly,100,10
+law,725,Neutral,100,10
+law,725,Rude,100,10
+law,725,Very Rude,100,10
+law,728,Very Friendly,100,10
+law,728,Friendly,100,10
+law,728,Neutral,100,10
+law,728,Rude,100,10
+law,728,Very Rude,100,10
+law,744,Very Friendly,100,10
+law,744,Friendly,100,10
+law,744,Neutral,100,10
+law,744,Rude,100,10
+law,744,Very Rude,100,10
+law,745,Very Friendly,0,10
+law,745,Friendly,0,10
+law,745,Neutral,0,10
+law,745,Rude,0,10
+law,745,Very Rude,0,10
+law,747,Very Friendly,100,10
+law,747,Friendly,100,10
+law,747,Neutral,100,10
+law,747,Rude,100,10
+law,747,Very Rude,100,10
+law,753,Very Friendly,0,10
+law,753,Friendly,0,10
+law,753,Neutral,0,10
+law,753,Rude,0,10
+law,753,Very Rude,0,10
+law,755,Very Friendly,100,10
+law,755,Friendly,100,10
+law,755,Neutral,100,10
+law,755,Rude,100,10
+law,755,Very Rude,100,10
+law,756,Very Friendly,0,10
+law,756,Friendly,0,10
+law,756,Neutral,0,10
+law,756,Rude,0,10
+law,756,Very Rude,0,10
+law,757,Very Friendly,100,10
+law,757,Friendly,100,10
+law,757,Neutral,100,10
+law,757,Rude,100,10
+law,757,Very Rude,100,10
+law,758,Very Friendly,0,10
+law,758,Friendly,0,10
+law,758,Neutral,0,10
+law,758,Rude,0,10
+law,758,Very Rude,0,10
+law,760,Very Friendly,100,10
+law,760,Friendly,100,10
+law,760,Neutral,100,10
+law,760,Rude,100,10
+law,760,Very Rude,100,10
+law,766,Very Friendly,0,10
+law,766,Friendly,0,10
+law,766,Neutral,0,10
+law,766,Rude,0,10
+law,766,Very Rude,0,10
+law,768,Very Friendly,100,10
+law,768,Friendly,100,10
+law,768,Neutral,100,10
+law,768,Rude,100,10
+law,768,Very Rude,100,10
+law,775,Very Friendly,100,10
+law,775,Friendly,100,10
+law,775,Neutral,100,10
+law,775,Rude,100,10
+law,775,Very Rude,100,10
+law,782,Very Friendly,0,10
+law,782,Friendly,0,10
+law,782,Neutral,0,10
+law,782,Rude,0,10
+law,782,Very Rude,0,10
+law,783,Very Friendly,0,10
+law,783,Friendly,0,10
+law,783,Neutral,60,10
+law,783,Rude,20,10
+law,783,Very Rude,0,10
+law,786,Very Friendly,0,10
+law,786,Friendly,0,10
+law,786,Neutral,0,10
+law,786,Rude,0,10
+law,786,Very Rude,0,10
+law,793,Very Friendly,100,10
+law,793,Friendly,100,10
+law,793,Neutral,100,10
+law,793,Rude,100,10
+law,793,Very Rude,100,10
+law,794,Very Friendly,0,10
+law,794,Friendly,0,10
+law,794,Neutral,0,10
+law,794,Rude,0,10
+law,794,Very Rude,0,10
+law,800,Very Friendly,100,10
+law,800,Friendly,100,10
+law,800,Neutral,100,10
+law,800,Rude,100,10
+law,800,Very Rude,100,10
+law,803,Very Friendly,0,10
+law,803,Friendly,0,10
+law,803,Neutral,0,10
+law,803,Rude,0,10
+law,803,Very Rude,0,10
+law,808,Very Friendly,0,10
+law,808,Friendly,0,10
+law,808,Neutral,0,10
+law,808,Rude,0,10
+law,808,Very Rude,0,10
+law,810,Very Friendly,0,10
+law,810,Friendly,0,10
+law,810,Neutral,0,10
+law,810,Rude,0,10
+law,810,Very Rude,0,10
+law,812,Very Friendly,100,10
+law,812,Friendly,100,10
+law,812,Neutral,100,10
+law,812,Rude,100,10
+law,812,Very Rude,100,10
+law,813,Very Friendly,0,10
+law,813,Friendly,0,10
+law,813,Neutral,60,10
+law,813,Rude,0,10
+law,813,Very Rude,70,10
+law,830,Very Friendly,100,10
+law,830,Friendly,100,10
+law,830,Neutral,100,10
+law,830,Rude,100,10
+law,830,Very Rude,100,10
+law,835,Very Friendly,100,10
+law,835,Friendly,100,10
+law,835,Neutral,100,10
+law,835,Rude,100,10
+law,835,Very Rude,100,10
+law,839,Very Friendly,70,10
+law,839,Friendly,0,10
+law,839,Neutral,100,10
+law,839,Rude,0,10
+law,839,Very Rude,0,10
+law,845,Very Friendly,0,10
+law,845,Friendly,0,10
+law,845,Neutral,0,10
+law,845,Rude,0,10
+law,845,Very Rude,0,10
+law,846,Very Friendly,100,10
+law,846,Friendly,100,10
+law,846,Neutral,100,10
+law,846,Rude,100,10
+law,846,Very Rude,100,10
+law,848,Very Friendly,100,10
+law,848,Friendly,100,10
+law,848,Neutral,100,10
+law,848,Rude,100,10
+law,848,Very Rude,100,10
+law,850,Very Friendly,100,10
+law,850,Friendly,100,10
+law,850,Neutral,100,10
+law,850,Rude,100,10
+law,850,Very Rude,100,10
+law,856,Very Friendly,100,10
+law,856,Friendly,100,10
+law,856,Neutral,100,10
+law,856,Rude,100,10
+law,856,Very Rude,100,10
+law,862,Very Friendly,0,10
+law,862,Friendly,0,10
+law,862,Neutral,0,10
+law,862,Rude,0,10
+law,862,Very Rude,0,10
+law,863,Very Friendly,0,10
+law,863,Friendly,0,10
+law,863,Neutral,0,10
+law,863,Rude,0,10
+law,863,Very Rude,0,10
+law,865,Very Friendly,100,10
+law,865,Friendly,100,10
+law,865,Neutral,100,10
+law,865,Rude,100,10
+law,865,Very Rude,100,10
+law,866,Very Friendly,100,10
+law,866,Friendly,100,10
+law,866,Neutral,100,10
+law,866,Rude,100,10
+law,866,Very Rude,100,10
+law,868,Very Friendly,0,10
+law,868,Friendly,0,10
+law,868,Neutral,0,10
+law,868,Rude,0,10
+law,868,Very Rude,0,10
+law,874,Very Friendly,100,10
+law,874,Friendly,100,10
+law,874,Neutral,100,10
+law,874,Rude,100,10
+law,874,Very Rude,100,10
+law,875,Very Friendly,100,10
+law,875,Friendly,100,10
+law,875,Neutral,100,10
+law,875,Rude,100,10
+law,875,Very Rude,100,10
+law,882,Very Friendly,100,10
+law,882,Friendly,100,10
+law,882,Neutral,100,10
+law,882,Rude,100,10
+law,882,Very Rude,100,10
+law,887,Very Friendly,100,10
+law,887,Friendly,100,10
+law,887,Neutral,100,10
+law,887,Rude,100,10
+law,887,Very Rude,100,10
+law,888,Very Friendly,0,10
+law,888,Friendly,0,10
+law,888,Neutral,0,10
+law,888,Rude,0,10
+law,888,Very Rude,0,10
+law,889,Very Friendly,0,10
+law,889,Friendly,0,10
+law,889,Neutral,0,10
+law,889,Rude,0,10
+law,889,Very Rude,0,10
+law,893,Very Friendly,100,10
+law,893,Friendly,100,10
+law,893,Neutral,10,10
+law,893,Rude,100,10
+law,893,Very Rude,0,10
+law,899,Very Friendly,0,10
+law,899,Friendly,0,10
+law,899,Neutral,0,10
+law,899,Rude,0,10
+law,899,Very Rude,0,10
+law,902,Very Friendly,100,10
+law,902,Friendly,100,10
+law,902,Neutral,100,10
+law,902,Rude,100,10
+law,902,Very Rude,100,10
+law,909,Very Friendly,0,10
+law,909,Friendly,0,10
+law,909,Neutral,0,10
+law,909,Rude,0,10
+law,909,Very Rude,0,10
+law,916,Very Friendly,100,10
+law,916,Friendly,100,10
+law,916,Neutral,100,10
+law,916,Rude,100,10
+law,916,Very Rude,100,10
+law,917,Very Friendly,100,10
+law,917,Friendly,100,10
+law,917,Neutral,100,10
+law,917,Rude,100,10
+law,917,Very Rude,100,10
+law,919,Very Friendly,100,10
+law,919,Friendly,100,10
+law,919,Neutral,100,10
+law,919,Rude,100,10
+law,919,Very Rude,100,10
+law,923,Very Friendly,100,10
+law,923,Friendly,100,10
+law,923,Neutral,100,10
+law,923,Rude,100,10
+law,923,Very Rude,100,10
+law,924,Very Friendly,100,10
+law,924,Friendly,100,10
+law,924,Neutral,100,10
+law,924,Rude,100,10
+law,924,Very Rude,100,10
+law,925,Very Friendly,100,10
+law,925,Friendly,100,10
+law,925,Neutral,100,10
+law,925,Rude,100,10
+law,925,Very Rude,100,10
+law,926,Very Friendly,0,10
+law,926,Friendly,0,10
+law,926,Neutral,0,10
+law,926,Rude,0,10
+law,926,Very Rude,0,10
+law,931,Very Friendly,0,10
+law,931,Friendly,0,10
+law,931,Neutral,0,10
+law,931,Rude,0,10
+law,931,Very Rude,0,10
+law,932,Very Friendly,100,10
+law,932,Friendly,100,10
+law,932,Neutral,100,10
+law,932,Rude,100,10
+law,932,Very Rude,100,10
+law,933,Very Friendly,0,10
+law,933,Friendly,0,10
+law,933,Neutral,0,10
+law,933,Rude,0,10
+law,933,Very Rude,0,10
+law,937,Very Friendly,0,10
+law,937,Friendly,0,10
+law,937,Neutral,0,10
+law,937,Rude,0,10
+law,937,Very Rude,0,10
+law,938,Very Friendly,100,10
+law,938,Friendly,100,10
+law,938,Neutral,100,10
+law,938,Rude,100,10
+law,938,Very Rude,100,10
+law,939,Very Friendly,100,10
+law,939,Friendly,100,10
+law,939,Neutral,100,10
+law,939,Rude,100,10
+law,939,Very Rude,100,10
+law,941,Very Friendly,100,10
+law,941,Friendly,100,10
+law,941,Neutral,100,10
+law,941,Rude,100,10
+law,941,Very Rude,100,10
+law,943,Very Friendly,100,10
+law,943,Friendly,100,10
+law,943,Neutral,100,10
+law,943,Rude,100,10
+law,943,Very Rude,100,10
+law,945,Very Friendly,100,10
+law,945,Friendly,100,10
+law,945,Neutral,100,10
+law,945,Rude,100,10
+law,945,Very Rude,100,10
+law,947,Very Friendly,100,10
+law,947,Friendly,100,10
+law,947,Neutral,100,10
+law,947,Rude,100,10
+law,947,Very Rude,100,10
+law,950,Very Friendly,100,10
+law,950,Friendly,100,10
+law,950,Neutral,100,10
+law,950,Rude,100,10
+law,950,Very Rude,100,10
+law,953,Very Friendly,100,10
+law,953,Friendly,100,10
+law,953,Neutral,100,10
+law,953,Rude,100,10
+law,953,Very Rude,100,10
+law,959,Very Friendly,100,10
+law,959,Friendly,100,10
+law,959,Neutral,100,10
+law,959,Rude,100,10
+law,959,Very Rude,0,10
+law,963,Very Friendly,100,10
+law,963,Friendly,100,10
+law,963,Neutral,100,10
+law,963,Rude,100,10
+law,963,Very Rude,100,10
+law,964,Very Friendly,100,10
+law,964,Friendly,100,10
+law,964,Neutral,100,10
+law,964,Rude,100,10
+law,964,Very Rude,100,10
+law,965,Very Friendly,100,10
+law,965,Friendly,100,10
+law,965,Neutral,100,10
+law,965,Rude,100,10
+law,965,Very Rude,100,10
+law,967,Very Friendly,100,10
+law,967,Friendly,100,10
+law,967,Neutral,100,10
+law,967,Rude,100,10
+law,967,Very Rude,100,10
+law,969,Very Friendly,100,10
+law,969,Friendly,100,10
+law,969,Neutral,100,10
+law,969,Rude,100,10
+law,969,Very Rude,100,10
+law,971,Very Friendly,100,10
+law,971,Friendly,100,10
+law,971,Neutral,100,10
+law,971,Rude,100,10
+law,971,Very Rude,100,10
+law,974,Very Friendly,0,10
+law,974,Friendly,0,10
+law,974,Neutral,0,10
+law,974,Rude,0,10
+law,974,Very Rude,0,10
+law,986,Very Friendly,100,10
+law,986,Friendly,100,10
+law,986,Neutral,100,10
+law,986,Rude,100,10
+law,986,Very Rude,100,10
+law,987,Very Friendly,100,10
+law,987,Friendly,100,10
+law,987,Neutral,100,10
+law,987,Rude,100,10
+law,987,Very Rude,100,10
+law,988,Very Friendly,100,10
+law,988,Friendly,100,10
+law,988,Neutral,100,10
+law,988,Rude,100,10
+law,988,Very Rude,100,10
+law,991,Very Friendly,100,10
+law,991,Friendly,100,10
+law,991,Neutral,100,10
+law,991,Rude,100,10
+law,991,Very Rude,100,10
+law,995,Very Friendly,100,10
+law,995,Friendly,100,10
+law,995,Neutral,100,10
+law,995,Rude,100,10
+law,995,Very Rude,100,10
+law,998,Very Friendly,100,10
+law,998,Friendly,100,10
+law,998,Neutral,100,10
+law,998,Rude,100,10
+law,998,Very Rude,100,10
+law,999,Very Friendly,0,10
+law,999,Friendly,0,10
+law,999,Neutral,0,10
+law,999,Rude,0,10
+law,999,Very Rude,0,10
+law,1001,Very Friendly,0,10
+law,1001,Friendly,0,10
+law,1001,Neutral,0,10
+law,1001,Rude,0,10
+law,1001,Very Rude,0,10
+law,1006,Very Friendly,0,10
+law,1006,Friendly,0,10
+law,1006,Neutral,0,10
+law,1006,Rude,0,10
+law,1006,Very Rude,0,10
+law,1007,Very Friendly,40,10
+law,1007,Friendly,0,10
+law,1007,Neutral,100,10
+law,1007,Rude,0,10
+law,1007,Very Rude,10,10
+law,1011,Very Friendly,100,10
+law,1011,Friendly,100,10
+law,1011,Neutral,100,10
+law,1011,Rude,100,10
+law,1011,Very Rude,100,10
+law,1019,Very Friendly,0,10
+law,1019,Friendly,0,10
+law,1019,Neutral,0,10
+law,1019,Rude,0,10
+law,1019,Very Rude,0,10
+law,1023,Very Friendly,100,10
+law,1023,Friendly,100,10
+law,1023,Neutral,100,10
+law,1023,Rude,100,10
+law,1023,Very Rude,100,10
+law,1024,Very Friendly,0,10
+law,1024,Friendly,0,10
+law,1024,Neutral,0,10
+law,1024,Rude,0,10
+law,1024,Very Rude,0,10
+law,1025,Very Friendly,100,10
+law,1025,Friendly,100,10
+law,1025,Neutral,100,10
+law,1025,Rude,100,10
+law,1025,Very Rude,100,10
+law,1027,Very Friendly,100,10
+law,1027,Friendly,100,10
+law,1027,Neutral,100,10
+law,1027,Rude,100,10
+law,1027,Very Rude,100,10
+law,1030,Very Friendly,100,10
+law,1030,Friendly,100,10
+law,1030,Neutral,100,10
+law,1030,Rude,100,10
+law,1030,Very Rude,100,10
+law,1031,Very Friendly,0,10
+law,1031,Friendly,0,10
+law,1031,Neutral,0,10
+law,1031,Rude,0,10
+law,1031,Very Rude,0,10
+law,1032,Very Friendly,100,10
+law,1032,Friendly,100,10
+law,1032,Neutral,100,10
+law,1032,Rude,100,10
+law,1032,Very Rude,100,10
+law,1033,Very Friendly,100,10
+law,1033,Friendly,100,10
+law,1033,Neutral,100,10
+law,1033,Rude,100,10
+law,1033,Very Rude,100,10
+law,1034,Very Friendly,0,10
+law,1034,Friendly,0,10
+law,1034,Neutral,0,10
+law,1034,Rude,0,10
+law,1034,Very Rude,0,10
+law,1038,Very Friendly,100,10
+law,1038,Friendly,100,10
+law,1038,Neutral,100,10
+law,1038,Rude,100,10
+law,1038,Very Rude,100,10
+law,1042,Very Friendly,100,10
+law,1042,Friendly,100,10
+law,1042,Neutral,100,10
+law,1042,Rude,100,10
+law,1042,Very Rude,100,10
+law,1047,Very Friendly,100,10
+law,1047,Friendly,100,10
+law,1047,Neutral,100,10
+law,1047,Rude,100,10
+law,1047,Very Rude,100,10
+law,1049,Very Friendly,0,10
+law,1049,Friendly,0,10
+law,1049,Neutral,0,10
+law,1049,Rude,0,10
+law,1049,Very Rude,0,10
+law,1051,Very Friendly,100,10
+law,1051,Friendly,100,10
+law,1051,Neutral,100,10
+law,1051,Rude,100,10
+law,1051,Very Rude,100,10
+law,1064,Very Friendly,0,10
+law,1064,Friendly,0,10
+law,1064,Neutral,0,10
+law,1064,Rude,0,10
+law,1064,Very Rude,0,10
+law,1074,Very Friendly,100,10
+law,1074,Friendly,100,10
+law,1074,Neutral,100,10
+law,1074,Rude,100,10
+law,1074,Very Rude,100,10
+law,1079,Very Friendly,100,10
+law,1079,Friendly,100,10
+law,1079,Neutral,100,10
+law,1079,Rude,100,10
+law,1079,Very Rude,100,10
+law,1080,Very Friendly,100,10
+law,1080,Friendly,100,10
+law,1080,Neutral,100,10
+law,1080,Rude,100,10
+law,1080,Very Rude,100,10
+law,1081,Very Friendly,100,10
+law,1081,Friendly,100,10
+law,1081,Neutral,100,10
+law,1081,Rude,100,10
+law,1081,Very Rude,100,10
+law,1084,Very Friendly,0,10
+law,1084,Friendly,0,10
+law,1084,Neutral,0,10
+law,1084,Rude,0,10
+law,1084,Very Rude,0,10
+law,1085,Very Friendly,0,10
+law,1085,Friendly,0,10
+law,1085,Neutral,0,10
+law,1085,Rude,0,10
+law,1085,Very Rude,0,10
+law,1086,Very Friendly,100,10
+law,1086,Friendly,100,10
+law,1086,Neutral,100,10
+law,1086,Rude,100,10
+law,1086,Very Rude,100,10
+law,1088,Very Friendly,100,10
+law,1088,Friendly,100,10
+law,1088,Neutral,100,10
+law,1088,Rude,100,10
+law,1088,Very Rude,100,10
+law,1089,Very Friendly,0,10
+law,1089,Friendly,0,10
+law,1089,Neutral,0,10
+law,1089,Rude,0,10
+law,1089,Very Rude,0,10
+law,1090,Very Friendly,0,10
+law,1090,Friendly,0,10
+law,1090,Neutral,0,10
+law,1090,Rude,0,10
+law,1090,Very Rude,0,10
+law,1094,Very Friendly,100,10
+law,1094,Friendly,100,10
+law,1094,Neutral,100,10
+law,1094,Rude,100,10
+law,1094,Very Rude,100,10
+law,1095,Very Friendly,0,10
+law,1095,Friendly,0,10
+law,1095,Neutral,0,10
+law,1095,Rude,0,10
+law,1095,Very Rude,0,10
+law,1097,Very Friendly,100,10
+law,1097,Friendly,100,10
+law,1097,Neutral,100,10
+law,1097,Rude,100,10
+law,1097,Very Rude,100,10
+law,1099,Very Friendly,0,10
+law,1099,Friendly,0,10
+law,1099,Neutral,0,10
+law,1099,Rude,0,10
+law,1099,Very Rude,0,10
+law,1101,Very Friendly,100,10
+law,1101,Friendly,100,10
+law,1101,Neutral,100,10
+law,1101,Rude,100,10
+law,1101,Very Rude,100,10
+law,1102,Very Friendly,100,10
+law,1102,Friendly,100,10
+law,1102,Neutral,100,10
+law,1102,Rude,100,10
+law,1102,Very Rude,0,10
+law,1104,Very Friendly,100,10
+law,1104,Friendly,100,10
+law,1104,Neutral,100,10
+law,1104,Rude,100,10
+law,1104,Very Rude,100,10
+law,1106,Very Friendly,0,10
+law,1106,Friendly,0,10
+law,1106,Neutral,0,10
+law,1106,Rude,0,10
+law,1106,Very Rude,0,10
+law,1108,Very Friendly,100,10
+law,1108,Friendly,100,10
+law,1108,Neutral,100,10
+law,1108,Rude,100,10
+law,1108,Very Rude,100,10
+law,1109,Very Friendly,100,10
+law,1109,Friendly,100,10
+law,1109,Neutral,100,10
+law,1109,Rude,100,10
+law,1109,Very Rude,100,10
+law,1111,Very Friendly,100,10
+law,1111,Friendly,100,10
+law,1111,Neutral,100,10
+law,1111,Rude,100,10
+law,1111,Very Rude,100,10
+law,1113,Very Friendly,100,10
+law,1113,Friendly,100,10
+law,1113,Neutral,100,10
+law,1113,Rude,100,10
+law,1113,Very Rude,100,10
+law,1115,Very Friendly,100,10
+law,1115,Friendly,100,10
+law,1115,Neutral,100,10
+law,1115,Rude,100,10
+law,1115,Very Rude,100,10
+law,1118,Very Friendly,0,10
+law,1118,Friendly,0,10
+law,1118,Neutral,0,10
+law,1118,Rude,0,10
+law,1118,Very Rude,0,10
+law,1119,Very Friendly,100,10
+law,1119,Friendly,100,10
+law,1119,Neutral,100,10
+law,1119,Rude,100,10
+law,1119,Very Rude,100,10
+law,1121,Very Friendly,100,10
+law,1121,Friendly,100,10
+law,1121,Neutral,100,10
+law,1121,Rude,100,10
+law,1121,Very Rude,100,10
+law,1125,Very Friendly,100,10
+law,1125,Friendly,100,10
+law,1125,Neutral,100,10
+law,1125,Rude,100,10
+law,1125,Very Rude,100,10
+law,1132,Very Friendly,0,10
+law,1132,Friendly,0,10
+law,1132,Neutral,0,10
+law,1132,Rude,0,10
+law,1132,Very Rude,0,10
+law,1134,Very Friendly,0,10
+law,1134,Friendly,0,10
+law,1134,Neutral,0,10
+law,1134,Rude,0,10
+law,1134,Very Rude,0,10
+law,1139,Very Friendly,100,10
+law,1139,Friendly,100,10
+law,1139,Neutral,100,10
+law,1139,Rude,100,10
+law,1139,Very Rude,100,10
+law,1141,Very Friendly,100,10
+law,1141,Friendly,100,10
+law,1141,Neutral,100,10
+law,1141,Rude,100,10
+law,1141,Very Rude,100,10
+law,1142,Very Friendly,100,10
+law,1142,Friendly,100,10
+law,1142,Neutral,100,10
+law,1142,Rude,100,10
+law,1142,Very Rude,100,10
+law,1156,Very Friendly,100,10
+law,1156,Friendly,100,10
+law,1156,Neutral,100,10
+law,1156,Rude,100,10
+law,1156,Very Rude,100,10
+law,1157,Very Friendly,100,10
+law,1157,Friendly,100,10
+law,1157,Neutral,100,10
+law,1157,Rude,100,10
+law,1157,Very Rude,100,10
+law,1160,Very Friendly,0,10
+law,1160,Friendly,0,10
+law,1160,Neutral,0,10
+law,1160,Rude,0,10
+law,1160,Very Rude,0,10
+law,1162,Very Friendly,100,10
+law,1162,Friendly,100,10
+law,1162,Neutral,100,10
+law,1162,Rude,100,10
+law,1162,Very Rude,100,10
+law,1165,Very Friendly,100,10
+law,1165,Friendly,100,10
+law,1165,Neutral,100,10
+law,1165,Rude,100,10
+law,1165,Very Rude,100,10
+law,1166,Very Friendly,100,10
+law,1166,Friendly,100,10
+law,1166,Neutral,100,10
+law,1166,Rude,100,10
+law,1166,Very Rude,100,10
+law,1168,Very Friendly,100,10
+law,1168,Friendly,100,10
+law,1168,Neutral,100,10
+law,1168,Rude,100,10
+law,1168,Very Rude,100,10
+law,1169,Very Friendly,0,10
+law,1169,Friendly,0,10
+law,1169,Neutral,0,10
+law,1169,Rude,0,10
+law,1169,Very Rude,0,10
+law,1171,Very Friendly,100,10
+law,1171,Friendly,100,10
+law,1171,Neutral,100,10
+law,1171,Rude,100,10
+law,1171,Very Rude,100,10
+law,1175,Very Friendly,0,10
+law,1175,Friendly,0,10
+law,1175,Neutral,0,10
+law,1175,Rude,0,10
+law,1175,Very Rude,0,10
+law,1178,Very Friendly,0,10
+law,1178,Friendly,0,10
+law,1178,Neutral,0,10
+law,1178,Rude,0,10
+law,1178,Very Rude,0,10
+law,1179,Very Friendly,100,10
+law,1179,Friendly,100,10
+law,1179,Neutral,100,10
+law,1179,Rude,100,10
+law,1179,Very Rude,100,10
+law,1180,Very Friendly,0,10
+law,1180,Friendly,0,10
+law,1180,Neutral,0,10
+law,1180,Rude,0,10
+law,1180,Very Rude,0,10
+law,1182,Very Friendly,100,10
+law,1182,Friendly,100,10
+law,1182,Neutral,100,10
+law,1182,Rude,100,10
+law,1182,Very Rude,100,10
+law,1186,Very Friendly,100,10
+law,1186,Friendly,100,10
+law,1186,Neutral,100,10
+law,1186,Rude,100,10
+law,1186,Very Rude,100,10
+law,1190,Very Friendly,0,10
+law,1190,Friendly,0,10
+law,1190,Neutral,0,10
+law,1190,Rude,0,10
+law,1190,Very Rude,0,10
+law,1191,Very Friendly,100,10
+law,1191,Friendly,100,10
+law,1191,Neutral,100,10
+law,1191,Rude,100,10
+law,1191,Very Rude,100,10
+law,1193,Very Friendly,0,10
+law,1193,Friendly,0,10
+law,1193,Neutral,0,10
+law,1193,Rude,0,10
+law,1193,Very Rude,0,10
+law,1197,Very Friendly,0,10
+law,1197,Friendly,0,10
+law,1197,Neutral,0,10
+law,1197,Rude,0,10
+law,1197,Very Rude,0,10
+law,1200,Very Friendly,100,10
+law,1200,Friendly,100,10
+law,1200,Neutral,100,10
+law,1200,Rude,100,10
+law,1200,Very Rude,100,10
+law,1204,Very Friendly,100,10
+law,1204,Friendly,100,10
+law,1204,Neutral,100,10
+law,1204,Rude,100,10
+law,1204,Very Rude,100,10
+law,1205,Very Friendly,100,10
+law,1205,Friendly,100,10
+law,1205,Neutral,100,10
+law,1205,Rude,100,10
+law,1205,Very Rude,100,10
+law,1207,Very Friendly,0,10
+law,1207,Friendly,0,10
+law,1207,Neutral,0,10
+law,1207,Rude,0,10
+law,1207,Very Rude,0,10
+law,1213,Very Friendly,100,10
+law,1213,Friendly,100,10
+law,1213,Neutral,100,10
+law,1213,Rude,100,10
+law,1213,Very Rude,100,10
+law,1217,Very Friendly,0,10
+law,1217,Friendly,0,10
+law,1217,Neutral,0,10
+law,1217,Rude,0,10
+law,1217,Very Rude,0,10
+law,1220,Very Friendly,50,10
+law,1220,Friendly,100,10
+law,1220,Neutral,30,10
+law,1220,Rude,10,10
+law,1220,Very Rude,20,10
+law,1223,Very Friendly,100,10
+law,1223,Friendly,100,10
+law,1223,Neutral,100,10
+law,1223,Rude,100,10
+law,1223,Very Rude,100,10
+law,1224,Very Friendly,100,10
+law,1224,Friendly,100,10
+law,1224,Neutral,100,10
+law,1224,Rude,100,10
+law,1224,Very Rude,100,10
+law,1226,Very Friendly,100,10
+law,1226,Friendly,100,10
+law,1226,Neutral,100,10
+law,1226,Rude,100,10
+law,1226,Very Rude,100,10
+law,1227,Very Friendly,0,10
+law,1227,Friendly,0,10
+law,1227,Neutral,0,10
+law,1227,Rude,0,10
+law,1227,Very Rude,0,10
+law,1229,Very Friendly,0,10
+law,1229,Friendly,0,10
+law,1229,Neutral,0,10
+law,1229,Rude,0,10
+law,1229,Very Rude,0,10
+law,1232,Very Friendly,100,10
+law,1232,Friendly,100,10
+law,1232,Neutral,100,10
+law,1232,Rude,100,10
+law,1232,Very Rude,100,10
+law,1233,Very Friendly,100,10
+law,1233,Friendly,100,10
+law,1233,Neutral,100,10
+law,1233,Rude,100,10
+law,1233,Very Rude,100,10
+law,1235,Very Friendly,100,10
+law,1235,Friendly,100,10
+law,1235,Neutral,100,10
+law,1235,Rude,100,10
+law,1235,Very Rude,100,10
+law,1237,Very Friendly,0,10
+law,1237,Friendly,0,10
+law,1237,Neutral,60,10
+law,1237,Rude,0,10
+law,1237,Very Rude,10,10
+law,1240,Very Friendly,100,10
+law,1240,Friendly,100,10
+law,1240,Neutral,100,10
+law,1240,Rude,100,10
+law,1240,Very Rude,100,10
+law,1244,Very Friendly,100,10
+law,1244,Friendly,100,10
+law,1244,Neutral,100,10
+law,1244,Rude,100,10
+law,1244,Very Rude,100,10
+law,1245,Very Friendly,0,10
+law,1245,Friendly,0,10
+law,1245,Neutral,100,10
+law,1245,Rude,0,10
+law,1245,Very Rude,0,10
+law,1246,Very Friendly,100,10
+law,1246,Friendly,100,10
+law,1246,Neutral,100,10
+law,1246,Rude,100,10
+law,1246,Very Rude,100,10
+law,1252,Very Friendly,100,10
+law,1252,Friendly,100,10
+law,1252,Neutral,100,10
+law,1252,Rude,100,10
+law,1252,Very Rude,100,10
+law,1254,Very Friendly,100,10
+law,1254,Friendly,100,10
+law,1254,Neutral,100,10
+law,1254,Rude,100,10
+law,1254,Very Rude,100,10
+law,1259,Very Friendly,100,10
+law,1259,Friendly,100,10
+law,1259,Neutral,100,10
+law,1259,Rude,100,10
+law,1259,Very Rude,100,10
+law,1262,Very Friendly,100,10
+law,1262,Friendly,100,10
+law,1262,Neutral,100,10
+law,1262,Rude,100,10
+law,1262,Very Rude,100,10
+law,1263,Very Friendly,0,10
+law,1263,Friendly,0,10
+law,1263,Neutral,0,10
+law,1263,Rude,0,10
+law,1263,Very Rude,0,10
+law,1266,Very Friendly,0,10
+law,1266,Friendly,0,10
+law,1266,Neutral,0,10
+law,1266,Rude,0,10
+law,1266,Very Rude,0,10
+law,1269,Very Friendly,40,10
+law,1269,Friendly,0,10
+law,1269,Neutral,30,10
+law,1269,Rude,0,10
+law,1269,Very Rude,100,10
+law,1277,Very Friendly,100,10
+law,1277,Friendly,100,10
+law,1277,Neutral,100,10
+law,1277,Rude,100,10
+law,1277,Very Rude,100,10
+law,1278,Very Friendly,100,10
+law,1278,Friendly,100,10
+law,1278,Neutral,100,10
+law,1278,Rude,100,10
+law,1278,Very Rude,100,10
+law,1279,Very Friendly,0,10
+law,1279,Friendly,0,10
+law,1279,Neutral,0,10
+law,1279,Rude,0,10
+law,1279,Very Rude,0,10
+law,1280,Very Friendly,0,10
+law,1280,Friendly,0,10
+law,1280,Neutral,0,10
+law,1280,Rude,0,10
+law,1280,Very Rude,0,10
+law,1286,Very Friendly,100,10
+law,1286,Friendly,100,10
+law,1286,Neutral,100,10
+law,1286,Rude,100,10
+law,1286,Very Rude,100,10
+law,1291,Very Friendly,0,10
+law,1291,Friendly,0,10
+law,1291,Neutral,0,10
+law,1291,Rude,0,10
+law,1291,Very Rude,0,10
+law,1297,Very Friendly,100,10
+law,1297,Friendly,90,10
+law,1297,Neutral,0,10
+law,1297,Rude,0,10
+law,1297,Very Rude,0,10
+law,1299,Very Friendly,100,10
+law,1299,Friendly,100,10
+law,1299,Neutral,100,10
+law,1299,Rude,100,10
+law,1299,Very Rude,100,10
+law,1300,Very Friendly,100,10
+law,1300,Friendly,100,10
+law,1300,Neutral,100,10
+law,1300,Rude,100,10
+law,1300,Very Rude,100,10
+law,1305,Very Friendly,0,10
+law,1305,Friendly,0,10
+law,1305,Neutral,0,10
+law,1305,Rude,0,10
+law,1305,Very Rude,0,10
+law,1308,Very Friendly,100,10
+law,1308,Friendly,100,10
+law,1308,Neutral,100,10
+law,1308,Rude,100,10
+law,1308,Very Rude,100,10
+law,1313,Very Friendly,100,10
+law,1313,Friendly,100,10
+law,1313,Neutral,100,10
+law,1313,Rude,100,10
+law,1313,Very Rude,100,10
+law,1314,Very Friendly,100,10
+law,1314,Friendly,100,10
+law,1314,Neutral,100,10
+law,1314,Rude,100,10
+law,1314,Very Rude,100,10
+law,1315,Very Friendly,0,10
+law,1315,Friendly,0,10
+law,1315,Neutral,0,10
+law,1315,Rude,0,10
+law,1315,Very Rude,0,10
+law,1316,Very Friendly,100,10
+law,1316,Friendly,100,10
+law,1316,Neutral,100,10
+law,1316,Rude,100,10
+law,1316,Very Rude,100,10
+law,1324,Very Friendly,100,10
+law,1324,Friendly,100,10
+law,1324,Neutral,100,10
+law,1324,Rude,100,10
+law,1324,Very Rude,100,10
+law,1327,Very Friendly,100,10
+law,1327,Friendly,100,10
+law,1327,Neutral,100,10
+law,1327,Rude,100,10
+law,1327,Very Rude,100,10
+law,1328,Very Friendly,0,10
+law,1328,Friendly,0,10
+law,1328,Neutral,0,10
+law,1328,Rude,0,10
+law,1328,Very Rude,0,10
+law,1330,Very Friendly,100,10
+law,1330,Friendly,100,10
+law,1330,Neutral,100,10
+law,1330,Rude,100,10
+law,1330,Very Rude,0,10
+law,1332,Very Friendly,0,10
+law,1332,Friendly,0,10
+law,1332,Neutral,0,10
+law,1332,Rude,0,10
+law,1332,Very Rude,0,10
+law,1334,Very Friendly,100,10
+law,1334,Friendly,100,10
+law,1334,Neutral,100,10
+law,1334,Rude,100,10
+law,1334,Very Rude,100,10
+law,1336,Very Friendly,0,10
+law,1336,Friendly,0,10
+law,1336,Neutral,0,10
+law,1336,Rude,0,10
+law,1336,Very Rude,0,10
+law,1345,Very Friendly,0,10
+law,1345,Friendly,0,10
+law,1345,Neutral,0,10
+law,1345,Rude,0,10
+law,1345,Very Rude,0,10
+law,1357,Very Friendly,0,10
+law,1357,Friendly,0,10
+law,1357,Neutral,0,10
+law,1357,Rude,0,10
+law,1357,Very Rude,0,10
+law,1359,Very Friendly,100,10
+law,1359,Friendly,100,10
+law,1359,Neutral,100,10
+law,1359,Rude,100,10
+law,1359,Very Rude,100,10
+law,1361,Very Friendly,0,10
+law,1361,Friendly,0,10
+law,1361,Neutral,0,10
+law,1361,Rude,0,10
+law,1361,Very Rude,0,10
+law,1365,Very Friendly,100,10
+law,1365,Friendly,100,10
+law,1365,Neutral,100,10
+law,1365,Rude,100,10
+law,1365,Very Rude,100,10
+law,1369,Very Friendly,100,10
+law,1369,Friendly,100,10
+law,1369,Neutral,100,10
+law,1369,Rude,100,10
+law,1369,Very Rude,100,10
+law,1372,Very Friendly,100,10
+law,1372,Friendly,100,10
+law,1372,Neutral,100,10
+law,1372,Rude,100,10
+law,1372,Very Rude,100,10
+law,1379,Very Friendly,0,10
+law,1379,Friendly,0,10
+law,1379,Neutral,0,10
+law,1379,Rude,0,10
+law,1379,Very Rude,0,10
+law,1380,Very Friendly,100,10
+law,1380,Friendly,100,10
+law,1380,Neutral,100,10
+law,1380,Rude,100,10
+law,1380,Very Rude,100,10
+law,1382,Very Friendly,100,10
+law,1382,Friendly,100,10
+law,1382,Neutral,100,10
+law,1382,Rude,100,10
+law,1382,Very Rude,100,10
+law,1388,Very Friendly,100,10
+law,1388,Friendly,90,10
+law,1388,Neutral,0,10
+law,1388,Rude,100,10
+law,1388,Very Rude,100,10
+law,1389,Very Friendly,100,10
+law,1389,Friendly,100,10
+law,1389,Neutral,100,10
+law,1389,Rude,100,10
+law,1389,Very Rude,100,10
+law,1392,Very Friendly,0,10
+law,1392,Friendly,0,10
+law,1392,Neutral,0,10
+law,1392,Rude,0,10
+law,1392,Very Rude,0,10
+law,1396,Very Friendly,0,10
+law,1396,Friendly,0,10
+law,1396,Neutral,0,10
+law,1396,Rude,0,10
+law,1396,Very Rude,0,10
+law,1402,Very Friendly,100,10
+law,1402,Friendly,100,10
+law,1402,Neutral,100,10
+law,1402,Rude,100,10
+law,1402,Very Rude,100,10
+law,1404,Very Friendly,100,10
+law,1404,Friendly,100,10
+law,1404,Neutral,100,10
+law,1404,Rude,100,10
+law,1404,Very Rude,100,10
+law,1405,Very Friendly,100,10
+law,1405,Friendly,100,10
+law,1405,Neutral,100,10
+law,1405,Rude,100,10
+law,1405,Very Rude,100,10
+law,1409,Very Friendly,100,10
+law,1409,Friendly,100,10
+law,1409,Neutral,100,10
+law,1409,Rude,100,10
+law,1409,Very Rude,100,10
+law,1411,Very Friendly,100,10
+law,1411,Friendly,100,10
+law,1411,Neutral,100,10
+law,1411,Rude,100,10
+law,1411,Very Rude,100,10
+law,1416,Very Friendly,100,10
+law,1416,Friendly,100,10
+law,1416,Neutral,100,10
+law,1416,Rude,100,10
+law,1416,Very Rude,100,10
+law,1419,Very Friendly,100,10
+law,1419,Friendly,100,10
+law,1419,Neutral,100,10
+law,1419,Rude,100,10
+law,1419,Very Rude,100,10
+law,1425,Very Friendly,100,10
+law,1425,Friendly,80,10
+law,1425,Neutral,0,10
+law,1425,Rude,0,10
+law,1425,Very Rude,20,10
+law,1427,Very Friendly,0,10
+law,1427,Friendly,0,10
+law,1427,Neutral,0,10
+law,1427,Rude,0,10
+law,1427,Very Rude,0,10
+law,1430,Very Friendly,0,10
+law,1430,Friendly,0,10
+law,1430,Neutral,0,10
+law,1430,Rude,0,10
+law,1430,Very Rude,0,10
+law,1431,Very Friendly,0,10
+law,1431,Friendly,0,10
+law,1431,Neutral,0,10
+law,1431,Rude,0,10
+law,1431,Very Rude,0,10
+law,1435,Very Friendly,0,10
+law,1435,Friendly,0,10
+law,1435,Neutral,0,10
+law,1435,Rude,0,10
+law,1435,Very Rude,0,10
+law,1436,Very Friendly,100,10
+law,1436,Friendly,100,10
+law,1436,Neutral,100,10
+law,1436,Rude,100,10
+law,1436,Very Rude,100,10
+law,1445,Very Friendly,0,10
+law,1445,Friendly,0,10
+law,1445,Neutral,0,10
+law,1445,Rude,0,10
+law,1445,Very Rude,0,10
+law,1453,Very Friendly,100,10
+law,1453,Friendly,100,10
+law,1453,Neutral,100,10
+law,1453,Rude,100,10
+law,1453,Very Rude,100,10
+law,1454,Very Friendly,0,10
+law,1454,Friendly,0,10
+law,1454,Neutral,0,10
+law,1454,Rude,0,10
+law,1454,Very Rude,0,10
+law,1455,Very Friendly,0,10
+law,1455,Friendly,0,10
+law,1455,Neutral,0,10
+law,1455,Rude,0,10
+law,1455,Very Rude,0,10
+law,1458,Very Friendly,100,10
+law,1458,Friendly,100,10
+law,1458,Neutral,100,10
+law,1458,Rude,100,10
+law,1458,Very Rude,100,10
+law,1463,Very Friendly,0,10
+law,1463,Friendly,0,10
+law,1463,Neutral,0,10
+law,1463,Rude,0,10
+law,1463,Very Rude,0,10
+law,1466,Very Friendly,100,10
+law,1466,Friendly,100,10
+law,1466,Neutral,100,10
+law,1466,Rude,100,10
+law,1466,Very Rude,100,10
+law,1469,Very Friendly,0,10
+law,1469,Friendly,0,10
+law,1469,Neutral,0,10
+law,1469,Rude,0,10
+law,1469,Very Rude,0,10
+law,1471,Very Friendly,0,10
+law,1471,Friendly,0,10
+law,1471,Neutral,0,10
+law,1471,Rude,0,10
+law,1471,Very Rude,0,10
+law,1472,Very Friendly,100,10
+law,1472,Friendly,100,10
+law,1472,Neutral,100,10
+law,1472,Rude,100,10
+law,1472,Very Rude,100,10
+law,1473,Very Friendly,0,10
+law,1473,Friendly,0,10
+law,1473,Neutral,0,10
+law,1473,Rude,0,10
+law,1473,Very Rude,0,10
+law,1477,Very Friendly,0,10
+law,1477,Friendly,0,10
+law,1477,Neutral,0,10
+law,1477,Rude,0,10
+law,1477,Very Rude,0,10
+law,1478,Very Friendly,100,10
+law,1478,Friendly,100,10
+law,1478,Neutral,100,10
+law,1478,Rude,100,10
+law,1478,Very Rude,100,10
+law,1480,Very Friendly,100,10
+law,1480,Friendly,100,10
+law,1480,Neutral,100,10
+law,1480,Rude,100,10
+law,1480,Very Rude,100,10
+law,1482,Very Friendly,100,10
+law,1482,Friendly,100,10
+law,1482,Neutral,100,10
+law,1482,Rude,100,10
+law,1482,Very Rude,100,10
+law,1486,Very Friendly,100,10
+law,1486,Friendly,100,10
+law,1486,Neutral,100,10
+law,1486,Rude,100,10
+law,1486,Very Rude,100,10
+law,1487,Very Friendly,100,10
+law,1487,Friendly,100,10
+law,1487,Neutral,100,10
+law,1487,Rude,100,10
+law,1487,Very Rude,100,10
+law,1488,Very Friendly,100,10
+law,1488,Friendly,100,10
+law,1488,Neutral,100,10
+law,1488,Rude,100,10
+law,1488,Very Rude,100,10
+law,1490,Very Friendly,100,10
+law,1490,Friendly,100,10
+law,1490,Neutral,100,10
+law,1490,Rude,100,10
+law,1490,Very Rude,100,10
+law,1491,Very Friendly,0,10
+law,1491,Friendly,0,10
+law,1491,Neutral,0,10
+law,1491,Rude,0,10
+law,1491,Very Rude,0,10
+law,1497,Very Friendly,0,10
+law,1497,Friendly,0,10
+law,1497,Neutral,0,10
+law,1497,Rude,100,10
+law,1497,Very Rude,0,10
+law,1501,Very Friendly,0,10
+law,1501,Friendly,0,10
+law,1501,Neutral,0,10
+law,1501,Rude,0,10
+law,1501,Very Rude,0,10
+law,1505,Very Friendly,0,10
+law,1505,Friendly,0,10
+law,1505,Neutral,0,10
+law,1505,Rude,0,10
+law,1505,Very Rude,0,10
+law,1514,Very Friendly,100,10
+law,1514,Friendly,100,10
+law,1514,Neutral,100,10
+law,1514,Rude,100,10
+law,1514,Very Rude,100,10
+law,1515,Very Friendly,100,10
+law,1515,Friendly,100,10
+law,1515,Neutral,100,10
+law,1515,Rude,100,10
+law,1515,Very Rude,100,10
+law,1516,Very Friendly,100,10
+law,1516,Friendly,100,10
+law,1516,Neutral,100,10
+law,1516,Rude,100,10
+law,1516,Very Rude,100,10
+law,1518,Very Friendly,100,10
+law,1518,Friendly,100,10
+law,1518,Neutral,100,10
+law,1518,Rude,100,10
+law,1518,Very Rude,100,10
+law,1522,Very Friendly,0,10
+law,1522,Friendly,0,10
+law,1522,Neutral,0,10
+law,1522,Rude,0,10
+law,1522,Very Rude,0,10
+law,1523,Very Friendly,100,10
+law,1523,Friendly,100,10
+law,1523,Neutral,100,10
+law,1523,Rude,100,10
+law,1523,Very Rude,100,10
+law,1524,Very Friendly,30,10
+law,1524,Friendly,0,10
+law,1524,Neutral,10,10
+law,1524,Rude,0,10
+law,1524,Very Rude,0,10
+law,1525,Very Friendly,100,10
+law,1525,Friendly,100,10
+law,1525,Neutral,100,10
+law,1525,Rude,100,10
+law,1525,Very Rude,100,10
+law,1526,Very Friendly,100,10
+law,1526,Friendly,100,10
+law,1526,Neutral,100,10
+law,1526,Rude,100,10
+law,1526,Very Rude,100,10
+law,1530,Very Friendly,100,10
+law,1530,Friendly,100,10
+law,1530,Neutral,100,10
+law,1530,Rude,100,10
+law,1530,Very Rude,100,10

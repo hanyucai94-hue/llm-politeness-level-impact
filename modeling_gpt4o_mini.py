@@ -1,5 +1,5 @@
-# Please install  openai and pandas - !pip install openai pandas
-# Please insert your API key to make the code run
+# Please install  openai and pandas - !pip install openai pandas python-dotenv
+# Please insert your API key in .env file
 import os
 import asyncio
 import pandas as pd
@@ -7,22 +7,41 @@ from collections import defaultdict
 from statistics import mean
 from openai import AsyncOpenAI
 import re
+from pathlib import Path
+
+# Load environment variables from .env file
+from dotenv import load_dotenv
+load_dotenv()  # This loads OPENAI_API_KEY from .env file
  
 # === CONFIGURATION ===
 
 client = AsyncOpenAI()  # uses OPENAI_API_KEY from environment
 MODEL = "gpt-4o-mini"
 NUM_RUNS = 3
-FILE_PATH = "sanitized_test_data_wiz_politeness_level/dataset+test_random_500_sanitized_humanities.csv" # Keep the dataset and the code in the same folder
-SLEEP_BETWEEN_BATCHES = 0.5  # seconds
+FILE_PATH = "sanitized_test_data_wiz_politeness_level_v1/dataset+test_base_question_moral_disputes_test.csv" # Keep the dataset and the code in the same folder
+SLEEP_BETWEEN_BATCHES = 0.1  # seconds
 results_dir = f"results-{MODEL}"
 os.makedirs(results_dir, exist_ok=True)
  
 # === LOAD DATA ===
 df = pd.read_csv(FILE_PATH)
 grouped_prompts = df.groupby("QID")
-domain_value = df["Domain"].iloc[0] if "Domain" in df.columns and len(df) > 0 else ""
-domain_suffix = str(domain_value).strip().replace(" ", "_") if domain_value else ""
+
+# Extract domain from filename (everything after 'sanitized_' or between 'base_question_' and '_test')
+# e.g., "dataset+test_random_500_sanitized_humanities.csv" -> "humanities"
+# e.g., "dataset+test_random_500_sanitized_professional_law.csv" -> "professional_law"
+# e.g., "dataset+test_base_question_moral_disputes_test.csv" -> "moral_disputes"
+filename = os.path.basename(FILE_PATH)  # Get filename without path
+filename_without_ext = filename.rsplit('.', 1)[0]  # Remove .csv extension
+if 'sanitized_' in filename_without_ext:
+    domain_suffix = filename_without_ext.split('sanitized_', 1)[1]  # Get everything after 'sanitized_'
+elif 'base_question_' in filename_without_ext and '_test' in filename_without_ext:
+    # Extract domain between 'base_question_' and '_test'
+    temp = filename_without_ext.split('base_question_', 1)[1]
+    domain_suffix = temp.rsplit('_test', 1)[0]
+else:
+    domain_suffix = filename_without_ext.split('_')[-1]  # Fallback: get last word
+domain_value = domain_suffix  # Use the same value for both
  
 # === STORAGE ===
 results = defaultdict(list)

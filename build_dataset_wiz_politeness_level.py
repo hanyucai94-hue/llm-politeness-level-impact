@@ -6,9 +6,9 @@ from pathlib import Path
 
 # === CONFIGURATION ===
 #input_csvs = ["random_500_sanitized_humanities.csv","random_500_sanitized_stem.csv"]  
-input_csvs = ["random_1000_sanitized_humanities.csv"]  
-POLITENESS_FILE = "Politeness_Level_Prefix_Catalog - V2.csv"
-OUTPUT_DIR = "sanitized_test_data_wiz_politeness_level_v2"
+input_csvs = ["sanitized_test_data_humanities/base_question_moral_disputes_test.csv"]  
+POLITENESS_FILE = "Politeness_Level_Prefix_Catalog - V1.csv"
+OUTPUT_DIR = "sanitized_test_data_wiz_politeness_level_v1"
 
 # === HELPERS ===
 def load_politeness_catalog(path: str) -> pd.DataFrame:

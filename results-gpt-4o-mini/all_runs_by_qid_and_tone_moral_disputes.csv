@@ -1,0 +1,1731 @@
+Domain,QID,Tone,Run 1,Run 2,Run 3
+moral_disputes,1,Very Friendly,100,100,100
+moral_disputes,1,Friendly,100,100,100
+moral_disputes,1,Neutral,100,100,100
+moral_disputes,1,Rude,100,100,100
+moral_disputes,1,Very Rude,100,100,100
+moral_disputes,2,Very Friendly,100,100,100
+moral_disputes,2,Friendly,100,100,100
+moral_disputes,2,Neutral,100,100,100
+moral_disputes,2,Rude,100,100,100
+moral_disputes,2,Very Rude,100,100,100
+moral_disputes,3,Very Friendly,0,0,0
+moral_disputes,3,Friendly,0,0,0
+moral_disputes,3,Neutral,0,0,0
+moral_disputes,3,Rude,0,0,0
+moral_disputes,3,Very Rude,0,0,0
+moral_disputes,4,Very Friendly,100,100,100
+moral_disputes,4,Friendly,100,100,100
+moral_disputes,4,Neutral,100,100,100
+moral_disputes,4,Rude,100,100,100
+moral_disputes,4,Very Rude,100,100,100
+moral_disputes,5,Very Friendly,0,0,0
+moral_disputes,5,Friendly,0,0,0
+moral_disputes,5,Neutral,0,0,0
+moral_disputes,5,Rude,0,0,0
+moral_disputes,5,Very Rude,0,0,0
+moral_disputes,6,Very Friendly,100,100,100
+moral_disputes,6,Friendly,100,100,100
+moral_disputes,6,Neutral,100,100,100
+moral_disputes,6,Rude,100,100,100
+moral_disputes,6,Very Rude,100,100,100
+moral_disputes,7,Very Friendly,0,0,0
+moral_disputes,7,Friendly,0,0,0
+moral_disputes,7,Neutral,0,0,0
+moral_disputes,7,Rude,100,100,100
+moral_disputes,7,Very Rude,0,0,100
+moral_disputes,8,Very Friendly,100,100,100
+moral_disputes,8,Friendly,100,100,100
+moral_disputes,8,Neutral,100,100,100
+moral_disputes,8,Rude,100,100,100
+moral_disputes,8,Very Rude,100,100,100
+moral_disputes,9,Very Friendly,100,100,100
+moral_disputes,9,Friendly,100,100,100
+moral_disputes,9,Neutral,0,100,0
+moral_disputes,9,Rude,100,100,100
+moral_disputes,9,Very Rude,0,0,0
+moral_disputes,10,Very Friendly,100,100,100
+moral_disputes,10,Friendly,100,100,100
+moral_disputes,10,Neutral,100,100,100
+moral_disputes,10,Rude,100,100,100
+moral_disputes,10,Very Rude,100,100,100
+moral_disputes,11,Very Friendly,0,0,0
+moral_disputes,11,Friendly,0,0,0
+moral_disputes,11,Neutral,0,0,0
+moral_disputes,11,Rude,0,0,0
+moral_disputes,11,Very Rude,0,0,0
+moral_disputes,12,Very Friendly,100,100,100
+moral_disputes,12,Friendly,100,100,100
+moral_disputes,12,Neutral,100,100,100
+moral_disputes,12,Rude,100,100,100
+moral_disputes,12,Very Rude,100,100,100
+moral_disputes,13,Very Friendly,0,0,0
+moral_disputes,13,Friendly,0,0,0
+moral_disputes,13,Neutral,0,0,0
+moral_disputes,13,Rude,0,0,0
+moral_disputes,13,Very Rude,0,0,0
+moral_disputes,14,Very Friendly,0,0,0
+moral_disputes,14,Friendly,0,0,0
+moral_disputes,14,Neutral,0,0,0
+moral_disputes,14,Rude,100,100,100
+moral_disputes,14,Very Rude,100,100,100
+moral_disputes,15,Very Friendly,100,100,0
+moral_disputes,15,Friendly,0,0,0
+moral_disputes,15,Neutral,100,100,0
+moral_disputes,15,Rude,100,100,100
+moral_disputes,15,Very Rude,100,100,100
+moral_disputes,16,Very Friendly,100,100,100
+moral_disputes,16,Friendly,100,100,100
+moral_disputes,16,Neutral,100,100,100
+moral_disputes,16,Rude,100,100,100
+moral_disputes,16,Very Rude,100,100,100
+moral_disputes,17,Very Friendly,100,100,100
+moral_disputes,17,Friendly,100,100,100
+moral_disputes,17,Neutral,100,100,100
+moral_disputes,17,Rude,100,100,100
+moral_disputes,17,Very Rude,100,100,100
+moral_disputes,18,Very Friendly,100,100,100
+moral_disputes,18,Friendly,100,100,100
+moral_disputes,18,Neutral,100,100,100
+moral_disputes,18,Rude,100,100,100
+moral_disputes,18,Very Rude,100,100,100
+moral_disputes,19,Very Friendly,100,100,100
+moral_disputes,19,Friendly,100,100,100
+moral_disputes,19,Neutral,100,100,100
+moral_disputes,19,Rude,100,100,100
+moral_disputes,19,Very Rude,100,100,100
+moral_disputes,20,Very Friendly,100,100,100
+moral_disputes,20,Friendly,100,100,100
+moral_disputes,20,Neutral,100,100,100
+moral_disputes,20,Rude,100,100,100
+moral_disputes,20,Very Rude,100,100,100
+moral_disputes,21,Very Friendly,100,100,100
+moral_disputes,21,Friendly,100,100,100
+moral_disputes,21,Neutral,100,100,100
+moral_disputes,21,Rude,100,100,100
+moral_disputes,21,Very Rude,100,100,100
+moral_disputes,22,Very Friendly,100,100,100
+moral_disputes,22,Friendly,100,100,100
+moral_disputes,22,Neutral,100,100,100
+moral_disputes,22,Rude,100,100,100
+moral_disputes,22,Very Rude,100,100,100
+moral_disputes,23,Very Friendly,100,100,100
+moral_disputes,23,Friendly,0,0,100
+moral_disputes,23,Neutral,0,0,0
+moral_disputes,23,Rude,0,0,0
+moral_disputes,23,Very Rude,0,0,0
+moral_disputes,24,Very Friendly,0,0,0
+moral_disputes,24,Friendly,0,0,0
+moral_disputes,24,Neutral,0,0,0
+moral_disputes,24,Rude,0,0,0
+moral_disputes,24,Very Rude,0,0,0
+moral_disputes,25,Very Friendly,0,0,0
+moral_disputes,25,Friendly,0,0,0
+moral_disputes,25,Neutral,0,0,0
+moral_disputes,25,Rude,0,0,0
+moral_disputes,25,Very Rude,0,0,0
+moral_disputes,26,Very Friendly,100,100,100
+moral_disputes,26,Friendly,100,100,100
+moral_disputes,26,Neutral,100,100,100
+moral_disputes,26,Rude,100,100,100
+moral_disputes,26,Very Rude,100,100,100
+moral_disputes,27,Very Friendly,100,100,100
+moral_disputes,27,Friendly,100,100,100
+moral_disputes,27,Neutral,100,100,100
+moral_disputes,27,Rude,100,100,100
+moral_disputes,27,Very Rude,100,100,100
+moral_disputes,28,Very Friendly,100,100,100
+moral_disputes,28,Friendly,100,100,100
+moral_disputes,28,Neutral,100,100,100
+moral_disputes,28,Rude,100,100,100
+moral_disputes,28,Very Rude,100,100,100
+moral_disputes,29,Very Friendly,0,0,0
+moral_disputes,29,Friendly,0,0,0
+moral_disputes,29,Neutral,0,0,0
+moral_disputes,29,Rude,0,0,0
+moral_disputes,29,Very Rude,0,0,0
+moral_disputes,30,Very Friendly,100,100,100
+moral_disputes,30,Friendly,100,100,100
+moral_disputes,30,Neutral,100,100,100
+moral_disputes,30,Rude,100,100,100
+moral_disputes,30,Very Rude,100,100,100
+moral_disputes,31,Very Friendly,0,0,0
+moral_disputes,31,Friendly,0,0,0
+moral_disputes,31,Neutral,0,0,100
+moral_disputes,31,Rude,0,0,0
+moral_disputes,31,Very Rude,0,0,0
+moral_disputes,32,Very Friendly,100,100,100
+moral_disputes,32,Friendly,100,100,100
+moral_disputes,32,Neutral,100,100,100
+moral_disputes,32,Rude,100,100,100
+moral_disputes,32,Very Rude,100,100,100
+moral_disputes,33,Very Friendly,100,100,100
+moral_disputes,33,Friendly,100,100,100
+moral_disputes,33,Neutral,100,100,100
+moral_disputes,33,Rude,100,100,100
+moral_disputes,33,Very Rude,100,100,100
+moral_disputes,34,Very Friendly,100,100,100
+moral_disputes,34,Friendly,100,100,100
+moral_disputes,34,Neutral,100,100,100
+moral_disputes,34,Rude,100,100,100
+moral_disputes,34,Very Rude,100,100,100
+moral_disputes,35,Very Friendly,100,100,100
+moral_disputes,35,Friendly,100,100,100
+moral_disputes,35,Neutral,100,100,100
+moral_disputes,35,Rude,100,100,100
+moral_disputes,35,Very Rude,100,100,100
+moral_disputes,36,Very Friendly,0,0,0
+moral_disputes,36,Friendly,0,0,0
+moral_disputes,36,Neutral,0,0,0
+moral_disputes,36,Rude,0,0,0
+moral_disputes,36,Very Rude,0,0,0
+moral_disputes,37,Very Friendly,100,100,100
+moral_disputes,37,Friendly,100,100,100
+moral_disputes,37,Neutral,100,100,100
+moral_disputes,37,Rude,100,100,100
+moral_disputes,37,Very Rude,100,100,100
+moral_disputes,38,Very Friendly,0,0,0
+moral_disputes,38,Friendly,0,0,0
+moral_disputes,38,Neutral,100,100,100
+moral_disputes,38,Rude,0,0,0
+moral_disputes,38,Very Rude,0,0,0
+moral_disputes,39,Very Friendly,0,0,0
+moral_disputes,39,Friendly,0,0,0
+moral_disputes,39,Neutral,0,0,0
+moral_disputes,39,Rude,0,0,0
+moral_disputes,39,Very Rude,0,0,0
+moral_disputes,40,Very Friendly,100,100,100
+moral_disputes,40,Friendly,100,100,100
+moral_disputes,40,Neutral,100,100,100
+moral_disputes,40,Rude,100,100,100
+moral_disputes,40,Very Rude,100,100,100
+moral_disputes,41,Very Friendly,100,100,100
+moral_disputes,41,Friendly,100,100,100
+moral_disputes,41,Neutral,100,100,100
+moral_disputes,41,Rude,100,100,100
+moral_disputes,41,Very Rude,100,100,100
+moral_disputes,42,Very Friendly,100,100,100
+moral_disputes,42,Friendly,100,100,100
+moral_disputes,42,Neutral,100,100,100
+moral_disputes,42,Rude,100,100,100
+moral_disputes,42,Very Rude,100,100,100
+moral_disputes,43,Very Friendly,0,0,0
+moral_disputes,43,Friendly,0,0,0
+moral_disputes,43,Neutral,0,0,0
+moral_disputes,43,Rude,0,0,0
+moral_disputes,43,Very Rude,0,0,0
+moral_disputes,44,Very Friendly,100,100,100
+moral_disputes,44,Friendly,100,100,100
+moral_disputes,44,Neutral,100,100,100
+moral_disputes,44,Rude,100,100,100
+moral_disputes,44,Very Rude,100,100,100
+moral_disputes,45,Very Friendly,100,100,100
+moral_disputes,45,Friendly,100,100,100
+moral_disputes,45,Neutral,100,100,100
+moral_disputes,45,Rude,100,100,100
+moral_disputes,45,Very Rude,100,100,100
+moral_disputes,46,Very Friendly,100,100,100
+moral_disputes,46,Friendly,100,100,100
+moral_disputes,46,Neutral,100,100,100
+moral_disputes,46,Rude,100,100,100
+moral_disputes,46,Very Rude,100,100,100
+moral_disputes,47,Very Friendly,100,100,100
+moral_disputes,47,Friendly,100,100,100
+moral_disputes,47,Neutral,100,100,100
+moral_disputes,47,Rude,100,100,0
+moral_disputes,47,Very Rude,0,0,0
+moral_disputes,48,Very Friendly,100,100,100
+moral_disputes,48,Friendly,100,100,100
+moral_disputes,48,Neutral,100,100,100
+moral_disputes,48,Rude,100,100,100
+moral_disputes,48,Very Rude,100,100,100
+moral_disputes,49,Very Friendly,100,100,100
+moral_disputes,49,Friendly,100,100,100
+moral_disputes,49,Neutral,100,100,100
+moral_disputes,49,Rude,100,100,100
+moral_disputes,49,Very Rude,100,100,100
+moral_disputes,50,Very Friendly,100,100,100
+moral_disputes,50,Friendly,100,100,100
+moral_disputes,50,Neutral,100,100,100
+moral_disputes,50,Rude,100,100,100
+moral_disputes,50,Very Rude,100,100,100
+moral_disputes,51,Very Friendly,100,100,100
+moral_disputes,51,Friendly,100,100,100
+moral_disputes,51,Neutral,100,100,100
+moral_disputes,51,Rude,100,100,100
+moral_disputes,51,Very Rude,100,100,100
+moral_disputes,52,Very Friendly,0,0,0
+moral_disputes,52,Friendly,0,0,0
+moral_disputes,52,Neutral,0,0,0
+moral_disputes,52,Rude,0,0,0
+moral_disputes,52,Very Rude,0,0,0
+moral_disputes,53,Very Friendly,0,0,0
+moral_disputes,53,Friendly,0,0,0
+moral_disputes,53,Neutral,0,0,0
+moral_disputes,53,Rude,0,0,0
+moral_disputes,53,Very Rude,0,0,0
+moral_disputes,54,Very Friendly,100,100,100
+moral_disputes,54,Friendly,100,100,100
+moral_disputes,54,Neutral,100,100,100
+moral_disputes,54,Rude,100,100,100
+moral_disputes,54,Very Rude,100,100,100
+moral_disputes,55,Very Friendly,0,0,0
+moral_disputes,55,Friendly,0,0,0
+moral_disputes,55,Neutral,0,0,0
+moral_disputes,55,Rude,0,0,0
+moral_disputes,55,Very Rude,0,0,0
+moral_disputes,56,Very Friendly,100,100,100
+moral_disputes,56,Friendly,100,100,100
+moral_disputes,56,Neutral,100,100,100
+moral_disputes,56,Rude,100,100,100
+moral_disputes,56,Very Rude,100,100,100
+moral_disputes,57,Very Friendly,100,100,100
+moral_disputes,57,Friendly,100,100,100
+moral_disputes,57,Neutral,100,100,100
+moral_disputes,57,Rude,100,100,100
+moral_disputes,57,Very Rude,100,100,100
+moral_disputes,58,Very Friendly,100,100,100
+moral_disputes,58,Friendly,100,100,100
+moral_disputes,58,Neutral,100,100,100
+moral_disputes,58,Rude,100,100,100
+moral_disputes,58,Very Rude,100,100,100
+moral_disputes,59,Very Friendly,0,100,0
+moral_disputes,59,Friendly,0,0,0
+moral_disputes,59,Neutral,0,0,0
+moral_disputes,59,Rude,0,100,100
+moral_disputes,59,Very Rude,0,0,0
+moral_disputes,60,Very Friendly,100,100,100
+moral_disputes,60,Friendly,100,100,100
+moral_disputes,60,Neutral,100,100,100
+moral_disputes,60,Rude,100,100,100
+moral_disputes,60,Very Rude,100,100,100
+moral_disputes,61,Very Friendly,100,100,100
+moral_disputes,61,Friendly,100,100,100
+moral_disputes,61,Neutral,100,100,100
+moral_disputes,61,Rude,100,100,100
+moral_disputes,61,Very Rude,100,100,100
+moral_disputes,62,Very Friendly,100,100,100
+moral_disputes,62,Friendly,100,100,100
+moral_disputes,62,Neutral,100,100,100
+moral_disputes,62,Rude,100,100,100
+moral_disputes,62,Very Rude,100,100,100
+moral_disputes,63,Very Friendly,100,100,100
+moral_disputes,63,Friendly,100,100,100
+moral_disputes,63,Neutral,100,100,100
+moral_disputes,63,Rude,100,100,100
+moral_disputes,63,Very Rude,100,100,100
+moral_disputes,64,Very Friendly,100,100,100
+moral_disputes,64,Friendly,100,100,100
+moral_disputes,64,Neutral,100,100,100
+moral_disputes,64,Rude,0,0,0
+moral_disputes,64,Very Rude,100,100,100
+moral_disputes,65,Very Friendly,100,100,100
+moral_disputes,65,Friendly,100,100,100
+moral_disputes,65,Neutral,100,100,100
+moral_disputes,65,Rude,100,100,100
+moral_disputes,65,Very Rude,100,100,100
+moral_disputes,66,Very Friendly,0,0,0
+moral_disputes,66,Friendly,0,0,0
+moral_disputes,66,Neutral,0,0,0
+moral_disputes,66,Rude,0,0,0
+moral_disputes,66,Very Rude,0,0,0
+moral_disputes,67,Very Friendly,100,100,100
+moral_disputes,67,Friendly,100,100,100
+moral_disputes,67,Neutral,100,100,100
+moral_disputes,67,Rude,100,100,100
+moral_disputes,67,Very Rude,100,100,100
+moral_disputes,68,Very Friendly,0,0,0
+moral_disputes,68,Friendly,0,0,0
+moral_disputes,68,Neutral,0,0,0
+moral_disputes,68,Rude,0,0,0
+moral_disputes,68,Very Rude,0,0,0
+moral_disputes,69,Very Friendly,0,0,0
+moral_disputes,69,Friendly,0,0,0
+moral_disputes,69,Neutral,0,0,0
+moral_disputes,69,Rude,0,0,0
+moral_disputes,69,Very Rude,0,0,0
+moral_disputes,70,Very Friendly,100,100,100
+moral_disputes,70,Friendly,100,100,100
+moral_disputes,70,Neutral,100,100,100
+moral_disputes,70,Rude,100,100,100
+moral_disputes,70,Very Rude,100,100,100
+moral_disputes,71,Very Friendly,100,100,100
+moral_disputes,71,Friendly,100,100,100
+moral_disputes,71,Neutral,100,100,100
+moral_disputes,71,Rude,100,100,100
+moral_disputes,71,Very Rude,100,100,100
+moral_disputes,72,Very Friendly,100,100,100
+moral_disputes,72,Friendly,100,100,100
+moral_disputes,72,Neutral,100,100,100
+moral_disputes,72,Rude,100,100,100
+moral_disputes,72,Very Rude,100,100,100
+moral_disputes,73,Very Friendly,100,100,100
+moral_disputes,73,Friendly,100,100,100
+moral_disputes,73,Neutral,100,100,100
+moral_disputes,73,Rude,100,100,100
+moral_disputes,73,Very Rude,100,100,100
+moral_disputes,74,Very Friendly,100,100,100
+moral_disputes,74,Friendly,100,100,100
+moral_disputes,74,Neutral,100,100,100
+moral_disputes,74,Rude,100,100,100
+moral_disputes,74,Very Rude,100,100,100
+moral_disputes,75,Very Friendly,100,100,100
+moral_disputes,75,Friendly,100,100,100
+moral_disputes,75,Neutral,100,100,100
+moral_disputes,75,Rude,100,100,100
+moral_disputes,75,Very Rude,100,100,100
+moral_disputes,76,Very Friendly,100,100,100
+moral_disputes,76,Friendly,100,100,100
+moral_disputes,76,Neutral,100,100,100
+moral_disputes,76,Rude,100,100,100
+moral_disputes,76,Very Rude,100,100,100
+moral_disputes,77,Very Friendly,100,100,100
+moral_disputes,77,Friendly,0,100,100
+moral_disputes,77,Neutral,100,100,100
+moral_disputes,77,Rude,0,0,100
+moral_disputes,77,Very Rude,100,100,100
+moral_disputes,78,Very Friendly,0,0,0
+moral_disputes,78,Friendly,0,0,0
+moral_disputes,78,Neutral,0,0,0
+moral_disputes,78,Rude,0,0,0
+moral_disputes,78,Very Rude,0,0,0
+moral_disputes,79,Very Friendly,0,0,0
+moral_disputes,79,Friendly,0,0,0
+moral_disputes,79,Neutral,0,0,0
+moral_disputes,79,Rude,0,0,0
+moral_disputes,79,Very Rude,0,0,0
+moral_disputes,80,Very Friendly,0,0,0
+moral_disputes,80,Friendly,100,100,0
+moral_disputes,80,Neutral,0,0,0
+moral_disputes,80,Rude,100,100,100
+moral_disputes,80,Very Rude,100,100,100
+moral_disputes,81,Very Friendly,100,100,100
+moral_disputes,81,Friendly,100,100,100
+moral_disputes,81,Neutral,100,100,100
+moral_disputes,81,Rude,100,100,100
+moral_disputes,81,Very Rude,100,100,100
+moral_disputes,82,Very Friendly,100,100,100
+moral_disputes,82,Friendly,100,100,100
+moral_disputes,82,Neutral,100,100,100
+moral_disputes,82,Rude,100,100,100
+moral_disputes,82,Very Rude,100,100,100
+moral_disputes,83,Very Friendly,100,100,100
+moral_disputes,83,Friendly,100,100,100
+moral_disputes,83,Neutral,100,100,100
+moral_disputes,83,Rude,100,100,100
+moral_disputes,83,Very Rude,100,100,100
+moral_disputes,84,Very Friendly,100,100,100
+moral_disputes,84,Friendly,100,100,100
+moral_disputes,84,Neutral,100,100,100
+moral_disputes,84,Rude,100,100,100
+moral_disputes,84,Very Rude,100,100,100
+moral_disputes,85,Very Friendly,100,0,0
+moral_disputes,85,Friendly,100,100,100
+moral_disputes,85,Neutral,0,0,0
+moral_disputes,85,Rude,100,0,100
+moral_disputes,85,Very Rude,0,0,0
+moral_disputes,86,Very Friendly,100,100,100
+moral_disputes,86,Friendly,100,100,100
+moral_disputes,86,Neutral,100,100,100
+moral_disputes,86,Rude,100,100,100
+moral_disputes,86,Very Rude,100,100,100
+moral_disputes,87,Very Friendly,0,0,0
+moral_disputes,87,Friendly,100,100,100
+moral_disputes,87,Neutral,0,100,100
+moral_disputes,87,Rude,0,0,0
+moral_disputes,87,Very Rude,0,0,100
+moral_disputes,88,Very Friendly,100,100,100
+moral_disputes,88,Friendly,100,100,100
+moral_disputes,88,Neutral,100,100,100
+moral_disputes,88,Rude,100,100,100
+moral_disputes,88,Very Rude,100,100,100
+moral_disputes,89,Very Friendly,100,100,100
+moral_disputes,89,Friendly,100,100,100
+moral_disputes,89,Neutral,100,100,100
+moral_disputes,89,Rude,100,100,100
+moral_disputes,89,Very Rude,100,100,100
+moral_disputes,90,Very Friendly,0,0,0
+moral_disputes,90,Friendly,0,0,0
+moral_disputes,90,Neutral,0,0,0
+moral_disputes,90,Rude,0,0,0
+moral_disputes,90,Very Rude,0,0,0
+moral_disputes,91,Very Friendly,100,100,100
+moral_disputes,91,Friendly,100,100,100
+moral_disputes,91,Neutral,100,100,100
+moral_disputes,91,Rude,100,100,100
+moral_disputes,91,Very Rude,100,100,100
+moral_disputes,92,Very Friendly,100,100,100
+moral_disputes,92,Friendly,100,100,100
+moral_disputes,92,Neutral,100,100,100
+moral_disputes,92,Rude,100,100,100
+moral_disputes,92,Very Rude,100,100,100
+moral_disputes,93,Very Friendly,100,100,100
+moral_disputes,93,Friendly,100,100,100
+moral_disputes,93,Neutral,100,100,100
+moral_disputes,93,Rude,100,100,100
+moral_disputes,93,Very Rude,100,100,100
+moral_disputes,94,Very Friendly,0,0,0
+moral_disputes,94,Friendly,0,0,0
+moral_disputes,94,Neutral,0,0,0
+moral_disputes,94,Rude,0,0,0
+moral_disputes,94,Very Rude,0,0,0
+moral_disputes,95,Very Friendly,100,100,100
+moral_disputes,95,Friendly,100,100,100
+moral_disputes,95,Neutral,100,100,100
+moral_disputes,95,Rude,100,100,100
+moral_disputes,95,Very Rude,100,100,100
+moral_disputes,96,Very Friendly,0,0,0
+moral_disputes,96,Friendly,0,0,0
+moral_disputes,96,Neutral,0,0,0
+moral_disputes,96,Rude,0,0,0
+moral_disputes,96,Very Rude,0,0,0
+moral_disputes,97,Very Friendly,0,0,0
+moral_disputes,97,Friendly,0,0,0
+moral_disputes,97,Neutral,100,100,0
+moral_disputes,97,Rude,0,0,0
+moral_disputes,97,Very Rude,0,0,0
+moral_disputes,98,Very Friendly,100,100,100
+moral_disputes,98,Friendly,100,100,100
+moral_disputes,98,Neutral,100,100,100
+moral_disputes,98,Rude,100,100,100
+moral_disputes,98,Very Rude,100,100,100
+moral_disputes,99,Very Friendly,100,100,100
+moral_disputes,99,Friendly,100,100,100
+moral_disputes,99,Neutral,100,100,100
+moral_disputes,99,Rude,100,100,100
+moral_disputes,99,Very Rude,100,100,100
+moral_disputes,100,Very Friendly,100,100,100
+moral_disputes,100,Friendly,100,100,100
+moral_disputes,100,Neutral,100,100,100
+moral_disputes,100,Rude,100,100,100
+moral_disputes,100,Very Rude,100,100,100
+moral_disputes,101,Very Friendly,100,100,100
+moral_disputes,101,Friendly,100,100,100
+moral_disputes,101,Neutral,100,100,100
+moral_disputes,101,Rude,100,100,100
+moral_disputes,101,Very Rude,100,100,100
+moral_disputes,102,Very Friendly,100,100,100
+moral_disputes,102,Friendly,100,100,100
+moral_disputes,102,Neutral,100,100,100
+moral_disputes,102,Rude,100,100,100
+moral_disputes,102,Very Rude,100,100,100
+moral_disputes,103,Very Friendly,0,0,0
+moral_disputes,103,Friendly,0,0,0
+moral_disputes,103,Neutral,0,0,0
+moral_disputes,103,Rude,0,0,0
+moral_disputes,103,Very Rude,0,0,0
+moral_disputes,104,Very Friendly,100,100,100
+moral_disputes,104,Friendly,100,100,100
+moral_disputes,104,Neutral,100,100,100
+moral_disputes,104,Rude,100,100,100
+moral_disputes,104,Very Rude,100,100,100
+moral_disputes,105,Very Friendly,100,100,100
+moral_disputes,105,Friendly,100,100,100
+moral_disputes,105,Neutral,100,100,100
+moral_disputes,105,Rude,100,100,100
+moral_disputes,105,Very Rude,100,100,100
+moral_disputes,106,Very Friendly,100,100,100
+moral_disputes,106,Friendly,100,100,100
+moral_disputes,106,Neutral,100,100,100
+moral_disputes,106,Rude,100,100,100
+moral_disputes,106,Very Rude,100,100,100
+moral_disputes,107,Very Friendly,0,0,0
+moral_disputes,107,Friendly,0,0,0
+moral_disputes,107,Neutral,100,100,100
+moral_disputes,107,Rude,0,0,0
+moral_disputes,107,Very Rude,0,0,0
+moral_disputes,108,Very Friendly,100,100,0
+moral_disputes,108,Friendly,0,100,0
+moral_disputes,108,Neutral,100,0,100
+moral_disputes,108,Rude,0,0,0
+moral_disputes,108,Very Rude,0,0,0
+moral_disputes,109,Very Friendly,100,100,100
+moral_disputes,109,Friendly,100,100,100
+moral_disputes,109,Neutral,100,100,100
+moral_disputes,109,Rude,100,100,100
+moral_disputes,109,Very Rude,100,100,100
+moral_disputes,110,Very Friendly,100,100,100
+moral_disputes,110,Friendly,100,100,100
+moral_disputes,110,Neutral,100,100,100
+moral_disputes,110,Rude,100,100,100
+moral_disputes,110,Very Rude,100,100,100
+moral_disputes,111,Very Friendly,100,100,100
+moral_disputes,111,Friendly,100,100,100
+moral_disputes,111,Neutral,100,100,100
+moral_disputes,111,Rude,100,100,100
+moral_disputes,111,Very Rude,100,100,100
+moral_disputes,112,Very Friendly,0,0,0
+moral_disputes,112,Friendly,0,0,0
+moral_disputes,112,Neutral,0,0,0
+moral_disputes,112,Rude,0,0,0
+moral_disputes,112,Very Rude,0,0,0
+moral_disputes,113,Very Friendly,100,100,100
+moral_disputes,113,Friendly,100,100,100
+moral_disputes,113,Neutral,100,100,100
+moral_disputes,113,Rude,100,100,100
+moral_disputes,113,Very Rude,100,100,100
+moral_disputes,114,Very Friendly,0,0,0
+moral_disputes,114,Friendly,0,0,0
+moral_disputes,114,Neutral,0,0,0
+moral_disputes,114,Rude,0,0,0
+moral_disputes,114,Very Rude,0,0,0
+moral_disputes,115,Very Friendly,100,100,100
+moral_disputes,115,Friendly,100,100,100
+moral_disputes,115,Neutral,100,100,100
+moral_disputes,115,Rude,100,100,100
+moral_disputes,115,Very Rude,100,100,100
+moral_disputes,116,Very Friendly,100,100,100
+moral_disputes,116,Friendly,100,100,100
+moral_disputes,116,Neutral,100,100,100
+moral_disputes,116,Rude,100,100,100
+moral_disputes,116,Very Rude,100,100,100
+moral_disputes,117,Very Friendly,100,100,100
+moral_disputes,117,Friendly,100,100,100
+moral_disputes,117,Neutral,100,100,100
+moral_disputes,117,Rude,100,100,100
+moral_disputes,117,Very Rude,100,100,100
+moral_disputes,118,Very Friendly,100,100,100
+moral_disputes,118,Friendly,100,100,100
+moral_disputes,118,Neutral,100,100,100
+moral_disputes,118,Rude,100,100,100
+moral_disputes,118,Very Rude,100,100,100
+moral_disputes,119,Very Friendly,100,100,100
+moral_disputes,119,Friendly,100,100,100
+moral_disputes,119,Neutral,100,100,100
+moral_disputes,119,Rude,100,100,100
+moral_disputes,119,Very Rude,100,100,100
+moral_disputes,120,Very Friendly,100,100,100
+moral_disputes,120,Friendly,100,100,100
+moral_disputes,120,Neutral,100,100,100
+moral_disputes,120,Rude,100,100,100
+moral_disputes,120,Very Rude,100,100,100
+moral_disputes,121,Very Friendly,0,0,0
+moral_disputes,121,Friendly,0,0,0
+moral_disputes,121,Neutral,0,0,0
+moral_disputes,121,Rude,0,0,0
+moral_disputes,121,Very Rude,0,0,0
+moral_disputes,122,Very Friendly,100,100,100
+moral_disputes,122,Friendly,100,0,100
+moral_disputes,122,Neutral,100,100,100
+moral_disputes,122,Rude,0,0,0
+moral_disputes,122,Very Rude,0,100,0
+moral_disputes,123,Very Friendly,100,100,100
+moral_disputes,123,Friendly,100,100,100
+moral_disputes,123,Neutral,100,100,100
+moral_disputes,123,Rude,100,100,100
+moral_disputes,123,Very Rude,100,100,100
+moral_disputes,124,Very Friendly,100,100,100
+moral_disputes,124,Friendly,100,100,100
+moral_disputes,124,Neutral,100,100,100
+moral_disputes,124,Rude,100,100,100
+moral_disputes,124,Very Rude,100,100,100
+moral_disputes,125,Very Friendly,100,100,100
+moral_disputes,125,Friendly,100,100,100
+moral_disputes,125,Neutral,100,100,100
+moral_disputes,125,Rude,100,100,100
+moral_disputes,125,Very Rude,100,100,100
+moral_disputes,126,Very Friendly,100,100,100
+moral_disputes,126,Friendly,100,100,100
+moral_disputes,126,Neutral,100,100,100
+moral_disputes,126,Rude,100,100,100
+moral_disputes,126,Very Rude,100,100,100
+moral_disputes,127,Very Friendly,100,100,100
+moral_disputes,127,Friendly,100,100,100
+moral_disputes,127,Neutral,100,100,100
+moral_disputes,127,Rude,100,100,100
+moral_disputes,127,Very Rude,100,100,100
+moral_disputes,128,Very Friendly,100,100,100
+moral_disputes,128,Friendly,100,100,100
+moral_disputes,128,Neutral,100,100,100
+moral_disputes,128,Rude,100,100,100
+moral_disputes,128,Very Rude,100,100,100
+moral_disputes,129,Very Friendly,0,0,0
+moral_disputes,129,Friendly,0,0,0
+moral_disputes,129,Neutral,0,0,0
+moral_disputes,129,Rude,0,0,0
+moral_disputes,129,Very Rude,0,0,0
+moral_disputes,130,Very Friendly,100,100,100
+moral_disputes,130,Friendly,100,100,100
+moral_disputes,130,Neutral,100,100,100
+moral_disputes,130,Rude,100,100,100
+moral_disputes,130,Very Rude,100,100,100
+moral_disputes,131,Very Friendly,100,100,100
+moral_disputes,131,Friendly,100,100,100
+moral_disputes,131,Neutral,100,100,100
+moral_disputes,131,Rude,100,100,100
+moral_disputes,131,Very Rude,100,100,100
+moral_disputes,132,Very Friendly,100,100,100
+moral_disputes,132,Friendly,100,100,100
+moral_disputes,132,Neutral,100,100,100
+moral_disputes,132,Rude,100,100,100
+moral_disputes,132,Very Rude,100,100,100
+moral_disputes,133,Very Friendly,100,100,100
+moral_disputes,133,Friendly,100,100,100
+moral_disputes,133,Neutral,100,100,100
+moral_disputes,133,Rude,100,100,100
+moral_disputes,133,Very Rude,100,100,100
+moral_disputes,134,Very Friendly,0,0,0
+moral_disputes,134,Friendly,0,0,0
+moral_disputes,134,Neutral,0,0,0
+moral_disputes,134,Rude,0,0,0
+moral_disputes,134,Very Rude,0,0,0
+moral_disputes,135,Very Friendly,100,100,100
+moral_disputes,135,Friendly,100,100,100
+moral_disputes,135,Neutral,100,100,100
+moral_disputes,135,Rude,100,100,100
+moral_disputes,135,Very Rude,100,100,100
+moral_disputes,136,Very Friendly,100,100,100
+moral_disputes,136,Friendly,100,100,100
+moral_disputes,136,Neutral,100,100,100
+moral_disputes,136,Rude,100,100,100
+moral_disputes,136,Very Rude,100,100,100
+moral_disputes,137,Very Friendly,100,100,100
+moral_disputes,137,Friendly,100,100,100
+moral_disputes,137,Neutral,100,100,100
+moral_disputes,137,Rude,100,100,100
+moral_disputes,137,Very Rude,100,100,100
+moral_disputes,138,Very Friendly,100,100,100
+moral_disputes,138,Friendly,100,100,100
+moral_disputes,138,Neutral,100,100,100
+moral_disputes,138,Rude,100,100,100
+moral_disputes,138,Very Rude,100,100,100
+moral_disputes,139,Very Friendly,100,100,100
+moral_disputes,139,Friendly,100,100,100
+moral_disputes,139,Neutral,100,100,100
+moral_disputes,139,Rude,100,100,100
+moral_disputes,139,Very Rude,100,100,100
+moral_disputes,140,Very Friendly,100,100,100
+moral_disputes,140,Friendly,100,100,100
+moral_disputes,140,Neutral,100,100,100
+moral_disputes,140,Rude,100,100,100
+moral_disputes,140,Very Rude,100,100,100
+moral_disputes,141,Very Friendly,100,100,100
+moral_disputes,141,Friendly,100,100,100
+moral_disputes,141,Neutral,100,100,100
+moral_disputes,141,Rude,100,100,100
+moral_disputes,141,Very Rude,100,100,100
+moral_disputes,142,Very Friendly,100,100,100
+moral_disputes,142,Friendly,100,100,100
+moral_disputes,142,Neutral,100,100,100
+moral_disputes,142,Rude,100,100,100
+moral_disputes,142,Very Rude,100,100,100
+moral_disputes,143,Very Friendly,100,100,100
+moral_disputes,143,Friendly,100,100,100
+moral_disputes,143,Neutral,100,100,100
+moral_disputes,143,Rude,100,100,100
+moral_disputes,143,Very Rude,100,100,100
+moral_disputes,144,Very Friendly,0,0,0
+moral_disputes,144,Friendly,0,0,0
+moral_disputes,144,Neutral,0,0,0
+moral_disputes,144,Rude,100,100,100
+moral_disputes,144,Very Rude,0,0,0
+moral_disputes,145,Very Friendly,100,100,100
+moral_disputes,145,Friendly,100,100,100
+moral_disputes,145,Neutral,100,100,100
+moral_disputes,145,Rude,100,100,100
+moral_disputes,145,Very Rude,100,100,100
+moral_disputes,146,Very Friendly,100,100,100
+moral_disputes,146,Friendly,100,100,100
+moral_disputes,146,Neutral,100,100,100
+moral_disputes,146,Rude,0,0,0
+moral_disputes,146,Very Rude,100,100,0
+moral_disputes,147,Very Friendly,100,100,100
+moral_disputes,147,Friendly,100,100,100
+moral_disputes,147,Neutral,100,100,100
+moral_disputes,147,Rude,100,100,100
+moral_disputes,147,Very Rude,100,100,100
+moral_disputes,148,Very Friendly,0,0,0
+moral_disputes,148,Friendly,0,0,0
+moral_disputes,148,Neutral,0,0,0
+moral_disputes,148,Rude,0,0,0
+moral_disputes,148,Very Rude,0,0,0
+moral_disputes,149,Very Friendly,100,100,100
+moral_disputes,149,Friendly,100,100,100
+moral_disputes,149,Neutral,100,100,100
+moral_disputes,149,Rude,100,100,100
+moral_disputes,149,Very Rude,100,100,100
+moral_disputes,150,Very Friendly,100,100,100
+moral_disputes,150,Friendly,100,100,100
+moral_disputes,150,Neutral,100,100,100
+moral_disputes,150,Rude,100,100,100
+moral_disputes,150,Very Rude,100,100,100
+moral_disputes,151,Very Friendly,100,100,100
+moral_disputes,151,Friendly,100,0,0
+moral_disputes,151,Neutral,0,100,100
+moral_disputes,151,Rude,100,0,100
+moral_disputes,151,Very Rude,100,100,100
+moral_disputes,152,Very Friendly,0,0,0
+moral_disputes,152,Friendly,0,0,0
+moral_disputes,152,Neutral,0,0,0
+moral_disputes,152,Rude,0,0,0
+moral_disputes,152,Very Rude,0,0,0
+moral_disputes,153,Very Friendly,0,0,0
+moral_disputes,153,Friendly,0,0,0
+moral_disputes,153,Neutral,0,0,0
+moral_disputes,153,Rude,0,0,0
+moral_disputes,153,Very Rude,0,0,0
+moral_disputes,154,Very Friendly,100,100,100
+moral_disputes,154,Friendly,100,100,100
+moral_disputes,154,Neutral,100,100,100
+moral_disputes,154,Rude,100,100,100
+moral_disputes,154,Very Rude,100,100,100
+moral_disputes,155,Very Friendly,100,100,100
+moral_disputes,155,Friendly,100,100,100
+moral_disputes,155,Neutral,100,100,100
+moral_disputes,155,Rude,100,100,100
+moral_disputes,155,Very Rude,100,100,100
+moral_disputes,156,Very Friendly,100,100,100
+moral_disputes,156,Friendly,100,100,100
+moral_disputes,156,Neutral,100,100,100
+moral_disputes,156,Rude,100,100,100
+moral_disputes,156,Very Rude,100,100,100
+moral_disputes,157,Very Friendly,100,100,100
+moral_disputes,157,Friendly,100,100,100
+moral_disputes,157,Neutral,100,100,100
+moral_disputes,157,Rude,100,100,100
+moral_disputes,157,Very Rude,100,100,100
+moral_disputes,158,Very Friendly,100,100,100
+moral_disputes,158,Friendly,100,100,100
+moral_disputes,158,Neutral,100,100,100
+moral_disputes,158,Rude,100,100,100
+moral_disputes,158,Very Rude,100,100,100
+moral_disputes,159,Very Friendly,100,100,100
+moral_disputes,159,Friendly,100,100,100
+moral_disputes,159,Neutral,100,100,100
+moral_disputes,159,Rude,100,100,100
+moral_disputes,159,Very Rude,100,100,100
+moral_disputes,160,Very Friendly,100,100,100
+moral_disputes,160,Friendly,100,100,100
+moral_disputes,160,Neutral,100,100,100
+moral_disputes,160,Rude,100,100,100
+moral_disputes,160,Very Rude,100,100,100
+moral_disputes,161,Very Friendly,100,100,100
+moral_disputes,161,Friendly,100,100,100
+moral_disputes,161,Neutral,100,100,100
+moral_disputes,161,Rude,100,100,100
+moral_disputes,161,Very Rude,100,100,100
+moral_disputes,162,Very Friendly,100,100,100
+moral_disputes,162,Friendly,100,100,100
+moral_disputes,162,Neutral,100,100,100
+moral_disputes,162,Rude,100,100,100
+moral_disputes,162,Very Rude,100,100,100
+moral_disputes,163,Very Friendly,100,100,100
+moral_disputes,163,Friendly,100,100,100
+moral_disputes,163,Neutral,100,100,100
+moral_disputes,163,Rude,100,100,100
+moral_disputes,163,Very Rude,100,100,100
+moral_disputes,164,Very Friendly,100,100,100
+moral_disputes,164,Friendly,100,100,100
+moral_disputes,164,Neutral,100,100,100
+moral_disputes,164,Rude,100,100,100
+moral_disputes,164,Very Rude,100,100,100
+moral_disputes,165,Very Friendly,0,0,0
+moral_disputes,165,Friendly,0,0,0
+moral_disputes,165,Neutral,0,0,0
+moral_disputes,165,Rude,0,0,0
+moral_disputes,165,Very Rude,0,0,0
+moral_disputes,166,Very Friendly,100,100,100
+moral_disputes,166,Friendly,100,100,100
+moral_disputes,166,Neutral,100,100,100
+moral_disputes,166,Rude,100,100,100
+moral_disputes,166,Very Rude,100,100,100
+moral_disputes,167,Very Friendly,100,100,100
+moral_disputes,167,Friendly,100,100,100
+moral_disputes,167,Neutral,100,100,100
+moral_disputes,167,Rude,100,100,100
+moral_disputes,167,Very Rude,100,100,100
+moral_disputes,168,Very Friendly,100,100,100
+moral_disputes,168,Friendly,100,100,100
+moral_disputes,168,Neutral,100,100,100
+moral_disputes,168,Rude,100,100,100
+moral_disputes,168,Very Rude,100,100,100
+moral_disputes,169,Very Friendly,0,0,0
+moral_disputes,169,Friendly,0,0,0
+moral_disputes,169,Neutral,0,0,0
+moral_disputes,169,Rude,0,0,0
+moral_disputes,169,Very Rude,0,0,0
+moral_disputes,170,Very Friendly,100,100,100
+moral_disputes,170,Friendly,100,100,100
+moral_disputes,170,Neutral,100,100,100
+moral_disputes,170,Rude,100,100,100
+moral_disputes,170,Very Rude,100,100,100
+moral_disputes,171,Very Friendly,100,100,100
+moral_disputes,171,Friendly,100,100,100
+moral_disputes,171,Neutral,100,100,100
+moral_disputes,171,Rude,100,100,100
+moral_disputes,171,Very Rude,100,100,100
+moral_disputes,172,Very Friendly,100,100,100
+moral_disputes,172,Friendly,100,100,100
+moral_disputes,172,Neutral,100,100,100
+moral_disputes,172,Rude,100,100,100
+moral_disputes,172,Very Rude,100,100,100
+moral_disputes,173,Very Friendly,0,0,0
+moral_disputes,173,Friendly,0,0,0
+moral_disputes,173,Neutral,0,0,0
+moral_disputes,173,Rude,0,0,0
+moral_disputes,173,Very Rude,0,0,0
+moral_disputes,174,Very Friendly,100,100,100
+moral_disputes,174,Friendly,100,100,100
+moral_disputes,174,Neutral,100,100,100
+moral_disputes,174,Rude,100,100,100
+moral_disputes,174,Very Rude,100,100,100
+moral_disputes,175,Very Friendly,100,100,100
+moral_disputes,175,Friendly,100,100,100
+moral_disputes,175,Neutral,100,100,100
+moral_disputes,175,Rude,100,100,100
+moral_disputes,175,Very Rude,100,100,100
+moral_disputes,176,Very Friendly,0,0,0
+moral_disputes,176,Friendly,0,0,0
+moral_disputes,176,Neutral,0,0,0
+moral_disputes,176,Rude,0,0,0
+moral_disputes,176,Very Rude,0,0,0
+moral_disputes,177,Very Friendly,100,100,100
+moral_disputes,177,Friendly,0,0,0
+moral_disputes,177,Neutral,100,100,100
+moral_disputes,177,Rude,100,100,100
+moral_disputes,177,Very Rude,100,100,100
+moral_disputes,178,Very Friendly,100,100,100
+moral_disputes,178,Friendly,100,100,100
+moral_disputes,178,Neutral,100,100,100
+moral_disputes,178,Rude,100,100,100
+moral_disputes,178,Very Rude,100,100,100
+moral_disputes,179,Very Friendly,100,100,100
+moral_disputes,179,Friendly,100,100,100
+moral_disputes,179,Neutral,100,0,100
+moral_disputes,179,Rude,0,0,0
+moral_disputes,179,Very Rude,100,100,100
+moral_disputes,180,Very Friendly,100,100,100
+moral_disputes,180,Friendly,100,100,100
+moral_disputes,180,Neutral,100,100,100
+moral_disputes,180,Rude,100,100,100
+moral_disputes,180,Very Rude,100,100,100
+moral_disputes,181,Very Friendly,0,0,0
+moral_disputes,181,Friendly,0,0,0
+moral_disputes,181,Neutral,0,0,0
+moral_disputes,181,Rude,0,0,0
+moral_disputes,181,Very Rude,0,0,0
+moral_disputes,182,Very Friendly,100,100,100
+moral_disputes,182,Friendly,100,100,100
+moral_disputes,182,Neutral,100,100,100
+moral_disputes,182,Rude,100,100,100
+moral_disputes,182,Very Rude,100,100,100
+moral_disputes,183,Very Friendly,100,100,100
+moral_disputes,183,Friendly,100,100,100
+moral_disputes,183,Neutral,100,100,100
+moral_disputes,183,Rude,100,100,100
+moral_disputes,183,Very Rude,100,100,100
+moral_disputes,184,Very Friendly,100,100,100
+moral_disputes,184,Friendly,100,100,100
+moral_disputes,184,Neutral,100,100,100
+moral_disputes,184,Rude,100,100,100
+moral_disputes,184,Very Rude,100,100,100
+moral_disputes,185,Very Friendly,100,100,100
+moral_disputes,185,Friendly,100,100,100
+moral_disputes,185,Neutral,100,100,100
+moral_disputes,185,Rude,100,100,100
+moral_disputes,185,Very Rude,100,100,100
+moral_disputes,186,Very Friendly,100,100,100
+moral_disputes,186,Friendly,100,100,100
+moral_disputes,186,Neutral,100,100,100
+moral_disputes,186,Rude,100,100,100
+moral_disputes,186,Very Rude,100,100,100
+moral_disputes,187,Very Friendly,100,100,100
+moral_disputes,187,Friendly,100,100,100
+moral_disputes,187,Neutral,100,100,100
+moral_disputes,187,Rude,100,100,100
+moral_disputes,187,Very Rude,100,100,100
+moral_disputes,188,Very Friendly,100,100,100
+moral_disputes,188,Friendly,100,100,100
+moral_disputes,188,Neutral,100,100,100
+moral_disputes,188,Rude,100,100,100
+moral_disputes,188,Very Rude,100,100,100
+moral_disputes,189,Very Friendly,100,100,100
+moral_disputes,189,Friendly,100,100,100
+moral_disputes,189,Neutral,100,100,100
+moral_disputes,189,Rude,100,100,100
+moral_disputes,189,Very Rude,100,100,100
+moral_disputes,190,Very Friendly,100,100,100
+moral_disputes,190,Friendly,100,100,100
+moral_disputes,190,Neutral,100,100,100
+moral_disputes,190,Rude,100,100,100
+moral_disputes,190,Very Rude,100,100,100
+moral_disputes,191,Very Friendly,100,100,100
+moral_disputes,191,Friendly,100,100,100
+moral_disputes,191,Neutral,100,100,100
+moral_disputes,191,Rude,100,100,100
+moral_disputes,191,Very Rude,100,100,100
+moral_disputes,192,Very Friendly,100,100,100
+moral_disputes,192,Friendly,100,100,100
+moral_disputes,192,Neutral,100,100,100
+moral_disputes,192,Rude,100,100,100
+moral_disputes,192,Very Rude,100,100,100
+moral_disputes,193,Very Friendly,100,100,100
+moral_disputes,193,Friendly,100,100,100
+moral_disputes,193,Neutral,100,100,100
+moral_disputes,193,Rude,100,100,100
+moral_disputes,193,Very Rude,100,100,100
+moral_disputes,194,Very Friendly,0,0,0
+moral_disputes,194,Friendly,0,0,0
+moral_disputes,194,Neutral,0,0,0
+moral_disputes,194,Rude,0,0,0
+moral_disputes,194,Very Rude,0,0,0
+moral_disputes,195,Very Friendly,100,100,100
+moral_disputes,195,Friendly,100,100,100
+moral_disputes,195,Neutral,100,100,100
+moral_disputes,195,Rude,100,100,100
+moral_disputes,195,Very Rude,100,100,100
+moral_disputes,196,Very Friendly,100,100,100
+moral_disputes,196,Friendly,100,100,100
+moral_disputes,196,Neutral,100,100,100
+moral_disputes,196,Rude,100,100,100
+moral_disputes,196,Very Rude,100,100,100
+moral_disputes,197,Very Friendly,100,100,100
+moral_disputes,197,Friendly,100,100,100
+moral_disputes,197,Neutral,100,100,100
+moral_disputes,197,Rude,100,100,100
+moral_disputes,197,Very Rude,100,100,100
+moral_disputes,198,Very Friendly,100,100,100
+moral_disputes,198,Friendly,100,100,100
+moral_disputes,198,Neutral,100,100,100
+moral_disputes,198,Rude,100,100,100
+moral_disputes,198,Very Rude,100,100,100
+moral_disputes,199,Very Friendly,100,100,100
+moral_disputes,199,Friendly,100,100,100
+moral_disputes,199,Neutral,100,100,100
+moral_disputes,199,Rude,100,100,100
+moral_disputes,199,Very Rude,100,100,100
+moral_disputes,200,Very Friendly,100,100,100
+moral_disputes,200,Friendly,100,100,100
+moral_disputes,200,Neutral,100,100,100
+moral_disputes,200,Rude,100,100,100
+moral_disputes,200,Very Rude,100,100,100
+moral_disputes,201,Very Friendly,0,0,0
+moral_disputes,201,Friendly,100,100,100
+moral_disputes,201,Neutral,0,0,0
+moral_disputes,201,Rude,100,100,100
+moral_disputes,201,Very Rude,0,0,0
+moral_disputes,202,Very Friendly,100,100,100
+moral_disputes,202,Friendly,100,100,100
+moral_disputes,202,Neutral,100,100,100
+moral_disputes,202,Rude,100,100,100
+moral_disputes,202,Very Rude,100,100,100
+moral_disputes,203,Very Friendly,100,100,100
+moral_disputes,203,Friendly,100,100,100
+moral_disputes,203,Neutral,100,100,100
+moral_disputes,203,Rude,100,100,100
+moral_disputes,203,Very Rude,100,100,100
+moral_disputes,204,Very Friendly,100,100,100
+moral_disputes,204,Friendly,100,100,100
+moral_disputes,204,Neutral,100,100,100
+moral_disputes,204,Rude,100,100,100
+moral_disputes,204,Very Rude,100,100,100
+moral_disputes,205,Very Friendly,100,100,100
+moral_disputes,205,Friendly,100,100,100
+moral_disputes,205,Neutral,100,100,100
+moral_disputes,205,Rude,100,100,100
+moral_disputes,205,Very Rude,100,100,100
+moral_disputes,206,Very Friendly,100,100,100
+moral_disputes,206,Friendly,100,100,100
+moral_disputes,206,Neutral,100,100,100
+moral_disputes,206,Rude,100,100,100
+moral_disputes,206,Very Rude,100,100,100
+moral_disputes,207,Very Friendly,100,100,100
+moral_disputes,207,Friendly,100,100,100
+moral_disputes,207,Neutral,100,100,100
+moral_disputes,207,Rude,100,100,100
+moral_disputes,207,Very Rude,100,100,100
+moral_disputes,208,Very Friendly,100,100,100
+moral_disputes,208,Friendly,100,100,100
+moral_disputes,208,Neutral,100,100,100
+moral_disputes,208,Rude,100,100,100
+moral_disputes,208,Very Rude,100,100,100
+moral_disputes,209,Very Friendly,100,100,100
+moral_disputes,209,Friendly,100,100,100
+moral_disputes,209,Neutral,100,100,100
+moral_disputes,209,Rude,100,100,100
+moral_disputes,209,Very Rude,100,100,100
+moral_disputes,210,Very Friendly,100,100,100
+moral_disputes,210,Friendly,100,100,100
+moral_disputes,210,Neutral,100,100,100
+moral_disputes,210,Rude,100,100,100
+moral_disputes,210,Very Rude,100,100,100
+moral_disputes,211,Very Friendly,100,100,100
+moral_disputes,211,Friendly,100,100,100
+moral_disputes,211,Neutral,100,100,100
+moral_disputes,211,Rude,100,100,100
+moral_disputes,211,Very Rude,100,100,100
+moral_disputes,212,Very Friendly,100,100,100
+moral_disputes,212,Friendly,100,100,100
+moral_disputes,212,Neutral,100,100,100
+moral_disputes,212,Rude,100,100,100
+moral_disputes,212,Very Rude,100,100,100
+moral_disputes,213,Very Friendly,0,0,0
+moral_disputes,213,Friendly,0,0,0
+moral_disputes,213,Neutral,0,0,0
+moral_disputes,213,Rude,0,0,0
+moral_disputes,213,Very Rude,0,0,0
+moral_disputes,214,Very Friendly,100,100,100
+moral_disputes,214,Friendly,100,100,100
+moral_disputes,214,Neutral,100,100,100
+moral_disputes,214,Rude,100,100,100
+moral_disputes,214,Very Rude,100,100,100
+moral_disputes,215,Very Friendly,100,100,100
+moral_disputes,215,Friendly,100,100,100
+moral_disputes,215,Neutral,100,100,100
+moral_disputes,215,Rude,100,100,100
+moral_disputes,215,Very Rude,100,100,100
+moral_disputes,216,Very Friendly,100,0,0
+moral_disputes,216,Friendly,0,0,0
+moral_disputes,216,Neutral,100,100,100
+moral_disputes,216,Rude,100,100,100
+moral_disputes,216,Very Rude,100,100,100
+moral_disputes,217,Very Friendly,100,100,100
+moral_disputes,217,Friendly,100,100,100
+moral_disputes,217,Neutral,100,100,100
+moral_disputes,217,Rude,100,100,100
+moral_disputes,217,Very Rude,100,100,100
+moral_disputes,218,Very Friendly,0,0,0
+moral_disputes,218,Friendly,0,0,0
+moral_disputes,218,Neutral,0,0,0
+moral_disputes,218,Rude,100,100,100
+moral_disputes,218,Very Rude,100,0,0
+moral_disputes,219,Very Friendly,100,100,100
+moral_disputes,219,Friendly,100,100,100
+moral_disputes,219,Neutral,100,100,100
+moral_disputes,219,Rude,100,100,100
+moral_disputes,219,Very Rude,100,100,100
+moral_disputes,220,Very Friendly,100,100,100
+moral_disputes,220,Friendly,100,100,100
+moral_disputes,220,Neutral,100,100,100
+moral_disputes,220,Rude,100,100,100
+moral_disputes,220,Very Rude,100,100,100
+moral_disputes,221,Very Friendly,0,0,0
+moral_disputes,221,Friendly,0,100,100
+moral_disputes,221,Neutral,100,100,100
+moral_disputes,221,Rude,100,100,100
+moral_disputes,221,Very Rude,0,0,100
+moral_disputes,222,Very Friendly,0,0,0
+moral_disputes,222,Friendly,0,0,0
+moral_disputes,222,Neutral,0,0,0
+moral_disputes,222,Rude,0,0,0
+moral_disputes,222,Very Rude,0,0,0
+moral_disputes,223,Very Friendly,100,100,100
+moral_disputes,223,Friendly,100,100,100
+moral_disputes,223,Neutral,100,100,100
+moral_disputes,223,Rude,100,100,100
+moral_disputes,223,Very Rude,100,100,100
+moral_disputes,224,Very Friendly,100,100,100
+moral_disputes,224,Friendly,100,100,100
+moral_disputes,224,Neutral,100,100,100
+moral_disputes,224,Rude,100,100,100
+moral_disputes,224,Very Rude,100,100,100
+moral_disputes,225,Very Friendly,100,100,100
+moral_disputes,225,Friendly,100,100,100
+moral_disputes,225,Neutral,100,100,100
+moral_disputes,225,Rude,100,100,100
+moral_disputes,225,Very Rude,100,100,100
+moral_disputes,226,Very Friendly,100,100,100
+moral_disputes,226,Friendly,100,100,100
+moral_disputes,226,Neutral,100,100,100
+moral_disputes,226,Rude,100,100,100
+moral_disputes,226,Very Rude,100,100,100
+moral_disputes,227,Very Friendly,100,100,100
+moral_disputes,227,Friendly,100,100,100
+moral_disputes,227,Neutral,100,100,100
+moral_disputes,227,Rude,100,100,100
+moral_disputes,227,Very Rude,100,100,100
+moral_disputes,228,Very Friendly,100,100,100
+moral_disputes,228,Friendly,100,100,100
+moral_disputes,228,Neutral,100,100,100
+moral_disputes,228,Rude,100,100,100
+moral_disputes,228,Very Rude,100,100,100
+moral_disputes,229,Very Friendly,100,100,100
+moral_disputes,229,Friendly,100,100,100
+moral_disputes,229,Neutral,100,100,100
+moral_disputes,229,Rude,100,100,100
+moral_disputes,229,Very Rude,100,100,100
+moral_disputes,230,Very Friendly,100,100,100
+moral_disputes,230,Friendly,100,100,100
+moral_disputes,230,Neutral,100,100,100
+moral_disputes,230,Rude,100,100,100
+moral_disputes,230,Very Rude,100,100,100
+moral_disputes,231,Very Friendly,100,100,100
+moral_disputes,231,Friendly,100,100,100
+moral_disputes,231,Neutral,100,100,100
+moral_disputes,231,Rude,100,100,100
+moral_disputes,231,Very Rude,100,100,100
+moral_disputes,232,Very Friendly,100,100,100
+moral_disputes,232,Friendly,100,100,100
+moral_disputes,232,Neutral,100,100,100
+moral_disputes,232,Rude,100,100,100
+moral_disputes,232,Very Rude,100,100,100
+moral_disputes,233,Very Friendly,100,100,100
+moral_disputes,233,Friendly,100,100,100
+moral_disputes,233,Neutral,100,100,100
+moral_disputes,233,Rude,100,100,100
+moral_disputes,233,Very Rude,100,100,100
+moral_disputes,234,Very Friendly,100,100,100
+moral_disputes,234,Friendly,100,100,100
+moral_disputes,234,Neutral,100,100,100
+moral_disputes,234,Rude,100,100,100
+moral_disputes,234,Very Rude,100,100,100
+moral_disputes,235,Very Friendly,100,100,100
+moral_disputes,235,Friendly,100,100,100
+moral_disputes,235,Neutral,100,100,100
+moral_disputes,235,Rude,100,100,100
+moral_disputes,235,Very Rude,100,100,100
+moral_disputes,236,Very Friendly,100,100,100
+moral_disputes,236,Friendly,100,100,100
+moral_disputes,236,Neutral,100,100,100
+moral_disputes,236,Rude,100,100,100
+moral_disputes,236,Very Rude,100,100,100
+moral_disputes,237,Very Friendly,100,100,100
+moral_disputes,237,Friendly,100,100,100
+moral_disputes,237,Neutral,100,100,100
+moral_disputes,237,Rude,100,100,100
+moral_disputes,237,Very Rude,100,100,100
+moral_disputes,238,Very Friendly,100,100,100
+moral_disputes,238,Friendly,100,100,100
+moral_disputes,238,Neutral,100,100,100
+moral_disputes,238,Rude,100,100,100
+moral_disputes,238,Very Rude,100,100,100
+moral_disputes,239,Very Friendly,0,0,0
+moral_disputes,239,Friendly,0,0,0
+moral_disputes,239,Neutral,0,0,0
+moral_disputes,239,Rude,0,0,0
+moral_disputes,239,Very Rude,0,0,0
+moral_disputes,240,Very Friendly,100,100,100
+moral_disputes,240,Friendly,100,100,100
+moral_disputes,240,Neutral,100,100,100
+moral_disputes,240,Rude,100,100,100
+moral_disputes,240,Very Rude,100,100,100
+moral_disputes,241,Very Friendly,100,100,100
+moral_disputes,241,Friendly,100,100,100
+moral_disputes,241,Neutral,100,100,100
+moral_disputes,241,Rude,100,100,100
+moral_disputes,241,Very Rude,100,100,100
+moral_disputes,242,Very Friendly,100,100,100
+moral_disputes,242,Friendly,100,100,100
+moral_disputes,242,Neutral,100,100,100
+moral_disputes,242,Rude,100,100,100
+moral_disputes,242,Very Rude,100,100,100
+moral_disputes,243,Very Friendly,100,100,100
+moral_disputes,243,Friendly,0,0,0
+moral_disputes,243,Neutral,100,100,100
+moral_disputes,243,Rude,100,100,100
+moral_disputes,243,Very Rude,0,0,0
+moral_disputes,244,Very Friendly,100,100,100
+moral_disputes,244,Friendly,100,100,100
+moral_disputes,244,Neutral,100,100,100
+moral_disputes,244,Rude,100,100,100
+moral_disputes,244,Very Rude,100,100,100
+moral_disputes,245,Very Friendly,100,100,100
+moral_disputes,245,Friendly,100,100,100
+moral_disputes,245,Neutral,100,100,100
+moral_disputes,245,Rude,100,100,100
+moral_disputes,245,Very Rude,100,100,100
+moral_disputes,246,Very Friendly,100,100,100
+moral_disputes,246,Friendly,100,100,100
+moral_disputes,246,Neutral,100,100,100
+moral_disputes,246,Rude,100,100,100
+moral_disputes,246,Very Rude,100,100,100
+moral_disputes,247,Very Friendly,0,0,0
+moral_disputes,247,Friendly,0,0,0
+moral_disputes,247,Neutral,0,0,100
+moral_disputes,247,Rude,0,0,0
+moral_disputes,247,Very Rude,0,0,0
+moral_disputes,248,Very Friendly,100,100,100
+moral_disputes,248,Friendly,100,100,100
+moral_disputes,248,Neutral,100,100,100
+moral_disputes,248,Rude,100,100,100
+moral_disputes,248,Very Rude,100,100,100
+moral_disputes,249,Very Friendly,100,100,100
+moral_disputes,249,Friendly,100,100,100
+moral_disputes,249,Neutral,100,100,100
+moral_disputes,249,Rude,100,100,100
+moral_disputes,249,Very Rude,100,100,100
+moral_disputes,250,Very Friendly,0,0,0
+moral_disputes,250,Friendly,0,0,0
+moral_disputes,250,Neutral,0,0,0
+moral_disputes,250,Rude,100,100,100
+moral_disputes,250,Very Rude,0,0,0
+moral_disputes,251,Very Friendly,0,0,0
+moral_disputes,251,Friendly,0,0,0
+moral_disputes,251,Neutral,0,0,0
+moral_disputes,251,Rude,0,0,0
+moral_disputes,251,Very Rude,0,0,0
+moral_disputes,252,Very Friendly,100,100,100
+moral_disputes,252,Friendly,100,100,100
+moral_disputes,252,Neutral,100,100,100
+moral_disputes,252,Rude,100,100,100
+moral_disputes,252,Very Rude,100,100,100
+moral_disputes,253,Very Friendly,0,0,0
+moral_disputes,253,Friendly,0,0,0
+moral_disputes,253,Neutral,0,0,0
+moral_disputes,253,Rude,0,0,0
+moral_disputes,253,Very Rude,0,100,0
+moral_disputes,254,Very Friendly,100,100,100
+moral_disputes,254,Friendly,100,100,100
+moral_disputes,254,Neutral,100,100,100
+moral_disputes,254,Rude,100,100,100
+moral_disputes,254,Very Rude,100,100,100
+moral_disputes,255,Very Friendly,0,0,0
+moral_disputes,255,Friendly,0,0,0
+moral_disputes,255,Neutral,100,100,100
+moral_disputes,255,Rude,100,100,100
+moral_disputes,255,Very Rude,100,100,100
+moral_disputes,256,Very Friendly,100,100,100
+moral_disputes,256,Friendly,100,100,100
+moral_disputes,256,Neutral,100,100,100
+moral_disputes,256,Rude,100,100,100
+moral_disputes,256,Very Rude,100,100,100
+moral_disputes,257,Very Friendly,100,100,100
+moral_disputes,257,Friendly,100,100,100
+moral_disputes,257,Neutral,100,100,100
+moral_disputes,257,Rude,100,100,100
+moral_disputes,257,Very Rude,100,100,100
+moral_disputes,258,Very Friendly,100,100,100
+moral_disputes,258,Friendly,100,100,100
+moral_disputes,258,Neutral,100,100,100
+moral_disputes,258,Rude,100,100,100
+moral_disputes,258,Very Rude,100,100,100
+moral_disputes,259,Very Friendly,100,100,100
+moral_disputes,259,Friendly,100,100,100
+moral_disputes,259,Neutral,100,100,100
+moral_disputes,259,Rude,100,100,100
+moral_disputes,259,Very Rude,100,100,100
+moral_disputes,260,Very Friendly,100,100,100
+moral_disputes,260,Friendly,100,100,100
+moral_disputes,260,Neutral,100,100,100
+moral_disputes,260,Rude,100,100,100
+moral_disputes,260,Very Rude,100,100,100
+moral_disputes,261,Very Friendly,100,100,100
+moral_disputes,261,Friendly,100,100,100
+moral_disputes,261,Neutral,100,100,100
+moral_disputes,261,Rude,100,100,100
+moral_disputes,261,Very Rude,100,100,100
+moral_disputes,262,Very Friendly,100,100,100
+moral_disputes,262,Friendly,100,100,100
+moral_disputes,262,Neutral,100,100,100
+moral_disputes,262,Rude,100,100,100
+moral_disputes,262,Very Rude,100,100,100
+moral_disputes,263,Very Friendly,0,0,0
+moral_disputes,263,Friendly,0,0,0
+moral_disputes,263,Neutral,0,0,0
+moral_disputes,263,Rude,0,0,0
+moral_disputes,263,Very Rude,0,0,0
+moral_disputes,264,Very Friendly,100,100,100
+moral_disputes,264,Friendly,100,100,100
+moral_disputes,264,Neutral,100,100,100
+moral_disputes,264,Rude,100,100,100
+moral_disputes,264,Very Rude,100,100,100
+moral_disputes,265,Very Friendly,100,100,100
+moral_disputes,265,Friendly,100,100,100
+moral_disputes,265,Neutral,100,100,100
+moral_disputes,265,Rude,100,100,100
+moral_disputes,265,Very Rude,100,100,100
+moral_disputes,266,Very Friendly,100,100,100
+moral_disputes,266,Friendly,100,100,100
+moral_disputes,266,Neutral,100,100,100
+moral_disputes,266,Rude,100,100,100
+moral_disputes,266,Very Rude,100,100,100
+moral_disputes,267,Very Friendly,100,100,100
+moral_disputes,267,Friendly,100,100,100
+moral_disputes,267,Neutral,100,100,100
+moral_disputes,267,Rude,100,100,100
+moral_disputes,267,Very Rude,100,100,100
+moral_disputes,268,Very Friendly,100,100,100
+moral_disputes,268,Friendly,100,100,100
+moral_disputes,268,Neutral,100,100,100
+moral_disputes,268,Rude,100,100,100
+moral_disputes,268,Very Rude,100,100,100
+moral_disputes,269,Very Friendly,100,100,100
+moral_disputes,269,Friendly,100,100,100
+moral_disputes,269,Neutral,100,100,100
+moral_disputes,269,Rude,100,100,100
+moral_disputes,269,Very Rude,100,100,100
+moral_disputes,270,Very Friendly,100,100,100
+moral_disputes,270,Friendly,100,100,100
+moral_disputes,270,Neutral,100,100,100
+moral_disputes,270,Rude,100,100,100
+moral_disputes,270,Very Rude,100,100,100
+moral_disputes,271,Very Friendly,100,100,100
+moral_disputes,271,Friendly,100,100,100
+moral_disputes,271,Neutral,100,100,100
+moral_disputes,271,Rude,100,100,100
+moral_disputes,271,Very Rude,100,100,100
+moral_disputes,272,Very Friendly,100,100,100
+moral_disputes,272,Friendly,100,100,100
+moral_disputes,272,Neutral,100,100,100
+moral_disputes,272,Rude,100,100,100
+moral_disputes,272,Very Rude,100,100,100
+moral_disputes,273,Very Friendly,100,100,100
+moral_disputes,273,Friendly,100,100,100
+moral_disputes,273,Neutral,100,100,100
+moral_disputes,273,Rude,100,100,100
+moral_disputes,273,Very Rude,100,100,100
+moral_disputes,274,Very Friendly,0,0,0
+moral_disputes,274,Friendly,0,0,0
+moral_disputes,274,Neutral,0,0,0
+moral_disputes,274,Rude,0,0,0
+moral_disputes,274,Very Rude,0,0,0
+moral_disputes,275,Very Friendly,0,0,0
+moral_disputes,275,Friendly,0,0,0
+moral_disputes,275,Neutral,0,0,0
+moral_disputes,275,Rude,0,0,0
+moral_disputes,275,Very Rude,0,0,0
+moral_disputes,276,Very Friendly,100,100,100
+moral_disputes,276,Friendly,100,100,100
+moral_disputes,276,Neutral,100,100,100
+moral_disputes,276,Rude,100,100,100
+moral_disputes,276,Very Rude,100,100,100
+moral_disputes,277,Very Friendly,100,100,100
+moral_disputes,277,Friendly,100,100,100
+moral_disputes,277,Neutral,100,100,100
+moral_disputes,277,Rude,100,100,100
+moral_disputes,277,Very Rude,100,100,100
+moral_disputes,278,Very Friendly,100,100,100
+moral_disputes,278,Friendly,100,100,100
+moral_disputes,278,Neutral,100,100,100
+moral_disputes,278,Rude,100,100,100
+moral_disputes,278,Very Rude,0,0,0
+moral_disputes,279,Very Friendly,0,0,0
+moral_disputes,279,Friendly,0,0,0
+moral_disputes,279,Neutral,0,0,0
+moral_disputes,279,Rude,0,0,0
+moral_disputes,279,Very Rude,0,0,0
+moral_disputes,280,Very Friendly,100,100,100
+moral_disputes,280,Friendly,100,100,100
+moral_disputes,280,Neutral,100,100,100
+moral_disputes,280,Rude,100,100,100
+moral_disputes,280,Very Rude,100,100,100
+moral_disputes,281,Very Friendly,100,100,100
+moral_disputes,281,Friendly,100,100,100
+moral_disputes,281,Neutral,100,100,100
+moral_disputes,281,Rude,100,100,100
+moral_disputes,281,Very Rude,100,100,100
+moral_disputes,282,Very Friendly,100,100,100
+moral_disputes,282,Friendly,100,100,100
+moral_disputes,282,Neutral,100,100,100
+moral_disputes,282,Rude,100,100,100
+moral_disputes,282,Very Rude,100,100,100
+moral_disputes,283,Very Friendly,100,100,100
+moral_disputes,283,Friendly,100,100,100
+moral_disputes,283,Neutral,100,100,100
+moral_disputes,283,Rude,100,100,100
+moral_disputes,283,Very Rude,100,100,100
+moral_disputes,284,Very Friendly,100,100,100
+moral_disputes,284,Friendly,100,100,100
+moral_disputes,284,Neutral,100,100,100
+moral_disputes,284,Rude,100,100,100
+moral_disputes,284,Very Rude,100,100,100
+moral_disputes,285,Very Friendly,100,100,100
+moral_disputes,285,Friendly,100,100,100
+moral_disputes,285,Neutral,100,100,100
+moral_disputes,285,Rude,100,100,100
+moral_disputes,285,Very Rude,100,100,100
+moral_disputes,286,Very Friendly,100,100,100
+moral_disputes,286,Friendly,100,100,100
+moral_disputes,286,Neutral,100,100,100
+moral_disputes,286,Rude,100,100,100
+moral_disputes,286,Very Rude,100,100,100
+moral_disputes,287,Very Friendly,100,100,100
+moral_disputes,287,Friendly,100,100,100
+moral_disputes,287,Neutral,100,100,100
+moral_disputes,287,Rude,100,100,100
+moral_disputes,287,Very Rude,100,100,100
+moral_disputes,288,Very Friendly,100,100,100
+moral_disputes,288,Friendly,100,100,100
+moral_disputes,288,Neutral,100,100,100
+moral_disputes,288,Rude,100,100,100
+moral_disputes,288,Very Rude,100,100,100
+moral_disputes,289,Very Friendly,0,100,0
+moral_disputes,289,Friendly,0,0,0
+moral_disputes,289,Neutral,0,0,0
+moral_disputes,289,Rude,0,0,0
+moral_disputes,289,Very Rude,0,0,0
+moral_disputes,290,Very Friendly,100,100,100
+moral_disputes,290,Friendly,100,100,100
+moral_disputes,290,Neutral,100,100,100
+moral_disputes,290,Rude,100,100,100
+moral_disputes,290,Very Rude,100,100,100
+moral_disputes,291,Very Friendly,0,0,0
+moral_disputes,291,Friendly,0,0,0
+moral_disputes,291,Neutral,0,0,0
+moral_disputes,291,Rude,0,0,0
+moral_disputes,291,Very Rude,0,0,0
+moral_disputes,292,Very Friendly,0,0,0
+moral_disputes,292,Friendly,0,0,0
+moral_disputes,292,Neutral,0,0,0
+moral_disputes,292,Rude,0,0,0
+moral_disputes,292,Very Rude,0,0,0
+moral_disputes,293,Very Friendly,100,100,100
+moral_disputes,293,Friendly,100,100,100
+moral_disputes,293,Neutral,100,100,100
+moral_disputes,293,Rude,100,100,100
+moral_disputes,293,Very Rude,100,100,100
+moral_disputes,294,Very Friendly,0,0,0
+moral_disputes,294,Friendly,0,0,0
+moral_disputes,294,Neutral,0,0,0
+moral_disputes,294,Rude,0,0,0
+moral_disputes,294,Very Rude,0,0,0
+moral_disputes,295,Very Friendly,100,100,100
+moral_disputes,295,Friendly,100,100,100
+moral_disputes,295,Neutral,100,100,100
+moral_disputes,295,Rude,100,100,100
+moral_disputes,295,Very Rude,100,100,100
+moral_disputes,296,Very Friendly,100,100,100
+moral_disputes,296,Friendly,100,100,100
+moral_disputes,296,Neutral,100,100,100
+moral_disputes,296,Rude,100,100,100
+moral_disputes,296,Very Rude,100,100,100
+moral_disputes,297,Very Friendly,100,100,100
+moral_disputes,297,Friendly,100,100,100
+moral_disputes,297,Neutral,100,100,100
+moral_disputes,297,Rude,100,100,100
+moral_disputes,297,Very Rude,100,100,100
+moral_disputes,298,Very Friendly,100,100,100
+moral_disputes,298,Friendly,100,100,100
+moral_disputes,298,Neutral,100,100,100
+moral_disputes,298,Rude,100,100,100
+moral_disputes,298,Very Rude,100,100,100
+moral_disputes,299,Very Friendly,0,0,0
+moral_disputes,299,Friendly,0,0,0
+moral_disputes,299,Neutral,0,0,0
+moral_disputes,299,Rude,0,0,0
+moral_disputes,299,Very Rude,0,0,0
+moral_disputes,300,Very Friendly,100,100,100
+moral_disputes,300,Friendly,100,100,100
+moral_disputes,300,Neutral,100,100,100
+moral_disputes,300,Rude,100,100,100
+moral_disputes,300,Very Rude,100,100,100
+moral_disputes,301,Very Friendly,100,100,100
+moral_disputes,301,Friendly,100,100,100
+moral_disputes,301,Neutral,100,100,100
+moral_disputes,301,Rude,100,100,100
+moral_disputes,301,Very Rude,100,100,100
+moral_disputes,302,Very Friendly,100,100,100
+moral_disputes,302,Friendly,100,100,100
+moral_disputes,302,Neutral,100,100,100
+moral_disputes,302,Rude,100,100,100
+moral_disputes,302,Very Rude,100,100,100
+moral_disputes,303,Very Friendly,100,100,100
+moral_disputes,303,Friendly,100,100,100
+moral_disputes,303,Neutral,100,100,100
+moral_disputes,303,Rude,100,100,100
+moral_disputes,303,Very Rude,100,100,100
+moral_disputes,304,Very Friendly,100,100,100
+moral_disputes,304,Friendly,100,100,100
+moral_disputes,304,Neutral,100,100,100
+moral_disputes,304,Rude,100,100,100
+moral_disputes,304,Very Rude,100,100,100
+moral_disputes,305,Very Friendly,0,0,0
+moral_disputes,305,Friendly,0,0,0
+moral_disputes,305,Neutral,100,100,100
+moral_disputes,305,Rude,100,100,100
+moral_disputes,305,Very Rude,0,100,0
+moral_disputes,306,Very Friendly,100,100,100
+moral_disputes,306,Friendly,100,100,100
+moral_disputes,306,Neutral,100,100,100
+moral_disputes,306,Rude,100,100,100
+moral_disputes,306,Very Rude,100,100,100
+moral_disputes,307,Very Friendly,100,100,100
+moral_disputes,307,Friendly,100,100,100
+moral_disputes,307,Neutral,100,100,100
+moral_disputes,307,Rude,100,100,100
+moral_disputes,307,Very Rude,100,100,100
+moral_disputes,308,Very Friendly,0,0,0
+moral_disputes,308,Friendly,0,0,0
+moral_disputes,308,Neutral,0,0,0
+moral_disputes,308,Rude,0,0,0
+moral_disputes,308,Very Rude,0,0,0
+moral_disputes,309,Very Friendly,100,100,100
+moral_disputes,309,Friendly,100,100,100
+moral_disputes,309,Neutral,100,100,100
+moral_disputes,309,Rude,100,100,100
+moral_disputes,309,Very Rude,100,100,100
+moral_disputes,310,Very Friendly,100,100,100
+moral_disputes,310,Friendly,100,100,100
+moral_disputes,310,Neutral,100,100,100
+moral_disputes,310,Rude,100,100,100
+moral_disputes,310,Very Rude,100,100,100
+moral_disputes,311,Very Friendly,100,100,100
+moral_disputes,311,Friendly,100,100,100
+moral_disputes,311,Neutral,100,100,100
+moral_disputes,311,Rude,100,100,100
+moral_disputes,311,Very Rude,100,100,100
+moral_disputes,312,Very Friendly,100,100,100
+moral_disputes,312,Friendly,100,100,100
+moral_disputes,312,Neutral,100,100,100
+moral_disputes,312,Rude,100,100,100
+moral_disputes,312,Very Rude,100,100,100
+moral_disputes,313,Very Friendly,100,100,100
+moral_disputes,313,Friendly,100,100,100
+moral_disputes,313,Neutral,100,100,100
+moral_disputes,313,Rude,100,100,100
+moral_disputes,313,Very Rude,100,100,100
+moral_disputes,314,Very Friendly,100,100,100
+moral_disputes,314,Friendly,100,100,100
+moral_disputes,314,Neutral,100,100,100
+moral_disputes,314,Rude,100,100,100
+moral_disputes,314,Very Rude,100,100,100
+moral_disputes,315,Very Friendly,100,100,100
+moral_disputes,315,Friendly,100,100,100
+moral_disputes,315,Neutral,100,100,100
+moral_disputes,315,Rude,100,100,100
+moral_disputes,315,Very Rude,100,100,100
+moral_disputes,316,Very Friendly,100,100,100
+moral_disputes,316,Friendly,100,100,100
+moral_disputes,316,Neutral,100,100,100
+moral_disputes,316,Rude,100,100,100
+moral_disputes,316,Very Rude,100,100,100
+moral_disputes,317,Very Friendly,100,100,100
+moral_disputes,317,Friendly,100,100,100
+moral_disputes,317,Neutral,100,100,100
+moral_disputes,317,Rude,100,100,100
+moral_disputes,317,Very Rude,100,100,100
+moral_disputes,318,Very Friendly,100,100,100
+moral_disputes,318,Friendly,100,100,100
+moral_disputes,318,Neutral,100,100,100
+moral_disputes,318,Rude,100,100,100
+moral_disputes,318,Very Rude,100,100,100
+moral_disputes,319,Very Friendly,100,100,100
+moral_disputes,319,Friendly,100,100,100
+moral_disputes,319,Neutral,100,100,100
+moral_disputes,319,Rude,100,100,100
+moral_disputes,319,Very Rude,100,100,100
+moral_disputes,320,Very Friendly,0,0,0
+moral_disputes,320,Friendly,0,0,0
+moral_disputes,320,Neutral,0,0,0
+moral_disputes,320,Rude,0,0,0
+moral_disputes,320,Very Rude,0,0,0
+moral_disputes,321,Very Friendly,100,100,100
+moral_disputes,321,Friendly,100,100,100
+moral_disputes,321,Neutral,100,100,100
+moral_disputes,321,Rude,100,100,100
+moral_disputes,321,Very Rude,100,100,100
+moral_disputes,322,Very Friendly,100,100,100
+moral_disputes,322,Friendly,100,100,100
+moral_disputes,322,Neutral,100,100,100
+moral_disputes,322,Rude,100,100,100
+moral_disputes,322,Very Rude,100,100,100
+moral_disputes,323,Very Friendly,0,0,0
+moral_disputes,323,Friendly,0,0,0
+moral_disputes,323,Neutral,0,0,0
+moral_disputes,323,Rude,0,0,0
+moral_disputes,323,Very Rude,0,0,0
+moral_disputes,324,Very Friendly,0,0,0
+moral_disputes,324,Friendly,0,0,0
+moral_disputes,324,Neutral,0,0,0
+moral_disputes,324,Rude,0,0,0
+moral_disputes,324,Very Rude,0,0,0
+moral_disputes,325,Very Friendly,100,100,100
+moral_disputes,325,Friendly,100,100,100
+moral_disputes,325,Neutral,100,100,100
+moral_disputes,325,Rude,100,100,100
+moral_disputes,325,Very Rude,100,100,100
+moral_disputes,326,Very Friendly,100,100,100
+moral_disputes,326,Friendly,100,100,100
+moral_disputes,326,Neutral,100,100,100
+moral_disputes,326,Rude,100,100,100
+moral_disputes,326,Very Rude,100,100,100
+moral_disputes,327,Very Friendly,100,100,100
+moral_disputes,327,Friendly,100,100,100
+moral_disputes,327,Neutral,100,100,100
+moral_disputes,327,Rude,100,100,100
+moral_disputes,327,Very Rude,100,100,100
+moral_disputes,328,Very Friendly,100,100,100
+moral_disputes,328,Friendly,100,100,100
+moral_disputes,328,Neutral,100,100,100
+moral_disputes,328,Rude,100,100,100
+moral_disputes,328,Very Rude,100,100,100
+moral_disputes,329,Very Friendly,100,100,100
+moral_disputes,329,Friendly,100,100,100
+moral_disputes,329,Neutral,100,100,100
+moral_disputes,329,Rude,100,100,100
+moral_disputes,329,Very Rude,100,100,100
+moral_disputes,330,Very Friendly,0,0,0
+moral_disputes,330,Friendly,0,0,0
+moral_disputes,330,Neutral,0,0,0
+moral_disputes,330,Rude,0,0,0
+moral_disputes,330,Very Rude,0,0,0
+moral_disputes,331,Very Friendly,100,100,100
+moral_disputes,331,Friendly,100,100,100
+moral_disputes,331,Neutral,100,100,100
+moral_disputes,331,Rude,100,100,100
+moral_disputes,331,Very Rude,100,100,100
+moral_disputes,332,Very Friendly,100,100,100
+moral_disputes,332,Friendly,100,100,100
+moral_disputes,332,Neutral,100,100,100
+moral_disputes,332,Rude,100,100,100
+moral_disputes,332,Very Rude,100,100,100
+moral_disputes,333,Very Friendly,100,100,100
+moral_disputes,333,Friendly,100,0,100
+moral_disputes,333,Neutral,100,100,100
+moral_disputes,333,Rude,100,100,100
+moral_disputes,333,Very Rude,100,100,100
+moral_disputes,334,Very Friendly,100,100,100
+moral_disputes,334,Friendly,100,100,100
+moral_disputes,334,Neutral,100,100,100
+moral_disputes,334,Rude,100,100,100
+moral_disputes,334,Very Rude,100,100,100
+moral_disputes,335,Very Friendly,0,0,0
+moral_disputes,335,Friendly,0,0,0
+moral_disputes,335,Neutral,0,0,0
+moral_disputes,335,Rude,0,0,0
+moral_disputes,335,Very Rude,0,0,0
+moral_disputes,336,Very Friendly,100,100,100
+moral_disputes,336,Friendly,100,100,100
+moral_disputes,336,Neutral,100,100,100
+moral_disputes,336,Rude,100,100,100
+moral_disputes,336,Very Rude,100,100,100
+moral_disputes,337,Very Friendly,0,0,0
+moral_disputes,337,Friendly,0,0,0
+moral_disputes,337,Neutral,0,0,0
+moral_disputes,337,Rude,0,0,0
+moral_disputes,337,Very Rude,0,0,0
+moral_disputes,338,Very Friendly,100,100,100
+moral_disputes,338,Friendly,100,100,100
+moral_disputes,338,Neutral,100,100,100
+moral_disputes,338,Rude,100,100,100
+moral_disputes,338,Very Rude,100,100,100
+moral_disputes,339,Very Friendly,100,100,100
+moral_disputes,339,Friendly,100,100,100
+moral_disputes,339,Neutral,100,100,100
+moral_disputes,339,Rude,100,100,100
+moral_disputes,339,Very Rude,100,100,100
+moral_disputes,340,Very Friendly,100,100,100
+moral_disputes,340,Friendly,100,100,100
+moral_disputes,340,Neutral,100,100,100
+moral_disputes,340,Rude,100,100,100
+moral_disputes,340,Very Rude,100,100,100
+moral_disputes,341,Very Friendly,100,100,100
+moral_disputes,341,Friendly,100,100,100
+moral_disputes,341,Neutral,100,100,100
+moral_disputes,341,Rude,100,100,100
+moral_disputes,341,Very Rude,100,100,100
+moral_disputes,342,Very Friendly,100,100,100
+moral_disputes,342,Friendly,100,100,100
+moral_disputes,342,Neutral,100,100,100
+moral_disputes,342,Rude,100,100,100
+moral_disputes,342,Very Rude,100,100,100
+moral_disputes,343,Very Friendly,100,100,100
+moral_disputes,343,Friendly,100,100,100
+moral_disputes,343,Neutral,100,100,100
+moral_disputes,343,Rude,100,100,100
+moral_disputes,343,Very Rude,100,100,100
+moral_disputes,344,Very Friendly,100,100,100
+moral_disputes,344,Friendly,100,100,100
+moral_disputes,344,Neutral,100,0,100
+moral_disputes,344,Rude,100,100,100
+moral_disputes,344,Very Rude,100,100,100
+moral_disputes,345,Very Friendly,100,100,100
+moral_disputes,345,Friendly,100,100,100
+moral_disputes,345,Neutral,100,100,100
+moral_disputes,345,Rude,100,100,100
+moral_disputes,345,Very Rude,100,100,100
+moral_disputes,346,Very Friendly,100,100,100
+moral_disputes,346,Friendly,100,100,100
+moral_disputes,346,Neutral,100,100,100
+moral_disputes,346,Rude,100,100,100
+moral_disputes,346,Very Rude,100,100,100

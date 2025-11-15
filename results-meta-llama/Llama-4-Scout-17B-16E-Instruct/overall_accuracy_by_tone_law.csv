@@ -1,0 +1,6 @@
+Domain,Tone,Overall Accuracy (%)
+law,Very Friendly,63.16
+law,Friendly,62.28
+law,Neutral,63.36
+law,Rude,62.58
+law,Very Rude,61.5

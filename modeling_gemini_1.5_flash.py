@@ -11,7 +11,7 @@ import re
 # === CONFIGURATION ===
 
 # Configure Gemini API
-GEMINI_API_KEY = "AIzaSyBKUB4APhlrViAWGdr8l4kZKRCWwYg8tBw"  # Get from https://makersuite.google.com/app/apikey
+GEMINI_API_KEY = "AIzaSyDo1NCMLFUEKKc7rytbCj0dpr6seBKpZmk"  # Get from https://makersuite.google.com/app/apikey
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Available models:
@@ -41,10 +41,20 @@ os.makedirs(results_dir, exist_ok=True)
 df = pd.read_csv(FILE_PATH)
 grouped_prompts = df.groupby("QID")
 
-# Extract domain from filename (last word before .csv)
+# Extract domain from filename (everything after 'sanitized_' or between 'base_question_' and '_test')
+# e.g., "dataset+test_random_500_sanitized_humanities.csv" -> "humanities"
+# e.g., "dataset+test_random_500_sanitized_professional_law.csv" -> "professional_law"
+# e.g., "dataset+test_base_question_moral_disputes_test.csv" -> "moral_disputes"
 filename = os.path.basename(FILE_PATH)
 filename_without_ext = filename.rsplit('.', 1)[0]
-domain_suffix = filename_without_ext.split('_')[-1]
+if 'sanitized_' in filename_without_ext:
+    domain_suffix = filename_without_ext.split('sanitized_', 1)[1]  # Get everything after 'sanitized_'
+elif 'base_question_' in filename_without_ext and '_test' in filename_without_ext:
+    # Extract domain between 'base_question_' and '_test'
+    temp = filename_without_ext.split('base_question_', 1)[1]
+    domain_suffix = temp.rsplit('_test', 1)[0]
+else:
+    domain_suffix = filename_without_ext.split('_')[-1]  # Fallback: get last word
 domain_value = domain_suffix
  
 # === STORAGE ===

@@ -7,6 +7,12 @@ This script performs:
 2. ANOVA to test overall effect of politeness
 3. Effect size calculations (Cohen's d)
 4. Visualization of results
+5. Exports results to Excel files (.xlsx) and PNG visualizations
+
+Dependencies:
+    pip install pandas scipy matplotlib seaborn openpyxl
+    
+Note: openpyxl is required for Excel file export
 """
 import os
 import pandas as pd
@@ -44,12 +50,13 @@ def analyze_politeness_effect(csv_file):
     base_name = filename.replace('per_question_accuracy', '').replace('.csv', '')
     
     output_files = {
-        'summary_stats': os.path.join(output_dir, f'stats_summary{base_name}.csv'),
-        'anova_results': os.path.join(output_dir, f'stats_anova{base_name}.csv'),
-        'pairwise_tests': os.path.join(output_dir, f'stats_pairwise{base_name}.csv'),
-        'effect_sizes': os.path.join(output_dir, f'stats_effect_sizes{base_name}.csv'),
-        'practical_significance': os.path.join(output_dir, f'stats_practical{base_name}.csv'),
-        'visualization': os.path.join(output_dir, f'stats_visualization{base_name}.png')
+        'summary_stats': os.path.join(output_dir, f'stats_summary{base_name}.xlsx'),
+        'anova_results': os.path.join(output_dir, f'stats_anova{base_name}.xlsx'),
+        'pairwise_tests': os.path.join(output_dir, f'stats_pairwise{base_name}.xlsx'),
+        'effect_sizes': os.path.join(output_dir, f'stats_effect_sizes{base_name}.xlsx'),
+        'practical_significance': os.path.join(output_dir, f'stats_practical{base_name}.xlsx'),
+        'visualization': os.path.join(output_dir, f'stats_visualization{base_name}.png'),
+        'combined_report': os.path.join(output_dir, f'stats_full_report{base_name}.xlsx')
     }
     
     # Read data
@@ -78,7 +85,7 @@ def analyze_politeness_effect(csv_file):
         })
     
     summary_stats_df = pd.DataFrame(summary_stats_data)
-    summary_stats_df.to_csv(output_files['summary_stats'], index=False)
+    summary_stats_df.to_excel(output_files['summary_stats'], index=False, sheet_name='Summary Statistics')
     
     # ===== 1. REPEATED MEASURES ANOVA =====
     # Prepare data for repeated measures ANOVA
@@ -96,7 +103,7 @@ def analyze_politeness_effect(csv_file):
         'Significance Level': '***' if p_value < 0.001 else '**' if p_value < 0.01 else '*' if p_value < 0.05 else 'ns',
         'Interpretation': interpretation
     }])
-    anova_df.to_csv(output_files['anova_results'], index=False)
+    anova_df.to_excel(output_files['anova_results'], index=False, sheet_name='ANOVA Results')
     
     # ===== 2. PAIRWISE PAIRED T-TESTS =====
     tones = list(pivot_df.columns)
@@ -131,7 +138,7 @@ def analyze_politeness_effect(csv_file):
     results_df['Bonferroni α'] = bonferroni_alpha
     
     # Save pairwise test results
-    results_df.to_csv(output_files['pairwise_tests'], index=False)
+    results_df.to_excel(output_files['pairwise_tests'], index=False, sheet_name='Pairwise Comparisons')
     
     # ===== 3. EFFECT SIZE INTERPRETATION =====
     effect_size_data = []
@@ -155,7 +162,7 @@ def analyze_politeness_effect(csv_file):
         })
     
     effect_size_df = pd.DataFrame(effect_size_data)
-    effect_size_df.to_csv(output_files['effect_sizes'], index=False)
+    effect_size_df.to_excel(output_files['effect_sizes'], index=False, sheet_name='Effect Sizes')
     
     # ===== 4. PRACTICAL SIGNIFICANCE =====
     max_tone = pivot_df.mean().idxmax()
@@ -183,7 +190,7 @@ def analyze_politeness_effect(csv_file):
         'Relative Difference (%)': round((diff/min_acc)*100, 2),
         'Interpretation': practical_interp
     }])
-    practical_df.to_csv(output_files['practical_significance'], index=False)
+    practical_df.to_excel(output_files['practical_significance'], index=False, sheet_name='Practical Significance')
     
     # ===== 5. VISUALIZATION =====
     # Create figure with subplots
@@ -252,6 +259,29 @@ def analyze_politeness_effect(csv_file):
     plt.savefig(output_files['visualization'], dpi=300, bbox_inches='tight')
     plt.close()
     
+    # ===== 6. COMBINED EXCEL REPORT (All sheets in one file) =====
+    with pd.ExcelWriter(output_files['combined_report'], engine='openpyxl') as writer:
+        summary_stats_df.to_excel(writer, sheet_name='Summary Statistics', index=False)
+        anova_df.to_excel(writer, sheet_name='ANOVA Results', index=False)
+        results_df.to_excel(writer, sheet_name='Pairwise Comparisons', index=False)
+        effect_size_df.to_excel(writer, sheet_name='Effect Sizes', index=False)
+        practical_df.to_excel(writer, sheet_name='Practical Significance', index=False)
+        
+        # Auto-adjust column widths for better readability
+        for sheet_name in writer.sheets:
+            worksheet = writer.sheets[sheet_name]
+            for column in worksheet.columns:
+                max_length = 0
+                column_letter = column[0].column_letter
+                for cell in column:
+                    try:
+                        if len(str(cell.value)) > max_length:
+                            max_length = len(str(cell.value))
+                    except:
+                        pass
+                adjusted_width = min(max_length + 2, 50)
+                worksheet.column_dimensions[column_letter].width = adjusted_width
+    
     # ===== SUMMARY =====
     if p_value < 0.05 and diff >= 1.0:
         recommendation = "Politeness DOES matter - both statistically and practically significant!"
@@ -272,12 +302,17 @@ def analyze_politeness_effect(csv_file):
     print(f"Conclusion: {recommendation}")
     print(f"{'='*80}")
     print(f"\n✅ All results saved to: {output_dir}/")
-    print(f"   • stats_summary{base_name}.csv")
-    print(f"   • stats_anova{base_name}.csv")
-    print(f"   • stats_pairwise{base_name}.csv")
-    print(f"   • stats_effect_sizes{base_name}.csv")
-    print(f"   • stats_practical{base_name}.csv")
-    print(f"   • stats_visualization{base_name}.png\n")
+    print(f"   📊 Individual Excel files:")
+    print(f"      • stats_summary{base_name}.xlsx")
+    print(f"      • stats_anova{base_name}.xlsx")
+    print(f"      • stats_pairwise{base_name}.xlsx")
+    print(f"      • stats_effect_sizes{base_name}.xlsx")
+    print(f"      • stats_practical{base_name}.xlsx")
+    print(f"   📈 Visualization:")
+    print(f"      • stats_visualization{base_name}.png")
+    print(f"   📑 Combined report (all sheets in one file):")
+    print(f"      • stats_full_report{base_name}.xlsx")
+    print(f"\n💡 Tip: Open the combined report for all statistics in one Excel file!\n")
     
     return output_files
 
@@ -288,7 +323,7 @@ if __name__ == '__main__':
         csv_file = sys.argv[1]
     else:
         # Default file
-        csv_file = 'results-gpt-4o-mini/per_question_accuracy_stem.csv'
+        csv_file = 'results-meta-llama/Llama-4-Scout-17B-16E-Instruct/per_question_accuracy_law.csv'
     
     analyze_politeness_effect(csv_file)
 

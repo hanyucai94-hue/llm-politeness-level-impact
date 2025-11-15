@@ -3,10 +3,10 @@ from pathlib import Path
 import pandas as pd
 
 
-INPUT_DIR = Path(__file__).parent / "sanitized_test_data_humanities"
-OUTPUT_SAMPLE = Path(__file__).parent / "random_1000_sanitized_humanities.csv"
+INPUT_DIR = Path(__file__).parent / "sanitized_test_data_humanities/base_question_international_law_test.csv"
+OUTPUT_SAMPLE = Path(__file__).parent / "random_500_sanitized_international_law.csv"
 RANDOM_SEED = 42  # set for reproducibility
-SAMPLE_SIZE = 1000
+SAMPLE_SIZE = 500
 
 
 def main() -> None:

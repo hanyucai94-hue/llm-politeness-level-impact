@@ -27,12 +27,21 @@ os.makedirs(results_dir, exist_ok=True)
 df = pd.read_csv(FILE_PATH)
 grouped_prompts = df.groupby("QID")
 
-# Extract domain from filename (last word before .csv)
+# Extract domain from filename (everything after 'sanitized_' or between 'base_question_' and '_test')
 # e.g., "dataset+test_random_500_sanitized_humanities.csv" -> "humanities"
+# e.g., "dataset+test_random_500_sanitized_professional_law.csv" -> "professional_law"
+# e.g., "dataset+test_base_question_moral_disputes_test.csv" -> "moral_disputes"
 import os
 filename = os.path.basename(FILE_PATH)  # Get filename without path
 filename_without_ext = filename.rsplit('.', 1)[0]  # Remove .csv extension
-domain_suffix = filename_without_ext.split('_')[-1]  # Get last word after splitting by underscore
+if 'sanitized_' in filename_without_ext:
+    domain_suffix = filename_without_ext.split('sanitized_', 1)[1]  # Get everything after 'sanitized_'
+elif 'base_question_' in filename_without_ext and '_test' in filename_without_ext:
+    # Extract domain between 'base_question_' and '_test'
+    temp = filename_without_ext.split('base_question_', 1)[1]
+    domain_suffix = temp.rsplit('_test', 1)[0]
+else:
+    domain_suffix = filename_without_ext.split('_')[-1]  # Fallback: get last word
 domain_value = domain_suffix  # Use the same value for both
  
 # === STORAGE ===
